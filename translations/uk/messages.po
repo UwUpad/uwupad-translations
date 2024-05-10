@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-05-10 21:52+0300\n"
+"POT-Creation-Date: 2024-05-10 23:51+0300\n"
 "PO-Revision-Date: 2024-05-10 18:04+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -63,15 +63,15 @@ msgstr ""
 msgid "Upload sound"
 msgstr ""
 
-#: html/base.html:297 html/base.html:388 html/index.html:6 html/index.html:210
+#: html/base.html:297 html/base.html:388 html/index.html:6 html/index.html:213
 msgid "For You"
 msgstr ""
 
-#: html/base.html:298 html/base.html:396 html/index.html:214
+#: html/base.html:298 html/base.html:396 html/index.html:217
 msgid "Newest"
 msgstr ""
 
-#: html/base.html:299 html/base.html:405 html/index.html:218
+#: html/base.html:299 html/base.html:405 html/index.html:221
 msgid "Popular"
 msgstr ""
 
@@ -181,8 +181,8 @@ msgstr ""
 msgid "Your e-mail address"
 msgstr ""
 
-#: html/base.html:813 html/index.html:152 html/profile.html:234
-#: html/search.html:120 html/sound.html:80 html/tag.html:120
+#: html/base.html:813 html/index.html:155 html/profile.html:235
+#: html/search.html:121 html/sound.html:80 html/tag.html:121
 msgid "Report"
 msgstr ""
 
@@ -203,13 +203,13 @@ msgstr ""
 msgid "Are you sure?"
 msgstr ""
 
-#: html/base.html:867 html/index.html:324 html/profile.html:372
-#: html/search.html:284 html/tag.html:269
+#: html/base.html:867 html/index.html:327 html/profile.html:373
+#: html/search.html:285 html/tag.html:270
 msgid "Yes"
 msgstr ""
 
-#: html/base.html:868 html/index.html:325 html/profile.html:373
-#: html/search.html:285 html/tag.html:270
+#: html/base.html:868 html/index.html:328 html/profile.html:374
+#: html/search.html:286 html/tag.html:271
 msgid "No"
 msgstr ""
 
@@ -257,34 +257,39 @@ msgstr ""
 msgid "Show more"
 msgstr ""
 
-#: html/index.html:122 html/profile.html:198 html/search.html:90
-#: html/sound.html:51 html/tag.html:90
+#: html/index.html:125 html/profile.html:199 html/search.html:91
+#: html/sound.html:51 html/tag.html:91
 msgid "LOUD"
 msgstr ""
 
-#: html/index.html:131 html/profile.html:207 html/search.html:99
-#: html/sound.html:58 html/tag.html:99
+#: html/index.html:134 html/profile.html:208 html/search.html:100
+#: html/sound.html:58 html/tag.html:100
 msgid "Add to Soundpad"
 msgstr ""
 
-#: html/index.html:322 html/profile.html:370 html/search.html:282
-#: html/tag.html:267
+#: html/index.html:325 html/profile.html:371 html/search.html:283
+#: html/tag.html:268
 msgid "This sound is too loud. Are you sure you want to play it back?"
 msgstr ""
 
-#: html/index.html:441 html/profile.html:489 html/search.html:401
-#: html/sound.html:210 html/tag.html:386
+#: html/index.html:444 html/profile.html:490 html/search.html:402
+#: html/sound.html:210 html/tag.html:387
 msgid "The best sound sharing service for Soundpad"
 msgstr ""
 
-#: html/index.html:443 html/profile.html:491 html/search.html:403
-#: html/sound.html:212 html/tag.html:388
+#: html/index.html:446 html/profile.html:492 html/search.html:404
+#: html/sound.html:212 html/tag.html:389
 msgid "Sound"
 msgstr ""
 
-#: html/index.html:444 html/profile.html:492 html/search.html:404
-#: html/sound.html:213 html/tag.html:389
+#: html/index.html:447 html/profile.html:493 html/search.html:405
+#: html/sound.html:213 html/tag.html:390
 msgid "Listen"
+msgstr ""
+
+#: html/index.html:467 html/profile.html:513 html/search.html:425
+#: html/tag.html:410
+msgid "Slow down!"
 msgstr ""
 
 #: html/leaderboard.html:13
@@ -365,7 +370,7 @@ msgstr ""
 msgid "Log out"
 msgstr ""
 
-#: html/profile.html:79 html/profile.html:672
+#: html/profile.html:79 html/profile.html:689
 msgid "Add to blacklist"
 msgstr ""
 
@@ -377,12 +382,12 @@ msgstr ""
 msgid "Liked"
 msgstr ""
 
-#: html/profile.html:603 html/profile.html:632 html/profile.html:660
+#: html/profile.html:620 html/profile.html:649 html/profile.html:677
 #: html/upload.html:226
 msgid "An error occurred"
 msgstr ""
 
-#: html/profile.html:642 html/profile.html:669
+#: html/profile.html:659 html/profile.html:686
 msgid "Remove from blacklist"
 msgstr ""
 
@@ -414,7 +419,7 @@ msgstr ""
 msgid "Search by query "
 msgstr ""
 
-#: html/search.html:196
+#: html/search.html:197
 msgid "Nothing was found for your request"
 msgstr ""
 
@@ -542,8 +547,8 @@ msgstr ""
 msgid "Empty URL"
 msgstr ""
 
-#: routes/api.py:68 routes/api.py:324 routes/api.py:372 routes/api.py:602
-#: routes/api.py:632 routes/user.py:197
+#: routes/api.py:68 routes/api.py:323 routes/api.py:371 routes/api.py:451
+#: routes/api.py:608 routes/api.py:638 routes/user.py:197
 msgid "Not authenticated."
 msgstr ""
 
@@ -567,7 +572,7 @@ msgstr ""
 msgid "Username updated successfully."
 msgstr ""
 
-#: routes/api.py:103 routes/api.py:230 routes/api.py:655
+#: routes/api.py:103 routes/api.py:230 routes/api.py:664
 msgid "Invalid email."
 msgstr ""
 
@@ -615,63 +620,71 @@ msgstr ""
 msgid "Account with this email already exists."
 msgstr ""
 
-#: routes/api.py:328
+#: routes/api.py:327
 msgid "Sound not found."
 msgstr ""
 
-#: routes/api.py:330
+#: routes/api.py:329
 msgid "You don't have permission."
 msgstr ""
 
-#: routes/api.py:336
+#: routes/api.py:335
 msgid "Sound deleted."
 msgstr ""
 
-#: routes/api.py:376
+#: routes/api.py:375
 msgid "You are already uploading a sound."
 msgstr ""
 
-#: routes/api.py:384
+#: routes/api.py:383
 msgid "Could not download file."
 msgstr ""
 
-#: routes/api.py:401
+#: routes/api.py:400
 msgid "Title cannot be empty."
 msgstr ""
 
-#: routes/api.py:408
+#: routes/api.py:407
 msgid "Invalid file format."
 msgstr ""
 
-#: routes/api.py:412
+#: routes/api.py:411
 msgid "Invalid file size."
 msgstr ""
 
-#: routes/api.py:607
+#: routes/api.py:455
+msgid "Sound liked."
+msgstr ""
+
+#: routes/api.py:455
+msgid "Sound unliked."
+msgstr ""
+
+#: routes/api.py:613
 msgid "You cannot blacklist yourself."
 msgstr ""
 
-#: routes/api.py:616
+#: routes/api.py:622
 msgid "User removed from blacklist."
 msgstr ""
 
-#: routes/api.py:623
+#: routes/api.py:629
 msgid "User added to blacklist."
 msgstr ""
 
-#: routes/api.py:646
+#: routes/api.py:654
 msgid "Please specify a reason. (min 5 chars)"
 msgstr ""
 
-#: routes/api.py:648
+#: routes/api.py:657
 msgid "Please specify an email."
 msgstr ""
 
-#: routes/api.py:652
+#: routes/api.py:661
 msgid "Reason should be shorter than 1024 characters."
 msgstr ""
 
-#: routes/api.py:676
+#: routes/api.py:685
 msgid "Sound reported."
 msgstr ""
 
@@ -714,3 +727,4 @@ msgstr ""
 #: routes/user.py:199
 msgid "Not an admin."
 msgstr ""
+
