@@ -1,0 +1,769 @@
+# Ukrainian translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-10 18:03+0300\n"
+"PO-Revision-Date: 2024-05-10 18:04+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uk\n"
+"Language-Team: uk <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: html/about.html:2 html/base.html:305 html/base.html:453 html/base.html:488
+msgid "About us"
+msgstr ""
+
+#: html/banned.html:3 html/banned.html:12
+msgid "Access denied"
+msgstr ""
+
+#: html/banned.html:13
+msgid "Your account has been banned"
+msgstr ""
+
+#: html/banned.html:14
+msgid "Contact us for more information"
+msgstr ""
+
+#: html/base.html:197
+msgid "Comments"
+msgstr ""
+
+#: html/base.html:204
+msgid "Close"
+msgstr ""
+
+#: html/base.html:215
+msgid "Choose language"
+msgstr ""
+
+#: html/base.html:220
+msgid "Language"
+msgstr ""
+
+#: html/base.html:244
+msgid "Show only in my language"
+msgstr ""
+
+#: html/base.html:250 html/profile.html:38
+msgid "Save"
+msgstr ""
+
+#: html/base.html:284 html/base.html:487 html/profile.html:119
+msgid "Upload sound"
+msgstr ""
+
+#: html/base.html:297 html/base.html:389 html/index.html:6
+msgid "For You"
+msgstr ""
+
+#: html/base.html:298 html/base.html:397
+msgid "Newest"
+msgstr ""
+
+#: html/base.html:299 html/base.html:406
+msgid "Popular"
+msgstr ""
+
+#: html/base.html:300 html/base.html:416 html/leaderboard.html:2
+msgid "Leaderboard"
+msgstr ""
+
+#: html/base.html:301 html/base.html:426 html/news.html:2
+msgid "News"
+msgstr ""
+
+#: html/base.html:303 html/base.html:436 html/base.html:497 html/base.html:945
+msgid "Donate"
+msgstr ""
+
+#: html/base.html:306 html/base.html:454 html/base.html:489 html/base.html:506
+#: html/contacts.html:2
+msgid "Contacts"
+msgstr ""
+
+#: html/base.html:307 html/base.html:455 html/base.html:490 html/dmca.html:3
+msgid "DMCA"
+msgstr ""
+
+#: html/base.html:309 html/base.html:457 html/base.html:499
+msgid "Download Soundpad"
+msgstr ""
+
+#: html/base.html:311 html/base.html:458 html/base.html:501
+msgid "Telegram bot"
+msgstr ""
+
+#: html/base.html:313 html/base.html:460 html/base.html:503
+msgid "Steam group"
+msgstr ""
+
+#: html/base.html:321 html/base.html:326
+msgid "Search"
+msgstr ""
+
+#: html/base.html:342
+msgid "Язык"
+msgstr ""
+
+#: html/base.html:366 html/login.html:2 html/login.html:30
+msgid "Log in"
+msgstr ""
+
+#: html/base.html:384
+msgid "Home"
+msgstr ""
+
+#: html/base.html:451
+msgid "Other"
+msgstr ""
+
+#: html/base.html:468
+msgid "Total sounds"
+msgstr ""
+
+#: html/base.html:481
+msgid ""
+"service for searching and downloading sounds for soundboards such as "
+"Soundpad or mobile devices."
+msgstr ""
+
+#: html/base.html:482
+msgid "Find sounds and effects from TV, games, memes, and more."
+msgstr ""
+
+#: html/base.html:486
+msgid "Navigation"
+msgstr ""
+
+#: html/base.html:491 html/privacy.html:2
+msgid "Privacy policy"
+msgstr ""
+
+#: html/base.html:492 html/terms.html:2
+msgid "Terms of use"
+msgstr ""
+
+#: html/base.html:495
+msgid "Links"
+msgstr ""
+
+#: html/base.html:792
+msgid "Report a sound"
+msgstr ""
+
+#: html/base.html:798
+msgid ""
+"We are strictly against any violations of our terms of use. Users have "
+"the ability to complain about content that is considered “spam,” “illegal"
+" activity,” or contains “copyrighted material without authorization.” If "
+"violations are found, the content will be removed immediately and this "
+"removal will be permanent."
+msgstr ""
+
+#: html/base.html:801
+msgid ""
+"Please state your request in English or Russian only. We cannot process "
+"requests in other languages."
+msgstr ""
+
+#: html/base.html:805
+msgid "Comment, questions, reason for post."
+msgstr ""
+
+#: html/base.html:810
+msgid "Your e-mail address"
+msgstr ""
+
+#: html/base.html:814 html/index.html:152 html/profile.html:234
+#: html/search.html:120 html/sound.html:80
+msgid "Report"
+msgstr ""
+
+#: html/base.html:815 html/base.html:946 html/upload.html:24
+#: html/upload.html:97
+msgid "Cancel"
+msgstr ""
+
+#: html/base.html:833
+msgid "Please enter a valid reason."
+msgstr ""
+
+#: html/base.html:837
+msgid "Please enter a valid email."
+msgstr ""
+
+#: html/base.html:866
+msgid "Are you sure?"
+msgstr ""
+
+#: html/base.html:868 html/index.html:324 html/profile.html:372
+#: html/search.html:284
+msgid "Yes"
+msgstr ""
+
+#: html/base.html:869 html/index.html:325 html/profile.html:373
+#: html/search.html:285
+msgid "No"
+msgstr ""
+
+#: html/base.html:910 html/base.html:920
+msgid "Copied to clipboard"
+msgstr ""
+
+#: html/base.html:943
+msgid "If you like our project, you can support it by clicking the link below."
+msgstr ""
+
+#: html/change_password.html:2 html/change_password.html:29
+msgid "Change password"
+msgstr ""
+
+#: html/change_password.html:13
+msgid "New password"
+msgstr ""
+
+#: html/change_password.html:15 html/change_password.html:22 html/login.html:20
+#: html/register.html:26 html/register.html:28
+msgid "Password"
+msgstr ""
+
+#: html/change_password.html:20
+msgid "Repeat new password"
+msgstr ""
+
+#: html/change_password.html:65
+msgid "Password changed"
+msgstr ""
+
+#: html/index.html:3
+msgid "Uwupad - Get and share funny sounds. Easy."
+msgstr ""
+
+#: html/index.html:17
+msgid ""
+"Enabled 'Show only on my language' mode. You can disable it in language "
+"settings."
+msgstr ""
+
+#: html/index.html:28 html/profile.html:133 html/search.html:19
+#: html/tag.html:19
+msgid "Show more"
+msgstr ""
+
+#: html/index.html:122 html/profile.html:198 html/search.html:90
+#: html/sound.html:51
+msgid "LOUD"
+msgstr ""
+
+#: html/index.html:131 html/profile.html:207 html/search.html:99
+#: html/sound.html:58
+msgid "Add to Soundpad"
+msgstr ""
+
+#: html/index.html:210
+msgid "Рекомендации"
+msgstr ""
+
+#: html/index.html:214
+msgid "Самые новые"
+msgstr ""
+
+#: html/index.html:218
+msgid "Популярные"
+msgstr ""
+
+#: html/index.html:322 html/profile.html:370 html/search.html:282
+msgid "This sound is too loud. Are you sure you want to play it back?"
+msgstr ""
+
+#: html/index.html:441 html/profile.html:489 html/search.html:401
+msgid "The best sound sharing service for Soundpad"
+msgstr ""
+
+#: html/index.html:443 html/profile.html:491 html/search.html:403
+msgid "Sound"
+msgstr ""
+
+#: html/index.html:444 html/profile.html:492 html/search.html:404
+msgid "Listen"
+msgstr ""
+
+#: html/leaderboard.html:13
+msgid "Top by downloads"
+msgstr ""
+
+#: html/leaderboard.html:16
+msgid "Top by uploads"
+msgstr ""
+
+#: html/leaderboard.html:19
+msgid "Top by donates"
+msgstr ""
+
+#: html/leaderboard.html:28
+msgid "Place"
+msgstr ""
+
+#: html/leaderboard.html:29 html/profile.html:23 html/register.html:13
+#: html/register.html:16
+msgid "Username"
+msgstr ""
+
+#: html/leaderboard.html:30 html/leaderboard.html:89
+msgid "Downloads"
+msgstr ""
+
+#: html/leaderboard.html:41
+msgid "Prev. page"
+msgstr ""
+
+#: html/leaderboard.html:42
+msgid "Next page"
+msgstr ""
+
+#: html/leaderboard.html:91
+msgid "Uploads"
+msgstr ""
+
+#: html/leaderboard.html:93
+msgid "Donated"
+msgstr ""
+
+#: html/login.html:13 html/login.html:15
+msgid "Email/Username"
+msgstr ""
+
+#: html/login.html:22
+msgid "Пароль"
+msgstr ""
+
+#: html/login.html:37
+msgid "Forgot password?"
+msgstr ""
+
+#: html/login.html:43
+msgid "Don't have an account?"
+msgstr ""
+
+#: html/login.html:85
+msgid "Successfully logged in"
+msgstr ""
+
+#: html/profile.html:2
+msgid "Profile "
+msgstr ""
+
+#: html/profile.html:17 html/register.html:20 html/register.html:22
+#: html/reset_password.html:13 html/reset_password.html:15
+msgid "Email"
+msgstr ""
+
+#: html/profile.html:29
+msgid "Avatar"
+msgstr ""
+
+#: html/profile.html:69
+msgid "Edit profile"
+msgstr ""
+
+#: html/profile.html:75
+msgid "Log out"
+msgstr ""
+
+#: html/profile.html:79 html/profile.html:672
+msgid "Add to blacklist"
+msgstr ""
+
+#: html/profile.html:100
+msgid "Uploaded"
+msgstr ""
+
+#: html/profile.html:109
+msgid "Liked"
+msgstr ""
+
+#: html/profile.html:603 html/profile.html:632 html/profile.html:660
+#: html/upload.html:226
+msgid "An error occurred"
+msgstr ""
+
+#: html/profile.html:642 html/profile.html:669
+msgid "Remove from blacklist"
+msgstr ""
+
+#: html/register.html:2 html/register.html:34
+msgid "Register"
+msgstr ""
+
+#: html/register.html:40
+msgid "Already have an account?"
+msgstr ""
+
+#: html/register.html:82
+msgid "Registration successful"
+msgstr ""
+
+#: html/reset_password.html:2
+msgid "Password recovery"
+msgstr ""
+
+#: html/reset_password.html:20
+msgid "Reset password"
+msgstr ""
+
+#: html/reset_password.html:53
+msgid "Mail with password recovery instructions has been sent"
+msgstr ""
+
+#: html/search.html:3
+msgid "Search by query "
+msgstr ""
+
+#: html/search.html:196
+msgid "Nothing was found for your request"
+msgstr ""
+
+#: html/sound.html:20
+msgid "DELETED"
+msgstr ""
+
+#: html/sound.html:66
+msgid "Block owner"
+msgstr ""
+
+#: html/sound.html:73
+msgid "Delete"
+msgstr ""
+
+#: html/sound.html:210 html/tag.html:386
+msgid "Лучший сервис для обмена звуками для Soundpad"
+msgstr ""
+
+#: html/sound.html:212 html/tag.html:388
+msgid "Звук"
+msgstr ""
+
+#: html/sound.html:213 html/tag.html:389
+msgid "Прослушать"
+msgstr ""
+
+#: html/tag.html:90
+msgid "ГРОМКИЙ"
+msgstr ""
+
+#: html/tag.html:99
+msgid "Добавить в Soundpad"
+msgstr ""
+
+#: html/tag.html:120
+msgid "Пожаловаться"
+msgstr ""
+
+#: html/tag.html:267
+msgid "Этот звук слишком громкий. Вы уверены, что хотите его воспроизвести?"
+msgstr ""
+
+#: html/tag.html:269
+msgid "Да"
+msgstr ""
+
+#: html/tag.html:270
+msgid "Нет"
+msgstr ""
+
+#: html/upload.html:2 html/upload.html:61 html/upload.html:94
+msgid "Upload"
+msgstr ""
+
+#: html/upload.html:21
+msgid "Import"
+msgstr ""
+
+#: html/upload.html:35
+msgid "Drop file here"
+msgstr ""
+
+#: html/upload.html:46 html/upload.html:48
+msgid "Title"
+msgstr ""
+
+#: html/upload.html:52
+msgid "Tags"
+msgstr ""
+
+#: html/upload.html:54
+msgid "rust, loud, funny"
+msgstr ""
+
+#: html/upload.html:70
+msgid "Choose a file"
+msgstr ""
+
+#: html/upload.html:76
+msgid "Import from Tik-Tok"
+msgstr ""
+
+#: html/upload.html:79
+msgid "Import from YouTube"
+msgstr ""
+
+#: html/upload.html:82
+msgid "Import from URL"
+msgstr ""
+
+#: html/upload.html:86
+msgid "Support's only audio files"
+msgstr ""
+
+#: html/upload.html:87
+msgid "Supported formats: mp3, wav, ogg"
+msgstr ""
+
+#: html/upload.html:88
+msgid "Max file size: 50MB"
+msgstr ""
+
+#: html/upload.html:125
+msgid "Already uploading"
+msgstr ""
+
+#: html/upload.html:156
+msgid "Add title"
+msgstr ""
+
+#: html/upload.html:160
+msgid "Add tags"
+msgstr ""
+
+#: html/upload.html:164
+msgid "Too many tags. Max 3"
+msgstr ""
+
+#: html/upload.html:170
+msgid "Add file"
+msgstr ""
+
+#: html/upload.html:175 html/upload.html:320
+msgid "File is too big"
+msgstr ""
+
+#: html/upload.html:198
+msgid "File is not an audio"
+msgstr ""
+
+#: html/upload.html:205
+msgid "Title is too long"
+msgstr ""
+
+#: html/upload.html:209
+msgid "Tag is too long"
+msgstr ""
+
+#: html/upload.html:236
+msgid "Sound uploaded"
+msgstr ""
+
+#: html/upload.html:357
+msgid "Enter URL"
+msgstr ""
+
+#: html/user-not-found.html:2 html/user-not-found.html:11
+msgid "User not found"
+msgstr ""
+
+#: html/user-not-found.html:12
+msgid "User with this ID not found. Please check the entered data."
+msgstr ""
+
+#: html/user-not-found.html:13
+msgid "Back to main page"
+msgstr ""
+
+#: routes/api.py:53
+msgid "Empty URL"
+msgstr ""
+
+#: routes/api.py:68 routes/api.py:324 routes/api.py:372 routes/api.py:602
+#: routes/api.py:632 routes/user.py:197
+msgid "Not authenticated."
+msgstr ""
+
+#: routes/api.py:74
+msgid "Username cannot be empty."
+msgstr ""
+
+#: routes/api.py:76 routes/api.py:219
+msgid "Username should be longer than 3 characters."
+msgstr ""
+
+#: routes/api.py:78
+msgid "Username should be shorter than 16 characters."
+msgstr ""
+
+#: routes/api.py:80 routes/api.py:236
+msgid "Username already exists."
+msgstr ""
+
+#: routes/api.py:85
+msgid "Username updated successfully."
+msgstr ""
+
+#: routes/api.py:103 routes/api.py:230 routes/api.py:655
+msgid "Invalid email."
+msgstr ""
+
+#: routes/api.py:106
+msgid "Invalid username."
+msgstr ""
+
+#: routes/api.py:110
+msgid "Invalid image."
+msgstr ""
+
+#: routes/api.py:117
+msgid "Profile updated successfully"
+msgstr ""
+
+#: routes/api.py:170 routes/api.py:211 routes/email.py:62
+msgid "Please fill all fields."
+msgstr ""
+
+#: routes/api.py:173
+msgid "Email should be longer than 3 characters."
+msgstr ""
+
+#: routes/api.py:176 routes/api.py:227
+msgid "Password should be longer than 8 characters."
+msgstr ""
+
+#: routes/api.py:188 routes/api.py:193
+msgid "Account with this email does not exist."
+msgstr ""
+
+#: routes/api.py:196
+msgid "Invalid password."
+msgstr ""
+
+#: routes/api.py:214
+msgid "Email should be longer than 5 characters."
+msgstr ""
+
+#: routes/api.py:224
+msgid "Please pass reCAPTCHA check."
+msgstr ""
+
+#: routes/api.py:233
+msgid "Account with this email already exists."
+msgstr ""
+
+#: routes/api.py:328
+msgid "Sound not found."
+msgstr ""
+
+#: routes/api.py:330
+msgid "You don't have permission."
+msgstr ""
+
+#: routes/api.py:336
+msgid "Sound deleted."
+msgstr ""
+
+#: routes/api.py:376
+msgid "You are already uploading a sound."
+msgstr ""
+
+#: routes/api.py:384
+msgid "Could not download file."
+msgstr ""
+
+#: routes/api.py:401
+msgid "Title cannot be empty."
+msgstr ""
+
+#: routes/api.py:408
+msgid "Invalid file format."
+msgstr ""
+
+#: routes/api.py:412
+msgid "Invalid file size."
+msgstr ""
+
+#: routes/api.py:607
+msgid "You cannot blacklist yourself."
+msgstr ""
+
+#: routes/api.py:616
+msgid "User removed from blacklist."
+msgstr ""
+
+#: routes/api.py:623
+msgid "User added to blacklist."
+msgstr ""
+
+#: routes/api.py:646
+msgid "Please specify a reason. (min 5 chars)"
+msgstr ""
+
+#: routes/api.py:648
+msgid "Please specify an email."
+msgstr ""
+
+#: routes/api.py:652
+msgid "Reason should be shorter than 1024 characters."
+msgstr ""
+
+#: routes/api.py:676
+msgid "Sound reported."
+msgstr ""
+
+#: routes/email.py:67
+msgid "Passwords do not match."
+msgstr ""
+
+#: routes/email.py:77
+msgid "Invalid key."
+msgstr ""
+
+#: routes/email.py:82 routes/email.py:109
+msgid "User with this email not found."
+msgstr ""
+
+#: routes/email.py:88
+msgid "Password changed."
+msgstr ""
+
+#: routes/email.py:98
+msgid "Email is required."
+msgstr ""
+
+#: routes/email.py:103
+msgid "Письмо уже отправлено. Проверьте почту."
+msgstr ""
+
+#: routes/email.py:146
+msgid "Change Password"
+msgstr ""
+
+#: routes/email.py:156
+msgid "Email sent. Check your inbox."
+msgstr ""
+
+#: routes/user.py:181
+msgid "Invalid user ID."
+msgstr ""
+
+#: routes/user.py:199
+msgid "Not an admin."
+msgstr ""
+
