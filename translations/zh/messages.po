@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-05-10 18:03+0300\n"
+"POT-Creation-Date: 2024-05-10 21:52+0300\n"
 "PO-Revision-Date: 2024-05-10 18:04+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.14.0\n"
 
-#: html/about.html:2 html/base.html:305 html/base.html:453 html/base.html:488
+#: html/about.html:2 html/base.html:305 html/base.html:452 html/base.html:487
 msgid "About us"
 msgstr ""
 
@@ -58,52 +58,52 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#: html/base.html:284 html/base.html:487 html/profile.html:119
+#: html/base.html:284 html/base.html:486 html/profile.html:119
 msgid "Upload sound"
 msgstr ""
 
-#: html/base.html:297 html/base.html:389 html/index.html:6
+#: html/base.html:297 html/base.html:388 html/index.html:6 html/index.html:210
 msgid "For You"
 msgstr ""
 
-#: html/base.html:298 html/base.html:397
+#: html/base.html:298 html/base.html:396 html/index.html:214
 msgid "Newest"
 msgstr ""
 
-#: html/base.html:299 html/base.html:406
+#: html/base.html:299 html/base.html:405 html/index.html:218
 msgid "Popular"
 msgstr ""
 
-#: html/base.html:300 html/base.html:416 html/leaderboard.html:2
+#: html/base.html:300 html/base.html:415 html/leaderboard.html:2
 msgid "Leaderboard"
 msgstr ""
 
-#: html/base.html:301 html/base.html:426 html/news.html:2
+#: html/base.html:301 html/base.html:425 html/news.html:2
 msgid "News"
 msgstr ""
 
-#: html/base.html:303 html/base.html:436 html/base.html:497 html/base.html:945
+#: html/base.html:303 html/base.html:435 html/base.html:496 html/base.html:944
 msgid "Donate"
 msgstr ""
 
-#: html/base.html:306 html/base.html:454 html/base.html:489 html/base.html:506
+#: html/base.html:306 html/base.html:453 html/base.html:488 html/base.html:505
 #: html/contacts.html:2
 msgid "Contacts"
 msgstr ""
 
-#: html/base.html:307 html/base.html:455 html/base.html:490 html/dmca.html:3
+#: html/base.html:307 html/base.html:454 html/base.html:489 html/dmca.html:3
 msgid "DMCA"
 msgstr ""
 
-#: html/base.html:309 html/base.html:457 html/base.html:499
+#: html/base.html:309 html/base.html:456 html/base.html:498
 msgid "Download Soundpad"
 msgstr ""
 
-#: html/base.html:311 html/base.html:458 html/base.html:501
+#: html/base.html:311 html/base.html:457 html/base.html:500
 msgid "Telegram bot"
 msgstr ""
 
-#: html/base.html:313 html/base.html:460 html/base.html:503
+#: html/base.html:313 html/base.html:459 html/base.html:502
 msgid "Steam group"
 msgstr ""
 
@@ -111,57 +111,53 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
-#: html/base.html:342
-msgid "Язык"
-msgstr ""
-
-#: html/base.html:366 html/login.html:2 html/login.html:30
+#: html/base.html:365 html/login.html:2 html/login.html:30
 msgid "Log in"
 msgstr ""
 
-#: html/base.html:384
+#: html/base.html:383
 msgid "Home"
 msgstr ""
 
-#: html/base.html:451
+#: html/base.html:450
 msgid "Other"
 msgstr ""
 
-#: html/base.html:468
+#: html/base.html:467
 msgid "Total sounds"
 msgstr ""
 
-#: html/base.html:481
+#: html/base.html:480
 msgid ""
 "service for searching and downloading sounds for soundboards such as "
 "Soundpad or mobile devices."
 msgstr ""
 
-#: html/base.html:482
+#: html/base.html:481
 msgid "Find sounds and effects from TV, games, memes, and more."
 msgstr ""
 
-#: html/base.html:486
+#: html/base.html:485
 msgid "Navigation"
 msgstr ""
 
-#: html/base.html:491 html/privacy.html:2
+#: html/base.html:490 html/privacy.html:2
 msgid "Privacy policy"
 msgstr ""
 
-#: html/base.html:492 html/terms.html:2
+#: html/base.html:491 html/terms.html:2
 msgid "Terms of use"
 msgstr ""
 
-#: html/base.html:495
+#: html/base.html:494
 msgid "Links"
 msgstr ""
 
-#: html/base.html:792
+#: html/base.html:791
 msgid "Report a sound"
 msgstr ""
 
-#: html/base.html:798
+#: html/base.html:797
 msgid ""
 "We are strictly against any violations of our terms of use. Users have "
 "the ability to complain about content that is considered “spam,” “illegal"
@@ -170,57 +166,57 @@ msgid ""
 "removal will be permanent."
 msgstr ""
 
-#: html/base.html:801
+#: html/base.html:800
 msgid ""
 "Please state your request in English or Russian only. We cannot process "
 "requests in other languages."
 msgstr ""
 
-#: html/base.html:805
+#: html/base.html:804
 msgid "Comment, questions, reason for post."
 msgstr ""
 
-#: html/base.html:810
+#: html/base.html:809
 msgid "Your e-mail address"
 msgstr ""
 
-#: html/base.html:814 html/index.html:152 html/profile.html:234
-#: html/search.html:120 html/sound.html:80
+#: html/base.html:813 html/index.html:152 html/profile.html:234
+#: html/search.html:120 html/sound.html:80 html/tag.html:120
 msgid "Report"
 msgstr ""
 
-#: html/base.html:815 html/base.html:946 html/upload.html:24
+#: html/base.html:814 html/base.html:945 html/upload.html:24
 #: html/upload.html:97
 msgid "Cancel"
 msgstr ""
 
-#: html/base.html:833
+#: html/base.html:832
 msgid "Please enter a valid reason."
 msgstr ""
 
-#: html/base.html:837
+#: html/base.html:836
 msgid "Please enter a valid email."
 msgstr ""
 
-#: html/base.html:866
+#: html/base.html:865
 msgid "Are you sure?"
 msgstr ""
 
-#: html/base.html:868 html/index.html:324 html/profile.html:372
-#: html/search.html:284
+#: html/base.html:867 html/index.html:324 html/profile.html:372
+#: html/search.html:284 html/tag.html:269
 msgid "Yes"
 msgstr ""
 
-#: html/base.html:869 html/index.html:325 html/profile.html:373
-#: html/search.html:285
+#: html/base.html:868 html/index.html:325 html/profile.html:373
+#: html/search.html:285 html/tag.html:270
 msgid "No"
 msgstr ""
 
-#: html/base.html:910 html/base.html:920
+#: html/base.html:909 html/base.html:919
 msgid "Copied to clipboard"
 msgstr ""
 
-#: html/base.html:943
+#: html/base.html:942
 msgid "If you like our project, you can support it by clicking the link below."
 msgstr ""
 
@@ -233,7 +229,7 @@ msgid "New password"
 msgstr ""
 
 #: html/change_password.html:15 html/change_password.html:22 html/login.html:20
-#: html/register.html:26 html/register.html:28
+#: html/login.html:22 html/register.html:26 html/register.html:28
 msgid "Password"
 msgstr ""
 
@@ -261,40 +257,32 @@ msgid "Show more"
 msgstr ""
 
 #: html/index.html:122 html/profile.html:198 html/search.html:90
-#: html/sound.html:51
+#: html/sound.html:51 html/tag.html:90
 msgid "LOUD"
 msgstr ""
 
 #: html/index.html:131 html/profile.html:207 html/search.html:99
-#: html/sound.html:58
+#: html/sound.html:58 html/tag.html:99
 msgid "Add to Soundpad"
 msgstr ""
 
-#: html/index.html:210
-msgid "Рекомендации"
-msgstr ""
-
-#: html/index.html:214
-msgid "Самые новые"
-msgstr ""
-
-#: html/index.html:218
-msgid "Популярные"
-msgstr ""
-
 #: html/index.html:322 html/profile.html:370 html/search.html:282
+#: html/tag.html:267
 msgid "This sound is too loud. Are you sure you want to play it back?"
 msgstr ""
 
 #: html/index.html:441 html/profile.html:489 html/search.html:401
+#: html/sound.html:210 html/tag.html:386
 msgid "The best sound sharing service for Soundpad"
 msgstr ""
 
 #: html/index.html:443 html/profile.html:491 html/search.html:403
+#: html/sound.html:212 html/tag.html:388
 msgid "Sound"
 msgstr ""
 
 #: html/index.html:444 html/profile.html:492 html/search.html:404
+#: html/sound.html:213 html/tag.html:389
 msgid "Listen"
 msgstr ""
 
@@ -341,10 +329,6 @@ msgstr ""
 
 #: html/login.html:13 html/login.html:15
 msgid "Email/Username"
-msgstr ""
-
-#: html/login.html:22
-msgid "Пароль"
 msgstr ""
 
 #: html/login.html:37
@@ -443,42 +427,6 @@ msgstr ""
 
 #: html/sound.html:73
 msgid "Delete"
-msgstr ""
-
-#: html/sound.html:210 html/tag.html:386
-msgid "Лучший сервис для обмена звуками для Soundpad"
-msgstr ""
-
-#: html/sound.html:212 html/tag.html:388
-msgid "Звук"
-msgstr ""
-
-#: html/sound.html:213 html/tag.html:389
-msgid "Прослушать"
-msgstr ""
-
-#: html/tag.html:90
-msgid "ГРОМКИЙ"
-msgstr ""
-
-#: html/tag.html:99
-msgid "Добавить в Soundpad"
-msgstr ""
-
-#: html/tag.html:120
-msgid "Пожаловаться"
-msgstr ""
-
-#: html/tag.html:267
-msgid "Этот звук слишком громкий. Вы уверены, что хотите его воспроизвести?"
-msgstr ""
-
-#: html/tag.html:269
-msgid "Да"
-msgstr ""
-
-#: html/tag.html:270
-msgid "Нет"
 msgstr ""
 
 #: html/upload.html:2 html/upload.html:61 html/upload.html:94
@@ -747,7 +695,7 @@ msgid "Email is required."
 msgstr ""
 
 #: routes/email.py:103
-msgid "Письмо уже отправлено. Проверьте почту."
+msgid "An email has already been sent to this address."
 msgstr ""
 
 #: routes/email.py:146
@@ -765,4 +713,3 @@ msgstr ""
 #: routes/user.py:199
 msgid "Not an admin."
 msgstr ""
-
