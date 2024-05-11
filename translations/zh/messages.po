@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-05-12 00:22+0300\n"
+"POT-Creation-Date: 2024-05-12 00:32+0300\n"
 "PO-Revision-Date: 2024-05-10 18:04+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh\n"
@@ -238,6 +238,7 @@ msgid "News"
 msgstr "新闻"
 
 #: html/base.html:311 html/base.html:453 html/base.html:514 html/base.html:964
+#: html/vip.html:49
 msgid "Donate"
 msgstr "捐助"
 
@@ -714,6 +715,80 @@ msgstr "未找到具有此 ID 的用户。请检查输入的数据。"
 msgid "Back to main page"
 msgstr "返回主页面"
 
+#: html/vip.html:2
+msgid "VIP"
+msgstr ""
+
+#: html/vip.html:12
+msgid "Welcome to VIP Membership!"
+msgstr ""
+
+#: html/vip.html:15
+msgid ""
+"As a VIP member, you're helping support the developers and the project. "
+"Thank you for your support!"
+msgstr ""
+
+#: html/vip.html:18
+msgid "VIP Benefits"
+msgstr ""
+
+#: html/vip.html:21
+msgid "Your profile and sounds will have a yellow"
+msgstr ""
+
+#: html/vip.html:24
+msgid "Yellow"
+msgstr ""
+
+#: html/vip.html:24
+msgid "Nickname"
+msgstr ""
+
+#: html/vip.html:25
+msgid "Your nickname will stand out in recommendations and other tabs."
+msgstr ""
+
+#: html/vip.html:27
+msgid "Animated Avatar: You can set an animated avatar."
+msgstr ""
+
+#: html/vip.html:32
+msgid "More Useful Features Coming Soon"
+msgstr ""
+
+#: html/vip.html:33
+msgid "We're constantly working on adding more benefits and features for"
+msgstr ""
+
+#: html/vip.html:34
+msgid "users. Stay tuned for updates!"
+msgstr ""
+
+#: html/vip.html:42
+msgid "You're already a VIP member!"
+msgstr ""
+
+#: html/vip.html:43
+msgid "Your VIP membership expires on:"
+msgstr ""
+
+#: html/vip.html:44
+msgid "Consider making a donation to support us even more!"
+msgstr ""
+
+#: html/vip.html:53
+msgid "Unlock all"
+msgstr ""
+
+#: html/vip.html:53
+msgid "features for just $9.99 per month!"
+msgstr ""
+
+#: html/vip.html:59
+msgid "Upgrade to VIP"
+msgstr ""
+
 #: routes/api.py:54
 msgid "Empty URL"
 msgstr "空白的URL"
@@ -884,7 +959,6 @@ msgid "User with this email not found."
 msgstr "未找到使用此电子邮件的用户。"
 
 #: routes/email.py:88
-
 msgid "Password changed."
 msgstr "密码已更改。"
 
