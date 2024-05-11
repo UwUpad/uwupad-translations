@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-05-12 00:16+0300\n"
+"POT-Creation-Date: 2024-05-12 00:22+0300\n"
 "PO-Revision-Date: 2024-05-10 18:04+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -384,6 +384,18 @@ msgstr ""
 msgid "VIP Checkout"
 msgstr ""
 
+#: html/checkout.html:12
+msgid "VIP Membership Checkout"
+msgstr ""
+
+#: html/checkout.html:18
+msgid "Payment Method:"
+msgstr ""
+
+#: html/checkout.html:39
+msgid "Proceed to Payment"
+msgstr ""
+
 #: html/index.html:3
 msgid "Uwupad - Get and share funny sounds. Easy."
 msgstr ""
@@ -683,10 +695,6 @@ msgstr ""
 msgid "Back to main page"
 msgstr ""
 
-#: html/vip.html:2
-msgid "VIP"
-msgstr ""
-
 #: routes/api.py:54
 msgid "Empty URL"
 msgstr ""
@@ -719,6 +727,7 @@ msgstr ""
 #: routes/api.py:113 routes/api.py:240 routes/api.py:693
 msgid "Invalid email."
 msgstr ""
+
 
 #: routes/api.py:116
 msgid "Invalid username."
@@ -888,5 +897,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Import from YouTube"
+#~ msgstr ""
+
+#~ msgid "VIP"
 #~ msgstr ""
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-05-12 00:16+0300\n"
+"POT-Creation-Date: 2024-05-12 00:22+0300\n"
 "PO-Revision-Date: 2024-05-10 18:04+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh\n"
@@ -402,6 +402,18 @@ msgstr "密码已更改"
 msgid "VIP Checkout"
 msgstr ""
 
+#: html/checkout.html:12
+msgid "VIP Membership Checkout"
+msgstr ""
+
+#: html/checkout.html:18
+msgid "Payment Method:"
+msgstr ""
+
+#: html/checkout.html:39
+msgid "Proceed to Payment"
+msgstr ""
+
 #: html/index.html:3
 msgid "Uwupad - Get and share funny sounds. Easy."
 msgstr "Uwupad - 获取并分享有趣的声音。轻而易举。"
@@ -702,10 +714,6 @@ msgstr "未找到具有此 ID 的用户。请检查输入的数据。"
 msgid "Back to main page"
 msgstr "返回主页面"
 
-#: html/vip.html:2
-msgid "VIP"
-msgstr ""
-
 #: routes/api.py:54
 msgid "Empty URL"
 msgstr "空白的URL"
@@ -876,6 +884,7 @@ msgid "User with this email not found."
 msgstr "未找到使用此电子邮件的用户。"
 
 #: routes/email.py:88
+
 msgid "Password changed."
 msgstr "密码已更改。"
 
@@ -908,4 +917,7 @@ msgstr "不是管理员。"
 
 #~ msgid "Import from YouTube"
 #~ msgstr "从 YouTube 导入"
+
+#~ msgid "VIP"
+#~ msgstr ""
 

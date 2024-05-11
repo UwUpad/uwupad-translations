@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-05-12 00:16+0300\n"
+"POT-Creation-Date: 2024-05-12 00:32+0300\n"
 "PO-Revision-Date: 2024-05-10 18:03+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -226,6 +226,7 @@ msgid "News"
 msgstr "Новости"
 
 #: html/base.html:311 html/base.html:453 html/base.html:514 html/base.html:964
+#: html/vip.html:49
 msgid "Donate"
 msgstr "Поддержать"
 
@@ -398,6 +399,19 @@ msgstr "Пароль изменен"
 #: html/checkout.html:2
 msgid "VIP Checkout"
 msgstr "Оплата VIP"
+
+#: html/checkout.html:12
+#, fuzzy
+msgid "VIP Membership Checkout"
+msgstr "Оплата VIP"
+
+#: html/checkout.html:18
+msgid "Payment Method:"
+msgstr "Способ оплаты:"
+
+#: html/checkout.html:39
+msgid "Proceed to Payment"
+msgstr "Перейти к оплате"
 
 #: html/index.html:3
 msgid "Uwupad - Get and share funny sounds. Easy."
@@ -704,6 +718,78 @@ msgstr "Вернуться на главную страницу"
 msgid "VIP"
 msgstr "VIP"
 
+#: html/vip.html:12
+msgid "Welcome to VIP Membership!"
+msgstr "Добро пожаловать в VIP-членство!"
+
+#: html/vip.html:15
+msgid ""
+"As a VIP member, you're helping support the developers and the project. "
+"Thank you for your support!"
+msgstr ""
+"Как член VIP, вы помогаете поддерживать разработчиков и проект. Спасибо за "
+"вашу поддержку!"
+
+#: html/vip.html:18
+msgid "VIP Benefits"
+msgstr "Преимущества VIP"
+
+#: html/vip.html:21
+msgid "Your profile and sounds will have a yellow"
+msgstr "Ваш профиль и звуки будут иметь желтый"
+
+#: html/vip.html:24
+msgid "Yellow"
+msgstr "Желтый"
+
+#: html/vip.html:24
+msgid "Nickname"
+msgstr "Никнейм"
+
+#: html/vip.html:25
+msgid "Your nickname will stand out in recommendations and other tabs."
+msgstr "Ваш никнейм будет выделяться в рекомендациях и других вкладках."
+
+#: html/vip.html:27
+msgid "Animated Avatar: You can set an animated avatar."
+msgstr "Анимированный аватар: вы можете установить анимированный аватар."
+
+#: html/vip.html:32
+msgid "More Useful Features Coming Soon"
+msgstr "Более полезные функции скоро"
+
+#: html/vip.html:33
+msgid "We're constantly working on adding more benefits and features for"
+msgstr "Мы постоянно работаем над добавлением больше преимуществ и функций для"
+
+#: html/vip.html:34
+msgid "users. Stay tuned for updates!"
+msgstr "пользователей. Следите за обновлениями!"
+
+#: html/vip.html:42
+msgid "You're already a VIP member!"
+msgstr "Вы уже являетесь членом VIP!"
+
+#: html/vip.html:43
+msgid "Your VIP membership expires on:"
+msgstr "Ваше VIP-членство истекает:"
+
+#: html/vip.html:44
+msgid "Consider making a donation to support us even more!"
+msgstr "Рассмотрите возможность сделать пожертвование, чтобы поддержать нас еще"
+
+#: html/vip.html:53
+msgid "Unlock all"
+msgstr "Разблокировать все"
+
+#: html/vip.html:53
+msgid "features for just $9.99 per month!"
+msgstr "функции всего за $9.99 в месяц!"
+
+#: html/vip.html:59
+msgid "Upgrade to VIP"
+msgstr "Обновить до VIP"
+
 #: routes/api.py:54
 msgid "Empty URL"
 msgstr "Пустой URL"
@@ -906,4 +992,7 @@ msgstr "Не администратор."
 
 #~ msgid "Import from YouTube"
 #~ msgstr "Импорт из YouTube"
+
+#~ msgid "VIP"
+#~ msgstr "VIP"
 
