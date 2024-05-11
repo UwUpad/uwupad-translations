@@ -20,59 +20,59 @@ msgstr ""
 
 #: html/about.html:2 html/base.html:305 html/base.html:452 html/base.html:487
 msgid "About us"
-msgstr ""
+msgstr "关于我们"
 
 #: html/banned.html:3 html/banned.html:12
 msgid "Access denied"
-msgstr ""
+msgstr "访问被拒绝"
 
 #: html/banned.html:13
 msgid "Your account has been banned"
-msgstr ""
+msgstr "您的账户已被封禁"
 
 #: html/banned.html:14
 msgid "Contact us for more information"
-msgstr ""
+msgstr "联系我们了解更多信息"
 
 #: html/base.html:197
 msgid "Comments"
-msgstr ""
+msgstr "评论"
 
 #: html/base.html:204
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: html/base.html:215
 msgid "Choose language"
-msgstr ""
+msgstr "选择语言"
 
 #: html/base.html:220
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #: html/base.html:244
 msgid "Show only in my language"
-msgstr ""
+msgstr "仅展示选择的语言"
 
 #: html/base.html:250 html/profile.html:38
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: html/base.html:284 html/base.html:486 html/profile.html:119
 msgid "Upload sound"
-msgstr ""
+msgstr "上传声音"
 
 #: html/base.html:297 html/base.html:388 html/index.html:6 html/index.html:213
 msgid "For You"
-msgstr ""
+msgstr "给你"
 
 #: html/base.html:298 html/base.html:396 html/index.html:217
 msgid "Newest"
-msgstr ""
+msgstr "最新"
 
 #: html/base.html:299 html/base.html:405 html/index.html:221
 msgid "Popular"
-msgstr ""
+msgstr "受欢迎"
 
 #: html/base.html:300 html/base.html:415 html/leaderboard.html:2
 msgid "Leaderboard"
