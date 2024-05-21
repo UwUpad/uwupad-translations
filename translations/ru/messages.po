@@ -933,7 +933,7 @@ msgstr "Причина должна быть короче 1024 символов.
 
 #: routes/api.py:714
 msgid "Sound reported."
-msgstr "Звук пожалован."
+msgstr "Жалоба на звук отправлена."
 
 #: routes/api.py:733
 msgid "Invalid date."
