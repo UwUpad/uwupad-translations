@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-05-12 00:32+0300\n"
+"POT-Creation-Date: 2024-05-21 23:54+0300\n"
 "PO-Revision-Date: 2024-05-10 18:04+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh\n"
@@ -18,164 +18,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.14.0\n"
 
-#: html/about.html:2 html/base.html:313 html/base.html:470 html/base.html:505
+#: html/about.html:2 html/base.html:304 html/base.html:471 html/base.html:512
 msgid "About us"
 msgstr "关于我们"
-
-#: html/admin.html:2
-msgid "Admin Panel"
-msgstr "管理员面板"
-
-#: html/admin.html:57
-#, fuzzy
-msgid "Find user"
-msgstr "用户 ID 无效。"
-
-#: html/admin.html:60
-#, fuzzy
-msgid "By email"
-msgstr "邮箱"
-
-#: html/admin.html:61
-#, fuzzy
-msgid "By username"
-msgstr "用户名"
-
-#: html/admin.html:62 html/admin.html:71
-msgid "By id"
-msgstr ""
-
-#: html/admin.html:63
-msgid "By ip"
-msgstr ""
-
-#: html/admin.html:66
-#, fuzzy
-msgid "Find sound"
-msgstr "声音"
-
-#: html/admin.html:69
-#, fuzzy
-msgid "By title"
-msgstr "标题"
-
-#: html/admin.html:70
-#, fuzzy
-msgid "By tags"
-msgstr "标签"
-
-#: html/admin.html:74
-msgid "Global stats"
-msgstr "全局统计"
-
-#: html/admin.html:76 html/admin.html:196 html/admin.html:197
-#, fuzzy
-msgid "Total users"
-msgstr "全部声音"
-
-#: html/admin.html:77 html/admin.html:200 html/admin.html:201
-#: html/base.html:485
-msgid "Total sounds"
-msgstr "全部声音"
-
-#: html/admin.html:78 html/admin.html:204 html/admin.html:205
-#, fuzzy
-msgid "Total tags"
-msgstr "添加标签"
-
-#: html/admin.html:84
-msgid "Find user by email"
-msgstr "通过电子邮件查找用户"
-
-#: html/admin.html:87 html/profile.html:17 html/register.html:20
-#: html/register.html:22 html/reset_password.html:13
-#: html/reset_password.html:15
-msgid "Email"
-msgstr "邮箱"
-
-#: html/admin.html:94 html/admin.html:110 html/admin.html:126
-#: html/admin.html:142 html/admin.html:158 html/admin.html:174
-#: html/admin.html:190
-msgid "Find"
-msgstr "查找"
-
-#: html/admin.html:100
-#, fuzzy
-msgid "Find user by username"
-msgstr "无效的用户名。"
-
-#: html/admin.html:103 html/leaderboard.html:29 html/profile.html:23
-#: html/register.html:13 html/register.html:16
-msgid "Username"
-msgstr "用户名"
-
-#: html/admin.html:116
-#, fuzzy
-msgid "Find user by id"
-msgstr "用户 ID 无效。"
-
-#: html/admin.html:119 html/admin.html:183
-msgid "Id"
-msgstr ""
-
-#: html/admin.html:132
-#, fuzzy
-msgid "Find user by ip"
-msgstr "用户 ID 无效。"
-
-#: html/admin.html:135
-msgid "Ip"
-msgstr ""
-
-#: html/admin.html:148
-msgid "Find sound by title"
-msgstr ""
-
-#: html/admin.html:151 html/upload.html:69 html/upload.html:71
-msgid "Title"
-msgstr "标题"
-
-#: html/admin.html:164
-msgid "Find sound by tags"
-msgstr ""
-
-#: html/admin.html:167 html/upload.html:75
-msgid "Tags"
-msgstr "标签"
-
-#: html/admin.html:180
-msgid "Find sound by id"
-msgstr ""
-
-#: html/admin.html:225
-#, fuzzy
-msgid "Please enter an email."
-msgstr "请输入有效的电子邮件。"
-
-#: html/admin.html:240
-#, fuzzy
-msgid "Please enter a username."
-msgstr "请输入有效的电子邮件。"
-
-#: html/admin.html:255 html/admin.html:315
-#, fuzzy
-msgid "Please enter an id."
-msgstr "请输入有效的电子邮件。"
-
-#: html/admin.html:270
-#, fuzzy
-msgid "Please enter an ip."
-msgstr "请输入有效的电子邮件。"
-
-#: html/admin.html:285
-#, fuzzy
-msgid "Please enter a title."
-msgstr "请输入有效的电子邮件。"
-
-#: html/admin.html:300
-#, fuzzy
-msgid "Please enter tags."
-msgstr "请输入有效理由。"
 
 #: html/banned.html:3 html/banned.html:12
 msgid "Access denied"
@@ -189,131 +34,161 @@ msgstr "您的账户已被封禁"
 msgid "Contact us for more information"
 msgstr "如需了解更多信息，请联系我们"
 
-#: html/base.html:205
+#: html/base.html:196
 msgid "Comments"
 msgstr "评论"
 
-#: html/base.html:212
+#: html/base.html:203
 msgid "Close"
 msgstr "关闭"
 
-#: html/base.html:223
+#: html/base.html:214
 msgid "Choose language"
 msgstr "选择语言"
 
-#: html/base.html:228
+#: html/base.html:219
 msgid "Language"
 msgstr "语言"
 
-#: html/base.html:252
+#: html/base.html:243
 msgid "Show only in my language"
 msgstr "仅展示我的的语言"
 
-#: html/base.html:258 html/profile.html:39
+#: html/base.html:249 html/base.html:851 html/playlist.html:34
+#: html/profile.html:39
 msgid "Save"
 msgstr "保存"
 
-#: html/base.html:292 html/base.html:504 html/profile.html:129
+#: html/base.html:280 html/base.html:506 html/profile.html:152
 msgid "Upload sound"
 msgstr "上传声音"
 
-#: html/base.html:305 html/base.html:396 html/index.html:6 html/index.html:215
+#: html/base.html:296 html/base.html:386 html/base.html:507 html/index.html:6
+#: html/index.html:75
 msgid "For You"
 msgstr "为你推荐"
 
-#: html/base.html:306 html/base.html:404 html/index.html:219
+#: html/base.html:297 html/base.html:394 html/base.html:508 html/index.html:79
 msgid "Newest"
 msgstr "最新的"
 
-#: html/base.html:307 html/base.html:413 html/index.html:223
+#: html/base.html:298 html/base.html:403 html/base.html:509 html/index.html:83
 msgid "Popular"
 msgstr "最受欢迎的"
 
-#: html/base.html:308 html/base.html:423 html/leaderboard.html:2
+#: html/base.html:299 html/base.html:413 html/base.html:510
+#: html/leaderboard.html:2
 msgid "Leaderboard"
 msgstr "排行榜"
 
-#: html/base.html:309 html/base.html:433 html/news.html:2
+#: html/base.html:300 html/base.html:423 html/base.html:511 html/news.html:2
 msgid "News"
 msgstr "新闻"
 
-#: html/base.html:311 html/base.html:453 html/base.html:514 html/base.html:964
+#: html/base.html:302 html/base.html:453 html/base.html:521 html/base.html:1113
 #: html/vip.html:49
 msgid "Donate"
 msgstr "捐助"
 
-#: html/base.html:314 html/base.html:471 html/base.html:506 html/base.html:525
+#: html/base.html:305 html/base.html:472 html/base.html:513 html/base.html:534
 #: html/contacts.html:2
 msgid "Contacts"
 msgstr "联系方式"
 
-#: html/base.html:315 html/base.html:472 html/base.html:507 html/dmca.html:3
+#: html/base.html:306 html/base.html:473 html/base.html:514 html/dmca.html:3
 msgid "DMCA"
 msgstr "数字版权"
 
-#: html/base.html:317 html/base.html:474 html/base.html:516
+#: html/base.html:308 html/base.html:475 html/base.html:525
 msgid "Download Soundpad"
 msgstr "下载到Soundpad"
 
-#: html/base.html:319 html/base.html:475 html/base.html:518
+#: html/base.html:310 html/base.html:476 html/base.html:527
 msgid "Telegram bot"
 msgstr "Telegram机器人"
 
-#: html/base.html:321 html/base.html:477 html/base.html:520
+#: html/base.html:312 html/base.html:478 html/base.html:529
 msgid "Steam group"
 msgstr "Steam组"
 
-#: html/base.html:329 html/base.html:334
+#: html/base.html:320
 msgid "Search"
 msgstr "搜索"
 
-#: html/base.html:373 html/login.html:2 html/login.html:30
+#: html/base.html:363 html/login.html:2 html/login.html:30
 msgid "Log in"
 msgstr "登录"
 
-#: html/base.html:391
+#: html/base.html:381
 msgid "Home"
 msgstr "首页"
 
-#: html/base.html:468
+#: html/base.html:460
+msgid "Food fundraiser"
+msgstr ""
+
+#: html/base.html:469
 msgid "Other"
 msgstr "其他"
 
-#: html/base.html:498
+#: html/base.html:486
+msgid "Total sounds"
+msgstr "全部声音"
+
+#: html/base.html:499
 msgid ""
 "service for searching and downloading sounds for soundboards such as "
 "Soundpad or mobile devices."
 msgstr "为音效板提供搜索和下载声音的服务，如Soundpad或移动设备"
 
-#: html/base.html:499
+#: html/base.html:501
 msgid "Find sounds and effects from TV, games, memes, and more."
 msgstr "查找来自电视、游戏、备忘录等的声音和效果。"
 
-#: html/base.html:503
+#: html/base.html:505
 msgid "Navigation"
 msgstr "导航"
 
-#: html/base.html:508 html/privacy.html:2
+#: html/base.html:515 html/privacy.html:2
 msgid "Privacy policy"
 msgstr "隐私政策"
 
-#: html/base.html:509 html/terms.html:2
+#: html/base.html:516 html/terms.html:2
 msgid "Terms of use"
 msgstr "使用条款"
 
-#: html/base.html:512
+#: html/base.html:519
 msgid "Links"
 msgstr "链接"
 
-#: html/base.html:522
+#: html/base.html:531
 msgid "Translations"
 msgstr "翻译"
 
-#: html/base.html:811
+#: html/base.html:834
+#, fuzzy
+msgid "Edit tags"
+msgstr "添加标签"
+
+#: html/base.html:836 html/upload.html:75
+msgid "Tags"
+msgstr "标签"
+
+#: html/base.html:847
+#, fuzzy
+msgid "Is loud"
+msgstr "刺耳的"
+
+#: html/base.html:852 html/base.html:983 html/base.html:1118
+#: html/base.html:1539 html/upload.html:47 html/upload.html:114
+msgid "Cancel"
+msgstr "取消"
+
+#: html/base.html:960
 msgid "Report a sound"
 msgstr "报告声音"
 
-#: html/base.html:817
+#: html/base.html:966
 msgid ""
 "We are strictly against any violations of our terms of use. Users have "
 "the ability to complain about content that is considered “spam,” “illegal"
@@ -324,59 +199,105 @@ msgstr ""
 "我们严禁任何违反使用条款的行为。用户可以投诉被视为 “垃圾邮件、非法活动”或包含 “未经授权的版权材料 "
 "”的内容。如果发现违规行为，相关内容将被立即删除，并且这种删除将是永久性的。"
 
-#: html/base.html:820
+#: html/base.html:969
 msgid ""
 "Please state your request in English or Russian only. We cannot process "
 "requests in other languages."
 msgstr "请仅使用英语或俄语说明您的请求。我们无法处理其他语言的申请。"
 
-#: html/base.html:824
+#: html/base.html:973
 msgid "Comment, questions, reason for post."
 msgstr "评论、问题、发帖原因。"
 
-#: html/base.html:829
+#: html/base.html:978
 msgid "Your e-mail address"
 msgstr "您的电子邮件地址"
 
-#: html/base.html:833 html/index.html:155 html/profile.html:247
-#: html/search.html:121 html/sound.html:85 html/tag.html:121
+#: html/base.html:982 html/sound.html:97 html/tag.html:123
 msgid "Report"
 msgstr "报告"
 
-#: html/base.html:834 html/base.html:965 html/upload.html:47
-#: html/upload.html:114
-msgid "Cancel"
-msgstr "取消"
-
-#: html/base.html:852
+#: html/base.html:1001
 msgid "Please enter a valid reason."
 msgstr "请输入有效理由。"
 
-#: html/base.html:856
+#: html/base.html:1005
 msgid "Please enter a valid email."
 msgstr "请输入有效的电子邮件。"
 
-#: html/base.html:885
+#: html/base.html:1034
 msgid "Are you sure?"
 msgstr "你确定吗？"
 
-#: html/base.html:887 html/index.html:329 html/profile.html:389
-#: html/search.html:292 html/tag.html:272
+#: html/base.html:1036 html/base.html:1364
 msgid "Yes"
 msgstr "是"
 
-#: html/base.html:888 html/index.html:330 html/profile.html:390
-#: html/search.html:293 html/tag.html:273
+#: html/base.html:1037 html/base.html:1365
 msgid "No"
 msgstr "否"
 
-#: html/base.html:929 html/base.html:939
+#: html/base.html:1078 html/base.html:1088
 msgid "Copied to clipboard"
 msgstr "复制到剪贴板"
 
-#: html/base.html:962
+#: html/base.html:1111
 msgid "If you like our project, you can support it by clicking the link below."
 msgstr "如果您喜欢我们的项目，可以点击下面的链接予以支持。"
+
+#: html/base.html:1116
+#, fuzzy
+msgid "Telegram Channel"
+msgstr "Telegram机器人"
+
+#: html/base.html:1250 html/sound.html:59 html/sound.html:266 html/tag.html:93
+msgid "LOUD"
+msgstr "刺耳的"
+
+#: html/base.html:1259 html/sound.html:75 html/tag.html:102
+msgid "Add to Soundpad"
+msgstr "添加到Soundpad"
+
+#: html/base.html:1362
+msgid "This sound is too loud. Are you sure you want to play it back?"
+msgstr "声音太大了。你确定要重新播放吗？"
+
+#: html/base.html:1481 html/sound.html:227
+msgid "The best sound sharing service for Soundpad"
+msgstr "Soundpad 的最佳声音共享服务"
+
+#: html/base.html:1483 html/sound.html:229
+msgid "Sound"
+msgstr "声音"
+
+#: html/base.html:1484 html/sound.html:230
+msgid "Listen"
+msgstr "听"
+
+#: html/base.html:1529
+msgid "Select playlist"
+msgstr ""
+
+#: html/base.html:1532
+#, fuzzy
+msgid "Create new playlist"
+msgstr "重复新密码"
+
+#: html/base.html:1536
+msgid "Playlist name"
+msgstr ""
+
+#: html/base.html:1538
+msgid "Add"
+msgstr ""
+
+#: html/base.html:1584
+msgid "You must be logged in to add sounds to your playlist."
+msgstr ""
+
+#: html/base.html:1593
+msgid "Slow down!"
+msgstr "慢一点"
 
 #: html/change_password.html:2 html/change_password.html:29
 msgid "Change password"
@@ -419,77 +340,47 @@ msgstr ""
 msgid "Uwupad - Get and share funny sounds. Easy."
 msgstr "Uwupad - 获取并分享有趣的声音。轻而易举。"
 
-#: html/index.html:17
+#: html/index.html:18
 msgid ""
 "Enabled 'Show only on my language' mode. You can disable it in language "
 "settings."
 msgstr "已启用 “仅在我的语言中显示 ”模式。您可以在语言选项中设置"
 
-#: html/index.html:28 html/profile.html:143 html/search.html:19
-#: html/tag.html:19
+#: html/index.html:29 html/playlist.html:85 html/profile.html:168
+#: html/search.html:21 html/tag.html:21
 msgid "Show more"
 msgstr "显示更多"
 
-#: html/index.html:125 html/profile.html:211 html/search.html:91
-#: html/sound.html:56 html/tag.html:91
-msgid "LOUD"
-msgstr "刺耳的"
-
-#: html/index.html:134 html/profile.html:220 html/search.html:100
-#: html/sound.html:63 html/tag.html:100
-msgid "Add to Soundpad"
-msgstr "添加到Soundpad"
-
-#: html/index.html:327 html/profile.html:387 html/search.html:290
-#: html/tag.html:270
-msgid "This sound is too loud. Are you sure you want to play it back?"
-msgstr "声音太大了。你确定要重新播放吗？"
-
-#: html/index.html:446 html/profile.html:506 html/search.html:409
-#: html/sound.html:215 html/tag.html:389
-msgid "The best sound sharing service for Soundpad"
-msgstr "Soundpad 的最佳声音共享服务"
-
-#: html/index.html:448 html/profile.html:508 html/search.html:411
-#: html/sound.html:217 html/tag.html:391
-msgid "Sound"
-msgstr "声音"
-
-#: html/index.html:449 html/profile.html:509 html/search.html:412
-#: html/sound.html:218 html/tag.html:392
-msgid "Listen"
-msgstr "听"
-
-#: html/index.html:469 html/profile.html:529 html/search.html:432
-#: html/tag.html:412
-msgid "Slow down!"
-msgstr "慢一点"
-
-#: html/leaderboard.html:13
+#: html/leaderboard.html:15
 msgid "Top by downloads"
 msgstr "按下载量排序"
 
-#: html/leaderboard.html:16
+#: html/leaderboard.html:18
 msgid "Top by uploads"
 msgstr "按上传次数排序"
 
-#: html/leaderboard.html:19
+#: html/leaderboard.html:21
 msgid "Top by donates"
 msgstr "按捐赠金额排序"
 
-#: html/leaderboard.html:28
+#: html/leaderboard.html:30
 msgid "Place"
 msgstr "序号"
 
-#: html/leaderboard.html:30 html/leaderboard.html:89
+#: html/leaderboard.html:31 html/profile.html:23 html/register.html:13
+#: html/register.html:16
+msgid "Username"
+msgstr "用户名"
+
+#: html/leaderboard.html:32 html/leaderboard.html:89
 msgid "Downloads"
 msgstr "下载量"
 
-#: html/leaderboard.html:41
+#: html/leaderboard.html:43
 msgid "Prev. page"
 msgstr "上一页"
 
-#: html/leaderboard.html:42
+#: html/leaderboard.html:44
 msgid "Next page"
 msgstr "下一页"
 
@@ -517,61 +408,116 @@ msgstr "还没有账户？"
 msgid "Successfully logged in"
 msgstr "登陆成功"
 
+#: html/playlist-not-found.html:2 html/playlist-not-found.html:11
+#, fuzzy
+msgid "Playlist not found"
+msgstr "未找到用户"
+
+#: html/playlist-not-found.html:12
+#, fuzzy
+msgid "Playlist with this ID not found. Please check the entered data."
+msgstr "未找到具有此 ID 的用户。请检查输入的数据。"
+
+#: html/playlist-not-found.html:13 html/sound-not-found.html:13
+#: html/user-not-found.html:13
+msgid "Back to main page"
+msgstr "返回主页面"
+
+#: html/playlist.html:2 html/playlist.html:52
+msgid "Playlist"
+msgstr ""
+
+#: html/playlist.html:18 html/upload.html:69 html/upload.html:71
+msgid "Title"
+msgstr "标题"
+
+#: html/playlist.html:24
+#, fuzzy
+msgid "Preview Image"
+msgstr "上一页"
+
+#: html/playlist.html:30 html/profile.html:35
+msgid "GIF only for VIP users"
+msgstr ""
+
+#: html/playlist.html:57
+#, fuzzy
+msgid "Edit"
+msgstr "编辑个人资料"
+
+#: html/playlist.html:63 html/sound.html:90
+msgid "Delete"
+msgstr "删除"
+
+#: html/playlist.html:182 html/profile.html:448
+msgid "GIF is only allowed for VIP users"
+msgstr ""
+
 #: html/profile.html:2
 msgid "Profile "
 msgstr "个人资料"
+
+#: html/profile.html:17 html/register.html:20 html/register.html:22
+#: html/reset_password.html:13 html/reset_password.html:15
+msgid "Email"
+msgstr "邮箱"
 
 #: html/profile.html:29
 msgid "Avatar"
 msgstr "用户头像"
 
-#: html/profile.html:35
-msgid "GIF only for VIP users"
-msgstr ""
-
-#: html/profile.html:72
+#: html/profile.html:73
 msgid "Edit profile"
 msgstr "编辑个人资料"
 
-#: html/profile.html:78
+#: html/profile.html:79
 msgid "Log out"
 msgstr "登出"
 
-#: html/profile.html:82
+#: html/profile.html:84
 #, fuzzy
 msgid "Edit role"
 msgstr "编辑个人资料"
 
-#: html/profile.html:89 html/profile.html:780
+#: html/profile.html:92 html/profile.html:611
 msgid "Add to blacklist"
 msgstr "添加到黑名单"
 
-#: html/profile.html:110
+#: html/profile.html:113
 msgid "Uploaded"
 msgstr "已上传"
 
-#: html/profile.html:119
+#: html/profile.html:122
 msgid "Liked"
 msgstr "喜欢的"
 
-#: html/profile.html:642 html/profile.html:740 html/profile.html:768
-#: html/upload.html:257
+#: html/profile.html:131
+msgid "Playlists"
+msgstr ""
+
+#: html/profile.html:141
+#, fuzzy
+msgid "Blacklist"
+msgstr "添加到黑名单"
+
+#: html/profile.html:396 html/profile.html:469 html/profile.html:571
+#: html/profile.html:599 html/upload.html:257
 msgid "An error occurred"
 msgstr "发生错误"
 
-#: html/profile.html:673
+#: html/profile.html:503
 msgid "Role"
 msgstr "角色"
 
-#: html/profile.html:686
+#: html/profile.html:516
 msgid "Expire date"
 msgstr "到期日期"
 
-#: html/profile.html:693
+#: html/profile.html:523
 msgid "Give role"
 msgstr "给予角色"
 
-#: html/profile.html:750 html/profile.html:777
+#: html/profile.html:581 html/profile.html:608
 msgid "Remove from blacklist"
 msgstr "从黑名单中删除"
 
@@ -603,21 +549,35 @@ msgstr "已发送带有密码恢复说明的邮件"
 msgid "Search by query "
 msgstr "按查询进行搜索"
 
-#: html/search.html:199
+#: html/search.html:56
 msgid "Nothing was found for your request"
 msgstr "未找到符合您要求的内容"
 
-#: html/sound.html:20
+#: html/sound-not-found.html:2 html/sound-not-found.html:11
+#, fuzzy
+msgid "Sound not found"
+msgstr "未找到声音。"
+
+#: html/sound-not-found.html:12
+#, fuzzy
+msgid "Sound with this ID not found. Please check the entered data."
+msgstr "未找到具有此 ID 的用户。请检查输入的数据。"
+
+#: html/sound.html:23
 msgid "DELETED"
 msgstr "已删除"
 
-#: html/sound.html:71
+#: html/sound.html:83
 msgid "Block owner"
 msgstr "屏蔽用户"
 
-#: html/sound.html:78
-msgid "Delete"
-msgstr "删除"
+#: html/sound.html:295
+msgid "Are you sure you want to block this user?"
+msgstr ""
+
+#: html/sound.html:298
+msgid "Delete all user sounds"
+msgstr ""
 
 #: html/upload.html:2 html/upload.html:84 html/upload.html:111
 msgid "Upload"
@@ -711,14 +671,6 @@ msgstr "未找到用户"
 msgid "User with this ID not found. Please check the entered data."
 msgstr "未找到具有此 ID 的用户。请检查输入的数据。"
 
-#: html/user-not-found.html:13
-msgid "Back to main page"
-msgstr "返回主页面"
-
-#: html/vip.html:2
-msgid "VIP"
-msgstr ""
-
 #: html/vip.html:12
 msgid "Welcome to VIP Membership!"
 msgstr ""
@@ -789,162 +741,240 @@ msgstr ""
 msgid "Upgrade to VIP"
 msgstr ""
 
-#: routes/api.py:54
+#: routes/api.py:55
 msgid "Empty URL"
 msgstr "空白的URL"
 
-#: routes/api.py:78 routes/api.py:335 routes/api.py:393 routes/api.py:480
-#: routes/api.py:637 routes/api.py:667 routes/api.py:727 routes/user.py:197
+#: routes/api.py:79 routes/api.py:152 routes/api.py:390 routes/api.py:439
+#: routes/api.py:468 routes/api.py:504 routes/api.py:562 routes/api.py:649
+#: routes/api.py:815 routes/api.py:845 routes/api.py:901 routes/api.py:938
+#: routes/api.py:960 routes/user.py:178
 msgid "Not authenticated."
 msgstr "未经过认证。"
 
-#: routes/api.py:84
+#: routes/api.py:85
 msgid "Username cannot be empty."
 msgstr "用户名不能为空。"
 
-#: routes/api.py:86 routes/api.py:229
+#: routes/api.py:87 routes/api.py:275
 msgid "Username should be longer than 3 characters."
 msgstr "用户名长度应超过 3 个字符。"
 
-#: routes/api.py:88
+#: routes/api.py:89
 msgid "Username should be shorter than 16 characters."
 msgstr "用户名应少于 16 个字符。"
 
-#: routes/api.py:90 routes/api.py:246
+#: routes/api.py:91 routes/api.py:292
 msgid "Username already exists."
 msgstr "用户名已存在。"
 
-#: routes/api.py:95
+#: routes/api.py:96
 msgid "Username updated successfully."
 msgstr "用户名更新成功。"
 
-#: routes/api.py:113 routes/api.py:240 routes/api.py:693
+#: routes/api.py:115 routes/api.py:286 routes/api.py:871
 msgid "Invalid email."
 msgstr "无效的电子邮件。"
 
-#: routes/api.py:116
+#: routes/api.py:118
 msgid "Invalid username."
 msgstr "无效的用户名。"
 
-#: routes/api.py:120
+#: routes/api.py:122 routes/api.py:165
 msgid "Invalid image."
 msgstr "无效的图片。"
 
-#: routes/api.py:127
+#: routes/api.py:134
 msgid "Profile updated successfully"
 msgstr "成功更新个人资料"
 
-#: routes/api.py:180 routes/api.py:221 routes/email.py:62
+#: routes/api.py:158 routes/api.py:409
+#, fuzzy
+msgid "Playlist name cannot be empty."
+msgstr "用户名不能为空。"
+
+#: routes/api.py:160 routes/api.py:411
+msgid "Playlist name is too long. Max 32 chars."
+msgstr ""
+
+#: routes/api.py:162 routes/api.py:413
+msgid "Playlist name is too short. Min 4 chars."
+msgstr ""
+
+#: routes/api.py:174
+#, fuzzy
+msgid "Playlist created successfully."
+msgstr "成功更新个人资料"
+
+#: routes/api.py:226 routes/api.py:267 routes/email.py:62
 msgid "Please fill all fields."
 msgstr "请填写所有栏目。"
 
-#: routes/api.py:183
+#: routes/api.py:229
 msgid "Email should be longer than 3 characters."
 msgstr "邮箱长度应超过 3 个字符。"
 
-#: routes/api.py:186 routes/api.py:237
+#: routes/api.py:232 routes/api.py:283
 msgid "Password should be longer than 8 characters."
 msgstr "密码长度应超过 8 个字符。"
 
-#: routes/api.py:198 routes/api.py:203
+#: routes/api.py:244 routes/api.py:249
 msgid "Account with this email does not exist."
 msgstr "该电子邮件帐户不存在。"
 
-#: routes/api.py:206
+#: routes/api.py:252
 msgid "Invalid password."
 msgstr "密码无效。"
 
-#: routes/api.py:224
+#: routes/api.py:270
 msgid "Email should be longer than 5 characters."
 msgstr "电子邮件长度应超过 5 个字符。"
 
-#: routes/api.py:234
+#: routes/api.py:280
 msgid "Please pass reCAPTCHA check."
 msgstr "请通过 reCAPTCHA 验证。"
 
-#: routes/api.py:243
+#: routes/api.py:289
 msgid "Account with this email already exists."
 msgstr "该电子邮件帐户已经存在。"
 
-#: routes/api.py:339
-msgid "Sound not found."
+#: routes/api.py:395 routes/api.py:444 routes/api.py:472
+#, fuzzy
+msgid "Invalid data."
+msgstr "无效日期。"
+
+#: routes/api.py:401 routes/api.py:419 routes/api.py:449 routes/api.py:477
+#, fuzzy
+msgid "Playlist not found."
 msgstr "未找到声音。"
 
-#: routes/api.py:341
+#: routes/api.py:403 routes/api.py:451 routes/api.py:479 routes/api.py:510
 msgid "You don't have permission."
 msgstr "你没有权限"
 
-#: routes/api.py:347
+#: routes/api.py:415
+#, fuzzy
+msgid "Playlist with this name already exists."
+msgstr "该电子邮件帐户已经存在。"
+
+#: routes/api.py:422 routes/api.py:508
+msgid "Sound not found."
+msgstr "未找到声音。"
+
+#: routes/api.py:426
+#, fuzzy
+msgid "Sound already in playlist."
+msgstr "用户名已存在。"
+
+#: routes/api.py:430
+#, fuzzy
+msgid "Sound added to playlist {}."
+msgstr "用户已加入黑名单。"
+
+#: routes/api.py:455
+#, fuzzy
+msgid "Sound not in playlist."
+msgstr "未找到声音。"
+
+#: routes/api.py:459
+#, fuzzy
+msgid "Sound removed from playlist {}."
+msgstr "从黑名单中删除用户。"
+
+#: routes/api.py:483
+#, fuzzy
+msgid "Playlist deleted."
+msgstr "声音已删除。"
+
+#: routes/api.py:516
 msgid "Sound deleted."
 msgstr "声音已删除。"
 
-#: routes/api.py:397
+#: routes/api.py:566
 msgid "You are already uploading a sound."
 msgstr "您已经在上传声音了。"
 
-#: routes/api.py:404
+#: routes/api.py:573
 msgid "Could not download file."
 msgstr "无法下载文件。"
 
-#: routes/api.py:429
+#: routes/api.py:598
 msgid "Title cannot be empty."
 msgstr "标题不能为空。"
 
-#: routes/api.py:436
+#: routes/api.py:605
 msgid "Invalid file format."
 msgstr "文件格式无效。"
 
-#: routes/api.py:440
+#: routes/api.py:609
 msgid "Invalid file size."
 msgstr "文件大小错误。"
 
-#: routes/api.py:484
+#: routes/api.py:653
 msgid "Sound liked."
 msgstr "声音添加到喜欢"
 
-#: routes/api.py:484
+#: routes/api.py:653
 msgid "Sound unliked."
 msgstr "声音已取消喜欢。"
 
-#: routes/api.py:642
+#: routes/api.py:820
 msgid "You cannot blacklist yourself."
 msgstr "你不能把自己列入黑名单。"
 
-#: routes/api.py:651
+#: routes/api.py:829
 msgid "User removed from blacklist."
 msgstr "从黑名单中删除用户。"
 
-#: routes/api.py:658
+#: routes/api.py:836
 msgid "User added to blacklist."
 msgstr "用户已加入黑名单。"
 
-#: routes/api.py:683
+#: routes/api.py:861
 msgid "Please specify a reason. (min 5 chars)"
 msgstr "请说明原因。（最少 5 个字符）"
 
-#: routes/api.py:686
+#: routes/api.py:864
 msgid "Please specify an email."
 msgstr "请指定电子邮件。"
 
-#: routes/api.py:690
+#: routes/api.py:868
 msgid "Reason should be shorter than 1024 characters."
 msgstr "理由应少于 1024 个字符。"
 
-#: routes/api.py:714
+#: routes/api.py:892
 msgid "Sound reported."
 msgstr "声音已报告。"
 
-#: routes/api.py:733
+#: routes/api.py:909
+#, fuzzy
+msgid "Max 3 tags."
+msgstr "添加标签"
+
+#: routes/api.py:925
+msgid "Success"
+msgstr ""
+
+#: routes/api.py:944
 msgid "Invalid date."
 msgstr "无效日期。"
 
-#: routes/api.py:737
+#: routes/api.py:948
 msgid "Invalid role."
 msgstr "无效的角色。"
 
-#: routes/api.py:740
+#: routes/api.py:951
 msgid "Role updated."
 msgstr "角色已更新。"
+
+#: routes/api.py:965
+#, fuzzy
+msgid "You cannot block yourself."
+msgstr "你不能把自己列入黑名单。"
+
+#: routes/api.py:985
+msgid "User blocked."
+msgstr ""
 
 #: routes/email.py:67
 msgid "Passwords do not match."
@@ -978,11 +1008,11 @@ msgstr "更改密码"
 msgid "Email sent. Check your inbox."
 msgstr "邮件已发送。请查看您的邮箱。"
 
-#: routes/user.py:181
+#: routes/user.py:162
 msgid "Invalid user ID."
 msgstr "用户 ID 无效。"
 
-#: routes/user.py:199
+#: routes/user.py:180
 msgid "Not an admin."
 msgstr "不是管理员。"
 
@@ -994,4 +1024,88 @@ msgstr "不是管理员。"
 
 #~ msgid "VIP"
 #~ msgstr ""
+
+#~ msgid "Admin Panel"
+#~ msgstr "管理员面板"
+
+#~ msgid "Find user"
+#~ msgstr "用户 ID 无效。"
+
+#~ msgid "By email"
+#~ msgstr "邮箱"
+
+#~ msgid "By username"
+#~ msgstr "用户名"
+
+#~ msgid "By id"
+#~ msgstr ""
+
+#~ msgid "By ip"
+#~ msgstr ""
+
+#~ msgid "Find sound"
+#~ msgstr "声音"
+
+#~ msgid "By title"
+#~ msgstr "标题"
+
+#~ msgid "By tags"
+#~ msgstr "标签"
+
+#~ msgid "Global stats"
+#~ msgstr "全局统计"
+
+#~ msgid "Total users"
+#~ msgstr "全部声音"
+
+#~ msgid "Total tags"
+#~ msgstr "添加标签"
+
+#~ msgid "Find user by email"
+#~ msgstr "通过电子邮件查找用户"
+
+#~ msgid "Find"
+#~ msgstr "查找"
+
+#~ msgid "Find user by username"
+#~ msgstr "无效的用户名。"
+
+#~ msgid "Find user by id"
+#~ msgstr "用户 ID 无效。"
+
+#~ msgid "Id"
+#~ msgstr ""
+
+#~ msgid "Find user by ip"
+#~ msgstr "用户 ID 无效。"
+
+#~ msgid "Ip"
+#~ msgstr ""
+
+#~ msgid "Find sound by title"
+#~ msgstr ""
+
+#~ msgid "Find sound by tags"
+#~ msgstr ""
+
+#~ msgid "Find sound by id"
+#~ msgstr ""
+
+#~ msgid "Please enter an email."
+#~ msgstr "请输入有效的电子邮件。"
+
+#~ msgid "Please enter a username."
+#~ msgstr "请输入有效的电子邮件。"
+
+#~ msgid "Please enter an id."
+#~ msgstr "请输入有效的电子邮件。"
+
+#~ msgid "Please enter an ip."
+#~ msgstr "请输入有效的电子邮件。"
+
+#~ msgid "Please enter a title."
+#~ msgstr "请输入有效的电子邮件。"
+
+#~ msgid "Please enter tags."
+#~ msgstr "请输入有效理由。"
 
