@@ -284,7 +284,7 @@ msgstr "Слушать"
 
 #: html/base.html:1529
 msgid "Select playlist"
-msgstr ""
+msgstr "Выберите плейлист"
 
 #: html/base.html:1532
 msgid "Create new playlist"
@@ -292,19 +292,19 @@ msgstr "Создать новый плейлист"
 
 #: html/base.html:1536
 msgid "Playlist name"
-msgstr ""
+msgstr "Имя плейлиста"
 
 #: html/base.html:1538
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 #: html/base.html:1584
 msgid "You must be logged in to add sounds to your playlist."
-msgstr ""
+msgstr "Вы должны авторизироваться, чтобы добавлять звуки в свои плейлисты"
 
 #: html/base.html:1593
 msgid "Slow down!"
-msgstr "Замедлите!"
+msgstr "Помедленнее!"
 
 #: html/change_password.html:2 html/change_password.html:29
 msgid "Change password"
@@ -433,7 +433,7 @@ msgstr "Вернуться на главную страницу"
 
 #: html/playlist.html:2 html/playlist.html:52
 msgid "Playlist"
-msgstr ""
+msgstr "Плейлист"
 
 #: html/playlist.html:18 html/upload.html:69 html/upload.html:71
 msgid "Title"
@@ -499,7 +499,7 @@ msgstr "Понравилось"
 
 #: html/profile.html:131
 msgid "Playlists"
-msgstr ""
+msgstr "Плейлисты"
 
 #: html/profile.html:141
 msgid "Blacklist"
@@ -800,11 +800,11 @@ msgstr "Название плейлиста не может быть пусты�
 
 #: routes/api.py:160 routes/api.py:411
 msgid "Playlist name is too long. Max 32 chars."
-msgstr ""
+msgstr "Имя плейлиста слишком большое. Максимальное кол-во символов - 32."
 
 #: routes/api.py:162 routes/api.py:413
 msgid "Playlist name is too short. Min 4 chars."
-msgstr ""
+msgstr "Имя плейлиста слишком короткое. Минимальное количество символов - 4."
 
 #: routes/api.py:174
 msgid "Playlist created successfully."
@@ -940,7 +940,7 @@ msgstr "Причина должна быть короче 1024 символов.
 
 #: routes/api.py:892
 msgid "Sound reported."
-msgstr "Звук пожалован."
+msgstr "Жалоба на звук отправлена."
 
 #: routes/api.py:909
 msgid "Max 3 tags."
@@ -948,7 +948,7 @@ msgstr "Максимум 3 тега."
 
 #: routes/api.py:925
 msgid "Success"
-msgstr ""
+msgstr "Успешно"
 
 #: routes/api.py:944
 msgid "Invalid date."
