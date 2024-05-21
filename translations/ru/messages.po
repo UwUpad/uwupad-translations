@@ -300,7 +300,7 @@ msgstr "Добавить"
 
 #: html/base.html:1584
 msgid "You must be logged in to add sounds to your playlist."
-msgstr "Вы должны зарегестрироваться, чтобы добавлять звуки в свои плейлисты"
+msgstr "Вы должны авторизироваться, чтобы добавлять звуки в свои плейлисты"
 
 #: html/base.html:1593
 msgid "Slow down!"
