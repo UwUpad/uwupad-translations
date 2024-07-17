@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-05-21 23:54+0300\n"
+"POT-Creation-Date: 2024-07-14 22:02+0300\n"
 "PO-Revision-Date: 2024-05-10 18:04+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: uk\n"
@@ -17,9 +17,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.15.0\n"
 
-#: html/about.html:2 html/base.html:304 html/base.html:471 html/base.html:512
+#: html/about.html:2 html/base.html:599 html/base.html:775 html/base.html:890
 msgid "About us"
 msgstr ""
 
@@ -35,159 +35,176 @@ msgstr ""
 msgid "Contact us for more information"
 msgstr ""
 
-#: html/base.html:196
-msgid "Comments"
-msgstr ""
-
-#: html/base.html:203
-msgid "Close"
-msgstr ""
-
-#: html/base.html:214
+#: html/base.html:487
 msgid "Choose language"
 msgstr ""
 
-#: html/base.html:219
+#: html/base.html:492
 msgid "Language"
 msgstr ""
 
-#: html/base.html:243
+#: html/base.html:516
 msgid "Show only in my language"
 msgstr ""
 
-#: html/base.html:249 html/base.html:851 html/playlist.html:34
+#: html/base.html:522 html/base.html:1529 html/playlist.html:42
 #: html/profile.html:39
 msgid "Save"
 msgstr ""
 
-#: html/base.html:280 html/base.html:506 html/profile.html:152
+#: html/base.html:542
+msgid "Remove ADS"
+msgstr ""
+
+#: html/base.html:550
+msgid "Online: "
+msgstr ""
+
+#: html/base.html:571 html/base.html:884 html/profile.html:151
 msgid "Upload sound"
 msgstr ""
 
-#: html/base.html:296 html/base.html:386 html/base.html:507 html/index.html:6
-#: html/index.html:75
+#: html/base.html:587 html/base.html:681 html/base.html:885 html/index.html:6
+#: html/index.html:76
 msgid "For You"
 msgstr ""
 
-#: html/base.html:297 html/base.html:394 html/base.html:508 html/index.html:79
+#: html/base.html:588 html/base.html:689 html/base.html:886 html/index.html:81
 msgid "Newest"
 msgstr ""
 
-#: html/base.html:298 html/base.html:403 html/base.html:509 html/index.html:83
+#: html/base.html:589 html/base.html:698 html/base.html:887 html/index.html:86
 msgid "Popular"
 msgstr ""
 
-#: html/base.html:299 html/base.html:413 html/base.html:510
+#: html/base.html:590 html/base.html:717 html/base.html:888
 #: html/leaderboard.html:2
 msgid "Leaderboard"
 msgstr ""
 
-#: html/base.html:300 html/base.html:423 html/base.html:511 html/news.html:2
+#: html/base.html:591 html/base.html:727 html/base.html:889 html/news.html:2
 msgid "News"
 msgstr ""
 
-#: html/base.html:302 html/base.html:453 html/base.html:521 html/base.html:1113
-#: html/vip.html:49
+#: html/base.html:593 html/base.html:908
+msgid "Discord"
+msgstr ""
+
+#: html/base.html:595 html/base.html:2066 html/base.html:2130
+msgid "Telegram"
+msgstr ""
+
+#: html/base.html:597 html/base.html:767 html/base.html:898 html/base.html:1857
+#: html/base.html:1961 html/vip.html:56
 msgid "Donate"
 msgstr ""
 
-#: html/base.html:305 html/base.html:472 html/base.html:513 html/base.html:534
+#: html/base.html:600 html/base.html:776 html/base.html:891 html/base.html:913
 #: html/contacts.html:2
 msgid "Contacts"
 msgstr ""
 
-#: html/base.html:306 html/base.html:473 html/base.html:514 html/dmca.html:3
+#: html/base.html:601 html/base.html:777 html/base.html:892 html/dmca.html:3
 msgid "DMCA"
 msgstr ""
 
-#: html/base.html:308 html/base.html:475 html/base.html:525
+#: html/base.html:603 html/base.html:779 html/base.html:902
 msgid "Download Soundpad"
 msgstr ""
 
-#: html/base.html:310 html/base.html:476 html/base.html:527
+#: html/base.html:605 html/base.html:780 html/base.html:904
 msgid "Telegram bot"
 msgstr ""
 
-#: html/base.html:312 html/base.html:478 html/base.html:529
+#: html/base.html:607 html/base.html:782 html/base.html:906
 msgid "Steam group"
 msgstr ""
 
-#: html/base.html:320
+#: html/base.html:615
 msgid "Search"
 msgstr ""
 
-#: html/base.html:363 html/login.html:2 html/login.html:30
+#: html/base.html:658 html/login.html:2 html/login.html:30
 msgid "Log in"
 msgstr ""
 
-#: html/base.html:381
+#: html/base.html:676
 msgid "Home"
 msgstr ""
 
-#: html/base.html:460
-msgid "Food fundraiser"
+#: html/base.html:707 html/playlists.html:3 html/profile.html:130
+msgid "Playlists"
 msgstr ""
 
-#: html/base.html:469
+#: html/base.html:773
 msgid "Other"
 msgstr ""
 
-#: html/base.html:486
+#: html/base.html:790
 msgid "Total sounds"
 msgstr ""
 
-#: html/base.html:499
+#: html/base.html:861
+msgid "No sound playing"
+msgstr ""
+
+#: html/base.html:877
 msgid ""
 "service for searching and downloading sounds for soundboards such as "
 "Soundpad or mobile devices."
 msgstr ""
 
-#: html/base.html:501
+#: html/base.html:879
 msgid "Find sounds and effects from TV, games, memes, and more."
 msgstr ""
 
-#: html/base.html:505
+#: html/base.html:883
 msgid "Navigation"
 msgstr ""
 
-#: html/base.html:515 html/privacy.html:2
+#: html/base.html:893 html/privacy.html:2
 msgid "Privacy policy"
 msgstr ""
 
-#: html/base.html:516 html/terms.html:2
+#: html/base.html:894 html/terms.html:2
 msgid "Terms of use"
 msgstr ""
 
-#: html/base.html:519
+#: html/base.html:897
 msgid "Links"
 msgstr ""
 
-#: html/base.html:531
+#: html/base.html:910
 msgid "Translations"
 msgstr ""
 
-#: html/base.html:834
+#: html/base.html:1507
 msgid "Edit tags"
 msgstr ""
 
-#: html/base.html:836 html/upload.html:75
+#: html/base.html:1509 html/upload.html:75
 msgid "Tags"
 msgstr ""
 
-#: html/base.html:847
+#: html/base.html:1520
 msgid "Is loud"
 msgstr ""
 
-#: html/base.html:852 html/base.html:983 html/base.html:1118
-#: html/base.html:1539 html/upload.html:47 html/upload.html:114
+#: html/base.html:1525
+msgid "Is explicit"
+msgstr ""
+
+#: html/base.html:1530 html/base.html:1663 html/base.html:1749
+#: html/base.html:1888 html/base.html:1963 html/base.html:2001
+#: html/base.html:2862 html/upload.html:47 html/upload.html:114
 msgid "Cancel"
 msgstr ""
 
-#: html/base.html:960
+#: html/base.html:1640
 msgid "Report a sound"
 msgstr ""
 
-#: html/base.html:966
+#: html/base.html:1646
 msgid ""
 "We are strictly against any violations of our terms of use. Users have "
 "the ability to complain about content that is considered “spam,” “illegal"
@@ -196,101 +213,151 @@ msgid ""
 "removal will be permanent."
 msgstr ""
 
-#: html/base.html:969
+#: html/base.html:1649
 msgid ""
 "Please state your request in English or Russian only. We cannot process "
 "requests in other languages."
 msgstr ""
 
-#: html/base.html:973
+#: html/base.html:1653
 msgid "Comment, questions, reason for post."
 msgstr ""
 
-#: html/base.html:978
+#: html/base.html:1658
 msgid "Your e-mail address"
 msgstr ""
 
-#: html/base.html:982 html/sound.html:97 html/tag.html:123
+#: html/base.html:1662 html/sound.html:107
 msgid "Report"
 msgstr ""
 
-#: html/base.html:1001
+#: html/base.html:1683
+msgid "You have already sent a report."
+msgstr ""
+
+#: html/base.html:1687
 msgid "Please enter a valid reason."
 msgstr ""
 
-#: html/base.html:1005
+#: html/base.html:1691
 msgid "Please enter a valid email."
 msgstr ""
 
-#: html/base.html:1034
+#: html/base.html:1720 html/base.html:1914
 msgid "Are you sure?"
 msgstr ""
 
-#: html/base.html:1036 html/base.html:1364
+#: html/base.html:1722 html/base.html:1917 html/base.html:2585
+#: html/base.html:2613 html/sound.html:160 html/sound.html:187
 msgid "Yes"
 msgstr ""
 
-#: html/base.html:1037 html/base.html:1365
+#: html/base.html:1723 html/base.html:1918 html/base.html:2586
+#: html/base.html:2614 html/sound.html:161 html/sound.html:188
 msgid "No"
 msgstr ""
 
-#: html/base.html:1078 html/base.html:1088
+#: html/base.html:1745
+msgid "External Link Warning"
+msgstr ""
+
+#: html/base.html:1746
+msgid ""
+"You are about to leave uwupad.me. We do not take responsibility for the "
+"content on external sites."
+msgstr ""
+
+#: html/base.html:1748
+msgid "Proceed"
+msgstr ""
+
+#: html/base.html:1831 html/base.html:1841
 msgid "Copied to clipboard"
 msgstr ""
 
-#: html/base.html:1111
+#: html/base.html:1858 html/base.html:1958
 msgid "If you like our project, you can support it by clicking the link below."
 msgstr ""
 
-#: html/base.html:1116
-msgid "Telegram Channel"
+#: html/base.html:1882
+msgid "Contact us"
 msgstr ""
 
-#: html/base.html:1250 html/sound.html:59 html/sound.html:266 html/tag.html:93
+#: html/base.html:1915
+msgid "You are about to leave the donation page"
+msgstr ""
+
+#: html/base.html:1993
+msgid "Join our Discord server to chat with other users and get the latest news."
+msgstr ""
+
+#: html/base.html:1999 html/base.html:2060 html/base.html:2124
+msgid "Join Discord"
+msgstr ""
+
+#: html/base.html:2072 html/base.html:2136
+msgid "Telegram Bot"
+msgstr ""
+
+#: html/base.html:2140
+msgid "OK"
+msgstr ""
+
+#: html/base.html:2292 html/sound.html:65 html/sound.html:336
 msgid "LOUD"
 msgstr ""
 
-#: html/base.html:1259 html/sound.html:75 html/tag.html:102
+#: html/base.html:2293 html/sound.html:69
+msgid "EXPLICIT"
+msgstr ""
+
+#: html/base.html:2302 html/sound.html:85
 msgid "Add to Soundpad"
 msgstr ""
 
-#: html/base.html:1362
+#: html/base.html:2583 html/sound.html:158
 msgid "This sound is too loud. Are you sure you want to play it back?"
 msgstr ""
 
-#: html/base.html:1481 html/sound.html:227
+#: html/base.html:2611 html/sound.html:185
+msgid ""
+"This sound includes sensitive content and it may be inappropriate to "
+"listen to. Are you sure you want to play it back?"
+msgstr ""
+
+#: html/base.html:2804 html/sound.html:297
 msgid "The best sound sharing service for Soundpad"
 msgstr ""
 
-#: html/base.html:1483 html/sound.html:229
+#: html/base.html:2806 html/sound.html:299
 msgid "Sound"
 msgstr ""
 
-#: html/base.html:1484 html/sound.html:230
+#: html/base.html:2807 html/sound.html:300
 msgid "Listen"
 msgstr ""
 
-#: html/base.html:1529
+#: html/base.html:2852
 msgid "Select playlist"
 msgstr ""
 
-#: html/base.html:1532
+#: html/base.html:2855
 msgid "Create new playlist"
 msgstr ""
 
-#: html/base.html:1536
+#: html/base.html:2859
 msgid "Playlist name"
 msgstr ""
 
-#: html/base.html:1538
+#: html/base.html:2861
 msgid "Add"
 msgstr ""
 
-#: html/base.html:1584
+#: html/base.html:2907
 msgid "You must be logged in to add sounds to your playlist."
 msgstr ""
 
-#: html/base.html:1593
+#: html/base.html:2916
 msgid "Slow down!"
 msgstr ""
 
@@ -335,14 +402,14 @@ msgstr ""
 msgid "Uwupad - Get and share funny sounds. Easy."
 msgstr ""
 
-#: html/index.html:18
+#: html/index.html:13
 msgid ""
 "Enabled 'Show only on my language' mode. You can disable it in language "
 "settings."
 msgstr ""
 
-#: html/index.html:29 html/playlist.html:85 html/profile.html:168
-#: html/search.html:21 html/tag.html:21
+#: html/index.html:25 html/playlist.html:106 html/playlists.html:29
+#: html/profile.html:167 html/search.html:21 html/tag.html:21
 msgid "Show more"
 msgstr ""
 
@@ -416,7 +483,7 @@ msgstr ""
 msgid "Back to main page"
 msgstr ""
 
-#: html/playlist.html:2 html/playlist.html:52
+#: html/playlist.html:2 html/playlist.html:60
 msgid "Playlist"
 msgstr ""
 
@@ -425,23 +492,35 @@ msgid "Title"
 msgstr ""
 
 #: html/playlist.html:24
+msgid "Playlist access"
+msgstr ""
+
+#: html/playlist.html:27
+msgid "Public"
+msgstr ""
+
+#: html/playlist.html:32
 msgid "Preview Image"
 msgstr ""
 
-#: html/playlist.html:30 html/profile.html:35
+#: html/playlist.html:38 html/profile.html:35
 msgid "GIF only for VIP users"
 msgstr ""
 
-#: html/playlist.html:57
+#: html/playlist.html:65
 msgid "Edit"
 msgstr ""
 
-#: html/playlist.html:63 html/sound.html:90
+#: html/playlist.html:71 html/sound.html:100
 msgid "Delete"
 msgstr ""
 
-#: html/playlist.html:182 html/profile.html:448
+#: html/playlist.html:203 html/profile.html:388
 msgid "GIF is only allowed for VIP users"
+msgstr ""
+
+#: html/playlists.html:14
+msgid "Search playlists"
 msgstr ""
 
 #: html/profile.html:2
@@ -457,56 +536,52 @@ msgstr ""
 msgid "Avatar"
 msgstr ""
 
-#: html/profile.html:73
+#: html/profile.html:72
 msgid "Edit profile"
 msgstr ""
 
-#: html/profile.html:79
+#: html/profile.html:78
 msgid "Log out"
 msgstr ""
 
-#: html/profile.html:84
+#: html/profile.html:83
 msgid "Edit role"
 msgstr ""
 
-#: html/profile.html:92 html/profile.html:611
+#: html/profile.html:91 html/profile.html:551
 msgid "Add to blacklist"
 msgstr ""
 
-#: html/profile.html:113
+#: html/profile.html:112
 msgid "Uploaded"
 msgstr ""
 
-#: html/profile.html:122
+#: html/profile.html:121
 msgid "Liked"
 msgstr ""
 
-#: html/profile.html:131
-msgid "Playlists"
-msgstr ""
-
-#: html/profile.html:141
+#: html/profile.html:140
 msgid "Blacklist"
 msgstr ""
 
-#: html/profile.html:396 html/profile.html:469 html/profile.html:571
-#: html/profile.html:599 html/upload.html:257
+#: html/profile.html:336 html/profile.html:409 html/profile.html:511
+#: html/profile.html:539 html/upload.html:257
 msgid "An error occurred"
 msgstr ""
 
-#: html/profile.html:503
+#: html/profile.html:443
 msgid "Role"
 msgstr ""
 
-#: html/profile.html:516
+#: html/profile.html:456
 msgid "Expire date"
 msgstr ""
 
-#: html/profile.html:523
+#: html/profile.html:463
 msgid "Give role"
 msgstr ""
 
-#: html/profile.html:581 html/profile.html:608
+#: html/profile.html:521 html/profile.html:548
 msgid "Remove from blacklist"
 msgstr ""
 
@@ -550,19 +625,19 @@ msgstr ""
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr ""
 
-#: html/sound.html:23
+#: html/sound.html:29
 msgid "DELETED"
 msgstr ""
 
-#: html/sound.html:83
+#: html/sound.html:93
 msgid "Block owner"
 msgstr ""
 
-#: html/sound.html:295
+#: html/sound.html:366
 msgid "Are you sure you want to block this user?"
 msgstr ""
 
-#: html/sound.html:298
+#: html/sound.html:369
 msgid "Delete all user sounds"
 msgstr ""
 
@@ -603,7 +678,7 @@ msgid "Supported formats: mp3, wav, ogg"
 msgstr ""
 
 #: html/upload.html:105
-msgid "Max file size: 50MB"
+msgid "Max file size: 5MB"
 msgstr ""
 
 #: html/upload.html:143
@@ -665,289 +740,319 @@ msgstr ""
 #: html/vip.html:15
 msgid ""
 "As a VIP member, you're helping support the developers and the project. "
-"Thank you for your support!"
+"Thank you for\n"
+"            your support!"
 msgstr ""
 
-#: html/vip.html:18
+#: html/vip.html:19
 msgid "VIP Benefits"
 msgstr ""
 
-#: html/vip.html:21
+#: html/vip.html:23
 msgid "Your profile and sounds will have a yellow"
 msgstr ""
 
-#: html/vip.html:24
+#: html/vip.html:27
 msgid "Yellow"
 msgstr ""
 
-#: html/vip.html:24
+#: html/vip.html:27
 msgid "Nickname"
 msgstr ""
 
-#: html/vip.html:25
+#: html/vip.html:28
 msgid "Your nickname will stand out in recommendations and other tabs."
 msgstr ""
 
-#: html/vip.html:27
-msgid "Animated Avatar: You can set an animated avatar."
-msgstr ""
-
-#: html/vip.html:32
-msgid "More Useful Features Coming Soon"
+#: html/vip.html:30
+msgid ""
+"Animated Avatar: You can set an animated\n"
+"                        avatar."
 msgstr ""
 
 #: html/vip.html:33
+msgid "No Ads: Enjoy the app without any ads."
+msgstr ""
+
+#: html/vip.html:38
+msgid "More Useful Features Coming Soon"
+msgstr ""
+
+#: html/vip.html:39
 msgid "We're constantly working on adding more benefits and features for"
 msgstr ""
 
-#: html/vip.html:34
+#: html/vip.html:41
 msgid "users. Stay tuned for updates!"
 msgstr ""
 
-#: html/vip.html:42
+#: html/vip.html:49
 msgid "You're already a VIP member!"
 msgstr ""
 
-#: html/vip.html:43
+#: html/vip.html:50
 msgid "Your VIP membership expires on:"
 msgstr ""
 
-#: html/vip.html:44
+#: html/vip.html:51
 msgid "Consider making a donation to support us even more!"
 msgstr ""
 
-#: html/vip.html:53
-msgid "Unlock all"
+#: html/vip.html:61
+msgid "Become a"
 msgstr ""
 
-#: html/vip.html:53
-msgid "features for just $9.99 per month!"
+#: html/vip.html:62
+msgid ""
+"There are three ways to become a VIP: be an active user of the site,\n"
+"                purchase the status for a nominal fee or become a booster"
+" of our Discord server."
 msgstr ""
 
-#: html/vip.html:59
-msgid "Upgrade to VIP"
+#: html/vip.html:70
+msgid "1$/month"
 msgstr ""
 
-#: routes/api.py:55
+#: html/vip.html:78
+msgid "5$/year"
+msgstr ""
+
+#: html/vip.html:86
+msgid "10$/lifetime"
+msgstr ""
+
+#: html/vip.html:96
+msgid "Become a booster"
+msgstr ""
+
+#: html/vip.html:100
+msgid ""
+"Learn more about VIP privileges on our website or contact us for\n"
+"                details."
+msgstr ""
+
+#: routes/api.py:59
 msgid "Empty URL"
 msgstr ""
 
-#: routes/api.py:79 routes/api.py:152 routes/api.py:390 routes/api.py:439
-#: routes/api.py:468 routes/api.py:504 routes/api.py:562 routes/api.py:649
-#: routes/api.py:815 routes/api.py:845 routes/api.py:901 routes/api.py:938
-#: routes/api.py:960 routes/user.py:178
+#: routes/api.py:83 routes/api.py:157 routes/api.py:434 routes/api.py:496
+#: routes/api.py:528 routes/api.py:564 routes/api.py:635 routes/api.py:737
+#: routes/api.py:913 routes/api.py:943 routes/api.py:1003 routes/api.py:1045
+#: routes/api.py:1067 routes/user.py:238
 msgid "Not authenticated."
 msgstr ""
 
-#: routes/api.py:85
+#: routes/api.py:89
 msgid "Username cannot be empty."
 msgstr ""
 
-#: routes/api.py:87 routes/api.py:275
+#: routes/api.py:91 routes/api.py:301
 msgid "Username should be longer than 3 characters."
 msgstr ""
 
-#: routes/api.py:89
+#: routes/api.py:93
 msgid "Username should be shorter than 16 characters."
 msgstr ""
 
-#: routes/api.py:91 routes/api.py:292
+#: routes/api.py:95 routes/api.py:320
 msgid "Username already exists."
 msgstr ""
 
-#: routes/api.py:96
+#: routes/api.py:100
 msgid "Username updated successfully."
 msgstr ""
 
-#: routes/api.py:115 routes/api.py:286 routes/api.py:871
+#: routes/api.py:119 routes/api.py:314 routes/api.py:969
 msgid "Invalid email."
 msgstr ""
 
-#: routes/api.py:118
+#: routes/api.py:122
 msgid "Invalid username."
 msgstr ""
 
-#: routes/api.py:122 routes/api.py:165
+#: routes/api.py:126 routes/api.py:176
 msgid "Invalid image."
 msgstr ""
 
-#: routes/api.py:134
+#: routes/api.py:138
 msgid "Profile updated successfully"
 msgstr ""
 
-#: routes/api.py:158 routes/api.py:409
+#: routes/api.py:163 routes/api.py:454
 msgid "Playlist name cannot be empty."
 msgstr ""
 
-#: routes/api.py:160 routes/api.py:411
+#: routes/api.py:167 routes/api.py:458
 msgid "Playlist name is too long. Max 32 chars."
 msgstr ""
 
-#: routes/api.py:162 routes/api.py:413
+#: routes/api.py:172 routes/api.py:463
 msgid "Playlist name is too short. Min 4 chars."
 msgstr ""
 
-#: routes/api.py:174
-msgid "Playlist created successfully."
-msgstr ""
-
-#: routes/api.py:226 routes/api.py:267 routes/email.py:62
-msgid "Please fill all fields."
-msgstr ""
-
-#: routes/api.py:229
-msgid "Email should be longer than 3 characters."
-msgstr ""
-
-#: routes/api.py:232 routes/api.py:283
-msgid "Password should be longer than 8 characters."
-msgstr ""
-
-#: routes/api.py:244 routes/api.py:249
-msgid "Account with this email does not exist."
-msgstr ""
-
-#: routes/api.py:252
-msgid "Invalid password."
-msgstr ""
-
-#: routes/api.py:270
-msgid "Email should be longer than 5 characters."
-msgstr ""
-
-#: routes/api.py:280
-msgid "Please pass reCAPTCHA check."
-msgstr ""
-
-#: routes/api.py:289
-msgid "Account with this email already exists."
-msgstr ""
-
-#: routes/api.py:395 routes/api.py:444 routes/api.py:472
-msgid "Invalid data."
-msgstr ""
-
-#: routes/api.py:401 routes/api.py:419 routes/api.py:449 routes/api.py:477
+#: routes/api.py:180 routes/api.py:445 routes/api.py:473 routes/api.py:506
+#: routes/api.py:537
 msgid "Playlist not found."
 msgstr ""
 
-#: routes/api.py:403 routes/api.py:451 routes/api.py:479 routes/api.py:510
+#: routes/api.py:182 routes/api.py:447 routes/api.py:508 routes/api.py:539
+#: routes/api.py:570
 msgid "You don't have permission."
 msgstr ""
 
-#: routes/api.py:415
+#: routes/api.py:193
+msgid "Playlist updated successfully."
+msgstr ""
+
+#: routes/api.py:250 routes/api.py:293 routes/email.py:62
+msgid "Please fill all fields."
+msgstr ""
+
+#: routes/api.py:253
+msgid "Email should be longer than 3 characters."
+msgstr ""
+
+#: routes/api.py:256 routes/api.py:309
+msgid "Password should be longer than 8 characters."
+msgstr ""
+
+#: routes/api.py:270 routes/api.py:275
+msgid "Account with this email does not exist."
+msgstr ""
+
+#: routes/api.py:278
+msgid "Invalid password."
+msgstr ""
+
+#: routes/api.py:296
+msgid "Email should be longer than 5 characters."
+msgstr ""
+
+#: routes/api.py:311
+msgid "Password should contain only latin letters and numbers."
+msgstr ""
+
+#: routes/api.py:317
+msgid "Account with this email already exists."
+msgstr ""
+
+#: routes/api.py:439 routes/api.py:501 routes/api.py:532
+msgid "Invalid data."
+msgstr ""
+
+#: routes/api.py:468
 msgid "Playlist with this name already exists."
 msgstr ""
 
-#: routes/api.py:422 routes/api.py:508
+#: routes/api.py:476 routes/api.py:568
 msgid "Sound not found."
 msgstr ""
 
-#: routes/api.py:426
+#: routes/api.py:480
 msgid "Sound already in playlist."
 msgstr ""
 
-#: routes/api.py:430
+#: routes/api.py:486
 msgid "Sound added to playlist {}."
 msgstr ""
 
-#: routes/api.py:455
+#: routes/api.py:512
 msgid "Sound not in playlist."
 msgstr ""
 
-#: routes/api.py:459
+#: routes/api.py:518
 msgid "Sound removed from playlist {}."
 msgstr ""
 
-#: routes/api.py:483
+#: routes/api.py:543
 msgid "Playlist deleted."
 msgstr ""
 
-#: routes/api.py:516
+#: routes/api.py:576
 msgid "Sound deleted."
 msgstr ""
 
-#: routes/api.py:566
+#: routes/api.py:639
 msgid "You are already uploading a sound."
 msgstr ""
 
-#: routes/api.py:573
+#: routes/api.py:645
 msgid "Could not download file."
 msgstr ""
 
-#: routes/api.py:598
+#: routes/api.py:669
 msgid "Title cannot be empty."
 msgstr ""
 
-#: routes/api.py:605
+#: routes/api.py:676
 msgid "Invalid file format."
 msgstr ""
 
-#: routes/api.py:609
+#: routes/api.py:680
 msgid "Invalid file size."
 msgstr ""
 
-#: routes/api.py:653
+#: routes/api.py:741
 msgid "Sound liked."
 msgstr ""
 
-#: routes/api.py:653
+#: routes/api.py:741
 msgid "Sound unliked."
 msgstr ""
 
-#: routes/api.py:820
+#: routes/api.py:918
 msgid "You cannot blacklist yourself."
 msgstr ""
 
-#: routes/api.py:829
+#: routes/api.py:927
 msgid "User removed from blacklist."
 msgstr ""
 
-#: routes/api.py:836
+#: routes/api.py:934
 msgid "User added to blacklist."
 msgstr ""
 
-#: routes/api.py:861
+#: routes/api.py:959
 msgid "Please specify a reason. (min 5 chars)"
 msgstr ""
 
-#: routes/api.py:864
+#: routes/api.py:962
 msgid "Please specify an email."
 msgstr ""
 
-#: routes/api.py:868
+#: routes/api.py:966
 msgid "Reason should be shorter than 1024 characters."
 msgstr ""
 
-#: routes/api.py:892
+#: routes/api.py:991
 msgid "Sound reported."
 msgstr ""
 
-#: routes/api.py:909
+#: routes/api.py:1013
 msgid "Max 3 tags."
 msgstr ""
 
-#: routes/api.py:925
+#: routes/api.py:1032
 msgid "Success"
 msgstr ""
 
-#: routes/api.py:944
+#: routes/api.py:1051
 msgid "Invalid date."
 msgstr ""
 
-#: routes/api.py:948
+#: routes/api.py:1055
 msgid "Invalid role."
 msgstr ""
 
-#: routes/api.py:951
+#: routes/api.py:1058
 msgid "Role updated."
 msgstr ""
 
-#: routes/api.py:965
+#: routes/api.py:1072
 msgid "You cannot block yourself."
 msgstr ""
 
-#: routes/api.py:985
+#: routes/api.py:1092
 msgid "User blocked."
 msgstr ""
 
@@ -983,11 +1088,11 @@ msgstr ""
 msgid "Email sent. Check your inbox."
 msgstr ""
 
-#: routes/user.py:162
+#: routes/user.py:225
 msgid "Invalid user ID."
 msgstr ""
 
-#: routes/user.py:180
+#: routes/user.py:240
 msgid "Not an admin."
 msgstr ""
 
@@ -1076,5 +1181,62 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Please enter tags."
+#~ msgstr ""
+
+#~ msgid "Ошибка! Пожалуйста, пройдите проверку reCAPTCHA."
+#~ msgstr ""
+
+#~ msgid "Playlist created successfully."
+#~ msgstr ""
+
+#~ msgid "Please pass reCAPTCHA check."
+#~ msgstr ""
+
+#~ msgid "Comments"
+#~ msgstr ""
+
+#~ msgid "Close"
+#~ msgstr ""
+
+#~ msgid "Food fundraiser"
+#~ msgstr ""
+
+#~ msgid "Telegram Channel"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "As a VIP member, you're helping "
+#~ "support the developers and the project."
+#~ " Thank you for your support!"
+#~ msgstr ""
+
+#~ msgid "Animated Avatar: You can set an animated avatar."
+#~ msgstr ""
+
+#~ msgid "features for just $9.99 per month!"
+#~ msgstr ""
+
+#~ msgid "Upgrade to VIP"
+#~ msgstr ""
+
+#~ msgid "Max file size: 50MB"
+#~ msgstr ""
+
+#~ msgid "Monthly VIP ($2.99)"
+#~ msgstr ""
+
+#~ msgid "Lifetime VIP ($9.99)"
+#~ msgstr ""
+
+#~ msgid "Unlock all"
+#~ msgstr ""
+
+#~ msgid "features"
+#~ msgstr ""
+
+#~ msgid "Monthly VIP"
+#~ msgstr ""
+
+#~ msgid "Lifetime VIP"
 #~ msgstr ""
 
