@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-07-14 22:02+0300\n"
 "PO-Revision-Date: 2024-05-10 18:04+0300\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: ruixiinn \n"
 "Language: zh\n"
 "Language-Team: zh <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -53,11 +53,11 @@ msgstr "保存"
 
 #: html/base.html:542
 msgid "Remove ADS"
-msgstr ""
+msgstr "移除广告"
 
 #: html/base.html:550
 msgid "Online: "
-msgstr ""
+msgstr "在线"
 
 #: html/base.html:571 html/base.html:884 html/profile.html:151
 msgid "Upload sound"
@@ -87,12 +87,12 @@ msgstr "新闻"
 
 #: html/base.html:593 html/base.html:908
 msgid "Discord"
-msgstr ""
+msgstr "Discord服务器"
 
 #: html/base.html:595 html/base.html:2066 html/base.html:2130
 #, fuzzy
 msgid "Telegram"
-msgstr "Telegram机器人"
+msgstr "Telegram"
 
 #: html/base.html:597 html/base.html:767 html/base.html:898 html/base.html:1857
 #: html/base.html:1961 html/vip.html:56
@@ -134,7 +134,7 @@ msgstr "首页"
 
 #: html/base.html:707 html/playlists.html:3 html/profile.html:130
 msgid "Playlists"
-msgstr ""
+msgstr "播放列表"
 
 #: html/base.html:773
 msgid "Other"
@@ -153,7 +153,9 @@ msgstr "已上传声音"
 msgid ""
 "service for searching and downloading sounds for soundboards such as "
 "Soundpad or mobile devices."
-msgstr "为音效板提供搜索和下载声音的服务，如Soundpad或移动设备"
+msgstr ""
+"为音效板提供搜索和下载声音的服务，"
+"如Soundpad或移动设备"
 
 #: html/base.html:879
 msgid "Find sounds and effects from TV, games, memes, and more."
@@ -195,7 +197,7 @@ msgstr "刺耳的"
 
 #: html/base.html:1525
 msgid "Is explicit"
-msgstr ""
+msgstr "明确"
 
 #: html/base.html:1530 html/base.html:1663 html/base.html:1749
 #: html/base.html:1888 html/base.html:1963 html/base.html:2001
@@ -222,7 +224,8 @@ msgstr ""
 msgid ""
 "Please state your request in English or Russian only. We cannot process "
 "requests in other languages."
-msgstr "请仅使用英语或俄语说明您的请求。我们无法处理其他语言的申请。"
+msgstr ""
+"请仅使用英语或俄语说明您的请求。我们无法处理其他语言的申请。"
 
 #: html/base.html:1653
 msgid "Comment, questions, reason for post."
@@ -265,17 +268,19 @@ msgstr "否"
 
 #: html/base.html:1745
 msgid "External Link Warning"
-msgstr ""
+msgstr "外部链接警告"
 
 #: html/base.html:1746
 msgid ""
 "You are about to leave uwupad.me. We do not take responsibility for the "
 "content on external sites."
 msgstr ""
+"您即将离开 uwupad。"
+"我们对外部网站的内容不承担任何责任。"
 
 #: html/base.html:1748
 msgid "Proceed"
-msgstr ""
+msgstr "继续"
 
 #: html/base.html:1831 html/base.html:1841
 msgid "Copied to clipboard"
@@ -292,15 +297,15 @@ msgstr "联系方式"
 
 #: html/base.html:1915
 msgid "You are about to leave the donation page"
-msgstr ""
+msgstr "您即将离开捐赠页面"
 
 #: html/base.html:1993
 msgid "Join our Discord server to chat with other users and get the latest news."
-msgstr ""
+msgstr "加入我们的 Discord 服务器，与其他用户聊天并获取最新消息。"
 
 #: html/base.html:1999 html/base.html:2060 html/base.html:2124
 msgid "Join Discord"
-msgstr ""
+msgstr "加入Discord服务器"
 
 #: html/base.html:2072 html/base.html:2136
 #, fuzzy
@@ -309,7 +314,7 @@ msgstr "Telegram机器人"
 
 #: html/base.html:2140
 msgid "OK"
-msgstr ""
+msgstr "好"
 
 #: html/base.html:2292 html/sound.html:65 html/sound.html:336
 msgid "LOUD"
@@ -317,7 +322,7 @@ msgstr "刺耳的"
 
 #: html/base.html:2293 html/sound.html:69
 msgid "EXPLICIT"
-msgstr ""
+msgstr "说明"
 
 #: html/base.html:2302 html/sound.html:85
 msgid "Add to Soundpad"
@@ -332,7 +337,9 @@ msgstr "声音太大了。你确定要重新播放吗？"
 msgid ""
 "This sound includes sensitive content and it may be inappropriate to "
 "listen to. Are you sure you want to play it back?"
-msgstr "声音太大了。你确定要重新播放吗？"
+msgstr "" 
+"声音太大了。"
+"你确定要重新播放吗？"
 
 #: html/base.html:2804 html/sound.html:297
 msgid "The best sound sharing service for Soundpad"
@@ -348,7 +355,7 @@ msgstr "听"
 
 #: html/base.html:2852
 msgid "Select playlist"
-msgstr ""
+msgstr "选择播放列表"
 
 #: html/base.html:2855
 #, fuzzy
@@ -357,15 +364,15 @@ msgstr "重复新密码"
 
 #: html/base.html:2859
 msgid "Playlist name"
-msgstr ""
+msgstr "播放列表名称"
 
 #: html/base.html:2861
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: html/base.html:2907
 msgid "You must be logged in to add sounds to your playlist."
-msgstr ""
+msgstr "您必须登录后才能在播放列表中添加声音。"
 
 #: html/base.html:2916
 msgid "Slow down!"
@@ -394,19 +401,19 @@ msgstr "密码已更改"
 
 #: html/checkout.html:2
 msgid "VIP Checkout"
-msgstr ""
+msgstr "会员结账"
 
 #: html/checkout.html:12
 msgid "VIP Membership Checkout"
-msgstr ""
+msgstr "贵宾会员结帐"
 
 #: html/checkout.html:18
 msgid "Payment Method:"
-msgstr ""
+msgstr "付款方式："
 
 #: html/checkout.html:39
 msgid "Proceed to Payment"
-msgstr ""
+msgstr "继续付款"
 
 #: html/index.html:3
 msgid "Uwupad - Get and share funny sounds. Easy."
@@ -416,7 +423,9 @@ msgstr "Uwupad - 获取并分享有趣的声音。轻而易举。"
 msgid ""
 "Enabled 'Show only on my language' mode. You can disable it in language "
 "settings."
-msgstr "已启用 “仅在我的语言中显示 ”模式。您可以在语言选项中设置"
+msgstr ""
+"已启用 “仅在我的语言中显示 ”模式。您可以在语言选项中"
+"设置"
 
 #: html/index.html:25 html/playlist.html:106 html/playlists.html:29
 #: html/profile.html:167 html/search.html:21 html/tag.html:21
@@ -497,7 +506,7 @@ msgstr "返回主页面"
 
 #: html/playlist.html:2 html/playlist.html:60
 msgid "Playlist"
-msgstr ""
+msgstr "播放列表"
 
 #: html/playlist.html:18 html/upload.html:69 html/upload.html:71
 msgid "Title"
@@ -510,7 +519,7 @@ msgstr "成功更新个人资料"
 
 #: html/playlist.html:27
 msgid "Public"
-msgstr ""
+msgstr "公开"
 
 #: html/playlist.html:32
 #, fuzzy
@@ -519,7 +528,7 @@ msgstr "上一页"
 
 #: html/playlist.html:38 html/profile.html:35
 msgid "GIF only for VIP users"
-msgstr ""
+msgstr "仅限会员用户使用动图"
 
 #: html/playlist.html:65
 #, fuzzy
@@ -532,7 +541,7 @@ msgstr "删除"
 
 #: html/playlist.html:203 html/profile.html:388
 msgid "GIF is only allowed for VIP users"
-msgstr ""
+msgstr "仅允许会员用户使用动图"
 
 #: html/playlists.html:14
 #, fuzzy
@@ -655,11 +664,11 @@ msgstr "屏蔽用户"
 
 #: html/sound.html:366
 msgid "Are you sure you want to block this user?"
-msgstr ""
+msgstr "您确定要禁止这个用户吗？"
 
 #: html/sound.html:369
 msgid "Delete all user sounds"
-msgstr ""
+msgstr "删除所有声音"
 
 #: html/upload.html:2 html/upload.html:84 html/upload.html:111
 msgid "Upload"
@@ -667,7 +676,7 @@ msgstr "上传"
 
 #: html/upload.html:19
 msgid "Supported services"
-msgstr ""
+msgstr "支持"
 
 #: html/upload.html:44
 msgid "Import"
@@ -756,7 +765,7 @@ msgstr "未找到具有此 ID 的用户。请检查输入的数据。"
 
 #: html/vip.html:12
 msgid "Welcome to VIP Membership!"
-msgstr ""
+msgstr "欢迎成为 VIP 会员！"
 
 #: html/vip.html:15
 msgid ""
@@ -764,48 +773,53 @@ msgid ""
 "Thank you for\n"
 "            your support!"
 msgstr ""
+"作为 VIP 会员，您将为开发人员和项目提供支持。"
+"感谢\n"
+"            您的支持"
 
 #: html/vip.html:19
 msgid "VIP Benefits"
-msgstr ""
+msgstr "会员优惠"
 
 #: html/vip.html:23
 msgid "Your profile and sounds will have a yellow"
-msgstr ""
+msgstr "您的个人资料和声音将显示黄色"
 
 #: html/vip.html:27
 msgid "Yellow"
-msgstr ""
+msgstr "黄色"
 
 #: html/vip.html:27
 msgid "Nickname"
-msgstr ""
+msgstr "昵称"
 
 #: html/vip.html:28
 msgid "Your nickname will stand out in recommendations and other tabs."
-msgstr ""
+msgstr "您的昵称将在推荐和其他标签中脱颖而出。"
 
 #: html/vip.html:30
 msgid ""
 "Animated Avatar: You can set an animated\n"
 "                        avatar."
 msgstr ""
+"动态头像：您可以设置动态头像。\n"
+"                        头像"
 
 #: html/vip.html:33
 msgid "No Ads: Enjoy the app without any ads."
-msgstr ""
+msgstr "无广告： 享受无广告应用程序。"
 
 #: html/vip.html:38
 msgid "More Useful Features Coming Soon"
-msgstr ""
+msgstr "更多实用功能即将推出"
 
 #: html/vip.html:39
 msgid "We're constantly working on adding more benefits and features for"
-msgstr ""
+msgstr "我们一直在努力为以下用户增加更多的优势和功能"
 
 #: html/vip.html:41
 msgid "users. Stay tuned for updates!"
-msgstr ""
+msgstr "敬请关注更新！"
 
 #: html/vip.html:49
 msgid "You're already a VIP member!"
@@ -813,44 +827,47 @@ msgstr ""
 
 #: html/vip.html:50
 msgid "Your VIP membership expires on:"
-msgstr ""
+msgstr "您已经是VIP会员了！"
 
 #: html/vip.html:51
 msgid "Consider making a donation to support us even more!"
-msgstr ""
+msgstr "请考虑捐款，为我们提供更多支持！"
 
 #: html/vip.html:61
 msgid "Become a"
-msgstr ""
+msgstr "成为"
 
 #: html/vip.html:62
 msgid ""
 "There are three ways to become a VIP: be an active user of the site,\n"
 "                purchase the status for a nominal fee or become a booster"
 " of our Discord server."
-msgstr ""
+msgstr "有三种方式可以成为 VIP：成为网站的活跃用户，\n"
+"                以象征性的费用购买身份或者"
+"为我们的Discord服务器援助。"
 
 #: html/vip.html:70
 msgid "1$/month"
-msgstr ""
+msgstr "1 美元/月"
 
 #: html/vip.html:78
 msgid "5$/year"
-msgstr ""
+msgstr "5 美元/年"
 
 #: html/vip.html:86
 msgid "10$/lifetime"
-msgstr ""
+msgstr "10 美元/终身"
 
 #: html/vip.html:96
 msgid "Become a booster"
-msgstr ""
+msgstr "成为助力者"
 
 #: html/vip.html:100
 msgid ""
 "Learn more about VIP privileges on our website or contact us for\n"
 "                details."
-msgstr ""
+msgstr "请登录我们的网站了解更多 VIP 优惠信息，或联系我们了解"
+"详情。"
 
 #: routes/api.py:59
 msgid "Empty URL"
@@ -906,11 +923,11 @@ msgstr "用户名不能为空。"
 
 #: routes/api.py:167 routes/api.py:458
 msgid "Playlist name is too long. Max 32 chars."
-msgstr ""
+msgstr "播放列表名称太长。最多 32 个字符。"
 
 #: routes/api.py:172 routes/api.py:463
 msgid "Playlist name is too short. Min 4 chars."
-msgstr ""
+msgstr "播放列表名称太短。最少 4 个字符。"
 
 #: routes/api.py:180 routes/api.py:445 routes/api.py:473 routes/api.py:506
 #: routes/api.py:537
@@ -954,7 +971,7 @@ msgstr "电子邮件长度应超过 5 个字符。"
 
 #: routes/api.py:311
 msgid "Password should contain only latin letters and numbers."
-msgstr ""
+msgstr "密码只能包含拉丁字母和数字。"
 
 #: routes/api.py:317
 msgid "Account with this email already exists."
@@ -1087,7 +1104,7 @@ msgstr "你不能把自己列入黑名单。"
 
 #: routes/api.py:1092
 msgid "User blocked."
-msgstr ""
+msgstr "用户被封禁。"
 
 #: routes/email.py:67
 msgid "Passwords do not match."
@@ -1136,7 +1153,7 @@ msgstr "不是管理员。"
 #~ msgstr "从 YouTube 导入"
 
 #~ msgid "VIP"
-#~ msgstr ""
+#~ msgstr "会员"
 
 #~ msgid "Admin Panel"
 #~ msgstr "管理员面板"
@@ -1151,10 +1168,10 @@ msgstr "不是管理员。"
 #~ msgstr "用户名"
 
 #~ msgid "By id"
-#~ msgstr ""
+#~ msgstr "ID编号"
 
 #~ msgid "By ip"
-#~ msgstr ""
+#~ msgstr "IP地址"
 
 #~ msgid "Find sound"
 #~ msgstr "声音"
@@ -1187,22 +1204,22 @@ msgstr "不是管理员。"
 #~ msgstr "用户 ID 无效。"
 
 #~ msgid "Id"
-#~ msgstr ""
+#~ msgstr "ID"
 
 #~ msgid "Find user by ip"
 #~ msgstr "用户 ID 无效。"
 
 #~ msgid "Ip"
-#~ msgstr ""
+#~ msgstr "IP"
 
 #~ msgid "Find sound by title"
-#~ msgstr ""
+#~ msgstr "按标题查找声音"
 
 #~ msgid "Find sound by tags"
-#~ msgstr ""
+#~ msgstr "按标签查找声音"
 
 #~ msgid "Find sound by id"
-#~ msgstr ""
+#~ msgstr "按 ID 查找声音"
 
 #~ msgid "Please enter an email."
 #~ msgstr "请输入有效的电子邮件。"
@@ -1223,10 +1240,10 @@ msgstr "不是管理员。"
 #~ msgstr "请输入有效理由。"
 
 #~ msgid "Ошибка! Пожалуйста, пройдите проверку reCAPTCHA."
-#~ msgstr ""
+#~ msgstr "错误！请重新确认验证码。"
 
 #~ msgid "Please pass reCAPTCHA check."
-#~ msgstr ""
+#~ msgstr "请通过 reCAPTCHA 验证。"
 
 #~ msgid "Comments"
 #~ msgstr "评论"
@@ -1235,41 +1252,44 @@ msgstr "不是管理员。"
 #~ msgstr "关闭"
 
 #~ msgid "Food fundraiser"
-#~ msgstr ""
+#~ msgstr "筹款"
 
 #~ msgid "Telegram Channel"
-#~ msgstr "Telegram机器人"
+#~ msgstr "Telegram 频道"
 
 #~ msgid ""
 #~ "As a VIP member, you're helping "
 #~ "support the developers and the project."
 #~ " Thank you for your support!"
 #~ msgstr ""
+#~ “作为VIP会员，您将帮助 ”
+#~ “支持开发者和项目”。
+#~ " 感谢您的支持！”
 
 #~ msgid "Animated Avatar: You can set an animated avatar."
-#~ msgstr ""
+#~ msgstr "动态头像：您可以设置动态头像。"
 
 #~ msgid "features for just $9.99 per month!"
-#~ msgstr ""
+#~ msgstr "所有功能每月仅需9.99美元！"
 
 #~ msgid "Upgrade to VIP"
-#~ msgstr ""
+#~ msgstr "升级为会员"
 
 #~ msgid "Monthly VIP ($2.99)"
-#~ msgstr ""
+#~ msgstr "每月会员（2.99美元）"
 
 #~ msgid "Lifetime VIP ($9.99)"
-#~ msgstr ""
+#~ msgstr "终身会员（9.99美元）"
 
 #~ msgid "Unlock all"
-#~ msgstr ""
+#~ msgstr "全部解锁"
 
 #~ msgid "features"
-#~ msgstr ""
+#~ msgstr "功能"
 
 #~ msgid "Monthly VIP"
-#~ msgstr ""
+#~ msgstr "每月VIP会员"
 
 #~ msgid "Lifetime VIP"
-#~ msgstr ""
+#~ msgstr "终身VIP会员"
 
