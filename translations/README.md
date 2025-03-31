@@ -5,10 +5,9 @@ This directory contains .po files for translating the content of uwupad.me into 
 Each language has its own directory with a .po file containing translations.
 
 ## File Structure
-
-- `ru/`: Russian translations
-- `uk/`: Ukrainian translations
-- `zh/`: Chinese translations
+`translations/{LANG_CODE}/messages.po`
+- `LANG_CODE`: The language code for the translation (e.g., `en` for English, `es` for Spanish).
+- `messages.po`: The file containing the translations for that language.
 
 ## How to Contribute
 
