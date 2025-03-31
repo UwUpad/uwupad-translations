@@ -2,16 +2,20 @@
 # Copyright (C) 2025 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+# French translation for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# Automatically generated, please revise and update.
+# Jean Dupont <jean@example.fr>, 2025.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-03-31 22:44+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2025-03-31 22:22+0300\n"
+"PO-Revision-Date: 2025-04-15 10:10+0200\n"
+"Last-Translator: AI Assistant <>\n"
+"Language-Team: French <fr@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,329 +24,329 @@ msgstr ""
 #: html/_filter.html:7 html/index/_filter.html:7
 #: html/index/_playlists_filter.html:7
 msgid "Filters"
-msgstr ""
+msgstr "Filtres"
 
 #: html/_filter.html:16 html/index/_filter.html:16
 msgid "Sound Type"
-msgstr ""
+msgstr "Type de son"
 
 #: html/_filter.html:18 html/index/_filter.html:18
 msgid "Loud"
-msgstr ""
+msgstr "Fort"
 
 #: html/_filter.html:21 html/index/_filter.html:21
 msgid "Explicit"
-msgstr ""
+msgstr "Explicite"
 
 #: html/_filter.html:26 html/index/_filter.html:26
 msgid "Duration"
-msgstr ""
+msgstr "Durée"
 
 #: html/_filter.html:28 html/index/_filter.html:28
 msgid "Very short (<5s)"
-msgstr ""
+msgstr "Très court (<5s)"
 
 #: html/_filter.html:31 html/index/_filter.html:31
 msgid "Short (5-15s)"
-msgstr ""
+msgstr "Court (5-15s)"
 
 #: html/_filter.html:34 html/index/_filter.html:34
 msgid "Medium (15-30s)"
-msgstr ""
+msgstr "Moyen (15-30s)"
 
 #: html/_filter.html:37 html/index/_filter.html:37
 msgid "Long (30-60s)"
-msgstr ""
+msgstr "Long (30-60s)"
 
 #: html/_filter.html:40 html/index/_filter.html:40
 msgid "Very long (>60s)"
-msgstr ""
+msgstr "Très long (>60s)"
 
 #: html/_filter.html:45 html/index/_filter.html:45
 #: html/index/_playlists_filter.html:35
 msgid "Popularity"
-msgstr ""
+msgstr "Popularité"
 
 #: html/_filter.html:47 html/index/_filter.html:47
 msgid "Unpopular (<10 downloads)"
-msgstr ""
+msgstr "Impopulaire (<10 téléchargements)"
 
 #: html/_filter.html:50 html/index/_filter.html:50
 msgid "Not popular (10-50 downloads)"
-msgstr ""
+msgstr "Peu populaire (10-50 téléchargements)"
 
 #: html/_filter.html:53 html/index/_filter.html:53
 msgid "Popular (50-100 downloads)"
-msgstr ""
+msgstr "Populaire (50-100 téléchargements)"
 
 #: html/_filter.html:56 html/index/_filter.html:56
 msgid ""
 "Very popular (100-500\n"
 "                                downloads)"
-msgstr ""
+msgstr "Très populaire (100-500\n                                téléchargements)"
 
 #: html/_filter.html:60 html/index/_filter.html:60
 msgid ""
 "Extremely popular (>500\n"
 "                                downloads)"
-msgstr ""
+msgstr "Extrêmement populaire (>500\n                                téléchargements)"
 
 #: html/_filter.html:66 html/index/_filter.html:66
 msgid "Likes"
-msgstr ""
+msgstr "J'aime"
 
 #: html/_filter.html:68 html/index/_filter.html:68
 msgid "Unliked (<10 likes)"
-msgstr ""
+msgstr "Peu aimé (<10 J'aime)"
 
 #: html/_filter.html:71 html/index/_filter.html:71
 msgid "Not liked (10-50 likes)"
-msgstr ""
+msgstr "Pas très aimé (10-50 J'aime)"
 
 #: html/_filter.html:74 html/index/_filter.html:74
 msgid "Liked (50-100 likes)"
-msgstr ""
+msgstr "Aimé (50-100 J'aime)"
 
 #: html/_filter.html:77 html/index/_filter.html:77
 msgid "Very liked (100-500 likes)"
-msgstr ""
+msgstr "Très aimé (100-500 J'aime)"
 
 #: html/_filter.html:80 html/index/_filter.html:80
 msgid "Extremely liked (>500 likes)"
-msgstr ""
+msgstr "Extrêmement aimé (>500 J'aime)"
 
 #: html/_filter.html:90 html/base.html:1355 html/base.html:1456
 #: html/base.html:1653 html/index.html:88 html/index/_filter.html:90
 #: html/index/_playlists_filter.html:61
 msgid "Newest"
-msgstr ""
+msgstr "Les plus récents"
 
 #: html/_filter.html:91 html/index/_filter.html:91
 msgid "Most Downloaded"
-msgstr ""
+msgstr "Les plus téléchargés"
 
 #: html/_filter.html:92 html/index/_filter.html:92
 msgid "Most Liked"
-msgstr ""
+msgstr "Les plus aimés"
 
 #: html/_filter.html:101 html/index/_filter.html:101
 #: html/index/_playlists_filter.html:72
 msgid "Apply Filters"
-msgstr ""
+msgstr "Appliquer les filtres"
 
 #: html/about.html:2 html/base.html:1366 html/base.html:1542
 #: html/base.html:1657
 msgid "About us"
-msgstr ""
+msgstr "À propos de nous"
 
 #: html/banned.html:3 html/banned.html:12
 msgid "Access denied"
-msgstr ""
+msgstr "Accès refusé"
 
 #: html/banned.html:13
 msgid "Your account has been banned"
-msgstr ""
+msgstr "Votre compte a été banni"
 
 #: html/banned.html:14
 msgid "Contact us for more information"
-msgstr ""
+msgstr "Contactez-nous pour plus d'informations"
 
 #: html/base.html:1180
 msgid "Language Settings"
-msgstr ""
+msgstr "Paramètres de langue"
 
 #: html/base.html:1184
 msgid "Interface Language"
-msgstr ""
+msgstr "Langue de l'interface"
 
 #: html/base.html:1219
 msgid "Content Language Filters"
-msgstr ""
+msgstr "Filtres de langue du contenu"
 
 #: html/base.html:1224
 msgid "Latin Scripts"
-msgstr ""
+msgstr "Écritures latines"
 
 #: html/base.html:1236
 msgid "Cyrillic Scripts"
-msgstr ""
+msgstr "Écritures cyrilliques"
 
 #: html/base.html:1248
 msgid "Asian Scripts"
-msgstr ""
+msgstr "Écritures asiatiques"
 
 #: html/base.html:1260
 msgid "Other Scripts"
-msgstr ""
+msgstr "Autres écritures"
 
 #: html/base.html:1272
 msgid "Additional Options"
-msgstr ""
+msgstr "Options supplémentaires"
 
 #: html/base.html:1276
 msgid "Prioritize sounds with translations"
-msgstr ""
+msgstr "Prioriser les sons avec traductions"
 
 #: html/base.html:1287
 msgid "Prioritize popular sounds regardless of language"
-msgstr ""
+msgstr "Prioriser les sons populaires quelle que soit la langue"
 
 #: html/base.html:1298
 msgid "Show loud warning"
-msgstr ""
+msgstr "Afficher l'avertissement sonore fort"
 
 #: html/base.html:1309
 msgid "Save & Apply"
-msgstr ""
+msgstr "Enregistrer et appliquer"
 
 #: html/base.html:1330
 msgid "Remove ADS"
-msgstr ""
+msgstr "Supprimer les publicités"
 
 #: html/base.html:1338 html/base.html:1651 html/profile.html:151
 msgid "Upload sound"
-msgstr ""
+msgstr "Téléverser un son"
 
 #: html/base.html:1354 html/base.html:1448 html/base.html:1652
 #: html/index.html:6 html/index.html:83
 msgid "For You"
-msgstr ""
+msgstr "Pour vous"
 
 #: html/base.html:1356 html/base.html:1465 html/base.html:1654
 #: html/base.html:2357 html/index.html:93
 msgid "Popular"
-msgstr ""
+msgstr "Populaire"
 
 #: html/base.html:1357 html/base.html:1484 html/base.html:1655
 #: html/leaderboard.html:2
 msgid "Leaderboard"
-msgstr ""
+msgstr "Classement"
 
 #: html/base.html:1358 html/base.html:1494 html/base.html:1656 html/news.html:2
 msgid "News"
-msgstr ""
+msgstr "Actualités"
 
 #: html/base.html:1360 html/base.html:1675
 msgid "Discord"
-msgstr ""
+msgstr "Discord"
 
 #: html/base.html:1362
 msgid "Telegram"
-msgstr ""
+msgstr "Telegram"
 
 #: html/base.html:1364 html/base.html:1534 html/base.html:1665
 #: html/base.html:2470 html/vip.html:47
 msgid "Donate"
-msgstr ""
+msgstr "Faire un don"
 
 #: html/base.html:1367 html/base.html:1543 html/base.html:1658
 #: html/base.html:1680 html/contacts.html:2
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 #: html/base.html:1368 html/base.html:1544 html/base.html:1659 html/dmca.html:3
 msgid "DMCA"
-msgstr ""
+msgstr "DMCA"
 
 #: html/base.html:1370 html/base.html:1546 html/base.html:1669
 msgid "Download Soundpad"
-msgstr ""
+msgstr "Télécharger Soundpad"
 
 #: html/base.html:1372 html/base.html:1547 html/base.html:1671
 msgid "Telegram bot"
-msgstr ""
+msgstr "Bot Telegram"
 
 #: html/base.html:1374 html/base.html:1549 html/base.html:1673
 msgid "Steam group"
-msgstr ""
+msgstr "Groupe Steam"
 
 #: html/base.html:1382
 msgid "Search"
-msgstr ""
+msgstr "Rechercher"
 
 #: html/base.html:1425 html/login.html:2 html/login.html:30
 msgid "Log in"
-msgstr ""
+msgstr "Se connecter"
 
 #: html/base.html:1443
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: html/base.html:1474 html/playlists.html:3 html/profile.html:130
 msgid "Playlists"
-msgstr ""
+msgstr "Playlists"
 
 #: html/base.html:1540
 msgid "Other"
-msgstr ""
+msgstr "Autre"
 
 #: html/base.html:1557
 msgid "Total sounds"
-msgstr ""
+msgstr "Total des sons"
 
 #: html/base.html:1628
 msgid "No sound playing"
-msgstr ""
+msgstr "Aucun son en cours de lecture"
 
 #: html/base.html:1644
 msgid ""
 "service for searching and downloading sounds for soundboards such as "
 "Soundpad or mobile devices."
-msgstr ""
+msgstr "service de recherche et de téléchargement de sons pour les soundboards tels que Soundpad ou les appareils mobiles."
 
 #: html/base.html:1646
 msgid "Find sounds and effects from TV, games, memes, and more."
-msgstr ""
+msgstr "Trouvez des sons et des effets provenant de la télévision, des jeux, des mèmes, et plus encore."
 
 #: html/base.html:1650
 msgid "Navigation"
-msgstr ""
+msgstr "Navigation"
 
 #: html/base.html:1660 html/privacy.html:2
 msgid "Privacy policy"
-msgstr ""
+msgstr "Politique de confidentialité"
 
 #: html/base.html:1661 html/terms.html:2
 msgid "Terms of use"
-msgstr ""
+msgstr "Conditions d'utilisation"
 
 #: html/base.html:1664
 msgid "Links"
-msgstr ""
+msgstr "Liens"
 
 #: html/base.html:1677
 msgid "Translations"
-msgstr ""
+msgstr "Traductions"
 
 #: html/base.html:1889
 msgid "Edit tags"
-msgstr ""
+msgstr "Modifier les tags"
 
 #: html/base.html:1891 html/upload.html:75
 msgid "Tags"
-msgstr ""
+msgstr "Tags"
 
 #: html/base.html:1902
 msgid "Is loud"
-msgstr ""
+msgstr "Est fort"
 
 #: html/base.html:1907
 msgid "Is explicit"
-msgstr ""
+msgstr "Est explicite"
 
 #: html/base.html:1911 html/playlist.html:43 html/profile.html:39
 msgid "Save"
-msgstr ""
+msgstr "Enregistrer"
 
 #: html/base.html:1912 html/base.html:2045 html/base.html:2131
 #: html/base.html:2472 html/base.html:2510 html/base.html:2550
 #: html/base.html:3462 html/upload.html:47 html/upload.html:123
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: html/base.html:2022
 msgid "Report a sound"
-msgstr ""
+msgstr "Signaler un son"
 
 #: html/base.html:2028
 msgid ""
@@ -351,1162 +355,1161 @@ msgid ""
 " activity,” or contains “copyrighted material without authorization.” If "
 "violations are found, the content will be removed immediately and this "
 "removal will be permanent."
-msgstr ""
+msgstr "Nous sommes strictement contre toute violation de nos conditions d'utilisation. Les utilisateurs ont la possibilité de se plaindre du contenu considéré comme « spam », « activité illégale » ou contenant du « matériel protégé par des droits d'auteur sans autorisation ». Si des violations sont constatées, le contenu sera supprimé immédiatement et cette suppression sera permanente."
 
 #: html/base.html:2031
 msgid ""
 "Please state your request in English or Russian only. We cannot process "
 "requests in other languages."
-msgstr ""
+msgstr "Veuillez formuler votre demande en anglais ou en russe uniquement. Nous ne pouvons pas traiter les demandes dans d'autres langues."
 
 #: html/base.html:2035
 msgid "Comment, questions, reason for post."
-msgstr ""
+msgstr "Commentaire, questions, motif du signalement."
 
 #: html/base.html:2040
 msgid "Your e-mail address"
-msgstr ""
+msgstr "Votre adresse e-mail"
 
 #: html/base.html:2044 html/sound.html:158
 msgid "Report"
-msgstr ""
+msgstr "Signaler"
 
 #: html/base.html:2065
 msgid "You have already sent a report."
-msgstr ""
+msgstr "Vous avez déjà envoyé un signalement."
 
 #: html/base.html:2069
 msgid "Please enter a valid reason."
-msgstr ""
+msgstr "Veuillez entrer un motif valide."
 
 #: html/base.html:2073
 msgid "Please enter a valid email."
-msgstr ""
+msgstr "Veuillez entrer une adresse e-mail valide."
 
 #: html/base.html:2102
 msgid "Are you sure?"
-msgstr ""
+msgstr "Êtes-vous sûr ?"
 
 #: html/base.html:2104 html/base.html:3165 html/base.html:3198
 #: html/sound-player.html:224 html/sound-player.html:252 html/sound.html:269
 #: html/sound.html:301
 msgid "Yes"
-msgstr ""
+msgstr "Oui"
 
 #: html/base.html:2105 html/base.html:3166 html/base.html:3199
 #: html/sound-player.html:225 html/sound-player.html:253 html/sound.html:270
 #: html/sound.html:302
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #: html/base.html:2127
 msgid "External Link Warning"
-msgstr ""
+msgstr "Avertissement de lien externe"
 
 #: html/base.html:2128
 msgid ""
 "You are about to leave uwupad.me. We do not take responsibility for the "
 "content on external sites."
-msgstr ""
+msgstr "Vous êtes sur le point de quitter uwupad.me. Nous n'assumons aucune responsabilité pour le contenu des sites externes."
 
 #: html/base.html:2130
 msgid "Proceed"
-msgstr ""
+msgstr "Continuer"
 
 #: html/base.html:2213 html/base.html:2223
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "Copié dans le presse-papiers"
 
 #: html/base.html:2327
 msgid "Crypto Donation"
-msgstr ""
+msgstr "Don en crypto"
 
 #: html/base.html:2344
 msgid "Contact us"
-msgstr ""
+msgstr "Contactez-nous"
 
 #: html/base.html:2347
 msgid "Crypto donation methods:"
-msgstr ""
+msgstr "Méthodes de don en crypto :"
 
 #: html/base.html:2363
 msgid "TON Ecosystem"
-msgstr ""
+msgstr "Écosystème TON"
 
 #: html/base.html:2369
 msgid "Other Coins"
-msgstr ""
+msgstr "Autres monnaies"
 
 #: html/base.html:2467
 msgid "If you like our project, you can support it by clicking the link below."
-msgstr ""
+msgstr "Si vous aimez notre projet, vous pouvez le soutenir en cliquant sur le lien ci-dessous."
 
 #: html/base.html:2502
 msgid "Join our Discord server to chat with other users and get the latest news."
-msgstr ""
+msgstr "Rejoignez notre serveur Discord pour discuter avec d'autres utilisateurs et recevoir les dernières actualités."
 
 #: html/base.html:2508
 msgid "Join Discord"
-msgstr ""
+msgstr "Rejoindre Discord"
 
 #: html/base.html:2542
 msgid "Join our Telegram channel to be aware and get the latest news."
-msgstr ""
+msgstr "Rejoignez notre chaîne Telegram pour être informé et recevoir les dernières actualités."
 
 #: html/base.html:2548
 msgid "Join Telegram"
-msgstr ""
+msgstr "Rejoindre Telegram"
 
 #: html/base.html:2696 html/sound-player.html:104 html/sound.html:116
 #: html/sound.html:450
 msgid "LOUD"
-msgstr ""
+msgstr "FORT"
 
 #: html/base.html:2697 html/sound-player.html:105 html/sound.html:120
 msgid "EXPLICIT"
-msgstr ""
+msgstr "EXPLICITE"
 
 #: html/base.html:2706 html/sound-player.html:114 html/sound.html:136
 msgid "Add to Soundpad"
-msgstr ""
+msgstr "Ajouter à Soundpad"
 
 #: html/base.html:2757 html/playlist.html:2 html/playlist.html:61
 msgid "Playlist"
-msgstr ""
+msgstr "Playlist"
 
 #: html/base.html:3098
 msgid "No sounds found"
-msgstr ""
+msgstr "Aucun son trouvé"
 
 #: html/base.html:3157 html/sound-player.html:222 html/sound.html:261
 msgid "This sound is too loud. Are you sure you want to play it back?"
-msgstr ""
+msgstr "Ce son est trop fort. Êtes-vous sûr de vouloir le lire ?"
 
 #: html/base.html:3161 html/sound.html:265
 msgid "Don't show this message again"
-msgstr ""
+msgstr "Ne plus afficher ce message"
 
 #: html/base.html:3196 html/sound-player.html:250 html/sound.html:299
 msgid ""
 "This sound includes sensitive content and it may be inappropriate to "
 "listen to. Are you sure you want to play it back?"
-msgstr ""
+msgstr "Ce son contient du contenu sensible et il peut être inapproprié de l'écouter. Êtes-vous sûr de vouloir le lire ?"
 
 #: html/base.html:3402 html/sound-player.html:449 html/sound.html:411
 msgid "The best sound sharing service for Soundpad"
-msgstr ""
+msgstr "Le meilleur service de partage de sons pour Soundpad"
 
 #: html/base.html:3404 html/sound-player.html:451 html/sound.html:413
 msgid "Sound"
-msgstr ""
+msgstr "Son"
 
 #: html/base.html:3405 html/sound-player.html:452 html/sound.html:414
 msgid "Listen"
-msgstr ""
+msgstr "Écouter"
 
 #: html/base.html:3450
 msgid "Select playlist"
-msgstr ""
+msgstr "Sélectionner une playlist"
 
 #: html/base.html:3453
 msgid "Create new playlist"
-msgstr ""
+msgstr "Créer une nouvelle playlist"
 
 #: html/base.html:3457
 msgid "Playlist name"
-msgstr ""
+msgstr "Nom de la playlist"
 
 #: html/base.html:3461
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 #: html/base.html:3527
 msgid "You must be logged in to add sounds to your playlist."
-msgstr ""
+msgstr "Vous devez être connecté pour ajouter des sons à votre playlist."
 
 #: html/base.html:3536
 msgid "Slow down!"
-msgstr ""
+msgstr "Ralentissez !"
 
 #: html/change_password.html:2 html/change_password.html:29
 msgid "Change password"
-msgstr ""
+msgstr "Changer le mot de passe"
 
 #: html/change_password.html:13
 msgid "New password"
-msgstr ""
+msgstr "Nouveau mot de passe"
 
 #: html/change_password.html:15 html/change_password.html:22 html/login.html:20
 #: html/login.html:22 html/register.html:26 html/register.html:28
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 #: html/change_password.html:20
 msgid "Repeat new password"
-msgstr ""
+msgstr "Répéter le nouveau mot de passe"
 
 #: html/change_password.html:65
 msgid "Password changed"
-msgstr ""
+msgstr "Mot de passe changé"
 
 #: html/checkout.html:2
 msgid "VIP Checkout"
-msgstr ""
+msgstr "Paiement VIP"
 
 #: html/checkout.html:12
 msgid "VIP Membership Checkout"
-msgstr ""
+msgstr "Paiement de l'adhésion VIP"
 
 #: html/checkout.html:18
 msgid "Payment Method:"
-msgstr ""
+msgstr "Méthode de paiement :"
 
 #: html/checkout.html:39
 msgid "Proceed to Payment"
-msgstr ""
+msgstr "Procéder au paiement"
 
 #: html/index.html:3
 msgid "Uwupad - Get and share funny sounds. Easy."
-msgstr ""
+msgstr "Uwupad - Obtenez et partagez des sons amusants. Facilement."
 
 #: html/index.html:13
 msgid ""
 "Enabled 'Show only on my language' mode. You can disable it in language "
 "settings."
-msgstr ""
+msgstr "Mode 'Afficher uniquement dans ma langue' activé. Vous pouvez le désactiver dans les paramètres de langue."
 
 #: html/index.html:27 html/playlist.html:108 html/playlists.html:30
 #: html/profile.html:169 html/search.html:23 html/tag.html:23
 msgid "Show more"
-msgstr ""
+msgstr "Afficher plus"
 
 #: html/leaderboard.html:15
 msgid "Top by downloads"
-msgstr ""
+msgstr "Top par téléchargements"
 
 #: html/leaderboard.html:18
 msgid "Top by uploads"
-msgstr ""
+msgstr "Top par téléversements"
 
 #: html/leaderboard.html:21
 msgid "Top by donates"
-msgstr ""
+msgstr "Top par dons"
 
 #: html/leaderboard.html:30
 msgid "Place"
-msgstr ""
+msgstr "Place"
 
 #: html/leaderboard.html:31 html/profile.html:23 html/register.html:13
 #: html/register.html:16
 msgid "Username"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: html/leaderboard.html:32 html/leaderboard.html:89
 msgid "Downloads"
-msgstr ""
+msgstr "Téléchargements"
 
 #: html/leaderboard.html:43
 msgid "Prev. page"
-msgstr ""
+msgstr "Page préc."
 
 #: html/leaderboard.html:44
 msgid "Next page"
-msgstr ""
+msgstr "Page suiv."
 
 #: html/leaderboard.html:91
 msgid "Uploads"
-msgstr ""
+msgstr "Téléversements"
 
 #: html/leaderboard.html:93
 msgid "Donated"
-msgstr ""
+msgstr "Donné"
 
 #: html/login.html:13 html/login.html:15
 msgid "Email/Username"
-msgstr ""
+msgstr "E-mail/Nom d'utilisateur"
 
 #: html/login.html:37
 msgid "Forgot password?"
-msgstr ""
+msgstr "Mot de passe oublié ?"
 
 #: html/login.html:43
 msgid "Don't have an account?"
-msgstr ""
+msgstr "Vous n'avez pas de compte ?"
 
 #: html/login.html:92
 msgid "Successfully logged in"
-msgstr ""
+msgstr "Connecté avec succès"
 
 #: html/playlist-not-found.html:2 html/playlist-not-found.html:11
 msgid "Playlist not found"
-msgstr ""
+msgstr "Playlist introuvable"
 
 #: html/playlist-not-found.html:12
 msgid "Playlist with this ID not found. Please check the entered data."
-msgstr ""
+msgstr "Playlist avec cet ID introuvable. Veuillez vérifier les données saisies."
 
 #: html/playlist-not-found.html:13 html/sound-not-found.html:13
 #: html/user-not-found.html:13
 msgid "Back to main page"
-msgstr ""
+msgstr "Retour à la page principale"
 
 #: html/playlist.html:18 html/upload.html:69 html/upload.html:71
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 #: html/playlist.html:24
 msgid "Playlist access"
-msgstr ""
+msgstr "Accès à la playlist"
 
 #: html/playlist.html:28
 msgid "Public"
-msgstr ""
+msgstr "Public"
 
 #: html/playlist.html:33
 msgid "Preview Image"
-msgstr ""
+msgstr "Image d'aperçu"
 
 #: html/playlist.html:39 html/profile.html:35
 msgid "GIF only for VIP users"
-msgstr ""
+msgstr "GIF uniquement pour les utilisateurs VIP"
 
 #: html/playlist.html:66
 msgid "Edit"
-msgstr ""
+msgstr "Modifier"
 
 #: html/playlist.html:72 html/sound.html:151
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 #: html/playlist.html:215 html/profile.html:395
 msgid "GIF is only allowed for VIP users"
-msgstr ""
+msgstr "Le GIF n'est autorisé que pour les utilisateurs VIP"
 
 #: html/playlists.html:14
 msgid "Search playlists"
-msgstr ""
+msgstr "Rechercher des playlists"
 
 #: html/profile.html:2
 msgid "Profile "
-msgstr ""
+msgstr "Profil "
 
 #: html/profile.html:17 html/register.html:20 html/register.html:22
 #: html/reset_password.html:13 html/reset_password.html:15
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: html/profile.html:29
 msgid "Avatar"
-msgstr ""
+msgstr "Avatar"
 
 #: html/profile.html:72
 msgid "Edit profile"
-msgstr ""
+msgstr "Modifier le profil"
 
 #: html/profile.html:78
 msgid "Log out"
-msgstr ""
+msgstr "Se déconnecter"
 
 #: html/profile.html:83
 msgid "Edit role"
-msgstr ""
+msgstr "Modifier le rôle"
 
 #: html/profile.html:91 html/profile.html:558
 msgid "Add to blacklist"
-msgstr ""
+msgstr "Ajouter à la liste noire"
 
 #: html/profile.html:112
 msgid "Uploaded"
-msgstr ""
+msgstr "Téléversé"
 
 #: html/profile.html:121
 msgid "Liked"
-msgstr ""
+msgstr "Aimé"
 
 #: html/profile.html:140
 msgid "Blacklist"
-msgstr ""
+msgstr "Liste noire"
 
 #: html/profile.html:343 html/profile.html:416 html/profile.html:518
 #: html/profile.html:546 html/upload.html:278
 msgid "An error occurred"
-msgstr ""
+msgstr "Une erreur s'est produite"
 
 #: html/profile.html:450
 msgid "Role"
-msgstr ""
+msgstr "Rôle"
 
 #: html/profile.html:463
 msgid "Expire date"
-msgstr ""
+msgstr "Date d'expiration"
 
 #: html/profile.html:470
 msgid "Give role"
-msgstr ""
+msgstr "Attribuer un rôle"
 
 #: html/profile.html:528 html/profile.html:555
 msgid "Remove from blacklist"
-msgstr ""
+msgstr "Retirer de la liste noire"
 
 #: html/register.html:2 html/register.html:45
 msgid "Register"
-msgstr ""
+msgstr "S'inscrire"
 
 #: html/register.html:35 html/upload.html:112
 msgid "I agree to the"
-msgstr ""
+msgstr "J'accepte les"
 
 #: html/register.html:36
 msgid "Terms of Use"
-msgstr ""
+msgstr "Conditions d'utilisation"
 
 #: html/register.html:37 html/upload.html:114
 msgid "and"
-msgstr ""
+msgstr "et la"
 
 #: html/register.html:38
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politique de confidentialité"
 
 #: html/register.html:51
 msgid "Already have an account?"
-msgstr ""
+msgstr "Vous avez déjà un compte ?"
 
 #: html/register.html:76
 msgid "You must agree to the Terms of Use and Privacy Policy."
-msgstr ""
+msgstr "Vous devez accepter les Conditions d'utilisation et la Politique de confidentialité."
 
 #: html/register.html:104
 msgid "Registration successful"
-msgstr ""
+msgstr "Inscription réussie"
 
 #: html/reset_password.html:2
 msgid "Password recovery"
-msgstr ""
+msgstr "Récupération du mot de passe"
 
 #: html/reset_password.html:20
 msgid "Reset password"
-msgstr ""
+msgstr "Réinitialiser le mot de passe"
 
 #: html/reset_password.html:53
 msgid "Mail with password recovery instructions has been sent"
-msgstr ""
+msgstr "Un e-mail contenant les instructions de récupération du mot de passe a été envoyé"
 
 #: html/reset_password_mail.html:6 html/reset_password_mail.html:103
 #: html/reset_password_mail.html:105 routes/email.py:124
 msgid "Change Password"
-msgstr ""
+msgstr "Changer le mot de passe"
 
 #: html/reset_password_mail.html:104
 msgid "Click the button below to change your password."
-msgstr ""
+msgstr "Cliquez sur le bouton ci-dessous pour changer votre mot de passe."
 
 #: html/search.html:3
 msgid "Search by query "
-msgstr ""
+msgstr "Recherche par requête "
 
 #: html/sound-not-found.html:2 html/sound-not-found.html:11
 msgid "Sound not found"
-msgstr ""
+msgstr "Son introuvable"
 
 #: html/sound-not-found.html:12
 msgid "Sound with this ID not found. Please check the entered data."
-msgstr ""
+msgstr "Son avec cet ID introuvable. Veuillez vérifier les données saisies."
 
 #: html/sound.html:80
 msgid "DELETED"
-msgstr ""
+msgstr "SUPPRIMÉ"
 
 #: html/sound.html:144
 msgid "Block owner"
-msgstr ""
+msgstr "Bloquer le propriétaire"
 
 #: html/sound.html:183
 msgid "Comments"
-msgstr ""
+msgstr "Commentaires"
 
 #: html/sound.html:198
 msgid "Add a comment..."
-msgstr ""
+msgstr "Ajouter un commentaire..."
 
 #: html/sound.html:203
 msgid "Post Comment"
-msgstr ""
+msgstr "Publier le commentaire"
 
 #: html/sound.html:211
 msgid "You must be"
-msgstr ""
+msgstr "Vous devez être"
 
 #: html/sound.html:211
 msgid "logged in"
-msgstr ""
+msgstr "connecté"
 
 #: html/sound.html:211
 msgid "to comment."
-msgstr ""
+msgstr "pour commenter."
 
 #: html/sound.html:218 html/sound.html:608
 msgid "Loading comments..."
-msgstr ""
+msgstr "Chargement des commentaires..."
 
 #: html/sound.html:223
 msgid "Load More"
-msgstr ""
+msgstr "Charger plus"
 
 #: html/sound.html:480
 msgid "Are you sure you want to block this user?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir bloquer cet utilisateur ?"
 
 #: html/sound.html:483
 msgid "Delete all user sounds"
-msgstr ""
+msgstr "Supprimer tous les sons de l'utilisateur"
 
 #: html/sound.html:561
 msgid "Delete comment"
-msgstr ""
+msgstr "Supprimer le commentaire"
 
 #: html/sound.html:619
 msgid "Could not load comments."
-msgstr ""
+msgstr "Impossible de charger les commentaires."
 
 #: html/sound.html:621
 msgid "Error loading comments."
-msgstr ""
+msgstr "Erreur lors du chargement des commentaires."
 
 #: html/sound.html:629 html/sound.html:725 html/sound.html:793
 msgid "No comments yet."
-msgstr ""
+msgstr "Pas encore de commentaires."
 
 #: html/sound.html:662
 msgid "Failed to load comments. Please try again later."
-msgstr ""
+msgstr "Échec du chargement des commentaires. Veuillez réessayer plus tard."
 
 #: html/sound.html:664
 msgid "Failed to load more comments."
-msgstr ""
+msgstr "Échec du chargement de commentaires supplémentaires."
 
 #: html/sound.html:686
 msgid "Comment cannot be empty."
-msgstr ""
+msgstr "Le commentaire ne peut pas être vide."
 
 #: html/sound.html:703
 msgid "You must be logged in to comment."
-msgstr ""
+msgstr "Vous devez être connecté pour commenter."
 
 #: html/sound.html:711
 msgid "Failed to post comment."
-msgstr ""
+msgstr "Échec de la publication du commentaire."
 
 #: html/sound.html:718
 msgid "Comment posted successfully!"
-msgstr ""
+msgstr "Commentaire publié avec succès !"
 
 #: html/sound.html:744
 msgid "An error occurred while posting your comment."
-msgstr ""
+msgstr "Une erreur s'est produite lors de la publication de votre commentaire."
 
 #: html/sound.html:780
 msgid "Comment deleted."
-msgstr ""
+msgstr "Commentaire supprimé."
 
 #: html/sound.html:798 html/sound.html:799
 msgid "Failed to delete comment."
-msgstr ""
+msgstr "Échec de la suppression du commentaire."
 
 #: html/sound.html:799
 msgid "You do not have permission to delete this comment."
-msgstr ""
+msgstr "Vous n'avez pas la permission de supprimer ce commentaire."
 
 #: html/sound.html:809
 msgid "An error occurred while deleting the comment."
-msgstr ""
+msgstr "Une erreur s'est produite lors de la suppression du commentaire."
 
 #: html/sound.html:813
 msgid "Are you sure you want to delete this comment? This cannot be undone."
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir supprimer ce commentaire ? Cette action est irréversible."
 
 #: html/upload.html:2 html/upload.html:84 html/upload.html:120
 msgid "Upload"
-msgstr ""
+msgstr "Téléverser"
 
 #: html/upload.html:19
 msgid "Supported services"
-msgstr ""
+msgstr "Services pris en charge"
 
 #: html/upload.html:44
 msgid "Import"
-msgstr ""
+msgstr "Importer"
 
 #: html/upload.html:58
 msgid "Drop file here"
-msgstr ""
+msgstr "Déposez le fichier ici"
 
 #: html/upload.html:77
 msgid "rust, loud, funny"
-msgstr ""
+msgstr "rouille, fort, drôle"
 
 #: html/upload.html:93
 msgid "Choose a file"
-msgstr ""
+msgstr "Choisir un fichier"
 
 #: html/upload.html:99
 msgid "Import from URL"
-msgstr ""
+msgstr "Importer depuis une URL"
 
 #: html/upload.html:103
 msgid "Support's only audio files"
-msgstr ""
+msgstr "Prend en charge uniquement les fichiers audio"
 
 #: html/upload.html:104
 msgid "Supported formats: mp3, wav, ogg"
-msgstr ""
+msgstr "Formats pris en charge : mp3, wav, ogg"
 
 #: html/upload.html:105
 msgid "Max file size: 5MB"
-msgstr ""
+msgstr "Taille maximale du fichier : 5 Mo"
 
 #: html/upload.html:113
 msgid "terms and conditions"
-msgstr ""
+msgstr "conditions générales"
 
 #: html/upload.html:115
 msgid "privacy policy"
-msgstr ""
+msgstr "politique de confidentialité"
 
 #: html/upload.html:159
 msgid "Already uploading"
-msgstr ""
+msgstr "Téléversement déjà en cours"
 
 #: html/upload.html:163
 msgid "You must agree to the terms and conditions and privacy policy."
-msgstr ""
+msgstr "Vous devez accepter les conditions générales et la politique de confidentialité."
 
 #: html/upload.html:201
 msgid "Add title"
-msgstr ""
+msgstr "Ajouter un titre"
 
 #: html/upload.html:206
 msgid "Add tags"
-msgstr ""
+msgstr "Ajouter des tags"
 
 #: html/upload.html:211
 msgid "Too many tags. Max 3"
-msgstr ""
+msgstr "Trop de tags. Max 3"
 
 #: html/upload.html:218
 msgid "Add file"
-msgstr ""
+msgstr "Ajouter un fichier"
 
 #: html/upload.html:224 html/upload.html:375
 msgid "File is too big"
-msgstr ""
+msgstr "Le fichier est trop volumineux"
 
 #: html/upload.html:243
 msgid "File is not an audio"
-msgstr ""
+msgstr "Le fichier n'est pas un fichier audio"
 
 #: html/upload.html:251
 msgid "Title is too long"
-msgstr ""
+msgstr "Le titre est trop long"
 
 #: html/upload.html:256
 msgid "Tag is too long"
-msgstr ""
+msgstr "Le tag est trop long"
 
 #: html/upload.html:290
 msgid "Sound uploaded"
-msgstr ""
+msgstr "Son téléversé"
 
 #: html/upload.html:414
 msgid "Enter URL"
-msgstr ""
+msgstr "Entrer l'URL"
 
 #: html/user-not-found.html:2 html/user-not-found.html:11
 msgid "User not found"
-msgstr ""
+msgstr "Utilisateur introuvable"
 
 #: html/user-not-found.html:12
 msgid "User with this ID not found. Please check the entered data."
-msgstr ""
+msgstr "Utilisateur avec cet ID introuvable. Veuillez vérifier les données saisies."
 
 #: html/vip.html:12
 msgid "Welcome to VIP Membership!"
-msgstr ""
+msgstr "Bienvenue à l'adhésion VIP !"
 
 #: html/vip.html:15
 msgid ""
 "As a VIP member, you're helping support the developers and the project. "
 "Thank you for your support!"
-msgstr ""
+msgstr "En tant que membre VIP, vous aidez à soutenir les développeurs et le projet. Merci pour votre soutien !"
 
 #: html/vip.html:18
 msgid "VIP Benefits"
-msgstr ""
+msgstr "Avantages VIP"
 
 #: html/vip.html:21
 msgid "Your profile and sounds will have a yellow"
-msgstr ""
+msgstr "Votre profil et vos sons auront un"
 
 #: html/vip.html:23
 msgid "Yellow"
-msgstr ""
+msgstr "Jaune"
 
 #: html/vip.html:23
 msgid "Nickname"
-msgstr ""
+msgstr "Pseudo"
 
 #: html/vip.html:24
 msgid "Your nickname will stand out in recommendations and other tabs."
-msgstr ""
+msgstr "Votre pseudo se démarquera dans les recommandations et autres onglets."
 
 #: html/vip.html:26
 msgid "Animated Avatar: You can set an animated avatar."
-msgstr ""
+msgstr "Avatar animé : Vous pouvez définir un avatar animé."
 
 #: html/vip.html:27
 msgid "No Ads: Enjoy the app without any ads."
-msgstr ""
+msgstr "Pas de publicités : Profitez de l'application sans aucune publicité."
 
 #: html/vip.html:31
 msgid "More Useful Features Coming Soon"
-msgstr ""
+msgstr "Plus de fonctionnalités utiles bientôt disponibles"
 
 #: html/vip.html:32
 msgid "We're constantly working on adding more benefits and features for"
-msgstr ""
+msgstr "Nous travaillons constamment à ajouter plus d'avantages et de fonctionnalités pour"
 
 #: html/vip.html:32
 msgid "users. Stay tuned for updates!"
-msgstr ""
+msgstr "les utilisateurs. Restez à l'écoute pour les mises à jour !"
 
 #: html/vip.html:40
 msgid "You're already a VIP member!"
-msgstr ""
+msgstr "Vous êtes déjà membre VIP !"
 
 #: html/vip.html:41
 msgid "Your VIP membership expires on:"
-msgstr ""
+msgstr "Votre adhésion VIP expire le :"
 
 #: html/vip.html:42
 msgid "Consider making a donation to support us even more!"
-msgstr ""
+msgstr "Envisagez de faire un don pour nous soutenir encore plus !"
 
 #: html/vip.html:51
 msgid "Become a"
-msgstr ""
+msgstr "Devenez"
 
 #: html/vip.html:52
 msgid ""
 "There are multiple ways to become a VIP: be an active user of the site or"
 " purchase the status for a lifetime."
-msgstr ""
+msgstr "Il existe plusieurs façons de devenir VIP : être un utilisateur actif du site ou acheter le statut à vie."
 
 #: html/vip.html:60
 msgid "Pay with PayPal"
-msgstr ""
+msgstr "Payer avec PayPal"
 
 #: html/vip.html:68
 msgid "Pay with Card"
-msgstr ""
+msgstr "Payer par carte"
 
 #: html/vip.html:76
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #: html/vip.html:82
 msgid "Learn more about VIP privileges on our website or contact us for details."
-msgstr ""
+msgstr "Apprenez-en plus sur les privilèges VIP sur notre site Web ou contactez-nous pour plus de détails."
 
 #: html/index/_filter.html:110
 msgid "Language"
-msgstr ""
+msgstr "Langue"
 
 #: html/index/_playlists_filter.html:16
 msgid "Sounds inside count"
-msgstr ""
+msgstr "Nombre de sons"
 
 #: html/index/_playlists_filter.html:18
 msgid "Mini (<5)"
-msgstr ""
+msgstr "Mini (<5)"
 
 #: html/index/_playlists_filter.html:21
 msgid "Small (5-15)"
-msgstr ""
+msgstr "Petite (5-15)"
 
 #: html/index/_playlists_filter.html:24
 msgid "Medium (15-30)"
-msgstr ""
+msgstr "Moyenne (15-30)"
 
 #: html/index/_playlists_filter.html:27
 msgid "Large (30-60)"
-msgstr ""
+msgstr "Grande (30-60)"
 
 #: html/index/_playlists_filter.html:30
 msgid "Very large (>60)"
-msgstr ""
+msgstr "Très grande (>60)"
 
 #: html/index/_playlists_filter.html:37
 msgid "Unpopular (<10 views)"
-msgstr ""
+msgstr "Impopulaire (<10 vues)"
 
 #: html/index/_playlists_filter.html:40
 msgid "Not popular (10-50 views)"
-msgstr ""
+msgstr "Peu populaire (10-50 vues)"
 
 #: html/index/_playlists_filter.html:43
 msgid "Popular (50-100 views)"
-msgstr ""
+msgstr "Populaire (50-100 vues)"
 
 #: html/index/_playlists_filter.html:46
 msgid ""
 "Very popular (100-500\n"
 "                                views)"
-msgstr ""
+msgstr "Très populaire (100-500\n                                vues)"
 
 #: html/index/_playlists_filter.html:50
 msgid ""
 "Extremely popular (>500\n"
 "                                views)"
-msgstr ""
+msgstr "Extrêmement populaire (>500\n                                vues)"
 
 #: html/index/_playlists_filter.html:62
 msgid "Most Viewed"
-msgstr ""
+msgstr "Les plus vues"
 
 #: html/index/_playlists_filter.html:63
 msgid "Most Filled"
-msgstr ""
+msgstr "Les plus remplies"
 
 #: html/payment/cancelled.html:10
 msgid "Payment Cancelled"
-msgstr ""
+msgstr "Paiement annulé"
 
 #: html/payment/cancelled.html:15
 msgid ""
 "Your payment has been cancelled. If this was unintentional, you can try "
 "again."
-msgstr ""
+msgstr "Votre paiement a été annulé. Si ce n'était pas intentionnel, vous pouvez réessayer."
 
 #: html/payment/cancelled.html:16
 msgid "If you are experiencing issues, please contact our support team."
-msgstr ""
+msgstr "Si vous rencontrez des problèmes, veuillez contacter notre équipe de support."
 
 #: html/payment/cancelled.html:24
 msgid "Try Again"
-msgstr ""
+msgstr "Réessayer"
 
 #: html/payment/cancelled.html:28
 msgid "Contact Support"
-msgstr ""
+msgstr "Contacter le support"
 
 #: html/payment/success.html:10
 msgid "Payment Successful"
-msgstr ""
+msgstr "Paiement réussi"
 
 #: html/payment/success.html:15
 msgid ""
 "Thank you for becoming a VIP member! Your support helps us continue "
 "developing and improving our platform."
-msgstr ""
+msgstr "Merci d'être devenu membre VIP ! Votre soutien nous aide à continuer à développer et améliorer notre plateforme."
 
 #: html/payment/success.html:16
 msgid ""
 "Your VIP status is now active and you can enjoy all the exclusive "
 "benefits."
-msgstr ""
+msgstr "Votre statut VIP est maintenant actif et vous pouvez profiter de tous les avantages exclusifs."
 
 #: html/payment/success.html:21
 msgid "View Profile"
-msgstr ""
+msgstr "Voir le profil"
 
 #: html/payment/success.html:25
 msgid "Back to Home"
-msgstr ""
+msgstr "Retour à l'accueil"
 
 #: routes/api.py:72
 msgid "Empty URL"
-msgstr ""
+msgstr "URL vide"
 
 #: routes/api.py:96 routes/api.py:170 routes/api.py:584 routes/api.py:661
 #: routes/api.py:693 routes/api.py:729 routes/api.py:819 routes/api.py:922
 #: routes/api.py:1113 routes/api.py:1143 routes/api.py:1203 routes/api.py:1245
 #: routes/api.py:1267 routes/user.py:321
 msgid "Not authenticated."
-msgstr ""
+msgstr "Non authentifié."
 
 #: routes/api.py:102
 msgid "Username cannot be empty."
-msgstr ""
+msgstr "Le nom d'utilisateur ne peut pas être vide."
 
 #: routes/api.py:104 routes/api.py:324
 msgid "Username should be longer than 3 characters."
-msgstr ""
+msgstr "Le nom d'utilisateur doit comporter plus de 3 caractères."
 
 #: routes/api.py:106 routes/api.py:326
 msgid "Username should be shorter than 16 characters."
-msgstr ""
+msgstr "Le nom d'utilisateur doit comporter moins de 16 caractères."
 
 #: routes/api.py:108 routes/api.py:354
 msgid "Username already exists."
-msgstr ""
+msgstr "Ce nom d'utilisateur existe déjà."
 
 #: routes/api.py:113
 msgid "Username updated successfully."
-msgstr ""
+msgstr "Nom d'utilisateur mis à jour avec succès."
 
 #: routes/api.py:132 routes/api.py:348 routes/api.py:1169
 msgid "Invalid email."
-msgstr ""
+msgstr "Adresse e-mail invalide."
 
 #: routes/api.py:135
 msgid "Invalid username."
-msgstr ""
+msgstr "Nom d'utilisateur invalide."
 
 #: routes/api.py:139 routes/api.py:189
 msgid "Invalid image."
-msgstr ""
+msgstr "Image invalide."
 
 #: routes/api.py:151
 msgid "Profile updated successfully"
-msgstr ""
+msgstr "Profil mis à jour avec succès"
 
 #: routes/api.py:176 routes/api.py:619
 msgid "Playlist name cannot be empty."
-msgstr ""
+msgstr "Le nom de la playlist ne peut pas être vide."
 
 #: routes/api.py:180 routes/api.py:623
 msgid "Playlist name is too long. Max 32 chars."
-msgstr ""
+msgstr "Le nom de la playlist est trop long. Max 32 caractères."
 
 #: routes/api.py:185 routes/api.py:628
 msgid "Playlist name is too short. Min 4 chars."
-msgstr ""
+msgstr "Le nom de la playlist est trop court. Min 4 caractères."
 
 #: routes/api.py:193 routes/api.py:610 routes/api.py:638 routes/api.py:671
 #: routes/api.py:702
 msgid "Playlist not found."
-msgstr ""
+msgstr "Playlist introuvable."
 
 #: routes/api.py:195 routes/api.py:612 routes/api.py:673 routes/api.py:704
 #: routes/api.py:735
 msgid "You don't have permission."
-msgstr ""
+msgstr "Vous n'avez pas la permission."
 
 #: routes/api.py:206
 msgid "Playlist updated successfully."
-msgstr ""
+msgstr "Playlist mise à jour avec succès."
 
 #: routes/api.py:260 routes/api.py:316 routes/email.py:63
 msgid "Please fill all fields."
-msgstr ""
+msgstr "Veuillez remplir tous les champs."
 
 #: routes/api.py:263
 msgid "Email should be longer than 3 characters."
-msgstr ""
+msgstr "L'adresse e-mail doit comporter plus de 3 caractères."
 
 #: routes/api.py:266 routes/api.py:343
 msgid "Password should be longer than 8 characters."
-msgstr ""
+msgstr "Le mot de passe doit comporter plus de 8 caractères."
 
 #: routes/api.py:269 routes/api.py:333 routes/api.py:597
 msgid "Please pass reCAPTCHA check (1)."
-msgstr ""
+msgstr "Veuillez passer la vérification reCAPTCHA (1)."
 
 #: routes/api.py:273 routes/api.py:330 routes/api.py:594
 msgid "Could not get your IP."
-msgstr ""
+msgstr "Impossible d'obtenir votre adresse IP."
 
 #: routes/api.py:278 routes/api.py:338 routes/api.py:602
 msgid "Please pass reCAPTCHA check (2)."
-msgstr ""
+msgstr "Veuillez passer la vérification reCAPTCHA (2)."
 
 #: routes/api.py:280 routes/api.py:340 routes/api.py:604
 msgid "Could not verify reCAPTCHA."
-msgstr ""
+msgstr "Impossible de vérifier le reCAPTCHA."
 
 #: routes/api.py:288
 msgid "Account with this email does not exist."
-msgstr ""
+msgstr "Aucun compte n'existe avec cette adresse e-mail."
 
 #: routes/api.py:298
 msgid "Account with this username/email does not exist."
-msgstr ""
+msgstr "Aucun compte n'existe avec ce nom d'utilisateur/cette adresse e-mail."
 
 #: routes/api.py:301
 msgid "Invalid password."
-msgstr ""
+msgstr "Mot de passe invalide."
 
 #: routes/api.py:319
 msgid "Email should be longer than 5 characters."
-msgstr ""
+msgstr "L'adresse e-mail doit comporter plus de 5 caractères."
 
 #: routes/api.py:345
 msgid "Password should contain only latin letters and numbers."
-msgstr ""
+msgstr "Le mot de passe ne doit contenir que des lettres latines et des chiffres."
 
 #: routes/api.py:351
 msgid "Account with this email already exists."
-msgstr ""
+msgstr "Un compte avec cette adresse e-mail existe déjà."
 
 #: routes/api.py:590 routes/api.py:666 routes/api.py:697
 msgid "Invalid data."
-msgstr ""
+msgstr "Données invalides."
 
 #: routes/api.py:633
 msgid "Playlist with this name already exists."
-msgstr ""
+msgstr "Une playlist avec ce nom existe déjà."
 
 #: routes/api.py:641 routes/api.py:733
 msgid "Sound not found."
-msgstr ""
+msgstr "Son introuvable."
 
 #: routes/api.py:645
 msgid "Sound already in playlist."
-msgstr ""
+msgstr "Le son est déjà dans la playlist."
 
 #: routes/api.py:651
 #, python-brace-format
 msgid "Sound added to playlist {}."
-msgstr ""
+msgstr "Son ajouté à la playlist {}."
 
 #: routes/api.py:677
 msgid "Sound not in playlist."
-msgstr ""
+msgstr "Le son n'est pas dans la playlist."
 
 #: routes/api.py:683
 #, python-brace-format
 msgid "Sound removed from playlist {}."
-msgstr ""
+msgstr "Son retiré de la playlist {}."
 
 #: routes/api.py:708
 msgid "Playlist deleted."
-msgstr ""
+msgstr "Playlist supprimée."
 
 #: routes/api.py:741
 msgid "Sound deleted."
-msgstr ""
+msgstr "Son supprimé."
 
 #: routes/api.py:823
 msgid "You are already uploading a sound."
-msgstr ""
+msgstr "Vous êtes déjà en train de téléverser un son."
 
 #: routes/api.py:830
 msgid "Could not download file."
-msgstr ""
+msgstr "Impossible de télécharger le fichier."
 
 #: routes/api.py:850
 msgid "Invalid file format."
-msgstr ""
+msgstr "Format de fichier invalide."
 
 #: routes/api.py:854
 msgid "Invalid file size."
-msgstr ""
+msgstr "Taille de fichier invalide."
 
 #: routes/api.py:862
 msgid "Title cannot be empty."
-msgstr ""
+msgstr "Le titre ne peut pas être vide."
 
 #: routes/api.py:926
 msgid "Sound liked."
-msgstr ""
+msgstr "Son aimé."
 
 #: routes/api.py:926
 msgid "Sound unliked."
-msgstr ""
+msgstr "Son non aimé."
 
 #: routes/api.py:1118
 msgid "You cannot blacklist yourself."
-msgstr ""
+msgstr "Vous ne pouvez pas vous mettre sur la liste noire."
 
 #: routes/api.py:1127
 msgid "User removed from blacklist."
-msgstr ""
+msgstr "Utilisateur retiré de la liste noire."
 
 #: routes/api.py:1134
 msgid "User added to blacklist."
-msgstr ""
+msgstr "Utilisateur ajouté à la liste noire."
 
 #: routes/api.py:1159
 msgid "Please specify a reason. (min 5 chars)"
-msgstr ""
+msgstr "Veuillez spécifier un motif. (min 5 caractères)"
 
 #: routes/api.py:1162
 msgid "Please specify an email."
-msgstr ""
+msgstr "Veuillez spécifier une adresse e-mail."
 
 #: routes/api.py:1166
 msgid "Reason should be shorter than 1024 characters."
-msgstr ""
+msgstr "Le motif doit comporter moins de 1024 caractères."
 
 #: routes/api.py:1191
 msgid "Sound reported."
-msgstr ""
+msgstr "Son signalé."
 
 #: routes/api.py:1213
 msgid "Max 3 tags."
-msgstr ""
+msgstr "Max 3 tags."
 
 #: routes/api.py:1232
 msgid "Success"
-msgstr ""
+msgstr "Succès"
 
 #: routes/api.py:1251
 msgid "Invalid date."
-msgstr ""
+msgstr "Date invalide."
 
 #: routes/api.py:1255
 msgid "Invalid role."
-msgstr ""
+msgstr "Rôle invalide."
 
 #: routes/api.py:1258
 msgid "Role updated."
-msgstr ""
+msgstr "Rôle mis à jour."
 
 #: routes/api.py:1272
 msgid "You cannot block yourself."
-msgstr ""
+msgstr "Vous ne pouvez pas vous bloquer vous-même."
 
 #: routes/api.py:1292
 msgid "User blocked."
-msgstr ""
+msgstr "Utilisateur bloqué."
 
 #: routes/api.py:1308
 msgid "Already viewed."
-msgstr ""
+msgstr "Déjà vu."
 
 #: routes/email.py:68
 msgid "Passwords do not match."
-msgstr ""
+msgstr "Les mots de passe ne correspondent pas."
 
 #: routes/email.py:78
 msgid "Invalid key."
-msgstr ""
+msgstr "Clé invalide."
 
 #: routes/email.py:83 routes/email.py:110
 msgid "User with this email not found."
-msgstr ""
+msgstr "Utilisateur avec cette adresse e-mail introuvable."
 
 #: routes/email.py:89
 msgid "Password changed."
-msgstr ""
+msgstr "Mot de passe changé."
 
 #: routes/email.py:99
 msgid "Email is required."
-msgstr ""
+msgstr "L'adresse e-mail est requise."
 
 #: routes/email.py:104
 msgid "An email has already been sent to this address."
-msgstr ""
+msgstr "Un e-mail a déjà été envoyé à cette adresse."
 
 #: routes/email.py:134
 msgid "Email sent. Check your inbox."
-msgstr ""
+msgstr "E-mail envoyé. Vérifiez votre boîte de réception."
 
 #: routes/user.py:306
 msgid "Invalid user ID."
-msgstr ""
+msgstr "ID utilisateur invalide."
 
 #: routes/user.py:323
 msgid "Not an admin."
-msgstr ""
-
+msgstr "N'est pas administrateur."
