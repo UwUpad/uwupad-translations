@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:39+0000\n"
+"POT-Creation-Date: 2026-02-23 08:41+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
@@ -1268,6 +1268,9 @@ msgstr ""
 msgid "Failed to load comments."
 msgstr ""
 
+msgid "Remove from blacklist"
+msgstr ""
+
 msgid "Are you sure you want to assign admin role? This grants full access."
 msgstr ""
 
@@ -2234,6 +2237,9 @@ msgid "Subscribe to unlock"
 msgstr ""
 
 msgid "Verifying subscription..."
+msgstr ""
+
+msgid "Continue"
 msgstr ""
 
 msgid "This track is already downloading."

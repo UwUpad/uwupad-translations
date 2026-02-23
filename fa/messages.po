@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:39+0000\n"
+"POT-Creation-Date: 2026-02-23 08:41+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -675,6 +675,9 @@ msgstr ""
 msgid "Back to list"
 msgstr ""
 
+msgid "Please enter a valid amount."
+msgstr ""
+
 msgid "Failed to create payment link."
 msgstr ""
 
@@ -743,6 +746,9 @@ msgid "Leaderboard"
 msgstr "جدول امتیازات"
 
 msgid "Influence"
+msgstr ""
+
+msgid "Uploads"
 msgstr ""
 
 msgid "Downloads"
@@ -1227,6 +1233,9 @@ msgstr ""
 msgid "Failed to load comments."
 msgstr ""
 
+msgid "Remove from blacklist"
+msgstr ""
+
 msgid "Are you sure you want to assign admin role? This grants full access."
 msgstr ""
 
@@ -1595,6 +1604,9 @@ msgid "Sound Utilities (Trim)"
 msgstr ""
 
 msgid "Trim your audio before uploading (VIP exclusive)."
+msgstr ""
+
+msgid "Sound Utilities"
 msgstr ""
 
 msgid ""
@@ -2329,6 +2341,9 @@ msgid "Private Playlists are a VIP Feature"
 msgstr ""
 
 msgid "Keep your collections to yourself by upgrading to VIP."
+msgstr ""
+
+msgid "An unexpected error occurred."
 msgstr ""
 
 msgid "Hey, check out this playlist on Uwupad!"
