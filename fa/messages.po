@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 10:00+0000\n"
+"POT-Creation-Date: 2026-02-23 11:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -1540,6 +1540,24 @@ msgstr "پیش‌نمایش انتخاب‌شده"
 msgid "Use Trimmed Audio"
 msgstr "استفاده از صدای برش‌خورده"
 
+msgid "Слишком длинный аудиофайл"
+msgstr "فایل صوتی خیلی طولانیه."
+
+msgid ""
+"Этот файл длится больше 40 секунд. Если вы пытаетесь загрузить полноценную "
+"песню, ремикс или музыкальный микс — пожалуйста, используйте специальный "
+"загрузчик музыки для лучшего продвижения."
+msgstr ""
+"این فایل بیش از ۴۰ ثانیه طول می‌کشد. اگر می‌خواهید آهنگ کامل، ریمیکس یا میکس"
+" موسیقی را آپلود کنید — لطفاً از آپلودر موسیقی مخصوص استفاده کنید تا بهتر "
+"دیده شوید."
+
+msgid "Перейти к Музыке"
+msgstr "برو به موسیقی"
+
+msgid "Отмена"
+msgstr "لغو"
+
 msgid "Upload a Sound"
 msgstr "آپلود صدا"
 
@@ -1555,16 +1573,6 @@ msgstr "پیشرفت:"
 
 msgid "sounds"
 msgstr "صداها"
-
-msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
-msgstr "داری موسیقی/آواز (مثلاً پاپ، فونک، رپ و غیره) آپلود می‌کنی؟"
-
-msgid "Use our dedicated music uploader for better discovery and features."
-msgstr ""
-"برای کشف بهتر و امکانات بیشتر، از آپلودر موسیقی اختصاصی ما استفاده کن."
-
-msgid "Go to Music Uploader"
-msgstr "برو به آپلودر موسیقی"
 
 msgid "Tags"
 msgstr "تگ‌ها"
@@ -1670,6 +1678,9 @@ msgstr "حداکثر"
 
 msgid "tags allowed."
 msgstr "برچسب‌های مجاز."
+
+msgid "Checking duration..."
+msgstr "در حال بررسی مدت زمان..."
 
 msgid "File too big (Max:"
 msgstr "فایل خیلی بزرگ است (حداکثر:"
@@ -2805,6 +2816,9 @@ msgstr "صداها / میمز"
 msgid "Sorting"
 msgstr "مرتب‌سازی"
 
+msgid "FYP"
+msgstr "FYP"
+
 msgid "Hot"
 msgstr "داغ"
 
@@ -2967,17 +2981,8 @@ msgstr "حداکثر ۵ تگ. یک تگ وارد کن و Enter بزن."
 msgid "Audio File"
 msgstr "فایل صوتی"
 
-msgid "Select file (MP3, WAV, OGG)"
-msgstr "انتخاب فایل (MP3، WAV، OGG)"
-
-msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
-msgstr "این صدا خیلی کوتاهه (< ۳۰ ثانیه). این یه میم یا افکت صداست؟"
-
-msgid "Please use the Standard Uploader for short sounds."
-msgstr "لطفاً برای صداهای کوتاه از آپلودر استاندارد استفاده کن."
-
-msgid "Go to Standard Uploader"
-msgstr "برو به آپلودر استاندارد"
+msgid "Select file (MP3, WAV, OGG, FLAC)"
+msgstr "فایل را انتخاب کنید (MP3، WAV، OGG، FLAC)"
 
 msgid "I agree with the"
 msgstr "با"
@@ -2987,6 +2992,19 @@ msgstr "شرایط"
 
 msgid "policy"
 msgstr "سیاست"
+
+msgid "Слишком коротко для музыки"
+msgstr "برای موسیقی خیلی کوتاه است."
+
+msgid ""
+"Этот аудиофайл длится менее 30 секунд. Если это мем, вырезка или SFX эффект "
+"— пожалуйста, загрузите его через стандартный загрузчик звуков."
+msgstr ""
+"این فایل صوتی کمتر از ۳۰ ثانیه طول می‌کشد. اگر این یک میم، بریده یا افکت SFX"
+" است — لطفاً از آپلودر صدای استاندارد استفاده کنید."
+
+msgid "Перейти к звукам"
+msgstr "برو به صداها"
 
 msgid "Cover image is too large (max. 5 MB)"
 msgstr "تصویر کاور خیلی بزرگه (حداکثر ۵ مگابایت)"
@@ -2998,6 +3016,12 @@ msgstr "نمی‌تونی بیش از ${MAX_TAGS} تگ اضافه کنی."
 #, python-brace-format
 msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
 msgstr "تگ نمی‌تواند طولانی‌تر از ${MAX_TAG_LENGTH} کاراکتر باشد."
+
+msgid "Проверка файла..."
+msgstr "در حال بررسی فایل..."
+
+msgid "Select file (MP3, WAV, OGG)"
+msgstr "انتخاب فایل (MP3، WAV، OGG)"
 
 msgid "Audio file is too large (max. 20 MB)"
 msgstr "فایل صوتی خیلی بزرگه (حداکثر ۲۰ مگابایت)"
@@ -3422,3 +3446,22 @@ msgstr "یکی از مدیران نظر شما را در [entity] حذف کرد.
 
 msgid "Anonymous"
 msgstr "ناشناس"
+
+#~ msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
+#~ msgstr "داری موسیقی/آواز (مثلاً پاپ، فونک، رپ و غیره) آپلود می‌کنی؟"
+
+#~ msgid "Use our dedicated music uploader for better discovery and features."
+#~ msgstr ""
+#~ "برای کشف بهتر و امکانات بیشتر، از آپلودر موسیقی اختصاصی ما استفاده کن."
+
+#~ msgid "Go to Music Uploader"
+#~ msgstr "برو به آپلودر موسیقی"
+
+#~ msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
+#~ msgstr "این صدا خیلی کوتاهه (< ۳۰ ثانیه). این یه میم یا افکت صداست؟"
+
+#~ msgid "Please use the Standard Uploader for short sounds."
+#~ msgstr "لطفاً برای صداهای کوتاه از آپلودر استاندارد استفاده کن."
+
+#~ msgid "Go to Standard Uploader"
+#~ msgstr "برو به آپلودر استاندارد"
