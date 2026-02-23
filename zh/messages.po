@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:26+0000\n"
+"POT-Creation-Date: 2026-02-23 08:34+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -499,9 +499,8 @@ msgstr ""
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
 
-#, fuzzy
 msgid "Play Now"
-msgstr "播放"
+msgstr ""
 
 msgid "Change Password"
 msgstr "更改密码"
@@ -609,9 +608,8 @@ msgstr "支持 UwUpad"
 msgid "Back"
 msgstr "返回"
 
-#, fuzzy
 msgid "Top Supporters 💖"
-msgstr "巨大支持 💖"
+msgstr ""
 
 msgid "Support Our Project"
 msgstr "支持我们的项目"
@@ -647,9 +645,8 @@ msgstr "通过 Telegram Stars 或加密货币进行安全支付。"
 msgid "PAW tokens are added automatically as a thank you."
 msgstr "作为感谢，PAW 代币将自动发放。"
 
-#, fuzzy
 msgid "Other ways to support"
-msgstr "联系支持"
+msgstr ""
 
 msgid "Card, SBP, and more — via donation platform"
 msgstr ""
@@ -663,16 +660,14 @@ msgstr ""
 msgid "Direct Crypto Transfer"
 msgstr ""
 
-#, fuzzy
 msgid "and more"
-msgstr "了解更多"
+msgstr ""
 
 msgid "Choose Cryptocurrency"
 msgstr ""
 
-#, fuzzy
 msgid "Back to list"
-msgstr "黑名单"
+msgstr ""
 
 msgid "Please enter a valid amount."
 msgstr "请输入有效的金额。"
@@ -759,9 +754,8 @@ msgstr "评论数"
 msgid "Comment Likes"
 msgstr "评论获赞"
 
-#, fuzzy
 msgid "Donations"
-msgstr "操作"
+msgstr ""
 
 msgid "Prev."
 msgstr "上一页"
@@ -1252,9 +1246,8 @@ msgstr "用户更新成功。页面即将刷新。"
 msgid "An unknown error occurred."
 msgstr "发生了未知错误。"
 
-#, fuzzy
 msgid "Register on UwUpad"
-msgstr "在 UwUpad 上投放广告"
+msgstr ""
 
 msgid "Create Account"
 msgstr "注册账号"
@@ -1262,9 +1255,8 @@ msgstr "注册账号"
 msgid "Already have an account?"
 msgstr "已有账号？"
 
-#, fuzzy
 msgid "Account created!"
-msgstr "账号状态"
+msgstr ""
 
 msgid "Reset Your Password"
 msgstr "重置密码"
@@ -3041,9 +3033,8 @@ msgstr "请通过 reCAPTCHA 验证 (2)。"
 msgid "Could not verify reCAPTCHA."
 msgstr "无法验证 reCAPTCHA。"
 
-#, fuzzy
 msgid "Account with this username does not exist."
-msgstr "该用户名/电子邮箱对应的账号不存在。"
+msgstr ""
 
 msgid "Account with this email does not exist."
 msgstr "使用该电子邮箱的账号不存在。"
@@ -3107,9 +3098,8 @@ msgstr "上传正在进行中。请稍候。"
 msgid "Cover file must be an image."
 msgstr "封面文件必须是图片。"
 
-#, fuzzy
 msgid "Failed to upload cover to CDN."
-msgstr "加载评论失败。"
+msgstr ""
 
 msgid "Invalid URL format"
 msgstr "无效的 URL 格式"
@@ -3192,9 +3182,8 @@ msgstr "原因长度应短于 1024 个字符。"
 msgid "Sound reported."
 msgstr "声音已举报。"
 
-#, fuzzy
 msgid "Failed to upload cover image to CDN."
-msgstr "加载评论失败。"
+msgstr ""
 
 msgid "Sound disappeared during edit."
 msgstr "编辑期间声音消失。"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:26+0000\n"
+"POT-Creation-Date: 2026-02-23 08:34+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -521,9 +521,8 @@ msgstr ""
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
 
-#, fuzzy
 msgid "Play Now"
-msgstr "Lire"
+msgstr ""
 
 msgid "Change Password"
 msgstr "Modifier le mot de passe"
@@ -636,9 +635,8 @@ msgstr "Soutenir UwUpad"
 msgid "Back"
 msgstr "Retour"
 
-#, fuzzy
 msgid "Top Supporters 💖"
-msgstr "Grand soutien 💖"
+msgstr ""
 
 msgid "Support Our Project"
 msgstr "Soutenir notre projet"
@@ -676,9 +674,8 @@ msgstr "Paiement sécurisé via Telegram Stars ou Crypto."
 msgid "PAW tokens are added automatically as a thank you."
 msgstr "Les jetons PAW sont ajoutés automatiquement pour vous remercier."
 
-#, fuzzy
 msgid "Other ways to support"
-msgstr "Contacter le support"
+msgstr ""
 
 msgid "Card, SBP, and more — via donation platform"
 msgstr ""
@@ -692,16 +689,14 @@ msgstr ""
 msgid "Direct Crypto Transfer"
 msgstr ""
 
-#, fuzzy
 msgid "and more"
-msgstr "En savoir plus"
+msgstr ""
 
 msgid "Choose Cryptocurrency"
 msgstr ""
 
-#, fuzzy
 msgid "Back to list"
-msgstr "Liste noire"
+msgstr ""
 
 msgid "Please enter a valid amount."
 msgstr "Veuillez entrer un montant valide."
@@ -794,9 +789,8 @@ msgstr "Commentaires"
 msgid "Comment Likes"
 msgstr "Likes commentaires"
 
-#, fuzzy
 msgid "Donations"
-msgstr "Actions"
+msgstr ""
 
 msgid "Prev."
 msgstr "Préc."
@@ -1298,9 +1292,8 @@ msgstr "Utilisateur mis à jour. La page va s'actualiser."
 msgid "An unknown error occurred."
 msgstr "Une erreur inconnue est survenue."
 
-#, fuzzy
 msgid "Register on UwUpad"
-msgstr "Publicité sur UwUpad"
+msgstr ""
 
 msgid "Create Account"
 msgstr "Créer le compte"
@@ -1308,9 +1301,8 @@ msgstr "Créer le compte"
 msgid "Already have an account?"
 msgstr "Déjà un compte ?"
 
-#, fuzzy
 msgid "Account created!"
-msgstr "Statut du compte"
+msgstr ""
 
 msgid "Reset Your Password"
 msgstr "Réinitialiser le mot de passe"
@@ -3113,9 +3105,8 @@ msgstr "Validez le reCAPTCHA (2)."
 msgid "Could not verify reCAPTCHA."
 msgstr "Vérification reCAPTCHA impossible."
 
-#, fuzzy
 msgid "Account with this username does not exist."
-msgstr "Aucun compte avec ce pseudo/e-mail."
+msgstr ""
 
 msgid "Account with this email does not exist."
 msgstr "Aucun compte avec cet e-mail."
@@ -3179,9 +3170,8 @@ msgstr "Upload en cours. Patientez."
 msgid "Cover file must be an image."
 msgstr "La couverture doit être une image."
 
-#, fuzzy
 msgid "Failed to upload cover to CDN."
-msgstr "Échec du chargement des commentaires."
+msgstr ""
 
 msgid "Invalid URL format"
 msgstr "Format d'URL invalide"
@@ -3264,9 +3254,8 @@ msgstr "Raison : max 1024 caractères."
 msgid "Sound reported."
 msgstr "Son signalé."
 
-#, fuzzy
 msgid "Failed to upload cover image to CDN."
-msgstr "Échec du chargement des commentaires."
+msgstr ""
 
 msgid "Sound disappeared during edit."
 msgstr "Le son a disparu pendant l'édition."

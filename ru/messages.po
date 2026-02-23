@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:26+0000\n"
+"POT-Creation-Date: 2026-02-23 08:34+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
@@ -115,24 +115,20 @@ msgstr ""
 msgid "Add / Link Player"
 msgstr ""
 
-#, fuzzy
 msgid "UwUpad User (ID or Username)"
-msgstr "Электронная почта или имя пользователя"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft Username"
-msgstr "Электронная почта или имя пользователя"
+msgstr ""
 
 msgid "Link"
 msgstr "Привязать"
 
-#, fuzzy
 msgid "Linked Accounts"
-msgstr "Привязан как"
+msgstr ""
 
-#, fuzzy
 msgid "UwUpad User"
-msgstr "UwUpad VIP"
+msgstr ""
 
 msgid "Minecraft UUID"
 msgstr ""
@@ -140,32 +136,26 @@ msgstr ""
 msgid "Actions"
 msgstr "Действия"
 
-#, fuzzy
 msgid "Confirm"
-msgstr "Подтвердить и оплатить"
+msgstr ""
 
 msgid "Cancel"
 msgstr "Отмена"
 
-#, fuzzy
 msgid "Submit"
-msgstr "Отправлено в"
+msgstr ""
 
-#, fuzzy
 msgid "No linked users found."
-msgstr "Плейлисты не найдены."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load user list."
-msgstr "Не удалось загрузить музыку."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to link user."
-msgstr "Не удалось загрузить музыку."
+msgstr ""
 
-#, fuzzy
 msgid "User Linked Successfully"
-msgstr "Пользователь успешно заблокирован."
+msgstr ""
 
 msgid "OK"
 msgstr ""
@@ -173,9 +163,8 @@ msgstr ""
 msgid "Error"
 msgstr "Ошибка"
 
-#, fuzzy
 msgid "Unlink Account?"
-msgstr "Привязать ваш аккаунт Discord"
+msgstr ""
 
 #, python-brace-format
 msgid ""
@@ -186,17 +175,14 @@ msgstr ""
 msgid "Unlink"
 msgstr "Отвязать"
 
-#, fuzzy
 msgid "Failed to unlink user."
-msgstr "Не удалось загрузить музыку."
+msgstr ""
 
-#, fuzzy
 msgid "User Unlinked"
-msgstr "Пользователь заблокирован."
+msgstr ""
 
-#, fuzzy
 msgid "Successfully unlinked"
-msgstr "Успешный вход!"
+msgstr ""
 
 msgid "Advertise on UwUpad"
 msgstr "Реклама на UwUpad"
@@ -531,9 +517,8 @@ msgstr ""
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
 
-#, fuzzy
 msgid "Play Now"
-msgstr "Воспроизвести"
+msgstr ""
 
 msgid "Change Password"
 msgstr "Изменить пароль"

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:26+0000\n"
+"POT-Creation-Date: 2026-02-23 08:34+0000\n"
 "PO-Revision-Date: 2025-04-15 10:25+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Italian <it@li.org>\n"
@@ -110,13 +110,11 @@ msgstr "Applica filtri"
 msgid "About us"
 msgstr "Chi siamo"
 
-#, fuzzy
 msgid "Admin: Minecraft Management"
-msgstr "Il server Minecraft di UwU Pad è attivo!"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft Server Management"
-msgstr "Il server Minecraft di UwU Pad è attivo!"
+msgstr ""
 
 msgid "Whitelist and link user accounts."
 msgstr ""
@@ -124,33 +122,26 @@ msgstr ""
 msgid "Add / Link Player"
 msgstr ""
 
-#, fuzzy
 msgid "UwUpad User (ID or Username)"
-msgstr "Email/Nome utente"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft Username"
-msgstr "Il server Minecraft di UwU Pad è attivo!"
+msgstr ""
 
-#, fuzzy
 msgid "Link"
-msgstr "Link"
+msgstr ""
 
-#, fuzzy
 msgid "Linked Accounts"
-msgstr "Hai già un account?"
+msgstr ""
 
-#, fuzzy
 msgid "UwUpad User"
-msgstr "Modifica tag"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft UUID"
-msgstr "Il server Minecraft di UwU Pad è attivo!"
+msgstr ""
 
-#, fuzzy
 msgid "Actions"
-msgstr "Durata"
+msgstr ""
 
 msgid "Confirm"
 msgstr ""
@@ -158,25 +149,20 @@ msgstr ""
 msgid "Cancel"
 msgstr "Annulla"
 
-#, fuzzy
 msgid "Submit"
-msgstr "Reimposta password"
+msgstr ""
 
-#, fuzzy
 msgid "No linked users found."
-msgstr "Playlist non trovata."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load user list."
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to link user."
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
-#, fuzzy
 msgid "User Linked Successfully"
-msgstr "Nome utente aggiornato con successo."
+msgstr ""
 
 msgid "OK"
 msgstr ""
@@ -184,9 +170,8 @@ msgstr ""
 msgid "Error"
 msgstr ""
 
-#, fuzzy
 msgid "Unlink Account?"
-msgstr "Hai già un account?"
+msgstr ""
 
 #, python-brace-format
 msgid ""
@@ -194,21 +179,17 @@ msgid ""
 "whitelist."
 msgstr ""
 
-#, fuzzy
 msgid "Unlink"
-msgstr "Link"
+msgstr ""
 
-#, fuzzy
 msgid "Failed to unlink user."
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
-#, fuzzy
 msgid "User Unlinked"
-msgstr "Utente bloccato."
+msgstr ""
 
-#, fuzzy
 msgid "Successfully unlinked"
-msgstr "Accesso effettuato con successo"
+msgstr ""
 
 msgid "Advertise on UwUpad"
 msgstr ""
@@ -261,9 +242,8 @@ msgstr ""
 msgid "Pricing & How to Buy"
 msgstr ""
 
-#, fuzzy
 msgid "Price:"
-msgstr "Procedi"
+msgstr ""
 
 msgid "per week."
 msgstr ""
@@ -271,9 +251,8 @@ msgstr ""
 msgid "How it works:"
 msgstr ""
 
-#, fuzzy
 msgid "Click the button below to pay with Telegram Stars."
-msgstr "Clicca il pulsante qui sotto per cambiare la tua password."
+msgstr ""
 
 msgid "In the payment comment, you MUST include two links:"
 msgstr ""
@@ -294,9 +273,8 @@ msgstr ""
 msgid "per week"
 msgstr ""
 
-#, fuzzy
 msgid "Submit Your Ad"
-msgstr "Reimposta password"
+msgstr ""
 
 msgid "Step 1: Provide Ad Details"
 msgstr ""
@@ -309,34 +287,29 @@ msgstr ""
 msgid "Direct Link to your Banner Image"
 msgstr ""
 
-#, fuzzy
 msgid "Target URL"
-msgstr "URL vuoto"
+msgstr ""
 
 msgid "where users will be sent"
 msgstr ""
 
-#, fuzzy
 msgid "Your Contact"
-msgstr "Contatti"
+msgstr ""
 
 msgid "We will use this to contact you if there are issues with your ad."
 msgstr ""
 
-#, fuzzy
 msgid "Step 2: Proceed to Payment"
-msgstr "Procedi al pagamento"
+msgstr ""
 
-#, fuzzy
 msgid "All fields are required."
-msgstr "Email richiesta."
+msgstr ""
 
 msgid "Server error."
 msgstr ""
 
-#, fuzzy
 msgid "Payment link not received."
-msgstr "Pagamento Annullato"
+msgstr ""
 
 msgid "Access denied"
 msgstr "Accesso negato"
@@ -347,9 +320,8 @@ msgstr "Il tuo account è stato bannato"
 msgid "Contact us for more information"
 msgstr "Contattaci per maggiori informazioni"
 
-#, fuzzy
 msgid "The best sounds for your Soundpad and ringtones"
-msgstr "Il miglior servizio di condivisione suoni per Soundpad"
+msgstr ""
 
 msgid ""
 "Find that meme sound from TikTok or a scream from your favorite game in 5 "
@@ -360,9 +332,8 @@ msgstr ""
 msgid "Welcome back,"
 msgstr ""
 
-#, fuzzy
 msgid "Available for VIP users only"
-msgstr "GIF solo per utenti VIP"
+msgstr ""
 
 msgid "Bulk Download is a VIP Feature"
 msgstr ""
@@ -370,40 +341,32 @@ msgstr ""
 msgid "Upgrade to VIP to download entire playlists as a .zip file!"
 msgstr ""
 
-#, fuzzy
 msgid "Pause"
-msgstr "Nome utente"
+msgstr ""
 
-#, fuzzy
 msgid "This playlist is empty."
-msgstr "Il nome della playlist non può essere vuoto."
+msgstr ""
 
-#, fuzzy
 msgid "Remove from download"
-msgstr "Più scaricati"
+msgstr ""
 
-#, fuzzy
 msgid "Could not load playlist."
-msgstr "Suono non presente nella playlist."
+msgstr ""
 
-#, fuzzy
 msgid "Download cancelled."
-msgstr "Più scaricati"
+msgstr ""
 
-#, fuzzy
 msgid "Downloading"
-msgstr "Download"
+msgstr ""
 
-#, fuzzy
 msgid "Creating ZIP file... Please wait."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
 msgid "Compressing..."
 msgstr ""
 
-#, fuzzy
 msgid "Resume"
-msgstr "Hai già un account?"
+msgstr ""
 
 msgid "Paused..."
 msgstr ""
@@ -411,25 +374,20 @@ msgstr ""
 msgid "Resuming..."
 msgstr ""
 
-#, fuzzy
 msgid "Import cancelled."
-msgstr "Pagamento Annullato"
+msgstr ""
 
-#, fuzzy
 msgid "Importing"
-msgstr "Importa"
+msgstr ""
 
-#, fuzzy
 msgid "Import complete!"
-msgstr "Importa da URL"
+msgstr ""
 
-#, fuzzy
 msgid "Sound data not loaded yet."
-msgstr "Suono non trovato."
+msgstr ""
 
-#, fuzzy
 msgid "Error: Sound data not found."
-msgstr "Suono non trovato."
+msgstr ""
 
 msgid "Choose Boost Option"
 msgstr ""
@@ -453,9 +411,8 @@ msgstr ""
 msgid "PAY-TO-BOOST"
 msgstr ""
 
-#, fuzzy
 msgid "Pay with PAW"
-msgstr "Segnala"
+msgstr ""
 
 #, python-format
 msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
@@ -480,9 +437,8 @@ msgstr ""
 msgid "Get free boosts and more with VIP!"
 msgstr ""
 
-#, fuzzy
 msgid "Learn More"
-msgstr "Carica altro"
+msgstr ""
 
 msgid "Confirm & Boost"
 msgstr ""
@@ -499,9 +455,8 @@ msgstr ""
 msgid "Oops!"
 msgstr ""
 
-#, fuzzy
 msgid "Could not load notifications. Please try again later."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
 msgid "Just now"
 msgstr ""
@@ -526,9 +481,8 @@ msgid ""
 " disabling AdBlock or"
 msgstr ""
 
-#, fuzzy
 msgid "getting VIP"
-msgstr "Impostazioni lingua"
+msgstr ""
 
 msgid "I disabled it, Refresh"
 msgstr ""
@@ -536,9 +490,8 @@ msgstr ""
 msgid "Please wait"
 msgstr ""
 
-#, fuzzy
 msgid "How to disable?"
-msgstr "Mostra altro"
+msgstr ""
 
 msgid "Continue to site (AdBlocker active)"
 msgstr ""
@@ -552,9 +505,8 @@ msgstr ""
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
 
-#, fuzzy
 msgid "Play Now"
-msgstr "Playlist"
+msgstr ""
 
 msgid "Change Password"
 msgstr "Cambia Password"
@@ -594,9 +546,8 @@ msgstr "Metodo di pagamento:"
 msgid "Proceed to Payment"
 msgstr "Procedi al pagamento"
 
-#, fuzzy
 msgid "Contact Us"
-msgstr "Contatti"
+msgstr ""
 
 msgid "Have a question or suggestion? Get in touch with the UwUpad team."
 msgstr ""
@@ -604,29 +555,25 @@ msgstr ""
 msgid "Back to Home"
 msgstr "Torna alla Home"
 
-#, fuzzy
 msgid "Get in Touch"
-msgstr "Devi essere loggato per commentare."
+msgstr ""
 
 msgid ""
 "We are always open for communication. Choose a convenient way to contact us "
 "or leave a message through the form below."
 msgstr ""
 
-#, fuzzy
 msgid "Direct Contacts"
-msgstr "Contatti"
+msgstr ""
 
-#, fuzzy
 msgid "Telegram (Owner)"
-msgstr "Bot Telegram"
+msgstr ""
 
 msgid "@daisov - for urgent matters"
 msgstr ""
 
-#, fuzzy
 msgid "Discord Server"
-msgstr "Discord"
+msgstr ""
 
 msgid "Join our community"
 msgstr ""
@@ -637,27 +584,23 @@ msgstr "Email"
 msgid "admin@uwupad.me - for suggestions"
 msgstr ""
 
-#, fuzzy
 msgid "Telegram Bot"
-msgstr "Bot Telegram"
+msgstr ""
 
 msgid "@uwupad_bot - for support"
 msgstr ""
 
-#, fuzzy
 msgid "An error occurred. Please try again later."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
 msgid "Feedback Form"
 msgstr ""
 
-#, fuzzy
 msgid "Your Name"
-msgstr "Nome utente"
+msgstr ""
 
-#, fuzzy
 msgid "Your Email (for a reply)"
-msgstr "Il tuo indirizzo e-mail"
+msgstr ""
 
 msgid "Your Message..."
 msgstr ""
@@ -668,13 +611,11 @@ msgstr ""
 msgid "Support UwUpad"
 msgstr ""
 
-#, fuzzy
 msgid "Back"
-msgstr "Blacklist"
+msgstr ""
 
-#, fuzzy
 msgid "Top Supporters 💖"
-msgstr "Contatta il Supporto"
+msgstr ""
 
 msgid "Support Our Project"
 msgstr ""
@@ -695,9 +636,8 @@ msgstr ""
 msgid "Server costs"
 msgstr ""
 
-#, fuzzy
 msgid "Big support 💖"
-msgstr "Contatta il Supporto"
+msgstr ""
 
 msgid "Or enter custom amount"
 msgstr ""
@@ -711,9 +651,8 @@ msgstr ""
 msgid "PAW tokens are added automatically as a thank you."
 msgstr ""
 
-#, fuzzy
 msgid "Other ways to support"
-msgstr "Contatta il Supporto"
+msgstr ""
 
 msgid "Card, SBP, and more — via donation platform"
 msgstr ""
@@ -727,24 +666,20 @@ msgstr ""
 msgid "Direct Crypto Transfer"
 msgstr ""
 
-#, fuzzy
 msgid "and more"
-msgstr "Carica altro"
+msgstr ""
 
 msgid "Choose Cryptocurrency"
 msgstr ""
 
-#, fuzzy
 msgid "Back to list"
-msgstr "Blacklist"
+msgstr ""
 
-#, fuzzy
 msgid "Please enter a valid amount."
-msgstr "Inserisci un motivo valido."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to create payment link."
-msgstr "Impossibile eliminare il commento."
+msgstr ""
 
 msgid "DMCA Takedown Policy"
 msgstr ""
@@ -772,9 +707,8 @@ msgstr ""
 msgid "Please enter an amount between 1 and 2500 Stars."
 msgstr ""
 
-#, fuzzy
 msgid "Recommendations"
-msgstr "Commenti"
+msgstr ""
 
 msgid "All Time"
 msgstr ""
@@ -788,9 +722,8 @@ msgstr ""
 msgid "Today"
 msgstr ""
 
-#, fuzzy
 msgid "Failed to load sounds."
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
 msgid "Popular"
 msgstr "Popolari"
@@ -801,9 +734,8 @@ msgstr ""
 msgid "Next page"
 msgstr "Pag. succ."
 
-#, fuzzy
 msgid "Top Sound Creators"
-msgstr "Suono segnalato."
+msgstr ""
 
 msgid ""
 "Check out the leaderboard of the most popular and active sound creators on "
@@ -816,40 +748,32 @@ msgstr "Classifica"
 msgid "Influence"
 msgstr ""
 
-#, fuzzy
 msgid "Uploads"
-msgstr "Carica"
+msgstr ""
 
-#, fuzzy
 msgid "Downloads"
-msgstr "Download"
+msgstr ""
 
 msgid "Comments"
 msgstr "Commenti"
 
-#, fuzzy
 msgid "Comment Likes"
-msgstr "Commenti"
+msgstr ""
 
-#, fuzzy
 msgid "Donations"
-msgstr "Durata"
+msgstr ""
 
-#, fuzzy
 msgid "Prev."
-msgstr "Pag. prec."
+msgstr ""
 
-#, fuzzy
 msgid "Next"
-msgstr "Pag. succ."
+msgstr ""
 
-#, fuzzy
 msgid "Updating leaderboard..."
-msgstr "Classifica"
+msgstr ""
 
-#, fuzzy
 msgid "Next update in:"
-msgstr "Pag. succ."
+msgstr ""
 
 msgid "Updated in real-time"
 msgstr ""
@@ -857,34 +781,29 @@ msgstr ""
 msgid "No users found for this period."
 msgstr ""
 
-#, fuzzy
 msgid "Error loading data:"
-msgstr "Errore nel caricamento dei commenti."
+msgstr ""
 
 msgid "Login to UwUpad"
 msgstr ""
 
-#, fuzzy
 msgid "Back to UwUpad"
-msgstr "Torna alla pagina principale"
+msgstr ""
 
 msgid "Welcome Back"
 msgstr ""
 
-#, fuzzy
 msgid "Email or Username"
-msgstr "Email/Nome utente"
+msgstr ""
 
-#, fuzzy
 msgid "Log In"
-msgstr "Accedi"
+msgstr ""
 
 msgid "OR"
 msgstr ""
 
-#, fuzzy
 msgid "Continue with Discord"
-msgstr "Unisciti a Discord"
+msgstr ""
 
 msgid "Don't have an account?"
 msgstr "Non hai un account?"
@@ -892,17 +811,14 @@ msgstr "Non hai un account?"
 msgid "Forgot password?"
 msgstr "Password dimenticata?"
 
-#, fuzzy
 msgid "An error occurred."
-msgstr "Si è verificato un errore"
+msgstr ""
 
-#, fuzzy
 msgid "Successfully logged in!"
-msgstr "Accesso effettuato con successo"
+msgstr ""
 
-#, fuzzy
 msgid "A network error occurred."
-msgstr "Si è verificato un errore"
+msgstr ""
 
 msgid "News & Updates"
 msgstr ""
@@ -918,40 +834,32 @@ msgid ""
 "system alerts."
 msgstr ""
 
-#, fuzzy
 msgid "Filter by Type"
-msgstr "Tipo di suono"
+msgstr ""
 
-#, fuzzy
 msgid "All Types"
-msgstr "Applica filtri"
+msgstr ""
 
-#, fuzzy
 msgid "Likes on Sounds"
-msgstr "Playlist non trovata"
+msgstr ""
 
-#, fuzzy
 msgid "Likes on Comments"
-msgstr "Caricamento commenti..."
+msgstr ""
 
-#, fuzzy
 msgid "New Comments & Replies"
-msgstr "Ancora nessun commento."
+msgstr ""
 
-#, fuzzy
 msgid "Mentions in Comments"
-msgstr "Caricamento commenti..."
+msgstr ""
 
 msgid "Processing Errors"
 msgstr ""
 
-#, fuzzy
 msgid "Admin Actions"
-msgstr "Durata"
+msgstr ""
 
-#, fuzzy
 msgid "Filter by Status"
-msgstr "Filtri"
+msgstr ""
 
 msgid "All"
 msgstr ""
@@ -959,13 +867,11 @@ msgstr ""
 msgid "Unread"
 msgstr ""
 
-#, fuzzy
 msgid "Read"
-msgstr "e l'"
+msgstr ""
 
-#, fuzzy
 msgid "No notifications found"
-msgstr "Nessun suono trovato"
+msgstr ""
 
 msgid "Try adjusting your filters or check back later."
 msgstr ""
@@ -973,9 +879,8 @@ msgstr ""
 msgid "Something went wrong"
 msgstr ""
 
-#, fuzzy
 msgid "We couldn't load your notifications. Please try again."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
 msgid "Playlist not found"
 msgstr "Playlist non trovata"
@@ -996,9 +901,8 @@ msgid ""
 "%(author)s."
 msgstr ""
 
-#, fuzzy
 msgid "Edit Playlist"
-msgstr "Seleziona playlist"
+msgstr ""
 
 msgid "Title"
 msgstr "Titolo"
@@ -1006,21 +910,17 @@ msgstr "Titolo"
 msgid "Preview Image"
 msgstr "Immagine di anteprima"
 
-#, fuzzy
 msgid "Choose a file…"
-msgstr "Scegli file"
+msgstr ""
 
-#, fuzzy
 msgid "No file selected"
-msgstr "Commento eliminato."
+msgstr ""
 
-#, fuzzy
 msgid "Recommended 16:9. GIF only for VIP users."
-msgstr "GIF solo per utenti VIP"
+msgstr ""
 
-#, fuzzy
 msgid "Public Playlist"
-msgstr "Seleziona playlist"
+msgstr ""
 
 msgid "Save Changes"
 msgstr ""
@@ -1031,9 +931,8 @@ msgstr "Playlist"
 msgid "Edit"
 msgstr "Modifica"
 
-#, fuzzy
 msgid "Download Playlists"
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
 msgid ""
 "Downloading entire playlists as a .zip archive is a VIP feature. Upgrade now"
@@ -1052,9 +951,8 @@ msgstr "Playlist"
 msgid "Search playlists"
 msgstr "Cerca playlist"
 
-#, fuzzy
 msgid "Sounds Inside"
-msgstr "Numero di suoni"
+msgstr ""
 
 msgid "Mini (<5)"
 msgstr "Mini (<5)"
@@ -1068,73 +966,59 @@ msgstr "Media (15-30)"
 msgid "Large (30-60)"
 msgstr "Grande (30-60)"
 
-#, fuzzy
 msgid "Very Large (>60)"
-msgstr "Molto grande (>60)"
+msgstr ""
 
 msgid "Unpopular (<10 views)"
 msgstr "Impopolare (<10 visualizzazioni)"
 
-#, fuzzy
 msgid "Not Popular (10-50 views)"
-msgstr "Poco popolare (10-50 visualizzazioni)"
+msgstr ""
 
 msgid "Popular (50-100 views)"
 msgstr "Popolare (50-100 visualizzazioni)"
 
-#, fuzzy
 msgid "Very Popular (100-500 views)"
-msgstr "Poco popolare (10-50 visualizzazioni)"
+msgstr ""
 
-#, fuzzy
 msgid "Extremely Popular (>500 views)"
-msgstr "Estremamente apprezzato (>500 Mi piace)"
+msgstr ""
 
 msgid "Sort by"
 msgstr ""
 
-#, fuzzy
 msgid "Sort: Newest"
-msgstr "Più recenti"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Most Viewed"
-msgstr "Più visualizzate"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Most Sounds"
-msgstr "Suoni totali"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Oldest"
-msgstr "Più recenti"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Name (A-Z)"
-msgstr "Nome utente"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Name (Z-A)"
-msgstr "Nome utente"
+msgstr ""
 
-#, fuzzy
 msgid "Download Playlist"
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
-#, fuzzy
 msgid "No playlists found."
-msgstr "Playlist non trovata."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load playlists."
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
 msgid "Poll Results"
 msgstr ""
 
-#, fuzzy
 msgid "votes"
-msgstr "Ruolo"
+msgstr ""
 
 msgid "Total Votes:"
 msgstr ""
@@ -1153,13 +1037,11 @@ msgstr ""
 msgid "Check out the sounds and playlists uploaded by %(username)s on UwUpad."
 msgstr ""
 
-#, fuzzy
 msgid "Linked as"
-msgstr "Apprezzati"
+msgstr ""
 
-#, fuzzy
 msgid "Link your Discord account"
-msgstr "Hai già un account?"
+msgstr ""
 
 msgid "Edit profile"
 msgstr "Modifica profilo"
@@ -1170,28 +1052,23 @@ msgstr "Esci"
 msgid "Edit role"
 msgstr "Modifica ruolo"
 
-#, fuzzy
 msgid "Admin Edit"
-msgstr "Durata"
+msgstr ""
 
 msgid "Add to blacklist"
 msgstr "Aggiungi alla blacklist"
 
-#, fuzzy
 msgid "Total Views"
-msgstr "Suoni totali"
+msgstr ""
 
-#, fuzzy
 msgid "Total Uploads"
-msgstr "Suoni totali"
+msgstr ""
 
-#, fuzzy
 msgid "Total Likes"
-msgstr "Più apprezzati"
+msgstr ""
 
-#, fuzzy
 msgid "Comments Made"
-msgstr "Commenti"
+msgstr ""
 
 msgid "Uploaded"
 msgstr "Caricati"
@@ -1202,9 +1079,8 @@ msgstr "Apprezzati"
 msgid "Blacklist"
 msgstr "Blacklist"
 
-#, fuzzy
 msgid "Edit Your Profile"
-msgstr "Modifica profilo"
+msgstr ""
 
 msgid "Username"
 msgstr "Nome utente"
@@ -1230,9 +1106,8 @@ msgstr ""
 msgid "Upgrade to VIP!"
 msgstr ""
 
-#, fuzzy
 msgid "Save Profile Info"
-msgstr "Visualizza Profilo"
+msgstr ""
 
 msgid "Nickname Style"
 msgstr ""
@@ -1249,18 +1124,16 @@ msgstr ""
 msgid "Add Color"
 msgstr ""
 
-#, fuzzy
 msgid "Angle"
-msgstr "Lingua"
+msgstr ""
 
 msgid ""
 "Forbidden red/black colors similar to staff, or unsafe code (e.g. url()) "
 "will be rejected."
 msgstr ""
 
-#, fuzzy
 msgid "Apply Style"
-msgstr "Applica filtri"
+msgstr ""
 
 msgid "Each style change costs 100 PAW. VIP users get unlimited changes."
 msgstr ""
@@ -1271,13 +1144,11 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#, fuzzy
 msgid "Edit Role for"
-msgstr "Modifica ruolo"
+msgstr ""
 
-#, fuzzy
 msgid "Role"
-msgstr "Ruolo"
+msgstr ""
 
 msgid "Role expires on (optional)"
 msgstr ""
@@ -1294,9 +1165,8 @@ msgstr ""
 msgid "Balance (PAW)"
 msgstr ""
 
-#, fuzzy
 msgid "Account Status"
-msgstr "Contatti"
+msgstr ""
 
 msgid "Is Active (user can log in)"
 msgstr ""
@@ -1338,9 +1208,8 @@ msgstr ""
 msgid "Top Up Balance"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Deposit"
-msgstr "Segnala"
+msgstr ""
 
 msgid "Add PAW to your account."
 msgstr ""
@@ -1360,51 +1229,41 @@ msgstr ""
 msgid "This user has not posted any comments yet."
 msgstr ""
 
-#, fuzzy
 msgid "Failed to load comments."
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
-#, fuzzy
 msgid "Remove from blacklist"
-msgstr "Utente rimosso dalla blacklist."
+msgstr ""
 
-#, fuzzy
 msgid "Are you sure you want to assign admin role? This grants full access."
-msgstr "Sei sicuro di voler bloccare questo utente?"
+msgstr ""
 
-#, fuzzy
 msgid "Are you sure you want to unlink your Discord account?"
-msgstr "Sei sicuro di voler bloccare questo utente?"
+msgstr ""
 
-#, fuzzy
 msgid "Could not load user data."
-msgstr "Suono non presente nella playlist."
+msgstr ""
 
-#, fuzzy
 msgid "User updated successfully. Page will reload."
-msgstr "Nome utente aggiornato con successo."
+msgstr ""
 
-#, fuzzy
 msgid "An unknown error occurred."
-msgstr "Si è verificato un errore"
+msgstr ""
 
 msgid "Register on UwUpad"
 msgstr ""
 
-#, fuzzy
 msgid "Create Account"
-msgstr "Hai già un account?"
+msgstr ""
 
 msgid "Already have an account?"
 msgstr "Hai già un account?"
 
-#, fuzzy
 msgid "Account created!"
-msgstr "Contatti"
+msgstr ""
 
-#, fuzzy
 msgid "Reset Your Password"
-msgstr "Reimposta password"
+msgstr ""
 
 msgid ""
 "Forgot your password? Enter your email to receive instructions on how to "
@@ -1430,9 +1289,9 @@ msgstr "Suono non trovato"
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "Suono con questo ID non trovato. Controlla i dati inseriti."
 
-#, fuzzy, python-format
+#, python-format
 msgid "Download \"%(sound_name)s\" Sound"
-msgstr "Scarica Soundpad"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1443,17 +1302,14 @@ msgstr ""
 msgid "Add to Soundpad"
 msgstr "Aggiungi a Soundpad"
 
-#, fuzzy
 msgid "Download"
-msgstr "Download"
+msgstr ""
 
-#, fuzzy
 msgid "Like"
-msgstr "Mi piace"
+msgstr ""
 
-#, fuzzy
 msgid "Share"
-msgstr "Salva"
+msgstr ""
 
 msgid "LOUD"
 msgstr "FORTE"
@@ -1461,23 +1317,20 @@ msgstr "FORTE"
 msgid "EXPLICIT"
 msgstr "ESPLICITO"
 
-#, fuzzy
 msgid "Edit sound"
-msgstr "Suono"
+msgstr ""
 
 msgid "Add a comment..."
 msgstr "Aggiungi un commento..."
 
-#, fuzzy
 msgid "Remove image"
-msgstr "Immagine di anteprima"
+msgstr ""
 
 msgid "Attach image"
 msgstr ""
 
-#, fuzzy
 msgid "Post"
-msgstr "Segnala"
+msgstr ""
 
 msgid "You must be"
 msgstr "Devi essere"
@@ -1491,13 +1344,11 @@ msgstr "per commentare."
 msgid "Close (Esc)"
 msgstr ""
 
-#, fuzzy
 msgid "Zoom In"
-msgstr "Accedi"
+msgstr ""
 
-#, fuzzy
 msgid "Zoom Out"
-msgstr "Esci"
+msgstr ""
 
 msgid "Rotate Left"
 msgstr ""
@@ -1508,13 +1359,11 @@ msgstr ""
 msgid "Lightbox Image"
 msgstr ""
 
-#, fuzzy
 msgid "You must be logged in to like sounds."
-msgstr "Devi essere loggato per commentare."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to update like. Please try again."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
 msgid "The best sound sharing service for Soundpad"
 msgstr "Il miglior servizio di condivisione suoni per Soundpad"
@@ -1525,13 +1374,11 @@ msgstr "Suono"
 msgid "Listen"
 msgstr "Ascolta"
 
-#, fuzzy
 msgid "Edit Sound"
-msgstr "Suono"
+msgstr ""
 
-#, fuzzy
 msgid "Description"
-msgstr "Durata"
+msgstr ""
 
 msgid "Add a brief description..."
 msgstr ""
@@ -1542,9 +1389,8 @@ msgstr ""
 msgid "Cover Image (Optional)"
 msgstr ""
 
-#, fuzzy
 msgid "Language (Admin)"
-msgstr "Impostazioni lingua"
+msgstr ""
 
 msgid "Mark as Music (Admin)"
 msgstr ""
@@ -1552,20 +1398,17 @@ msgstr ""
 msgid "This will make the sound appear in the /music section."
 msgstr ""
 
-#, fuzzy
 msgid "Sound updated successfully!"
-msgstr "Commento pubblicato con successo!"
+msgstr ""
 
-#, fuzzy
 msgid "Write a reply..."
-msgstr "Crea nuova playlist"
+msgstr ""
 
 msgid "Reply"
 msgstr ""
 
-#, fuzzy
 msgid "Loading..."
-msgstr "Caricamento commenti..."
+msgstr ""
 
 #, python-format
 msgid "View %(count)s more replies"
@@ -1574,9 +1417,8 @@ msgstr ""
 msgid "Hide"
 msgstr ""
 
-#, fuzzy
 msgid "Error loading replies."
-msgstr "Errore nel caricamento dei commenti."
+msgstr ""
 
 msgid "Comment attachment"
 msgstr ""
@@ -1588,9 +1430,8 @@ msgstr ""
 msgid "No comments yet."
 msgstr "Ancora nessun commento."
 
-#, fuzzy
 msgid "Comment or attachment cannot be empty."
-msgstr "Il nome della playlist non può essere vuoto."
+msgstr ""
 
 msgid "Failed to post comment."
 msgstr "Impossibile pubblicare il commento."
@@ -1602,9 +1443,8 @@ msgstr ""
 msgid "Hide %(count)s replies"
 msgstr ""
 
-#, fuzzy
 msgid "You must be logged in to like comments."
-msgstr "Devi essere loggato per commentare."
+msgstr ""
 
 msgid "Comment deleted."
 msgstr "Commento eliminato."
@@ -1622,9 +1462,8 @@ msgid ""
 "UwUpad."
 msgstr ""
 
-#, fuzzy
 msgid "Terms of Service"
-msgstr "Termini di Utilizzo"
+msgstr ""
 
 msgid "Read the Terms of Service for using the UwUpad platform."
 msgstr ""
@@ -1648,20 +1487,17 @@ msgid ""
 "Loading audio... Click and drag on the waveform to select a region to keep."
 msgstr ""
 
-#, fuzzy
 msgid "Loading waveform..."
-msgstr "Caricamento commenti..."
+msgstr ""
 
-#, fuzzy
 msgid "Preview Selected"
-msgstr "Immagine di anteprima"
+msgstr ""
 
 msgid "Use Trimmed Audio"
 msgstr ""
 
-#, fuzzy
 msgid "Upload a Sound"
-msgstr "Carica suono"
+msgstr ""
 
 msgid "Creator Challenge: Free VIP"
 msgstr ""
@@ -1669,13 +1505,11 @@ msgstr ""
 msgid "Upload sounds that get into recommendations to unlock 1 week of VIP!"
 msgstr ""
 
-#, fuzzy
 msgid "Progress:"
-msgstr "Ruolo"
+msgstr ""
 
-#, fuzzy
 msgid "sounds"
-msgstr "Suono"
+msgstr ""
 
 msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
 msgstr ""
@@ -1707,9 +1541,8 @@ msgstr ""
 msgid "Add a brief description for your sound..."
 msgstr ""
 
-#, fuzzy
 msgid "Sound Language"
-msgstr "Lingua"
+msgstr ""
 
 msgid "Music / SFX (No language)"
 msgstr ""
@@ -1729,16 +1562,14 @@ msgstr "Scegli file"
 msgid "Import from URL"
 msgstr "Importa da URL"
 
-#, fuzzy
 msgid "Supports only audio files"
-msgstr "Supporta solo file audio"
+msgstr ""
 
 msgid "Supported formats: mp3, wav, ogg"
 msgstr "Formati supportati: mp3, wav, ogg"
 
-#, fuzzy
 msgid "Max file size:"
-msgstr "Dimensione massima file: 5MB"
+msgstr ""
 
 msgid "I agree to the"
 msgstr "Accetto i"
@@ -1757,13 +1588,11 @@ msgid ""
 "meets our community guidelines."
 msgstr ""
 
-#, fuzzy
 msgid "Custom Cover"
-msgstr "Suono segnalato."
+msgstr ""
 
-#, fuzzy
 msgid "Choose a cover image"
-msgstr "Scegli file"
+msgstr ""
 
 msgid "Add a background to your sound card (max 2MB)."
 msgstr ""
@@ -1777,17 +1606,15 @@ msgstr ""
 msgid "Trim your audio before uploading (VIP exclusive)."
 msgstr ""
 
-#, fuzzy
 msgid "Sound Utilities"
-msgstr "Apprezzamento rimosso dal suono."
+msgstr ""
 
 msgid ""
 "Need to trim your audio? Our built-in Sound Trimmer is a VIP exclusive tool."
 msgstr ""
 
-#, fuzzy
 msgid "Remove tag:"
-msgstr "Rimuovi pubblicità"
+msgstr ""
 
 msgid "Maximum"
 msgstr ""
@@ -1795,61 +1622,50 @@ msgstr ""
 msgid "tags allowed."
 msgstr ""
 
-#, fuzzy
 msgid "File too big (Max:"
-msgstr "Il file è troppo grande"
+msgstr ""
 
-#, fuzzy
 msgid "Already uploading..."
-msgstr "Caricamento già in corso"
+msgstr ""
 
-#, fuzzy
 msgid "Please agree to the terms and policy."
-msgstr "Devi accettare i Termini di Utilizzo e l'Informativa sulla Privacy."
+msgstr ""
 
-#, fuzzy
 msgid "Please add at least one tag."
-msgstr "Inserisci un motivo valido."
+msgstr ""
 
-#, fuzzy
 msgid "Trimmed file is too large."
-msgstr "Il file è troppo grande"
+msgstr ""
 
 msgid "No file selected or imported for upload."
 msgstr ""
 
-#, fuzzy
 msgid "An error occurred ("
-msgstr "Si è verificato un errore"
+msgstr ""
 
 msgid ")."
 msgstr ""
 
-#, fuzzy
 msgid "Sound uploaded successfully!"
-msgstr "Commento pubblicato con successo!"
+msgstr ""
 
 msgid "Network error or server issue:"
 msgstr ""
 
-#, fuzzy
 msgid "Please enter a URL."
-msgstr "Inserisci un'email valida."
+msgstr ""
 
-#, fuzzy
 msgid "Import error ("
-msgstr "Importa da URL"
+msgstr ""
 
 msgid "URL ready for import:"
 msgstr ""
 
-#, fuzzy
 msgid "Importing:"
-msgstr "Importa"
+msgstr ""
 
-#, fuzzy
 msgid "Import failed:"
-msgstr "Più piene"
+msgstr ""
 
 msgid "Web Audio API not supported. Cannot use audio utilities."
 msgstr ""
@@ -1857,13 +1673,11 @@ msgstr ""
 msgid "Please select an audio file first before using utilities."
 msgstr ""
 
-#, fuzzy
 msgid "Error loading waveform:"
-msgstr "Errore nel caricamento dei commenti."
+msgstr ""
 
-#, fuzzy
 msgid "Selected:"
-msgstr "ELIMINATO"
+msgstr ""
 
 msgid "Selected region is too short or invalid."
 msgstr ""
@@ -1877,9 +1691,8 @@ msgstr ""
 msgid "Error trimming audio:"
 msgstr ""
 
-#, fuzzy
 msgid "Trim operation cancelled."
-msgstr "Pagamento Annullato"
+msgstr ""
 
 msgid "Cover image is too large (max 2MB)."
 msgstr ""
@@ -1887,13 +1700,11 @@ msgstr ""
 msgid "This is a VIP-exclusive feature."
 msgstr ""
 
-#, fuzzy
 msgid "sounds recommended"
-msgstr "Suono segnalato."
+msgstr ""
 
-#, fuzzy
 msgid "Challenge Completed!"
-msgstr "Importa da URL"
+msgstr ""
 
 msgid "You have unlocked VIP status! Check your profile."
 msgstr ""
@@ -1904,17 +1715,14 @@ msgstr "Utente non trovato"
 msgid "User with this ID not found. Please check the entered data."
 msgstr "Utente con questo ID non trovato. Controlla i dati inseriti."
 
-#, fuzzy
 msgid "Users"
-msgstr "Nome utente"
+msgstr ""
 
-#, fuzzy
 msgid "Search users..."
-msgstr "Cerca per query "
+msgstr ""
 
-#, fuzzy
 msgid "Roles"
-msgstr "Ruolo"
+msgstr ""
 
 msgid "Admin"
 msgstr ""
@@ -1925,17 +1733,14 @@ msgstr ""
 msgid "VIP"
 msgstr ""
 
-#, fuzzy
 msgid "User"
-msgstr "Nome utente"
+msgstr ""
 
-#, fuzzy
 msgid "Banned"
-msgstr "e l'"
+msgstr ""
 
-#, fuzzy
 msgid "Clear Roles"
-msgstr "Assegna ruolo"
+msgstr ""
 
 msgid "Sort users by"
 msgstr ""
@@ -1946,20 +1751,17 @@ msgstr ""
 msgid "Joined: Oldest First"
 msgstr ""
 
-#, fuzzy
 msgid "Username: A-Z"
-msgstr "Nome utente"
+msgstr ""
 
-#, fuzzy
 msgid "Username: Z-A"
-msgstr "Nome utente"
+msgstr ""
 
 msgid "#ID"
 msgstr ""
 
-#, fuzzy
 msgid "Error loading users. Please try again."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
 msgid "Unban User"
 msgstr ""
@@ -1973,31 +1775,26 @@ msgstr ""
 msgid "View Profile"
 msgstr "Visualizza Profilo"
 
-#, fuzzy
 msgid "Edit User"
-msgstr "Modifica tag"
+msgstr ""
 
 msgid "No users found matching your criteria."
 msgstr ""
 
-#, fuzzy
 msgid "User banned successfully."
-msgstr "Nome utente aggiornato con successo."
+msgstr ""
 
-#, fuzzy
 msgid "User unbanned successfully."
-msgstr "Nome utente aggiornato con successo."
+msgstr ""
 
 msgid "UwUpad VIP"
 msgstr ""
 
-#, fuzzy
 msgid "Back to main"
-msgstr "Torna alla pagina principale"
+msgstr ""
 
-#, fuzzy
 msgid "Welcome, Patron!"
-msgstr "Commenti"
+msgstr ""
 
 msgid "Thank you for supporting UwUpad. Enjoy your exclusive features."
 msgstr ""
@@ -2039,89 +1836,71 @@ msgstr ""
 msgid "Save 20% - 2 months free!"
 msgstr ""
 
-#, fuzzy
 msgid "Choose Yearly"
-msgstr "Scegli file"
+msgstr ""
 
-#, fuzzy
 msgid "Feature"
-msgstr "Hai già un account?"
+msgstr ""
 
-#, fuzzy
 msgid "Standard"
-msgstr "Modifica profilo"
+msgstr ""
 
-#, fuzzy
 msgid "VIP Patron"
-msgstr "Navigazione"
+msgstr ""
 
-#, fuzzy
 msgid "Ad-Free Experience"
-msgstr "Servizi supportati"
+msgstr ""
 
-#, fuzzy
 msgid "Playlists Creation"
-msgstr "Playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Unlimited"
-msgstr "Crea nuova playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Sounds per Playlist"
-msgstr "Cerca playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Private Playlists"
-msgstr "Crea nuova playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Bulk Playlist Download (.zip)"
-msgstr "Download"
+msgstr ""
 
 msgid "Animated GIF Avatars"
 msgstr ""
 
-#, fuzzy
 msgid "Custom Sound Covers"
-msgstr "Suono segnalato."
+msgstr ""
 
-#, fuzzy
 msgid "File Upload Size"
-msgstr "Più scaricati"
+msgstr ""
 
-#, fuzzy
 msgid "Tags per Sound"
-msgstr "Suoni totali"
+msgstr ""
 
 msgid "Nickname Styling"
 msgstr ""
 
-#, fuzzy
 msgid "Paid"
-msgstr "Carica"
+msgstr ""
 
 msgid "Unlimited & Free"
 msgstr ""
 
-#, fuzzy
 msgid "Sound Boosts"
-msgstr "Suono già presente nella playlist."
+msgstr ""
 
 msgid "1 Free Daily"
 msgstr ""
 
-#, fuzzy
 msgid "VIP Profile Badge"
-msgstr "Visualizza Profilo"
+msgstr ""
 
-#, fuzzy
 msgid "Become a Patron"
-msgstr "Commenti"
+msgstr ""
 
-#, fuzzy
 msgid "Extend Subscription"
-msgstr "Durata"
+msgstr ""
 
 msgid "Choose your preferred payment method"
 msgstr ""
@@ -2141,20 +1920,17 @@ msgstr ""
 msgid "Banner Preview"
 msgstr ""
 
-#, fuzzy
 msgid "Contact"
-msgstr "Contatti"
+msgstr ""
 
 msgid "Submitted At"
 msgstr ""
 
-#, fuzzy
 msgid "Loading requests..."
-msgstr "Caricamento commenti..."
+msgstr ""
 
-#, fuzzy
 msgid "Error loading requests."
-msgstr "Errore nel caricamento dei commenti."
+msgstr ""
 
 msgid "No pending requests."
 msgstr ""
@@ -2174,13 +1950,11 @@ msgstr "Per te"
 msgid "News"
 msgstr "Notizie"
 
-#, fuzzy
 msgid "Report a bug"
-msgstr "Segnala un suono"
+msgstr ""
 
-#, fuzzy
 msgid "Request a sound"
-msgstr "Segnala un suono"
+msgstr ""
 
 msgid "Contacts"
 msgstr "Contatti"
@@ -2200,9 +1974,8 @@ msgstr "Gruppo Steam"
 msgid "Total sounds"
 msgstr "Suoni totali"
 
-#, fuzzy
 msgid "Notifications"
-msgstr "Navigazione"
+msgstr ""
 
 msgid "Mark all as read"
 msgstr ""
@@ -2224,13 +1997,11 @@ msgstr ""
 msgid "Your ideas here..."
 msgstr ""
 
-#, fuzzy
 msgid "Later"
-msgstr "Classifica"
+msgstr ""
 
-#, fuzzy
 msgid "Send"
-msgstr "Suono"
+msgstr ""
 
 msgid "Sent!"
 msgstr ""
@@ -2238,9 +2009,8 @@ msgstr ""
 msgid "You can remove sounds you don't want from the list below."
 msgstr ""
 
-#, fuzzy
 msgid "Download .zip"
-msgstr "Download"
+msgstr ""
 
 msgid "Preparing download for"
 msgstr ""
@@ -2288,9 +2058,8 @@ msgstr "Impostazioni lingua"
 msgid "Appearance"
 msgstr ""
 
-#, fuzzy
 msgid "Show Sound Covers"
-msgstr "Suono segnalato."
+msgstr ""
 
 msgid "Display custom background images on sound cards."
 msgstr ""
@@ -2304,9 +2073,8 @@ msgstr ""
 msgid "Interface Language"
 msgstr "Lingua interfaccia"
 
-#, fuzzy
 msgid "Content Languages"
-msgstr "Filtri lingua contenuti"
+msgstr ""
 
 msgid ""
 "Select languages you want to see. Leave all unchecked to use automatic "
@@ -2349,38 +2117,32 @@ msgstr ""
 msgid "Search"
 msgstr "Cerca"
 
-#, fuzzy
 msgid "Profile"
-msgstr "Visualizza Profilo"
+msgstr ""
 
-#, fuzzy
 msgid "Settings"
-msgstr "Impostazioni lingua"
+msgstr ""
 
 msgid "Log in"
 msgstr "Accedi"
 
-#, fuzzy
 msgid "Download Top 50 Packs:"
-msgstr "Scarica Soundpad"
+msgstr ""
 
-#, fuzzy
 msgid "Daily"
-msgstr "Email"
+msgstr ""
 
 msgid "Weekly"
 msgstr ""
 
-#, fuzzy
 msgid "Download Top 50 Sounds"
-msgstr "Scarica Soundpad"
+msgstr ""
 
 msgid "This pack contains the 50 most popular sounds of the"
 msgstr ""
 
-#, fuzzy
 msgid "ready for Soundpad."
-msgstr "Aggiungi a Soundpad"
+msgstr ""
 
 msgid "Best Value / Fast"
 msgstr ""
@@ -2388,39 +2150,32 @@ msgstr ""
 msgid "Support us with a small donation and get 3 Days of VIP instantly."
 msgstr ""
 
-#, fuzzy
 msgid "Say Thanks & Download"
-msgstr "Impossibile scaricare il file."
+msgstr ""
 
-#, fuzzy
 msgid "Get Monthly VIP Subscription"
-msgstr "Durata"
+msgstr ""
 
 msgid "Unlocks all packs, playlists and removes ads."
 msgstr ""
 
-#, fuzzy
 msgid "Downloading..."
-msgstr "Download"
+msgstr ""
 
-#, fuzzy
 msgid "Complete!"
-msgstr "Importa da URL"
+msgstr ""
 
-#, fuzzy
 msgid "Download failed"
-msgstr "Più scaricati"
+msgstr ""
 
-#, fuzzy
 msgid "Access Restricted"
-msgstr "Accesso negato"
+msgstr ""
 
 msgid "To continue listening, please subscribe to our Telegram channel."
 msgstr ""
 
-#, fuzzy
 msgid "Important:"
-msgstr "Importa"
+msgstr ""
 
 msgid ""
 "Do not unsubscribe! If you leave the channel, you will need to verify again."
@@ -2432,25 +2187,22 @@ msgstr ""
 msgid "Subscribe to unlock"
 msgstr ""
 
-#, fuzzy
 msgid "Verifying subscription..."
-msgstr "Durata"
+msgstr ""
 
 msgid "Continue"
 msgstr ""
 
-#, fuzzy
 msgid "This track is already downloading."
-msgstr "Suono già presente nella playlist."
+msgstr ""
 
 msgid ""
 "Please wait for the previous download to finish. VIPs can download multiple "
 "files at once!"
 msgstr ""
 
-#, fuzzy
 msgid "Adding to Soundpad:"
-msgstr "Aggiungi a Soundpad"
+msgstr ""
 
 msgid "DELETED"
 msgstr "ELIMINATO"
@@ -2458,40 +2210,32 @@ msgstr "ELIMINATO"
 msgid "Unlock This Feature"
 msgstr ""
 
-#, fuzzy
 msgid "Log In or Create Account"
-msgstr "Hai già un account?"
+msgstr ""
 
-#, fuzzy
 msgid "This sound is boosted!"
-msgstr "Suono già presente nella playlist."
+msgstr ""
 
-#, fuzzy
 msgid "Boost Sound"
-msgstr "Suoni totali"
+msgstr ""
 
-#, fuzzy
 msgid "Views"
-msgstr "Immagine di anteprima"
+msgstr ""
 
-#, fuzzy
 msgid "Add to playlist"
-msgstr "Aggiungi alla blacklist"
+msgstr ""
 
 msgid "Report"
 msgstr "Segnala"
 
-#, fuzzy
 msgid "Original Sound"
-msgstr "Suoni totali"
+msgstr ""
 
-#, fuzzy
 msgid "Go to original sound"
-msgstr "Suoni totali"
+msgstr ""
 
-#, fuzzy
 msgid "Additional Tags"
-msgstr "Opzioni aggiuntive"
+msgstr ""
 
 msgid "This sound is too loud. Are you sure you want to play it back?"
 msgstr "Questo suono è troppo forte. Sei sicuro di volerlo riprodurre?"
@@ -2515,13 +2259,11 @@ msgstr ""
 msgid "Show more"
 msgstr "Mostra altro"
 
-#, fuzzy
 msgid "No sounds to add."
-msgstr "Nessun suono trovato"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Playlist"
-msgstr "Aggiungi alla blacklist"
+msgstr ""
 
 #, python-format
 msgid "Choose a playlist for %(count)s sounds or create a new one."
@@ -2531,80 +2273,64 @@ msgstr ""
 msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
 msgstr ""
 
-#, fuzzy
 msgid "Create New"
-msgstr "Hai già un account?"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Existing"
-msgstr "Aggiungi alla blacklist"
+msgstr ""
 
-#, fuzzy
 msgid "New Playlist Name"
-msgstr "Nome playlist"
+msgstr ""
 
 msgid "My Awesome Mix"
 msgstr ""
 
-#, fuzzy
 msgid "Choose cover…"
-msgstr "Scegli file"
+msgstr ""
 
-#, fuzzy
 msgid "Make playlist public"
-msgstr "Cerca playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Search your playlists..."
-msgstr "Cerca playlist"
+msgstr ""
 
 msgid "Save"
 msgstr "Salva"
 
-#, fuzzy
 msgid "You don't have any playlists yet."
-msgstr "Non hai il permesso."
+msgstr ""
 
-#, fuzzy
 msgid "Could not load your playlists."
-msgstr "Suono non presente nella playlist."
+msgstr ""
 
-#, fuzzy
 msgid "Searching..."
-msgstr "Cerca per query "
+msgstr ""
 
-#, fuzzy
 msgid "Search failed."
-msgstr "Cerca per query "
+msgstr ""
 
-#, fuzzy
 msgid "Please select a playlist."
-msgstr "Seleziona playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Please enter a name for the new playlist."
-msgstr "Crea nuova playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Image uploaded."
-msgstr "Caricati"
+msgstr ""
 
-#, fuzzy
 msgid "Image upload failed."
-msgstr "Più scaricati"
+msgstr ""
 
-#, fuzzy
 msgid "Playlist Limit Reached"
-msgstr "Playlist eliminata."
+msgstr ""
 
 msgid ""
 "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited "
 "playlists!"
 msgstr ""
 
-#, fuzzy
 msgid "Playlist is Full"
-msgstr "Playlist"
+msgstr ""
 
 msgid ""
 "Standard users can add up to 20 sounds per playlist. Get VIP to create "
@@ -2617,9 +2343,8 @@ msgstr ""
 msgid "Keep your collections to yourself by upgrading to VIP."
 msgstr ""
 
-#, fuzzy
 msgid "An unexpected error occurred."
-msgstr "Si è verificato un errore"
+msgstr ""
 
 msgid "Hey, check out this playlist on Uwupad!"
 msgstr ""
@@ -2627,9 +2352,8 @@ msgstr ""
 msgid "No sounds found"
 msgstr "Nessun suono trovato"
 
-#, fuzzy
 msgid "Sound is already in the queue"
-msgstr "Suono già presente nella playlist."
+msgstr ""
 
 msgid "added to queue"
 msgstr ""
@@ -2721,9 +2445,8 @@ msgstr ""
 msgid "Select your browser, extension, or antivirus from the list below"
 msgstr ""
 
-#, fuzzy
 msgid "Google Chrome"
-msgstr "Torna alla Home"
+msgstr ""
 
 msgid ""
 "Click the extension icon (puzzle piece) in the top right corner of the "
@@ -2739,9 +2462,8 @@ msgstr ""
 msgid "Click on the extension and press"
 msgstr ""
 
-#, fuzzy
 msgid "Disable on this site"
-msgstr "Applica filtri"
+msgstr ""
 
 msgid "or the big power button."
 msgstr ""
@@ -2770,9 +2492,8 @@ msgstr ""
 msgid "Enhanced Tracking Protection"
 msgstr ""
 
-#, fuzzy
 msgid "to position"
-msgstr "Segnala"
+msgstr ""
 
 msgid "OFF"
 msgstr ""
@@ -2830,9 +2551,8 @@ msgstr ""
 msgid "If there is no extension, open the main Kaspersky app"
 msgstr ""
 
-#, fuzzy
 msgid "Security settings"
-msgstr "Impostazioni lingua"
+msgstr ""
 
 msgid "Disable"
 msgstr ""
@@ -2846,24 +2566,20 @@ msgstr ""
 msgid "Log in to your account at windscribe.com."
 msgstr ""
 
-#, fuzzy
 msgid "Go to the tab"
-msgstr "Segnala"
+msgstr ""
 
-#, fuzzy
 msgid "Select"
-msgstr "ELIMINATO"
+msgstr ""
 
-#, fuzzy
 msgid "Custom Rules"
-msgstr "Suono segnalato."
+msgstr ""
 
 msgid "Enter our site domain and select the option"
 msgstr ""
 
-#, fuzzy
 msgid "Whitelist"
-msgstr "Applica filtri"
+msgstr ""
 
 msgid ""
 "Since R.O.B.E.R.T. works at the DNS level, changes may take a few minutes to"
@@ -2890,9 +2606,8 @@ msgstr ""
 msgid "Wait for the page to automatically refresh."
 msgstr ""
 
-#, fuzzy
 msgid "Brave Browser"
-msgstr "Ruolo"
+msgstr ""
 
 msgid "Click the lion icon (Brave Shields) to the right of the address bar."
 msgstr ""
@@ -2905,24 +2620,20 @@ msgid ""
 " site is the most reliable method."
 msgstr ""
 
-#, fuzzy
 msgid "Yandex Browser"
-msgstr "Ruolo"
+msgstr ""
 
 msgid "Click the lock icon 🔒 or shield in the left part of the SmartBox."
 msgstr ""
 
-#, fuzzy
 msgid "Click"
-msgstr "Link"
+msgstr ""
 
-#, fuzzy
 msgid "More details"
-msgstr "Email"
+msgstr ""
 
-#, fuzzy
 msgid "if required"
-msgstr "Email richiesta."
+msgstr ""
 
 msgid "Block ads on this site"
 msgstr ""
@@ -2939,9 +2650,8 @@ msgstr ""
 msgid "If that doesn't help: Menu"
 msgstr ""
 
-#, fuzzy
 msgid "Extensions"
-msgstr "Traduzioni"
+msgstr ""
 
 msgid "Disable third-party blockers."
 msgstr ""
@@ -2955,13 +2665,11 @@ msgstr ""
 msgid "Menu"
 msgstr ""
 
-#, fuzzy
 msgid "Section"
-msgstr "Durata"
+msgstr ""
 
-#, fuzzy
 msgid "Protection"
-msgstr "Navigazione"
+msgstr ""
 
 msgid "Web Shield"
 msgstr ""
@@ -2969,9 +2677,8 @@ msgstr ""
 msgid "Find the tab"
 msgstr ""
 
-#, fuzzy
 msgid "Exceptions"
-msgstr "Durata"
+msgstr ""
 
 msgid "and add our website address."
 msgstr ""
@@ -2987,20 +2694,17 @@ msgid ""
 "another browser or contact"
 msgstr ""
 
-#, fuzzy
 msgid "support"
-msgstr "Contatta il Supporto"
+msgstr ""
 
 msgid "Return to site"
 msgstr ""
 
-#, fuzzy
 msgid "Very popular (100-500 downloads)"
-msgstr "Poco popolare (10-50 download)"
+msgstr ""
 
-#, fuzzy
 msgid "Extremely popular (>500 downloads)"
-msgstr "Popolare (50-100 download)"
+msgstr ""
 
 msgid "Language"
 msgstr "Lingua"
@@ -3016,9 +2720,8 @@ msgstr ""
 msgid "Listen to and discover new music on UwUpad."
 msgstr ""
 
-#, fuzzy
 msgid "Browse"
-msgstr "Ruolo"
+msgstr ""
 
 msgid "My Library"
 msgstr ""
@@ -3029,88 +2732,71 @@ msgstr ""
 msgid "Sounds / Memes"
 msgstr ""
 
-#, fuzzy
 msgid "Sorting"
-msgstr "Importa"
+msgstr ""
 
 msgid "Hot"
 msgstr ""
 
-#, fuzzy
 msgid "Period"
-msgstr "Procedi"
+msgstr ""
 
-#, fuzzy
 msgid "All time"
-msgstr "Applica filtri"
+msgstr ""
 
-#, fuzzy
 msgid "Year"
-msgstr "Cerca"
+msgstr ""
 
-#, fuzzy
 msgid "Month"
-msgstr "Altro"
+msgstr ""
 
 msgid "Week"
 msgstr ""
 
-#, fuzzy
 msgid "Day"
-msgstr "Email"
+msgstr ""
 
-#, fuzzy
 msgid "Now"
-msgstr "No"
+msgstr ""
 
-#, fuzzy
 msgid "Search by title..."
-msgstr "Cerca per query "
+msgstr ""
 
 msgid "What do you want to listen to?"
 msgstr ""
 
-#, fuzzy
 msgid "Liked Songs"
-msgstr "Apprezzati"
+msgstr ""
 
-#, fuzzy
 msgid "tracks"
-msgstr "Pag. succ."
+msgstr ""
 
-#, fuzzy
 msgid "Create Playlist"
-msgstr "Crea nuova playlist"
+msgstr ""
 
-#, fuzzy
 msgid "My Playlists"
-msgstr "Playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Play"
-msgstr "Playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Now Playing"
-msgstr "Nome playlist"
+msgstr ""
 
 msgid "Track Cover"
 msgstr ""
 
-#, fuzzy
 msgid "Track Title"
-msgstr "Titolo"
+msgstr ""
 
-#, fuzzy
 msgid "Artist"
-msgstr "Durata"
+msgstr ""
 
 msgid "Next in Queue"
 msgstr ""
 
-#, fuzzy
 msgid "Cover"
-msgstr "Altro"
+msgstr ""
 
 msgid "Select a track"
 msgstr ""
@@ -3121,17 +2807,14 @@ msgstr ""
 msgid "Previous Track"
 msgstr ""
 
-#, fuzzy
 msgid "Play/Pause"
-msgstr "Nome utente"
+msgstr ""
 
-#, fuzzy
 msgid "Next Track"
-msgstr "Pag. succ."
+msgstr ""
 
-#, fuzzy
 msgid "Repeat"
-msgstr "Segnala"
+msgstr ""
 
 msgid "Fullscreen Mode"
 msgstr ""
@@ -3142,59 +2825,47 @@ msgstr ""
 msgid "Mute/Unmute"
 msgstr ""
 
-#, fuzzy
 msgid "Add to Queue"
-msgstr "Non autenticato."
+msgstr ""
 
-#, fuzzy
 msgid "New Playlist"
-msgstr "Nome playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Playlist is empty"
-msgstr "Il nome della playlist non può essere vuoto."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load music."
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
-#, fuzzy
 msgid "Unlike"
-msgstr "Link"
+msgstr ""
 
-#, fuzzy
 msgid "Your personal favorites"
-msgstr "Il tuo indirizzo e-mail"
+msgstr ""
 
-#, fuzzy
 msgid "Enter playlist name:"
-msgstr "Nome playlist"
+msgstr ""
 
-#, fuzzy
 msgid "Are you sure you want to delete this playlist?"
-msgstr "Sei sicuro di voler bloccare questo utente?"
+msgstr ""
 
-#, fuzzy
 msgid "This track is downloading."
-msgstr "Suono già presente nella playlist."
+msgstr ""
 
 msgid "Please wait for the current download to finish."
 msgstr ""
 
-#, fuzzy
 msgid "Downloading error"
-msgstr "Download"
+msgstr ""
 
 msgid "Finished!"
 msgstr ""
 
-#, fuzzy
 msgid "Upload Music"
-msgstr "Carica"
+msgstr ""
 
-#, fuzzy
 msgid "To Home"
-msgstr "Torna alla Home"
+msgstr ""
 
 msgid "Drag & Drop Cover"
 msgstr ""
@@ -3202,13 +2873,11 @@ msgstr ""
 msgid "or click to select"
 msgstr ""
 
-#, fuzzy
 msgid "Cover Preview"
-msgstr "Immagine di anteprima"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Cover"
-msgstr "Immagine di anteprima"
+msgstr ""
 
 msgid "Title of your track"
 msgstr ""
@@ -3225,13 +2894,11 @@ msgstr ""
 msgid "Up to 5 tags. Enter a tag and press Enter."
 msgstr ""
 
-#, fuzzy
 msgid "Audio File"
-msgstr "Modifica profilo"
+msgstr ""
 
-#, fuzzy
 msgid "Select file (MP3, WAV, OGG)"
-msgstr "Formati supportati: mp3, wav, ogg"
+msgstr ""
 
 msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
 msgstr ""
@@ -3239,21 +2906,17 @@ msgstr ""
 msgid "Please use the Standard Uploader for short sounds."
 msgstr ""
 
-#, fuzzy
 msgid "Go to Standard Uploader"
-msgstr "Suoni totali"
+msgstr ""
 
-#, fuzzy
 msgid "I agree with the"
-msgstr "Accetto i"
+msgstr ""
 
-#, fuzzy
 msgid "terms"
-msgstr "Filtri"
+msgstr ""
 
-#, fuzzy
 msgid "policy"
-msgstr "Popolarità"
+msgstr ""
 
 msgid "Cover image is too large (max. 5 MB)"
 msgstr ""
@@ -3262,20 +2925,18 @@ msgstr ""
 msgid "You can add no more than ${MAX_TAGS} tags."
 msgstr ""
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
-msgstr "L'email deve essere più lunga di 5 caratteri."
+msgstr ""
 
-#, fuzzy
 msgid "Audio file is too large (max. 20 MB)"
-msgstr "Il file è troppo grande"
+msgstr ""
 
 msgid "Server error:"
 msgstr ""
 
-#, fuzzy
 msgid "Music uploaded successfully!"
-msgstr "Commento pubblicato con successo!"
+msgstr ""
 
 msgid "Payment Cancelled"
 msgstr "Pagamento Annullato"
@@ -3338,9 +2999,8 @@ msgstr "Il nome utente deve essere più corto di 16 caratteri."
 msgid "Username already exists."
 msgstr "Nome utente già esistente."
 
-#, fuzzy
 msgid "Bio is too long. Max 250 characters."
-msgstr "Il nome della playlist è troppo lungo. Max 32 caratteri."
+msgstr ""
 
 msgid "Invalid image."
 msgstr "Immagine non valida."
@@ -3390,9 +3050,8 @@ msgstr "Supera il controllo reCAPTCHA (2)."
 msgid "Could not verify reCAPTCHA."
 msgstr "Impossibile verificare reCAPTCHA."
 
-#, fuzzy
 msgid "Account with this username does not exist."
-msgstr "Account con questo nome utente/email non esiste."
+msgstr ""
 
 msgid "Account with this email does not exist."
 msgstr "Account con questa email non esiste."
@@ -3412,13 +3071,12 @@ msgstr "Dati non validi."
 msgid "You already have a playlist with this name."
 msgstr ""
 
-#, fuzzy
 msgid "Could not find or create playlist."
-msgstr "Suono non presente nella playlist."
+msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
-msgstr "Suono aggiunto alla playlist {}."
+msgstr ""
 
 #, python-format
 msgid "%(count)s sounds were already in the playlist and were skipped."
@@ -3427,20 +3085,17 @@ msgstr ""
 msgid "No new sounds were added. They might already be in the playlist."
 msgstr ""
 
-#, fuzzy
 msgid "Sound removed from playlist."
-msgstr "Suono rimosso dalla playlist {}."
+msgstr ""
 
-#, fuzzy
 msgid "Sound not found in this playlist."
-msgstr "Suono non presente nella playlist."
+msgstr ""
 
 msgid "Playlist deleted."
 msgstr "Playlist eliminata."
 
-#, fuzzy
 msgid "Sound ID is required."
-msgstr "Email richiesta."
+msgstr ""
 
 msgid "Sound not found."
 msgstr "Suono non trovato."
@@ -3448,44 +3103,36 @@ msgstr "Suono non trovato."
 msgid "Sound deleted."
 msgstr "Suono eliminato."
 
-#, fuzzy
 msgid "An error occurred while deleting the sound."
-msgstr "Si è verificato un errore durante l'eliminazione del commento."
+msgstr ""
 
-#, fuzzy
 msgid "Authentication required"
-msgstr "Non autenticato."
+msgstr ""
 
-#, fuzzy
 msgid "Upload in progress. Please wait."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
 msgid "Cover file must be an image."
 msgstr ""
 
-#, fuzzy
 msgid "Failed to upload cover to CDN."
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
-#, fuzzy
 msgid "Invalid URL format"
-msgstr "Formato file non valido."
+msgstr ""
 
-#, fuzzy
 msgid "Cannot access URL"
-msgstr "Pagamento Riuscito"
+msgstr ""
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Failed to download file: {}"
-msgstr "Impossibile scaricare il file."
+msgstr ""
 
-#, fuzzy
 msgid "File too large"
-msgstr "Il file è troppo grande"
+msgstr ""
 
-#, fuzzy
 msgid "File too small"
-msgstr "Il file è troppo grande"
+msgstr ""
 
 msgid "No file or URL provided"
 msgstr ""
@@ -3493,13 +3140,11 @@ msgstr ""
 msgid "Sound was queued for upload"
 msgstr ""
 
-#, fuzzy
 msgid "Upload timeout. Please try again."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
-#, fuzzy
 msgid "Upload failed. Please try again."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
 msgid "Sound liked."
 msgstr "Suono apprezzato."
@@ -3510,17 +3155,14 @@ msgstr "Apprezzamento rimosso dal suono."
 msgid "You can only boost your own sounds."
 msgstr ""
 
-#, fuzzy
 msgid "This sound is already boosted."
-msgstr "Suono già presente nella playlist."
+msgstr ""
 
-#, fuzzy
 msgid "Authenticated user not found."
-msgstr "Utente non trovato"
+msgstr ""
 
-#, fuzzy
 msgid "Free boosts are for VIP users only."
-msgstr "GIF solo per utenti VIP"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -3557,20 +3199,17 @@ msgstr "Il motivo deve essere più corto di 1024 caratteri."
 msgid "Sound reported."
 msgstr "Suono segnalato."
 
-#, fuzzy
 msgid "Failed to upload cover image to CDN."
-msgstr "Impossibile caricare altri commenti."
+msgstr ""
 
 msgid "Sound disappeared during edit."
 msgstr ""
 
-#, fuzzy
 msgid "Sound updated successfully."
-msgstr "Commento pubblicato con successo!"
+msgstr ""
 
-#, fuzzy
 msgid "An internal error occurred."
-msgstr "Si è verificato un errore"
+msgstr ""
 
 msgid "Invalid date."
 msgstr "Data non valida."
@@ -3584,16 +3223,14 @@ msgstr "Ruolo aggiornato."
 msgid "You cannot block yourself."
 msgstr "Non puoi bloccare te stesso."
 
-#, fuzzy
 msgid "User not found."
-msgstr "Utente non trovato"
+msgstr ""
 
 msgid "User blocked."
 msgstr "Utente bloccato."
 
-#, fuzzy
 msgid "An internal error occurred while blocking the user."
-msgstr "Si è verificato un errore durante l'eliminazione del commento."
+msgstr ""
 
 msgid "Passwords do not match."
 msgstr "Le password non corrispondono."
@@ -3619,9 +3256,8 @@ msgstr "Email inviata. Controlla la tua casella di posta."
 msgid "Invalid user ID."
 msgstr "ID utente non valido."
 
-#, fuzzy
 msgid "Password cannot be empty."
-msgstr "Il nome utente non può essere vuoto."
+msgstr ""
 
 msgid "Not an admin."
 msgstr "Non è un amministratore."
@@ -3629,35 +3265,30 @@ msgstr "Non è un amministratore."
 msgid "Cover image is too large (max 5MB)."
 msgstr ""
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Audio file is too large (max {size}MB)."
-msgstr "Il file è troppo grande"
+msgstr ""
 
 msgid "Music track was queued for processing."
 msgstr ""
 
-#, fuzzy
 msgid "Upload failed due to an internal error."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
-#, fuzzy
 msgid "Name required"
-msgstr "Non autenticato."
+msgstr ""
 
-#, fuzzy
 msgid "Style is too long."
-msgstr "Il file è troppo grande"
+msgstr ""
 
-#, fuzzy
 msgid "Invalid or unsafe CSS."
-msgstr "Ruolo non valido."
+msgstr ""
 
 msgid "This color is reserved for staff members."
 msgstr ""
 
-#, fuzzy
 msgid "Nickname style updated successfully!"
-msgstr "Commento pubblicato con successo!"
+msgstr ""
 
 #, python-format
 msgid "Not enough PAW. You need %(cost)s PAW to change your nickname style."
@@ -3703,10 +3334,9 @@ msgstr ""
 msgid "Your sound [entity] has been successfully processed!"
 msgstr ""
 
-#, fuzzy
 msgid ""
 "We couldn't process your sound [entity]. Please try uploading it again."
-msgstr "Impossibile caricare i commenti. Riprova più tardi."
+msgstr ""
 
 msgid "An administrator removed your sound: [entity]."
 msgstr ""
