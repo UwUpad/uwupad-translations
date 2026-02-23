@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:41+0000\n"
+"POT-Creation-Date: 2026-02-23 09:14+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: pt <LL@li.org>\n"
@@ -512,13 +512,14 @@ msgid "Open"
 msgstr "Abrir"
 
 msgid "Join Millions of Players Worldwide"
-msgstr ""
+msgstr "Junte-se a milhões de jogadores ao redor do mundo"
 
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
+"Viva batalhas épicas de tanques. Baixe agora e ganhe um tanque grátis!"
 
 msgid "Play Now"
-msgstr ""
+msgstr "Jogar Agora"
 
 msgid "Change Password"
 msgstr "Alterar Senha"
@@ -631,7 +632,7 @@ msgid "Back"
 msgstr "Voltar"
 
 msgid "Top Supporters 💖"
-msgstr ""
+msgstr "Principais apoiadores 💖"
 
 msgid "Support Our Project"
 msgstr "Apoie Nosso Projeto"
@@ -670,28 +671,28 @@ msgid "PAW tokens are added automatically as a thank you."
 msgstr "Tokens PAW são adicionados automaticamente como agradecimento."
 
 msgid "Other ways to support"
-msgstr ""
+msgstr "Outras formas de apoiar"
 
 msgid "Card, SBP, and more — via donation platform"
-msgstr ""
+msgstr "Cartões, SBP e mais — via plataforma de doação"
 
 msgid "Crypto via Telegram"
-msgstr ""
+msgstr "Cripto via Telegram"
 
 msgid "Send crypto through @wallet bot — fast and easy"
-msgstr ""
+msgstr "Envie cripto pelo bot @wallet — rápido e fácil"
 
 msgid "Direct Crypto Transfer"
-msgstr ""
+msgstr "Transferência direta de criptomoeda"
 
 msgid "and more"
-msgstr ""
+msgstr "e mais"
 
 msgid "Choose Cryptocurrency"
-msgstr ""
+msgstr "Escolha a criptomoeda"
 
 msgid "Back to list"
-msgstr ""
+msgstr "Voltar para a lista"
 
 msgid "Please enter a valid amount."
 msgstr "Por favor, insira um valor válido."
@@ -784,7 +785,7 @@ msgid "Comment Likes"
 msgstr "Curtidas em Comentários"
 
 msgid "Donations"
-msgstr ""
+msgstr "Doações"
 
 msgid "Prev."
 msgstr "Anterior"
@@ -1291,7 +1292,7 @@ msgid "An unknown error occurred."
 msgstr "Ocorreu um erro desconhecido."
 
 msgid "Register on UwUpad"
-msgstr ""
+msgstr "Cadastre-se no UwUpad"
 
 msgid "Create Account"
 msgstr "Criar Conta"
@@ -1300,7 +1301,7 @@ msgid "Already have an account?"
 msgstr "Já tem uma conta?"
 
 msgid "Account created!"
-msgstr ""
+msgstr "Conta criada!"
 
 msgid "Reset Your Password"
 msgstr "Redefinir Sua Senha"
@@ -3145,7 +3146,7 @@ msgid "Could not verify reCAPTCHA."
 msgstr "Não foi possível verificar o reCAPTCHA."
 
 msgid "Account with this username does not exist."
-msgstr ""
+msgstr "A conta com este nome de usuário não existe."
 
 msgid "Account with this email does not exist."
 msgstr "Conta com este email não existe."
@@ -3210,7 +3211,7 @@ msgid "Cover file must be an image."
 msgstr "O arquivo de capa deve ser uma imagem."
 
 msgid "Failed to upload cover to CDN."
-msgstr ""
+msgstr "Falha ao enviar a capa para o CDN."
 
 msgid "Invalid URL format"
 msgstr "Formato de URL inválido"
@@ -3296,7 +3297,7 @@ msgid "Sound reported."
 msgstr "Som denunciado."
 
 msgid "Failed to upload cover image to CDN."
-msgstr ""
+msgstr "Falha ao enviar a imagem de capa para o CDN."
 
 msgid "Sound disappeared during edit."
 msgstr "O som desapareceu durante a edição."

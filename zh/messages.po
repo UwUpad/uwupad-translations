@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:41+0000\n"
+"POT-Creation-Date: 2026-02-23 09:14+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -494,13 +494,13 @@ msgid "Open"
 msgstr "打开"
 
 msgid "Join Millions of Players Worldwide"
-msgstr ""
+msgstr "加入全球数百万玩家"
 
 msgid "Experience epic tank battles. Download now and get a free tank!"
-msgstr ""
+msgstr "体验史诗级坦克对战。现在就下载，送你一辆免费坦克！"
 
 msgid "Play Now"
-msgstr ""
+msgstr "现在就开玩"
 
 msgid "Change Password"
 msgstr "更改密码"
@@ -609,7 +609,7 @@ msgid "Back"
 msgstr "返回"
 
 msgid "Top Supporters 💖"
-msgstr ""
+msgstr "顶级支持者 💖"
 
 msgid "Support Our Project"
 msgstr "支持我们的项目"
@@ -646,28 +646,28 @@ msgid "PAW tokens are added automatically as a thank you."
 msgstr "作为感谢，PAW 代币将自动发放。"
 
 msgid "Other ways to support"
-msgstr ""
+msgstr "其他支持方式"
 
 msgid "Card, SBP, and more — via donation platform"
-msgstr ""
+msgstr "通过捐赠平台的银行卡、SBP 等等"
 
 msgid "Crypto via Telegram"
-msgstr ""
+msgstr "通过 Telegram 使用加密货币"
 
 msgid "Send crypto through @wallet bot — fast and easy"
-msgstr ""
+msgstr "通过 @wallet 机器人发送加密货币——快速又简单"
 
 msgid "Direct Crypto Transfer"
-msgstr ""
+msgstr "直接加密货币转账"
 
 msgid "and more"
-msgstr ""
+msgstr "以及更多"
 
 msgid "Choose Cryptocurrency"
-msgstr ""
+msgstr "选择加密货币"
 
 msgid "Back to list"
-msgstr ""
+msgstr "返回列表"
 
 msgid "Please enter a valid amount."
 msgstr "请输入有效的金额。"
@@ -755,7 +755,7 @@ msgid "Comment Likes"
 msgstr "评论获赞"
 
 msgid "Donations"
-msgstr ""
+msgstr "捐赠"
 
 msgid "Prev."
 msgstr "上一页"
@@ -1247,7 +1247,7 @@ msgid "An unknown error occurred."
 msgstr "发生了未知错误。"
 
 msgid "Register on UwUpad"
-msgstr ""
+msgstr "在 UwUpad 注册"
 
 msgid "Create Account"
 msgstr "注册账号"
@@ -1256,7 +1256,7 @@ msgid "Already have an account?"
 msgstr "已有账号？"
 
 msgid "Account created!"
-msgstr ""
+msgstr "账户创建成功！"
 
 msgid "Reset Your Password"
 msgstr "重置密码"
@@ -3034,7 +3034,7 @@ msgid "Could not verify reCAPTCHA."
 msgstr "无法验证 reCAPTCHA。"
 
 msgid "Account with this username does not exist."
-msgstr ""
+msgstr "使用此用户名的账户不存在。"
 
 msgid "Account with this email does not exist."
 msgstr "使用该电子邮箱的账号不存在。"
@@ -3099,7 +3099,7 @@ msgid "Cover file must be an image."
 msgstr "封面文件必须是图片。"
 
 msgid "Failed to upload cover to CDN."
-msgstr ""
+msgstr "上传封面到 CDN 失败。"
 
 msgid "Invalid URL format"
 msgstr "无效的 URL 格式"
@@ -3183,7 +3183,7 @@ msgid "Sound reported."
 msgstr "声音已举报。"
 
 msgid "Failed to upload cover image to CDN."
-msgstr ""
+msgstr "上传封面图片到 CDN 失败。"
 
 msgid "Sound disappeared during edit."
 msgstr "编辑期间声音消失。"

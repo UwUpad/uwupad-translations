@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:41+0000\n"
+"POT-Creation-Date: 2026-02-23 09:14+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
@@ -348,180 +348,185 @@ msgid "Welcome back,"
 msgstr "Қайта қош келдіңіз,"
 
 msgid "Available for VIP users only"
-msgstr ""
+msgstr "Тек VIP пайдаланушыларға ғана қол жетімді"
 
 msgid "Bulk Download is a VIP Feature"
-msgstr ""
+msgstr "Көп файлды жүктеу VIP ерекшелігі"
 
 msgid "Upgrade to VIP to download entire playlists as a .zip file!"
 msgstr ""
+"Барлық плейлисттерді .zip файлы ретінде жүктеу үшін VIP деңгейіне өтіңіз!"
 
 msgid "Pause"
-msgstr ""
+msgstr "Пауза"
 
 msgid "This playlist is empty."
-msgstr ""
+msgstr "Бұл плейлист бос."
 
 msgid "Remove from download"
-msgstr ""
+msgstr "Жүктеуден алып тастау"
 
 msgid "Could not load playlist."
-msgstr ""
+msgstr "Плейлист жүктелмеді."
 
 msgid "Download cancelled."
-msgstr ""
+msgstr "Жүктеу тоқтатылды."
 
 msgid "Downloading"
-msgstr ""
+msgstr "Жүктеп жатыр"
 
 msgid "Creating ZIP file... Please wait."
-msgstr ""
+msgstr "ZIP файлын жасап жатыр... күтіңіз."
 
 msgid "Compressing..."
-msgstr ""
+msgstr "Қысу жүріп жатыр..."
 
 msgid "Resume"
-msgstr ""
+msgstr "Жалғастыру"
 
 msgid "Paused..."
-msgstr ""
+msgstr "Паузада..."
 
 msgid "Resuming..."
-msgstr ""
+msgstr "Қайта жалғасып жатыр..."
 
 msgid "Import cancelled."
-msgstr ""
+msgstr "Импорт тоқтатылды."
 
 msgid "Importing"
-msgstr ""
+msgstr "Импортталып жатыр."
 
 msgid "Import complete!"
-msgstr ""
+msgstr "Импорт аяқталды!"
 
 msgid "Sound data not loaded yet."
-msgstr ""
+msgstr "Дыбыс деректері әлі жүктелмеді."
 
 msgid "Error: Sound data not found."
-msgstr ""
+msgstr "Қате: Дыбыс деректері табылмады."
 
 msgid "Choose Boost Option"
-msgstr ""
+msgstr "Жылдамдату опциясын таңдаңыз"
 
 msgid "Promote your sound to reach a wider audience."
-msgstr ""
+msgstr "Дыбысыңызды кең аудиторияға жеткізу үшін насихаттаңыз."
 
 msgid "VIP BENEFIT"
-msgstr ""
+msgstr "VIP артықшылығы"
 
 msgid "Free Boost"
-msgstr ""
+msgstr "Тегін буст"
 
 #, python-format
 msgid "1 free boost every %(hours)s hours."
-msgstr ""
+msgstr "Әр %(hours)s сағат сайын 1 тегін буст."
 
 msgid "Use Free Boost"
-msgstr ""
+msgstr "Тегін бусты пайдаланыңыз"
 
 msgid "PAY-TO-BOOST"
-msgstr ""
+msgstr "Буст үшін төлеңіз"
 
 msgid "Pay with PAW"
-msgstr ""
+msgstr "PAW-пен төлеңіз"
 
 #, python-format
 msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
-msgstr ""
+msgstr "Құны: %(cost)s PAW. Балансыңыз: %(balance)s PAW."
 
 #, python-format
 msgid "Pay %(cost)s PAW"
-msgstr ""
+msgstr "%(cost)s PAW төлеңіз"
 
 msgid "Confirm Sound Boost"
-msgstr ""
+msgstr "Дыбысты бустауды растаңыз"
 
 #, python-format
 msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
-msgstr ""
+msgstr "Бұл дыбысты бусттау <strong>%(cost)s PAW</strong> құнына түседі."
 
 msgid ""
 "This will place your sound at the top of the 'For You' page for a limited "
 "time."
-msgstr ""
+msgstr "Бұл дыбысты уақытша 'For You' бетінің үстіңгі жағына орналастырады."
 
 msgid "Get free boosts and more with VIP!"
-msgstr ""
+msgstr "VIP арқылы тегін бусттар және одан да көп нәрсені алыңыз!"
 
 msgid "Learn More"
 msgstr "Көбірек білу"
 
 msgid "Confirm & Boost"
-msgstr ""
+msgstr "Растаңыз және бустаңыз"
 
 msgid "An error occurred"
 msgstr "Қате орын алды"
 
 msgid "All caught up!"
-msgstr ""
+msgstr "Барлығы дайын."
 
 msgid "You have no new notifications."
-msgstr ""
+msgstr "Жаңа хабарландыру жоқ."
 
 msgid "Oops!"
-msgstr ""
+msgstr "Упс!"
 
 msgid "Could not load notifications. Please try again later."
-msgstr ""
+msgstr "Хабарландыруларды жүктеу мүмкін емес. Кейінірек қайта көріңіз."
 
 msgid "Just now"
-msgstr ""
+msgstr "Қазір ғана"
 
 #, python-format
 msgid "%(minutes)s m ago"
-msgstr ""
+msgstr "%(minutes)s мин бұрын"
 
 #, python-format
 msgid "%(hours)s h ago"
-msgstr ""
+msgstr "%(hours)s сағат бұрын"
 
 #, python-format
 msgid "%(days)s d ago"
-msgstr ""
+msgstr "%(days)s күн бұрын"
 
 msgid "AdBlock detected"
-msgstr ""
+msgstr "AdBlock анықталды"
 
 msgid ""
 "We rely on ads to keep our servers running. Please consider supporting us by"
 " disabling AdBlock or"
 msgstr ""
+"Біз жарнамаларға сүйенеміз, серверлерімізді жұмыс істету үшін. AdBlock-ты "
+"өшіріп немесе"
 
 msgid "getting VIP"
-msgstr ""
+msgstr "VIP алу"
 
 msgid "I disabled it, Refresh"
-msgstr ""
+msgstr "Оны өшірдім, жаңартыңыз"
 
 msgid "Please wait"
-msgstr ""
+msgstr "Күтсеңіз"
 
 msgid "How to disable?"
-msgstr ""
+msgstr "Қалай өшіруге болады?"
 
 msgid "Continue to site (AdBlocker active)"
-msgstr ""
+msgstr "Сайтқа кіруді жалғастыру (AdBlocker қосулы)"
 
 msgid "Open"
-msgstr ""
+msgstr "Ашу"
 
 msgid "Join Millions of Players Worldwide"
-msgstr ""
+msgstr "Әлемдегі миллиондаған ойыншыларға қосылыңыз"
 
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
+"Эпикалық танк шайқуларын сезініп көріңіз. Қазір жүктеп алыңыз және тегін "
+"танк алыңыз!"
 
 msgid "Play Now"
-msgstr ""
+msgstr "Қазір ойна"
 
 msgid "Change Password"
 msgstr "Құпия сөзді өзгерту"
@@ -573,88 +578,92 @@ msgid "Back to Home"
 msgstr "Басты бетке оралу"
 
 msgid "Get in Touch"
-msgstr ""
+msgstr "Байланысқа шығу"
 
 msgid ""
 "We are always open for communication. Choose a convenient way to contact us "
 "or leave a message through the form below."
 msgstr ""
+"Біз әрқашан байланысқа ашықпыз. Бізбен байланысу үшін ыңғайлы жолды таңдаңыз"
+" немесе төмендегі формамен хабарлама қалдырыңыз."
 
 msgid "Direct Contacts"
-msgstr ""
+msgstr "Тікелей байланыстар"
 
 msgid "Telegram (Owner)"
-msgstr ""
+msgstr "Telegram (иесі)"
 
 msgid "@daisov - for urgent matters"
-msgstr ""
+msgstr "@daisov - шұғыл мәселелер үшін"
 
 msgid "Discord Server"
-msgstr ""
+msgstr "Discord сервері"
 
 msgid "Join our community"
-msgstr ""
+msgstr "Қауымдастығымызға қосылыңыз"
 
 msgid "Email"
 msgstr "Электрондық пошта"
 
 msgid "admin@uwupad.me - for suggestions"
-msgstr ""
+msgstr "admin@uwupad.me - ұсыныстар үшін"
 
 msgid "Telegram Bot"
-msgstr ""
+msgstr "Telegram боты"
 
 msgid "@uwupad_bot - for support"
-msgstr ""
+msgstr "@uwupad_bot - қолдау үшін"
 
 msgid "An error occurred. Please try again later."
-msgstr ""
+msgstr "Қате орын алды. Өтінеміз, кейінірек қайтадан көріңіз."
 
 msgid "Feedback Form"
-msgstr ""
+msgstr "Пікір қалдыру формасы"
 
 msgid "Your Name"
-msgstr ""
+msgstr "Сіздің есіміңіз"
 
 msgid "Your Email (for a reply)"
-msgstr ""
+msgstr "Жауап алу үшін электрондық поштаңыз"
 
 msgid "Your Message..."
-msgstr ""
+msgstr "Сіздің хабарламаңыз..."
 
 msgid "Send Message"
-msgstr ""
+msgstr "Хабарламаны жіберу"
 
 msgid "Support UwUpad"
 msgstr "UwUpad-қа қолдау көрсету"
 
 msgid "Back"
-msgstr ""
+msgstr "Қайту"
 
 msgid "Top Supporters 💖"
-msgstr ""
+msgstr "Ең үздік қолдаушылар 💖"
 
 msgid "Support Our Project"
-msgstr ""
+msgstr "Біздің жобаны қолдаңыз"
 
 msgid ""
 "UwUpad is free and lives on your support. Donations keep servers running!"
 msgstr ""
+"UwUpad тегін және сіздің қолдауыңызға сүйенеді. Қайырымдылықтар серверлердің"
+" жұмысын қамтамасыз етеді!"
 
 msgid "Exchange Rate"
-msgstr ""
+msgstr "Алмасу бағамы"
 
 msgid "Small help"
-msgstr ""
+msgstr "Кішкене көмек"
 
 msgid "Coffee treat ☕"
-msgstr ""
+msgstr "Кофе сыйлығы ☕"
 
 msgid "Server costs"
-msgstr ""
+msgstr "Серверлердің шығындары"
 
 msgid "Big support 💖"
-msgstr ""
+msgstr "Үлкен қолдау 💖"
 
 msgid "Or enter custom amount"
 msgstr "Немесе теңшелетін соманы енгізіңіз"
@@ -663,37 +672,37 @@ msgid "Donate"
 msgstr "Қайырымдылық жасау"
 
 msgid "Secure payment via Telegram Stars or Crypto."
-msgstr ""
+msgstr "Telegram Stars немесе крипто арқылы қауіпсіз төлем."
 
 msgid "PAW tokens are added automatically as a thank you."
-msgstr ""
+msgstr "PAW токендері алғыс ретінде автоматты түрде қосылады."
 
 msgid "Other ways to support"
-msgstr ""
+msgstr "Қолдау көрсетудің басқа жолдары"
 
 msgid "Card, SBP, and more — via donation platform"
-msgstr ""
+msgstr "Карта, SBP және басқа да тәсілдер — қайырымдылық платформасы арқылы"
 
 msgid "Crypto via Telegram"
-msgstr ""
+msgstr "Телеграмм арқылы криптовалюта"
 
 msgid "Send crypto through @wallet bot — fast and easy"
-msgstr ""
+msgstr "@wallet бот арқылы крипто жіберу — жылдам және оңай"
 
 msgid "Direct Crypto Transfer"
-msgstr ""
+msgstr "Криптоны тікелей аудару"
 
 msgid "and more"
-msgstr ""
+msgstr "және тағы басқалары"
 
 msgid "Choose Cryptocurrency"
-msgstr ""
+msgstr "Криптовалютаны таңдаңыз"
 
 msgid "Back to list"
-msgstr ""
+msgstr "Тізімге қайту"
 
 msgid "Please enter a valid amount."
-msgstr ""
+msgstr "Дұрыс мөлшерді енгізіңіз."
 
 msgid "Failed to create payment link."
 msgstr "Төлем сілтемесін жасау мүмкін болмады."
@@ -776,16 +785,16 @@ msgid "Uploads"
 msgstr "Жүктелімдер"
 
 msgid "Downloads"
-msgstr ""
+msgstr "Жүктеп алулар"
 
 msgid "Comments"
 msgstr "Түсініктемелер"
 
 msgid "Comment Likes"
-msgstr ""
+msgstr "Пікірлерге лайктар"
 
 msgid "Donations"
-msgstr ""
+msgstr "Қайырымдылықтар"
 
 msgid "Prev."
 msgstr "Алдыңғы."
@@ -794,19 +803,19 @@ msgid "Next"
 msgstr "Келесі"
 
 msgid "Updating leaderboard..."
-msgstr ""
+msgstr "Көшбасшы тізімін жаңарту..."
 
 msgid "Next update in:"
-msgstr ""
+msgstr "Келесі жаңарту уақыты:"
 
 msgid "Updated in real-time"
-msgstr ""
+msgstr "Шынайы уақытта жаңартылады"
 
 msgid "No users found for this period."
 msgstr "Бұл кезең үшін пайдаланушылар табылмады."
 
 msgid "Error loading data:"
-msgstr ""
+msgstr "Деректерді жүктеу кезінде қате:"
 
 msgid "Login to UwUpad"
 msgstr "UwUpad-қа кіру"
@@ -851,60 +860,62 @@ msgid "The latest news and announcements from the UwUpad platform."
 msgstr "UwUpad платформасының соңғы жаңалықтары мен хабарландырулары."
 
 msgid "Notification History"
-msgstr ""
+msgstr "Хабарламалар тарихы"
 
 msgid ""
 "View all your past notifications on UwUpad, including likes, comments, and "
 "system alerts."
 msgstr ""
+"UwUpad-тағы өткен барлық хабарландыруларыңызды қараңыз, олардың ішінде "
+"лайктар, түсініктемелер және жүйелік ескертулер бар."
 
 msgid "Filter by Type"
-msgstr ""
+msgstr "Тип бойынша сүзгілеу"
 
 msgid "All Types"
-msgstr ""
+msgstr "Барлық түрлер"
 
 msgid "Likes on Sounds"
-msgstr ""
+msgstr "Дыбыстарға лайктар"
 
 msgid "Likes on Comments"
-msgstr ""
+msgstr "Пікірлерге лайктар"
 
 msgid "New Comments & Replies"
-msgstr ""
+msgstr "Жаңа түсініктемелер және жауаптар"
 
 msgid "Mentions in Comments"
-msgstr ""
+msgstr "Пікірлердегі аттар"
 
 msgid "Processing Errors"
-msgstr ""
+msgstr "Өңдеу қателері"
 
 msgid "Admin Actions"
-msgstr ""
+msgstr "Әкімші әрекеттері"
 
 msgid "Filter by Status"
-msgstr ""
+msgstr "Статус бойынша сүзгілеу"
 
 msgid "All"
-msgstr ""
+msgstr "Барлығы"
 
 msgid "Unread"
-msgstr ""
+msgstr "Оқылмаған"
 
 msgid "Read"
-msgstr ""
+msgstr "Оқылды"
 
 msgid "No notifications found"
-msgstr ""
+msgstr "Хабарландырулар табылған жоқ."
 
 msgid "Try adjusting your filters or check back later."
-msgstr ""
+msgstr "Сүзгілеріңізді өзгертіп көріңіз немесе кейін қайта көріңіз."
 
 msgid "Something went wrong"
-msgstr ""
+msgstr "Қате пайда болды"
 
 msgid "We couldn't load your notifications. Please try again."
-msgstr ""
+msgstr "Хабарландыруларды жүктей алмай қалдық. Қайта көріңіз."
 
 msgid "Playlist not found"
 msgstr "Ойнату тізімі табылмады"
@@ -958,15 +969,17 @@ msgid "Edit"
 msgstr "Өңдеу"
 
 msgid "Download Playlists"
-msgstr ""
+msgstr "Плейлисттерді жүктеу"
 
 msgid ""
 "Downloading entire playlists as a .zip archive is a VIP feature. Upgrade now"
 " for instant access!"
 msgstr ""
+"Барлық плейлисттерді .zip архиві ретінде жүктеу VIP функциясы. Бірден қол "
+"жеткізу үшін қазір жаңартыңыз!"
 
 msgid "Download Playlist (VIP only)"
-msgstr ""
+msgstr "Плейлистті жүктеу (VIP ғана)"
 
 msgid "Delete"
 msgstr "Жою"
@@ -1023,16 +1036,16 @@ msgid "Sort: Most Sounds"
 msgstr "Сұрыптау: Ең көп дыбыс"
 
 msgid "Sort: Oldest"
-msgstr ""
+msgstr "Сұрыптау: Ең ескі"
 
 msgid "Sort: Name (A-Z)"
-msgstr ""
+msgstr "Сұрыптау: А-дан Я-ға"
 
 msgid "Sort: Name (Z-A)"
-msgstr ""
+msgstr "Сұрыптау: Я-дан А-ға"
 
 msgid "Download Playlist"
-msgstr ""
+msgstr "Плейлистті жүктеу"
 
 msgid "No playlists found."
 msgstr "Ойнату тізімдері табылмады."
@@ -1081,7 +1094,7 @@ msgid "Edit role"
 msgstr "Рөлді өңдеу"
 
 msgid "Admin Edit"
-msgstr ""
+msgstr "Админ өңдеу"
 
 msgid "Add to blacklist"
 msgstr "Қара тізімге қосу"
@@ -1096,7 +1109,7 @@ msgid "Total Likes"
 msgstr "Барлық лайктар"
 
 msgid "Comments Made"
-msgstr ""
+msgstr "Жазылған пікірлер"
 
 msgid "Uploaded"
 msgstr "Жүктелген"
@@ -1126,13 +1139,13 @@ msgid "Avatar"
 msgstr "Аватар"
 
 msgid "As a VIP, you can upload animated GIF avatars."
-msgstr ""
+msgstr "VIP ретінде сіз анимациялық GIF аватарларын жүктей аласыз."
 
 msgid "Want animated GIF avatars?"
-msgstr ""
+msgstr "Анимациялық GIF аватарлары керек пе?"
 
 msgid "Upgrade to VIP!"
-msgstr ""
+msgstr "VIP-ке жаңартыңыз!"
 
 msgid "Save Profile Info"
 msgstr "Профиль ақпаратын сақтау"
@@ -1177,36 +1190,38 @@ msgid "Close"
 msgstr "Жабу"
 
 msgid "Edit Role for"
-msgstr ""
+msgstr "Рөлді өзгерту үшін"
 
 msgid "Role"
-msgstr ""
+msgstr "Рөл"
 
 msgid "Role expires on (optional)"
-msgstr ""
+msgstr "Рөлдің аяқталу мерзімі (қосымша)"
 
 msgid "Leave empty for a permanent role."
-msgstr ""
+msgstr "Тұрақты рөл үшін бос қалтырыңыз."
 
 msgid "Save changes"
-msgstr ""
+msgstr "Өзгерістерді сақтау"
 
 msgid "Admin Panel: Edit User"
-msgstr ""
+msgstr "Админ панелі: Пайдаланушыны өңдеу"
 
 msgid "Balance (PAW)"
-msgstr ""
+msgstr "Баланс (PAW)"
 
 msgid "Account Status"
-msgstr ""
+msgstr "Аккаунт мәртебесі"
 
 msgid "Is Active (user can log in)"
-msgstr ""
+msgstr "Белсенді ме (пайдаланушы жүйеге кіре алады)"
 
 msgid ""
 "Unchecking this will prevent the user from logging in, but will not delete "
 "their content."
 msgstr ""
+"Бұл белгіленуді алып тастау пайдаланушының жүйеге кіре алмайды, бірақ "
+"олардың мазмұны өшірілмейді."
 
 msgid "Confirm Style Change"
 msgstr "Стиль өзгерісін растау"
@@ -1263,31 +1278,31 @@ msgstr ""
 "алыңыз!"
 
 msgid "This user has not posted any comments yet."
-msgstr ""
+msgstr "Бұл пайдаланушы әлі ешқандай пікір жазған жоқ."
 
 msgid "Failed to load comments."
-msgstr ""
+msgstr "Пікірлерді жүктеу сәтсіз аяқталды."
 
 msgid "Remove from blacklist"
-msgstr ""
+msgstr "Қара тізімнен шығару"
 
 msgid "Are you sure you want to assign admin role? This grants full access."
-msgstr ""
+msgstr "Админ рөлін тағайындағыңыз келе ме? Бұл толық қолжетімділік береді."
 
 msgid "Are you sure you want to unlink your Discord account?"
 msgstr "Discord аккаунтыңызды ажыратқыңыз келетініне сенімдісіз бе?"
 
 msgid "Could not load user data."
-msgstr ""
+msgstr "Пайдаланушы деректері жүктелмеді."
 
 msgid "User updated successfully. Page will reload."
-msgstr ""
+msgstr "Пайдаланушы сәтті жаңартылды. Бет қайта жүктеледі."
 
 msgid "An unknown error occurred."
 msgstr "Белгісіз қате орын алды."
 
 msgid "Register on UwUpad"
-msgstr ""
+msgstr "UwUpad-те тіркеліңіз"
 
 msgid "Create Account"
 msgstr "Аккаунт жасау"
@@ -1296,7 +1311,7 @@ msgid "Already have an account?"
 msgstr "Аккаунтыңыз бар ма?"
 
 msgid "Account created!"
-msgstr ""
+msgstr "Тіркелгі жасалды!"
 
 msgid "Reset Your Password"
 msgstr "Құпия сөзіңізді қалпына келтіріңіз"
@@ -1358,19 +1373,19 @@ msgid "EXPLICIT"
 msgstr "АШЫҚ"
 
 msgid "Edit sound"
-msgstr ""
+msgstr "Дыбысты өзгерту"
 
 msgid "Add a comment..."
 msgstr "Түсініктеме қосу..."
 
 msgid "Remove image"
-msgstr ""
+msgstr "Суретті жою"
 
 msgid "Attach image"
-msgstr ""
+msgstr "Сурет қосу"
 
 msgid "Post"
-msgstr ""
+msgstr "Жариялау"
 
 msgid "You must be"
 msgstr "Сіз"
@@ -1382,22 +1397,22 @@ msgid "to comment."
 msgstr "болуыңыз керек."
 
 msgid "Close (Esc)"
-msgstr ""
+msgstr "Жабу (Esc)"
 
 msgid "Zoom In"
-msgstr ""
+msgstr "Үлкейту"
 
 msgid "Zoom Out"
-msgstr ""
+msgstr "Кішірейту"
 
 msgid "Rotate Left"
-msgstr ""
+msgstr "Солға айналдыру"
 
 msgid "Rotate Right"
-msgstr ""
+msgstr "Оңға айналдыру"
 
 msgid "Lightbox Image"
-msgstr ""
+msgstr "Lightbox суреті"
 
 msgid "You must be logged in to like sounds."
 msgstr "Дыбыстарды ұнату үшін жүйеге кіруіңіз керек."
@@ -1415,76 +1430,76 @@ msgid "Listen"
 msgstr "Тыңдау"
 
 msgid "Edit Sound"
-msgstr ""
+msgstr "Дыбысты өңдеу"
 
 msgid "Description"
-msgstr ""
+msgstr "Сипаттамасы"
 
 msgid "Add a brief description..."
-msgstr ""
+msgstr "Қысқа сипаттама қосыңыз..."
 
 msgid "Tags (comma separated)"
-msgstr ""
+msgstr "Тегтер (үтірмен бөлінген)"
 
 msgid "Cover Image (Optional)"
-msgstr ""
+msgstr "Қақпа суреті (қосымша)"
 
 msgid "Language (Admin)"
-msgstr ""
+msgstr "Тіл (Админ)"
 
 msgid "Mark as Music (Admin)"
-msgstr ""
+msgstr "Музыка ретінде белгілеу (Админ)"
 
 msgid "This will make the sound appear in the /music section."
-msgstr ""
+msgstr "Бұл дыбыс /music бөлімінде пайда болады."
 
 msgid "Sound updated successfully!"
-msgstr ""
+msgstr "Дыбыс сәтті жаңартылды!"
 
 msgid "Write a reply..."
-msgstr ""
+msgstr "Жауап жазу..."
 
 msgid "Reply"
-msgstr ""
+msgstr "Жауап"
 
 msgid "Loading..."
 msgstr "Жүктелуде..."
 
 #, python-format
 msgid "View %(count)s more replies"
-msgstr ""
+msgstr "Тағы %(count)s жауапты қарау"
 
 msgid "Hide"
-msgstr ""
+msgstr "Жасыру"
 
 msgid "Error loading replies."
-msgstr ""
+msgstr "Жауаптарды жүктеу кезінде қате пайда болды."
 
 msgid "Comment attachment"
-msgstr ""
+msgstr "Пікірге файл қосыңыз"
 
 #, python-format
 msgid "View %(count)s replies"
-msgstr ""
+msgstr "%(count)s жауапты қарау"
 
 msgid "No comments yet."
 msgstr "Әзірге түсініктемелер жоқ."
 
 msgid "Comment or attachment cannot be empty."
-msgstr ""
+msgstr "Пікір не қосымша файл бос болмауы тиіс."
 
 msgid "Failed to post comment."
 msgstr "Түсініктеме жіберу мүмкін болмады."
 
 msgid "Hide reply"
-msgstr ""
+msgstr "Жауапты жасыру"
 
 #, python-format
 msgid "Hide %(count)s replies"
-msgstr ""
+msgstr "%(count)s жауапты жасыру"
 
 msgid "You must be logged in to like comments."
-msgstr ""
+msgstr "Пікірлерді ұнату үшін жүйеге кірген болуыңыз керек."
 
 msgid "Comment deleted."
 msgstr "Түсініктеме жойылды."
@@ -1544,25 +1559,28 @@ msgid "Upload a Sound"
 msgstr "Дыбыс жүктеу"
 
 msgid "Creator Challenge: Free VIP"
-msgstr ""
+msgstr "Құрастырушылар шақыруы: Тегін VIP"
 
 msgid "Upload sounds that get into recommendations to unlock 1 week of VIP!"
-msgstr ""
+msgstr "Ұсыныстарға енетін дыбыстарды жүктеп, 1 апта VIP ашыңыз!"
 
 msgid "Progress:"
-msgstr ""
+msgstr "Үлгеріс:"
 
 msgid "sounds"
-msgstr ""
+msgstr "дыбыстар"
 
 msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
 msgstr ""
+"Сіз музыка/өлең жүктеп жатырсыз ба? (мысалы, поп, фонк, рэп және т.б.)"
 
 msgid "Use our dedicated music uploader for better discovery and features."
 msgstr ""
+"Жақсырақ таныту және мүмкіндіктер үшін арнайы музыка жүктегішімізді "
+"пайдаланыңыз."
 
 msgid "Go to Music Uploader"
-msgstr ""
+msgstr "Музыка жүктегішіне өту"
 
 msgid "Tags"
 msgstr "Тегтер"
@@ -1574,28 +1592,28 @@ msgid "Add up to"
 msgstr "Қосу"
 
 msgid "tags. Each tag up to"
-msgstr ""
+msgstr "Тегтер. Әр тегтің максимумы"
 
 msgid "characters."
 msgstr "таңбаға дейін."
 
 msgid "Description (Optional)"
-msgstr ""
+msgstr "Сипаттамасы (қажет емес)"
 
 msgid "Add a brief description for your sound..."
-msgstr ""
+msgstr "Дыбысыңыз үшін қысқа сипаттама қосыңыз..."
 
 msgid "Sound Language"
-msgstr ""
+msgstr "Дыбыс тілі"
 
 msgid "Music / SFX (No language)"
-msgstr ""
+msgstr "Музыка / дыбыс эффектілері (тіл жоқ)"
 
 msgid "Other"
 msgstr "Басқа"
 
 msgid "Helps us recommend your sound to the right audience."
-msgstr ""
+msgstr "Бұл дыбысты дұрыс аудиторияға ұсынуға көмектеседі."
 
 msgid "Upload"
 msgstr "Жүктеу"
@@ -1607,7 +1625,7 @@ msgid "Import from URL"
 msgstr "URL-дан импорттау"
 
 msgid "Supports only audio files"
-msgstr ""
+msgstr "Тек аудио файлдарын қолдайды"
 
 msgid "Supported formats: mp3, wav, ogg"
 msgstr "Қолдау көрсетілетін форматтар: mp3, wav, ogg"
@@ -1631,15 +1649,17 @@ msgid ""
 "By uploading, you confirm that your content does not violate copyright and "
 "meets our community guidelines."
 msgstr ""
+"Жүктеп жатқанда сіздің мазмұныңыз авторлық құқықты бұзбайтынын және "
+"қауымдастық ережелеріне сай екенін растайсыз."
 
 msgid "Custom Cover"
-msgstr ""
+msgstr "Арнайы Cover суреті"
 
 msgid "Choose a cover image"
-msgstr ""
+msgstr "Cover суретін таңдаңыз"
 
 msgid "Add a background to your sound card (max 2MB)."
-msgstr ""
+msgstr "Дыбыс карточкасына фон қосыңыз (макс 2MB)."
 
 msgid "VIP Power-Ups"
 msgstr "VIP артықшылықтары"
@@ -1651,11 +1671,13 @@ msgid "Trim your audio before uploading (VIP exclusive)."
 msgstr "Жүктеу алдында аудиоңызды кесіңіз (тек VIP үшін)."
 
 msgid "Sound Utilities"
-msgstr ""
+msgstr "Дыбыс құралдары"
 
 msgid ""
 "Need to trim your audio? Our built-in Sound Trimmer is a VIP exclusive tool."
 msgstr ""
+"Аудиоңызды қысқартуға мұқтажсыз ба? Біздің кірістірілген Sound Trimmer VIP "
+"эксклюзив құралы."
 
 msgid "Remove tag:"
 msgstr "Тегті жою:"
@@ -1679,7 +1701,7 @@ msgid "Please add at least one tag."
 msgstr "Кем дегенде бір тег қосыңыз."
 
 msgid "Trimmed file is too large."
-msgstr ""
+msgstr "Қысқартылған файл тым үлкен."
 
 msgid "No file selected or imported for upload."
 msgstr "Жүктеу үшін файл таңдалмаған немесе импортталмаған."
@@ -1719,7 +1741,7 @@ msgid "Please select an audio file first before using utilities."
 msgstr "Утилиттерді қолданбас бұрын алдымен аудио файлды таңдаңыз."
 
 msgid "Error loading waveform:"
-msgstr ""
+msgstr "Вейформаны жүктеу кезінде қате пайда болды:"
 
 msgid "Selected:"
 msgstr "Таңдалған:"
@@ -1740,19 +1762,19 @@ msgid "Trim operation cancelled."
 msgstr "Кесу операциясы тоқтатылды."
 
 msgid "Cover image is too large (max 2MB)."
-msgstr ""
+msgstr "Cover суреті тым үлкен (макс 2MB)."
 
 msgid "This is a VIP-exclusive feature."
-msgstr ""
+msgstr "Бұл тек VIP-ке арналған мүмкіндік."
 
 msgid "sounds recommended"
-msgstr ""
+msgstr "ұсынылатын дыбыстар"
 
 msgid "Challenge Completed!"
-msgstr ""
+msgstr "Челлендж аяқталды!"
 
 msgid "You have unlocked VIP status! Check your profile."
-msgstr ""
+msgstr "VIP мәртебең ашылды! Профиліңе кіріп көр."
 
 msgid "User not found"
 msgstr "Пайдаланушы табылмады"
@@ -1839,10 +1861,12 @@ msgid "Back to main"
 msgstr "Басты бетке оралу"
 
 msgid "Welcome, Patron!"
-msgstr ""
+msgstr "Қош келдіңіз, қолдаушы!"
 
 msgid "Thank you for supporting UwUpad. Enjoy your exclusive features."
 msgstr ""
+"UwUpad-ты қолдап жатқан екеніңізге рақмет. Эксклюзивті мүмкіндіктеріңізді "
+"пайдаланыңыз."
 
 msgid "Unlock the Full Experience"
 msgstr "Толық тәжірибені ашу"
@@ -1854,40 +1878,40 @@ msgstr ""
 "платформаны қолдаңыз."
 
 msgid "Your VIP Status is Active"
-msgstr ""
+msgstr "VIP мәртебеңіз белсенді."
 
 msgid "Subscription renews on:"
-msgstr ""
+msgstr "Жаңарту күні:"
 
 msgid "You have a lifetime subscription."
-msgstr ""
+msgstr "Сізде өмір бойы жазылым бар."
 
 msgid "Extend for one month"
-msgstr ""
+msgstr "Бір айға ұзарту"
 
 msgid "Monthly"
-msgstr ""
+msgstr "Ай сайын"
 
 msgid "Per month"
-msgstr ""
+msgstr "Айына"
 
 msgid "Choose Monthly"
-msgstr ""
+msgstr "Айлықты таңдаңыз"
 
 msgid "Best Value"
-msgstr ""
+msgstr "Ең жақсы құн"
 
 msgid "Yearly"
-msgstr ""
+msgstr "Жылдық"
 
 msgid "Save 20% - 2 months free!"
-msgstr ""
+msgstr "20% үнемдеңіз — 2 ай тегін!"
 
 msgid "Choose Yearly"
-msgstr ""
+msgstr "Жылдықты таңдаңыз"
 
 msgid "Feature"
-msgstr ""
+msgstr "Ерекшелік"
 
 msgid "Standard"
 msgstr "Стандартты"
@@ -1896,67 +1920,67 @@ msgid "VIP Patron"
 msgstr "VIP қамқоршысы"
 
 msgid "Ad-Free Experience"
-msgstr ""
+msgstr "Жарнамасыз тәжірибе"
 
 msgid "Playlists Creation"
-msgstr ""
+msgstr "Плейлисттер жасау"
 
 msgid "Unlimited"
-msgstr ""
+msgstr "Шексіз"
 
 msgid "Sounds per Playlist"
-msgstr ""
+msgstr "Плейлисттегі дыбыстар саны"
 
 msgid "Private Playlists"
-msgstr ""
+msgstr "Жеке плейлисттер"
 
 msgid "Bulk Playlist Download (.zip)"
-msgstr ""
+msgstr "Ірі көлемдегі плейлисттерді жүктеу (.zip)"
 
 msgid "Animated GIF Avatars"
 msgstr "Анимациялық GIF аватарлары"
 
 msgid "Custom Sound Covers"
-msgstr ""
+msgstr "Жеке дыбыс мұқабалары"
 
 msgid "File Upload Size"
-msgstr ""
+msgstr "Файл жүктеу мөлшері"
 
 msgid "Tags per Sound"
-msgstr ""
+msgstr "Әр дыбысқа тегтер"
 
 msgid "Nickname Styling"
-msgstr ""
+msgstr "Лақап ат стилі"
 
 msgid "Paid"
-msgstr ""
+msgstr "Төленген"
 
 msgid "Unlimited & Free"
-msgstr ""
+msgstr "Шексіз және тегін"
 
 msgid "Sound Boosts"
-msgstr ""
+msgstr "Дыбыс күшейткіштері"
 
 msgid "1 Free Daily"
-msgstr ""
+msgstr "Күн сайын 1 тегін"
 
 msgid "VIP Profile Badge"
-msgstr ""
+msgstr "VIP профиль белгісі"
 
 msgid "Become a Patron"
 msgstr "Қамқоршы болу"
 
 msgid "Extend Subscription"
-msgstr ""
+msgstr "Жазылымды ұзарту"
 
 msgid "Choose your preferred payment method"
-msgstr ""
+msgstr "Ұнаған төлем әдісіңізді таңдаңыз"
 
 msgid "Your VIP subscription has expired."
-msgstr ""
+msgstr "VIP жазылымыңыз мерзімі өтіп кетті."
 
 msgid "Time left:"
-msgstr ""
+msgstr "Қалған уақыт:"
 
 msgid "Pending Ad Requests"
 msgstr "Күтудегі жарнама сұраулары"
@@ -1989,7 +2013,7 @@ msgid "Reject"
 msgstr "Қабылдамау"
 
 msgid "Music"
-msgstr ""
+msgstr "Музыка"
 
 msgid "For You"
 msgstr "Сізге"
@@ -2022,51 +2046,53 @@ msgid "Total sounds"
 msgstr "Барлық дыбыстар"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Хабарландырулар"
 
 msgid "Mark all as read"
-msgstr ""
+msgstr "Барлығын оқылған деп белгілеңіз"
 
 msgid "View all history"
-msgstr ""
+msgstr "Барлық тарихты қарау"
 
 msgid "Have a minute?"
-msgstr ""
+msgstr "Уақытыңыз бар ма?"
 
 msgid "Help us make uwupad.me better!"
-msgstr ""
+msgstr "uwupad.me-ді жақсартуға көмектесіңіз!"
 
 msgid ""
 "Tell us what to improve, what you don't like, or what features you're "
 "missing. All ideas are welcome!"
 msgstr ""
+"Не жақсарту керегін, не ұнамай тұрғанын немесе қандай функциялар "
+"жетіспейтінін айтыңыз. Барлық идеялар қабылданады!"
 
 msgid "Your ideas here..."
-msgstr ""
+msgstr "Идеяларыңыз мұнда..."
 
 msgid "Later"
-msgstr ""
+msgstr "Кейін"
 
 msgid "Send"
-msgstr ""
+msgstr "Жібер"
 
 msgid "Sent!"
-msgstr ""
+msgstr "Жіберілді!"
 
 msgid "You can remove sounds you don't want from the list below."
-msgstr ""
+msgstr "Төмендегі тізімнен қажет емес дыбыстарды өшіре аласыз."
 
 msgid "Download .zip"
-msgstr ""
+msgstr "ZIP файлын жүктеу"
 
 msgid "Preparing download for"
-msgstr ""
+msgstr "Жүктеп алуға дайындалып жатыр"
 
 msgid "Wait a few seconds or"
-msgstr ""
+msgstr "Бірнеше секунд күтіңіз немесе"
 
 msgid "get VIP for instant downloads"
-msgstr ""
+msgstr "Тез жүктеп алу үшін VIP алыңыз"
 
 msgid ""
 "service for searching and downloading sounds for soundboards such as "
@@ -2105,30 +2131,32 @@ msgid "Language Settings"
 msgstr "Тіл параметрлері"
 
 msgid "Appearance"
-msgstr ""
+msgstr "Көрініс"
 
 msgid "Show Sound Covers"
-msgstr ""
+msgstr "Дыбыс мұқабаларын көрсету"
 
 msgid "Display custom background images on sound cards."
-msgstr ""
+msgstr "Дыбыс карточкаларына өзіңіздің жеке фон суреттеріңізді көрсету"
 
 msgid "Cover Blur Intensity"
-msgstr ""
+msgstr "Мұқабаның бұлыңғырлық деңгейі"
 
 msgid "Controls the blur effect on sound card backgrounds."
-msgstr ""
+msgstr "Дыбыс карточкаларының фондарындағы бұлыңғырлық эффектіні басқарады."
 
 msgid "Interface Language"
 msgstr "Интерфейс тілі"
 
 msgid "Content Languages"
-msgstr ""
+msgstr "Мазмұн тілдері"
 
 msgid ""
 "Select languages you want to see. Leave all unchecked to use automatic "
 "detection."
 msgstr ""
+"Қарағыңыз келетін тілдерді таңдаңыз. Автоматты анықтауды пайдалану үшін "
+"барлығын таңдалмаған қалдырыңыз."
 
 msgid "Additional Options"
 msgstr "Қосымша опциялар"
@@ -2146,13 +2174,13 @@ msgid "Save & Apply"
 msgstr "Сақтау және қолдану"
 
 msgid "Donate small amount to get 3 days VIP"
-msgstr ""
+msgstr "3 күндік VIP алу үшін аз ғана қайырымдылық жасаңыз."
 
 msgid "Say Thanks"
-msgstr ""
+msgstr "Рақмет айтыңыз"
 
 msgid "Get +3 days VIP access"
-msgstr ""
+msgstr "+3 күндік VIP қол жеткізу"
 
 msgid "VIP Activated"
 msgstr "VIP белсендірілді"
@@ -2161,7 +2189,7 @@ msgid "Telegram"
 msgstr "Telegram"
 
 msgid "Say Thanks (+3 Days VIP)"
-msgstr ""
+msgstr "Рақмет айтыңыз (+3 күндік VIP)"
 
 msgid "Search"
 msgstr "Іздеу"
@@ -2176,82 +2204,85 @@ msgid "Log in"
 msgstr "Кіру"
 
 msgid "Download Top 50 Packs:"
-msgstr ""
+msgstr "Ең танымал 50 пакетті жүктеу:"
 
 msgid "Daily"
-msgstr ""
+msgstr "Күнделікті"
 
 msgid "Weekly"
-msgstr ""
+msgstr "Апталық"
 
 msgid "Download Top 50 Sounds"
-msgstr ""
+msgstr "Ең танымал 50 дыбысты жүктеу"
 
 msgid "This pack contains the 50 most popular sounds of the"
-msgstr ""
+msgstr "Бұл пакетте ең танымал 50 дыбыс бар."
 
 msgid "ready for Soundpad."
-msgstr ""
+msgstr "Soundpad-қа дайын."
 
 msgid "Best Value / Fast"
-msgstr ""
+msgstr "Ең тиімді / Жылдам"
 
 msgid "Support us with a small donation and get 3 Days of VIP instantly."
 msgstr ""
+"Кішкене қайырымдылық жасап бізді қолдаңыз да, дереу 3 күндік VIP алыңыз."
 
 msgid "Say Thanks & Download"
-msgstr ""
+msgstr "Рақмет айтыңыз және Жүктеп алу"
 
 msgid "Get Monthly VIP Subscription"
-msgstr ""
+msgstr "Айлық VIP жазылымын алыңыз"
 
 msgid "Unlocks all packs, playlists and removes ads."
-msgstr ""
+msgstr "Барлық пакеттерді, плейлисттерді ашып, жарнамаларды өшіреді."
 
 msgid "Downloading..."
-msgstr ""
+msgstr "Жүктеп жатыр..."
 
 msgid "Complete!"
-msgstr ""
+msgstr "Аяқталды!"
 
 msgid "Download failed"
-msgstr ""
+msgstr "Жүктеу сәтсіз аяқталды."
 
 msgid "Access Restricted"
-msgstr ""
+msgstr "Қолжетімділік шектелген"
 
 msgid "To continue listening, please subscribe to our Telegram channel."
-msgstr ""
+msgstr "Оны тыңдауды жалғастыру үшін Telegram каналына жазылыңыз."
 
 msgid "Important:"
 msgstr "Маңызды:"
 
 msgid ""
 "Do not unsubscribe! If you leave the channel, you will need to verify again."
-msgstr ""
+msgstr "Жазылуды тоқтатпаңыз! Каналдан шықсаңыз, қайта растау қажет болады."
 
 msgid "Subscribe"
-msgstr ""
+msgstr "Жазылу"
 
 msgid "Subscribe to unlock"
-msgstr ""
+msgstr "Ашу үшін жазылыңыз"
 
 msgid "Verifying subscription..."
-msgstr ""
+msgstr "Жазылым тексеріліп жатыр..."
 
 msgid "Continue"
-msgstr ""
+msgstr "Жалғастыру"
 
 msgid "This track is already downloading."
-msgstr ""
+msgstr "Бұл трек қазір жүктеліп жатыр."
 
 msgid ""
 "Please wait for the previous download to finish. VIPs can download multiple "
 "files at once!"
 msgstr ""
+"Алдыңғы жүктелу аяқталғанша күтіңіз. VIP-пайдаланушылар бір уақытта бірнеше "
+"файлды жүктей алады!"
 
 msgid "Adding to Soundpad:"
-msgstr ""
+msgstr "Soundpad-қа қосылып жатыр:"
 
 msgid "DELETED"
 msgstr "ЖОЙЫЛДЫ"
@@ -2263,10 +2294,10 @@ msgid "Log In or Create Account"
 msgstr "Кіру немесе тіркелгі жасау"
 
 msgid "This sound is boosted!"
-msgstr ""
+msgstr "Бұл дыбыс күшейтілген!"
 
 msgid "Boost Sound"
-msgstr ""
+msgstr "Дыбысты күшейту"
 
 msgid "Views"
 msgstr "Қаралымдар"
@@ -2284,7 +2315,7 @@ msgid "Go to original sound"
 msgstr "Түпнұсқа дыбысқа өту"
 
 msgid "Additional Tags"
-msgstr ""
+msgstr "Қосымша тегтер"
 
 msgid "This sound is too loud. Are you sure you want to play it back?"
 msgstr "Бұл дыбыс тым қатты. Оны ойнатуды қалайтыныңызға сенімдісіз бе?"
@@ -2309,24 +2340,25 @@ msgid "Show more"
 msgstr "Көбірек көрсету"
 
 msgid "No sounds to add."
-msgstr ""
+msgstr "Қосу үшін дыбыс жоқ."
 
 msgid "Add to Playlist"
 msgstr "Ойнату тізіміне қосу"
 
 #, python-format
 msgid "Choose a playlist for %(count)s sounds or create a new one."
-msgstr ""
+msgstr "%(count)s дыбыс үшін плейлист таңдаңыз немесе жаңасын жасаңыз."
 
 #, python-format
 msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
 msgstr ""
+"«%(sound_name)s» дыбысы үшін плейлист таңдаңыз немесе жаңасын жасаңыз."
 
 msgid "Create New"
-msgstr ""
+msgstr "Жаңа жасаңыз"
 
 msgid "Add to Existing"
-msgstr ""
+msgstr "Бар плейлистке қосу"
 
 msgid "New Playlist Name"
 msgstr "Жаңа ойнату тізімінің атауы"
@@ -2335,62 +2367,66 @@ msgid "My Awesome Mix"
 msgstr "Менің керемет миксім"
 
 msgid "Choose cover…"
-msgstr ""
+msgstr "Қаптаманы таңдаңыз…"
 
 msgid "Make playlist public"
-msgstr ""
+msgstr "Плейлистті жариялау"
 
 msgid "Search your playlists..."
-msgstr ""
+msgstr "Плейлисттеріңізді іздеңіз..."
 
 msgid "Save"
 msgstr "Сақтау"
 
 msgid "You don't have any playlists yet."
-msgstr ""
+msgstr "Қазір сізде плейлист жоқ."
 
 msgid "Could not load your playlists."
-msgstr ""
+msgstr "Плейлисттеріңізді жүктеу мүмкін емес."
 
 msgid "Searching..."
-msgstr ""
+msgstr "Ізделуде..."
 
 msgid "Search failed."
-msgstr ""
+msgstr "Іздеу сәтсіз аяқталды."
 
 msgid "Please select a playlist."
-msgstr ""
+msgstr "Плейлист таңдаңыз."
 
 msgid "Please enter a name for the new playlist."
-msgstr ""
+msgstr "Жаңа плейлист атауын енгізіңіз."
 
 msgid "Image uploaded."
-msgstr ""
+msgstr "Сурет жүктелді."
 
 msgid "Image upload failed."
-msgstr ""
+msgstr "Суретті жүктеу сәтсіз аяқталды."
 
 msgid "Playlist Limit Reached"
-msgstr ""
+msgstr "Плейлист шегі жетті."
 
 msgid ""
 "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited "
 "playlists!"
 msgstr ""
+"Стандартты пайдаланушылар максимум 2 плейлист жасай алады. Шексіз "
+"плейлисттер үшін VIP-ке жаңарыңыз!"
 
 msgid "Playlist is Full"
-msgstr ""
+msgstr "Плейлист толды."
 
 msgid ""
 "Standard users can add up to 20 sounds per playlist. Get VIP to create "
 "massive collections!"
 msgstr ""
+"Стандартты пайдаланушылар плейлистке дыбыстарды 20-ға дейін қосуға болады. "
+"Үлкен коллекциялар үшін VIP-ке өтіңіз!"
 
 msgid "Private Playlists are a VIP Feature"
-msgstr ""
+msgstr "Жеке плейлисттер VIP функциясы"
 
 msgid "Keep your collections to yourself by upgrading to VIP."
-msgstr ""
+msgstr "Өз коллекцияларыңызды VIP-ке жаңартып өзіңізге қалдырыңыз."
 
 msgid "An unexpected error occurred."
 msgstr "Күтпеген қате орын алды."
@@ -2474,280 +2510,299 @@ msgid "Copied to clipboard"
 msgstr "Алмасу буферіне көшірілді"
 
 msgid "just now"
-msgstr ""
+msgstr "қазір ғана"
 
 msgid "min ago"
-msgstr ""
+msgstr "мин бұрын"
 
 msgid "h ago"
-msgstr ""
+msgstr "сағат бұрын"
 
 msgid "d ago"
-msgstr ""
+msgstr "күн бұрын"
 
 msgid "w ago"
-msgstr ""
+msgstr "апта бұрын"
 
 msgid "How to disable content blocking"
-msgstr ""
+msgstr "Мазмұн блоктауды қалай өшіруге болады"
 
 msgid "Select your browser, extension, or antivirus from the list below"
 msgstr ""
+"Төмендегі тізімнен браузеріңізді, кеңейтуді немесе антивирусыңызды таңдаңыз"
 
 msgid "Google Chrome"
-msgstr ""
+msgstr "Google Chrome"
 
 msgid ""
 "Click the extension icon (puzzle piece) in the top right corner of the "
 "browser."
 msgstr ""
+"Браузердің оң жақ жоғарғы бұрышындағы кеңейтудің белгішесін (пазл бөлшегі) "
+"басыңыз."
 
 msgid "Find in the list"
-msgstr ""
+msgstr "Тізімнен табыңыз"
 
 msgid "or"
 msgstr "немесе"
 
 msgid "Click on the extension and press"
-msgstr ""
+msgstr "Кеңейткішке шертіп, басыңыз"
 
 msgid "Disable on this site"
-msgstr ""
+msgstr "Осы сайтта өшіріңіз"
 
 msgid "or the big power button."
-msgstr ""
+msgstr "немесе үлкен қуат түймесі."
 
 msgid "Refresh the page"
-msgstr ""
+msgstr "Бетті жаңартыңыз"
 
 msgid "Built-in blocking:"
-msgstr ""
+msgstr "Ішкі блоктау:"
 
 msgid "If there are no extensions, go to"
-msgstr ""
+msgstr "Егер кеңейткіштер болмаса, келесі бетке өтіңіз"
 
 msgid "and allow ads for the site."
-msgstr ""
+msgstr "және сайтқа жарнамаларды рұқсат етіңіз."
 
 msgid "Mozilla Firefox"
-msgstr ""
+msgstr "Mozilla Firefox"
 
 msgid "Click on the shield icon to the left of the address bar."
-msgstr ""
+msgstr "Мекенжай жолының сол жағындағы қорғаныс белгішесін басыңыз."
 
 msgid "Toggle the switch"
-msgstr ""
+msgstr "Түймені ауыстырыңыз"
 
 msgid "Enhanced Tracking Protection"
-msgstr ""
+msgstr "Кеңейтілген қадағалау қорғанысы"
 
 msgid "to position"
-msgstr ""
+msgstr "орнына қою"
 
 msgid "OFF"
-msgstr ""
+msgstr "ӨШІРУ"
 
 msgid ""
 "If extensions (uBlock, etc.) are installed, disable them via the puzzle icon"
 " in the top right."
 msgstr ""
+"Егер кеңейткіштер (uBlock және т.б.) орнатылған болса, оларды оң жақ жоғары "
+"тұстағы puzzle белгішесі арқылы өшіріңіз."
 
 msgid "The page will reload automatically."
-msgstr ""
+msgstr "Бет автоматты түрде қайта жүктеледі."
 
 msgid "Apple Safari (macOS / iOS)"
-msgstr ""
+msgstr "Apple Safari (macOS / iOS)"
 
 msgid "Right-click the address bar"
-msgstr ""
+msgstr "Мекенжай жолына оң жақтан шертіңіз"
 
 msgid "Settings for This Website"
-msgstr ""
+msgstr "Осы сайт үшін параметрлер"
 
 msgid "Uncheck"
-msgstr ""
+msgstr "Таңдауды алып тастаңыз"
 
 msgid "Enable Content Blockers"
-msgstr ""
+msgstr "Мазмұн блокаторларын қосу"
 
 msgid "Tap the icon"
-msgstr ""
+msgstr "Белгішені түртіңіз"
 
 msgid "in the address bar"
-msgstr ""
+msgstr "мекенжай жолында"
 
 msgid "Turn Off Content Blockers"
-msgstr ""
+msgstr "Мазмұн блокаторларын өшіріңіз"
 
 msgid "Kaspersky Protection (Anti-Banner)"
-msgstr ""
+msgstr "Kaspersky Қорғаныс (Анти-Баннер)"
 
 msgid "Find the green hexagonal Kaspersky icon in the browser extension bar."
 msgstr ""
+"Браузер кеңейтім жолақшасындағы жасыл алтыбұрышты Kaspersky белгішесін "
+"табыңыз."
 
 msgid "In the menu that opens, find the section"
-msgstr ""
+msgstr "Ашылған мәзірдегі бөлімді табыңыз."
 
 msgid "Anti-Banner"
-msgstr ""
+msgstr "Анти-Баннер"
 
 msgid "Click the button"
-msgstr ""
+msgstr "Түймені басыңыз"
 
 msgid "Allow on this website"
-msgstr ""
+msgstr "Осы сайт үшін рұқсат етіңіз"
 
 msgid "If there is no extension, open the main Kaspersky app"
-msgstr ""
+msgstr "Егер кеңейткіш жоқ болса, негізгі Kaspersky қосымшасын ашыңыз"
 
 msgid "Security settings"
-msgstr ""
+msgstr "Қауіпсіздік параметрлері"
 
 msgid "Disable"
-msgstr ""
+msgstr "Өшіру"
 
 msgid "or add the site to exclusions."
-msgstr ""
+msgstr "немесе сайтты айыру тізіміне қосыңыз."
 
 msgid "Windscribe VPN (R.O.B.E.R.T.)"
-msgstr ""
+msgstr "Windscribe VPN (R.O.B.E.R.T.)"
 
 msgid "Log in to your account at windscribe.com."
-msgstr ""
+msgstr "windscribe.com сайтында аккаунтыңызға кіріңіз."
 
 msgid "Go to the tab"
-msgstr ""
+msgstr "Бұл қоймаға өтіңіз"
 
 msgid "Select"
-msgstr ""
+msgstr "Таңдаңыз"
 
 msgid "Custom Rules"
-msgstr ""
+msgstr "Қолдан жасалған ережелер"
 
 msgid "Enter our site domain and select the option"
-msgstr ""
+msgstr "Біздің сайт доменін енгізіп, сәйкес опцияны таңдаңыз"
 
 msgid "Whitelist"
-msgstr ""
+msgstr "Ақ тізімге қосу"
 
 msgid ""
 "Since R.O.B.E.R.T. works at the DNS level, changes may take a few minutes to"
 " take effect. Try disconnecting and reconnecting the VPN."
 msgstr ""
+"R.O.B.E.R.T. DNS деңгейінде жұмыс істегендіктен өзгерістер күшіне енуі "
+"бірнеше минутқа созылуы мүмкін. VPN-ды ажыратып қайта қосыңыз."
 
 msgid "AdGuard (App or Extension)"
-msgstr ""
+msgstr "AdGuard (Қолданба немесе Кеңейтпе)"
 
 msgid ""
 "Click the AdGuard icon (green shield) in the browser or in the Windows/Mac "
 "system tray."
 msgstr ""
+"Браузердегі немесе Windows/Mac жүйелік жолақтағы AdGuard белгішесін (жасыл "
+"қорған) басыңыз."
 
 msgid "Click the large toggle"
-msgstr ""
+msgstr "Үстіңгі үлкен қосқышты басыңыз"
 
 msgid "Filtering on this website"
-msgstr ""
+msgstr "Бұл сайттағы сүзгілеу"
 
 msgid "so it turns gray (off)."
-msgstr ""
+msgstr "сонда ол сұр түске айналып (өшірулі) қалады."
 
 msgid "Wait for the page to automatically refresh."
-msgstr ""
+msgstr "Бетті автоматты түрде жаңаруды күтіңіз."
 
 msgid "Brave Browser"
-msgstr ""
+msgstr "Brave Browser"
 
 msgid "Click the lion icon (Brave Shields) to the right of the address bar."
 msgstr ""
+"Мекенжай жолының оң жағындағы алып арыстан белгішесін (Brave Shields) "
+"басыңыз."
 
 msgid "Toggle the top slider"
-msgstr ""
+msgstr "Үстіңгі қосқышты қосыңыз"
 
 msgid ""
 "Brave blocks scripts very aggressively. Completely disabling shields for the"
 " site is the most reliable method."
 msgstr ""
+"Brave скрипттерді өте агрессивті түрде блоктайды. Бұл сайт үшін Shields-ты "
+"толық өшіру — ең сенімді әдіс."
 
 msgid "Yandex Browser"
-msgstr ""
+msgstr "Yandex Browser"
 
 msgid "Click the lock icon 🔒 or shield in the left part of the SmartBox."
 msgstr ""
+"SmartBox-тың сол жағында орналасқан құлып белгішесі 🔒 немесе щит белгішесін "
+"басыңыз."
 
 msgid "Click"
-msgstr ""
+msgstr "Басыңыз"
 
 msgid "More details"
-msgstr ""
+msgstr "Қосымша мәліметтер"
 
 msgid "if required"
-msgstr ""
+msgstr "егер қажет болса"
 
 msgid "Block ads on this site"
-msgstr ""
+msgstr "Осы сайттағы жарнамаларды бұғаттау"
 
 msgid "Opera / Opera GX"
-msgstr ""
+msgstr "Opera / Opera GX"
 
 msgid "Click the blue shield icon in the right part of the address bar."
-msgstr ""
+msgstr "Мекенжай жолының оң жағындағы көк қорғаныш белгішесін басыңыз."
 
 msgid "Turn off for this site"
-msgstr ""
+msgstr "Осы сайт үшін өшіріңіз"
 
 msgid "If that doesn't help: Menu"
-msgstr ""
+msgstr "Егер көмектеспесе: Меню"
 
 msgid "Extensions"
-msgstr ""
+msgstr "Кеңейтпелер"
 
 msgid "Disable third-party blockers."
-msgstr ""
+msgstr "Үшінші тарап бұғаттаушыларын өшіріңіз."
 
 msgid "Avast / AVG Antivirus"
-msgstr ""
+msgstr "Avast / AVG Antivirus"
 
 msgid "Open the antivirus, go to"
-msgstr ""
+msgstr "Антивирусты ашып, мына бөлімге өтіңіз"
 
 msgid "Menu"
-msgstr ""
+msgstr "Мәзір"
 
 msgid "Section"
-msgstr ""
+msgstr "Бөлім"
 
 msgid "Protection"
-msgstr ""
+msgstr "Қорғаныс"
 
 msgid "Web Shield"
-msgstr ""
+msgstr "Web Қорғаныш"
 
 msgid "Find the tab"
-msgstr ""
+msgstr "Қойындыны табыңыз"
 
 msgid "Exceptions"
-msgstr ""
+msgstr "Ерекшеліктер"
 
 msgid "and add our website address."
-msgstr ""
+msgstr "және біздің сайт мекенжайын қосыңыз."
 
 msgid "Check browser extensions: Avast often installs"
-msgstr ""
+msgstr "Браузер кеңейтпелерін тексеріңіз: Avast жиі орнатады"
 
 msgid "which needs to be disabled separately."
-msgstr ""
+msgstr "ол бөлек өшірілуі керек."
 
 msgid ""
 "If the problem is not resolved after following the instructions — try "
 "another browser or contact"
 msgstr ""
+"Егер нұсқауларды орындағаннан кейін мәселе шешілмесе — басқа браузерге өтіп "
+"көріңіз немесе қолдау қызметіне хабарласыңыз"
 
 msgid "support"
-msgstr ""
+msgstr "қолдау"
 
 msgid "Return to site"
-msgstr ""
+msgstr "Сайтқа қайтыңыз"
 
 msgid "Very popular (100-500 downloads)"
 msgstr "Өте танымал (100-500 жүктеу)"
@@ -2759,233 +2814,235 @@ msgid "Language"
 msgstr "Тіл"
 
 msgid "Toggle BETA personalization"
-msgstr ""
+msgstr "BETA персонализациясын қосыңыз"
 
 msgid ""
 "Listen to and discover new music on UwUpad. Thousands of tracks from "
 "independent artists."
 msgstr ""
+"UwUpad-та тыңдаңыз және жаңа музыка табыңыз. Тәуелсіз орындаушылардың "
+"мыңдаған тректері."
 
 msgid "Listen to and discover new music on UwUpad."
-msgstr ""
+msgstr "UwUpad-та тыңдаңыз және жаңа музыка табыңыз."
 
 msgid "Browse"
-msgstr ""
+msgstr "Шолу"
 
 msgid "My Library"
-msgstr ""
+msgstr "Менің кітапханам"
 
 msgid "Return to Sounds / Memes"
-msgstr ""
+msgstr "Дыбыстар / Мемелерге қайту"
 
 msgid "Sounds / Memes"
-msgstr ""
+msgstr "Дыбыстар / Мемелер"
 
 msgid "Sorting"
-msgstr ""
+msgstr "Сұрыптау"
 
 msgid "Hot"
-msgstr ""
+msgstr "Ыстық"
 
 msgid "Period"
-msgstr ""
+msgstr "Период"
 
 msgid "All time"
-msgstr ""
+msgstr "Барлық уақыт"
 
 msgid "Year"
-msgstr ""
+msgstr "Жыл"
 
 msgid "Month"
-msgstr ""
+msgstr "Ай"
 
 msgid "Week"
-msgstr ""
+msgstr "Апта"
 
 msgid "Day"
-msgstr ""
+msgstr "Күн"
 
 msgid "Now"
-msgstr ""
+msgstr "Қазір"
 
 msgid "Search by title..."
-msgstr ""
+msgstr "Атауы бойынша іздеу..."
 
 msgid "What do you want to listen to?"
-msgstr ""
+msgstr "Не тыңдағың келеді?"
 
 msgid "Liked Songs"
-msgstr ""
+msgstr "Ұнатылған әндер"
 
 msgid "tracks"
-msgstr ""
+msgstr "тректер"
 
 msgid "Create Playlist"
-msgstr ""
+msgstr "Плейлист құру"
 
 msgid "My Playlists"
-msgstr ""
+msgstr "Менің плейлисттерім"
 
 msgid "Play"
-msgstr ""
+msgstr "Ойнату"
 
 msgid "Now Playing"
-msgstr ""
+msgstr "Қазір ойналып жатыр"
 
 msgid "Track Cover"
-msgstr ""
+msgstr "Трек суреті"
 
 msgid "Track Title"
-msgstr ""
+msgstr "Трек атауы"
 
 msgid "Artist"
-msgstr ""
+msgstr "Әнші"
 
 msgid "Next in Queue"
-msgstr ""
+msgstr "Кезектегі келесі"
 
 msgid "Cover"
-msgstr ""
+msgstr "Сурет"
 
 msgid "Select a track"
-msgstr ""
+msgstr "Трек таңдаңыз"
 
 msgid "Shuffle"
-msgstr ""
+msgstr "Аралас ойнату"
 
 msgid "Previous Track"
-msgstr ""
+msgstr "Алдыңғы трек"
 
 msgid "Play/Pause"
-msgstr ""
+msgstr "Ойнату/Пауза"
 
 msgid "Next Track"
-msgstr ""
+msgstr "Келесі трек"
 
 msgid "Repeat"
-msgstr ""
+msgstr "Қайталау"
 
 msgid "Fullscreen Mode"
-msgstr ""
+msgstr "Толық экран режимі"
 
 msgid "Show Track Details"
-msgstr ""
+msgstr "Трек туралы мәліметтерді көрсету"
 
 msgid "Mute/Unmute"
-msgstr ""
+msgstr "Дыбыссыз ету/Дыбыс қосу"
 
 msgid "Add to Queue"
-msgstr ""
+msgstr "Кезекке қосу"
 
 msgid "New Playlist"
-msgstr ""
+msgstr "Жаңа плейлист"
 
 msgid "Playlist is empty"
-msgstr ""
+msgstr "Плейлист бос"
 
 msgid "Failed to load music."
-msgstr ""
+msgstr "Музыка жүктелмеді."
 
 msgid "Unlike"
-msgstr ""
+msgstr "Ұнатпау"
 
 msgid "Your personal favorites"
-msgstr ""
+msgstr "Сіздің жеке сүйіктілеріңіз"
 
 msgid "Enter playlist name:"
-msgstr ""
+msgstr "Плейлист атауын енгізіңіз:"
 
 msgid "Are you sure you want to delete this playlist?"
-msgstr ""
+msgstr "Бұл плейлистті өшіргіңіз келе ме?"
 
 msgid "This track is downloading."
-msgstr ""
+msgstr "Бұл трек жүктеліп жатыр."
 
 msgid "Please wait for the current download to finish."
-msgstr ""
+msgstr "Қазіргі жүктелу аяқталғанша күтіңіз."
 
 msgid "Downloading error"
-msgstr ""
+msgstr "Жүктеу қатесі"
 
 msgid "Finished!"
-msgstr ""
+msgstr "Аяқталды!"
 
 msgid "Upload Music"
-msgstr ""
+msgstr "Музыка жүктеу"
 
 msgid "To Home"
-msgstr ""
+msgstr "Үйге оралу"
 
 msgid "Drag & Drop Cover"
-msgstr ""
+msgstr "Cover суретін сүйріп тастаңыз"
 
 msgid "or click to select"
-msgstr ""
+msgstr "немесе таңдау үшін басыңыз"
 
 msgid "Cover Preview"
-msgstr ""
+msgstr "Cover алдын ала көрсету"
 
 msgid "Remove Cover"
-msgstr ""
+msgstr "Cover суретін алып тастаңыз"
 
 msgid "Title of your track"
-msgstr ""
+msgstr "Сіздің трекіңіздің атауы"
 
 msgid "Genre"
-msgstr ""
+msgstr "Жанр"
 
 msgid "Start typing to search for a genre..."
-msgstr ""
+msgstr "Жанрды іздеу үшін теруді бастаңыз..."
 
 msgid "E.g.: chill, summer, vibe"
-msgstr ""
+msgstr "Мысалы: chill, summer, vibe"
 
 msgid "Up to 5 tags. Enter a tag and press Enter."
-msgstr ""
+msgstr "5 тегке дейін. Тег енгізіп, Enter басыңыз."
 
 msgid "Audio File"
-msgstr ""
+msgstr "Аудио файл"
 
 msgid "Select file (MP3, WAV, OGG)"
-msgstr ""
+msgstr "Файлды таңдаңыз (MP3, WAV, OGG)"
 
 msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
-msgstr ""
+msgstr "Бұл аудио өте қысқа (< 30 с). Бұл мема ма, әлде дыбыс эффектісі ме?"
 
 msgid "Please use the Standard Uploader for short sounds."
-msgstr ""
+msgstr "Қысқа дыбыстар үшін стандартты жүктеушіні пайдаланыңыз."
 
 msgid "Go to Standard Uploader"
-msgstr ""
+msgstr "Стандартты жүктеушіге өту"
 
 msgid "I agree with the"
-msgstr ""
+msgstr "Мен келісемін"
 
 msgid "terms"
-msgstr ""
+msgstr "шарттар"
 
 msgid "policy"
-msgstr ""
+msgstr "саясат"
 
 msgid "Cover image is too large (max. 5 MB)"
-msgstr ""
+msgstr "Cover суреті тым үлкен (ең көп 5 МБ)"
 
 #, python-brace-format
 msgid "You can add no more than ${MAX_TAGS} tags."
-msgstr ""
+msgstr "Сіз ${MAX_TAGS} тегтен артық қоса алмайсыз."
 
 #, python-brace-format
 msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
-msgstr ""
+msgstr "Тег ${MAX_TAG_LENGTH} таңбадан ұзын бола алмайды."
 
 msgid "Audio file is too large (max. 20 MB)"
-msgstr ""
+msgstr "Аудио файл тым үлкен (ең көп 20 МБ)"
 
 msgid "Server error:"
-msgstr ""
+msgstr "Сервер қатесі:"
 
 msgid "Music uploaded successfully!"
-msgstr ""
+msgstr "Музыка сәтті жүктелді!"
 
 msgid "Payment Cancelled"
 msgstr "Төлем тоқтатылды"
@@ -3105,7 +3162,7 @@ msgid "Could not verify reCAPTCHA."
 msgstr "reCAPTCHA-ны тексеру мүмкін болмады."
 
 msgid "Account with this username does not exist."
-msgstr ""
+msgstr "Осы пайдаланушы атындағы есептік жазба жоқ."
 
 msgid "Account with this email does not exist."
 msgstr "Бұл электрондық поштамен аккаунт жоқ."
@@ -3123,7 +3180,7 @@ msgid "Invalid data."
 msgstr "Жарамсыз деректер."
 
 msgid "You already have a playlist with this name."
-msgstr ""
+msgstr "Сізде осындай атаудағы плейлист бар."
 
 msgid "Could not find or create playlist."
 msgstr "Ойнату тізімін табу немесе жасау мүмкін болмады."
@@ -3142,16 +3199,16 @@ msgid "No new sounds were added. They might already be in the playlist."
 msgstr "Жаңа дыбыстар қосылған жоқ. Олар ойнату тізімінде болуы мүмкін."
 
 msgid "Sound removed from playlist."
-msgstr ""
+msgstr "Дыбыс плейлисттен шығарылды."
 
 msgid "Sound not found in this playlist."
-msgstr ""
+msgstr "Осы плейлисттен дыбыс табылмады."
 
 msgid "Playlist deleted."
 msgstr "Ойнату тізімі жойылды."
 
 msgid "Sound ID is required."
-msgstr ""
+msgstr "Дыбыс ID қажет."
 
 msgid "Sound not found."
 msgstr "Дыбыс табылмады."
@@ -3160,7 +3217,7 @@ msgid "Sound deleted."
 msgstr "Дыбыс жойылды."
 
 msgid "An error occurred while deleting the sound."
-msgstr ""
+msgstr "Дыбысты өшірген кезде қате пайда болды."
 
 msgid "Authentication required"
 msgstr "Аутентификация қажет"
@@ -3169,10 +3226,10 @@ msgid "Upload in progress. Please wait."
 msgstr "Жүктеу жүруде. Күтіңіз."
 
 msgid "Cover file must be an image."
-msgstr ""
+msgstr "Cover файлы тек сурет болуы керек."
 
 msgid "Failed to upload cover to CDN."
-msgstr ""
+msgstr "CDN-ге Cover-ді жүктеу сәтсіз аяқталды."
 
 msgid "Invalid URL format"
 msgstr "Жарамсыз URL пішімі"
@@ -3194,7 +3251,7 @@ msgid "No file or URL provided"
 msgstr "Файл немесе URL көрсетілмеген"
 
 msgid "Sound was queued for upload"
-msgstr ""
+msgstr "Дыбыс жүктеу үшін кезекке қойылды."
 
 msgid "Upload timeout. Please try again."
 msgstr "Жүктеу уақыты аяқталды. Қайталап көріңіз."
@@ -3209,30 +3266,32 @@ msgid "Sound unliked."
 msgstr "Лайк алынды."
 
 msgid "You can only boost your own sounds."
-msgstr ""
+msgstr "Сіз тек өз дыбыстарыңызды күшейте аласыз."
 
 msgid "This sound is already boosted."
-msgstr ""
+msgstr "Бұл дыбыс қазір күшейтілген."
 
 msgid "Authenticated user not found."
-msgstr ""
+msgstr "Аутентификацияланған пайдаланушы табылмады."
 
 msgid "Free boosts are for VIP users only."
-msgstr ""
+msgstr "Тегін күшейтулер тек VIP пайдаланушыларға ғана беріледі."
 
 #, python-format
 msgid ""
 "Your next free boost will be available in %(hours)d hours and %(minutes)d "
 "minutes."
 msgstr ""
+"Келесі тегін күшейту %(hours)d сағат %(minutes)d минуттан кейін қолжетімді "
+"болады."
 
 #, python-format
 msgid "Insufficient PAW. You need %(cost)s PAW to boost."
-msgstr ""
+msgstr "PAW жетіспейді. Күшейту үшін %(cost)s PAW қажет."
 
 #, python-format
 msgid "Your sound has been boosted for %(hours)d hours!"
-msgstr ""
+msgstr "Дыбысыңыз %(hours)d сағат бойы күшейтілді!"
 
 msgid "You cannot blacklist yourself."
 msgstr "Сіз өзіңізді қара тізімге қоса алмайсыз."
@@ -3256,16 +3315,16 @@ msgid "Sound reported."
 msgstr "Дыбыс туралы шағым берілді."
 
 msgid "Failed to upload cover image to CDN."
-msgstr ""
+msgstr "CDN-ге cover суретін жүктеу сәтсіз аяқталды."
 
 msgid "Sound disappeared during edit."
-msgstr ""
+msgstr "Өңдеу кезінде дыбыс жоғалды."
 
 msgid "Sound updated successfully."
-msgstr ""
+msgstr "Дыбыс сәтті жаңартылды."
 
 msgid "An internal error occurred."
-msgstr ""
+msgstr "Ішкі қате пайда болды."
 
 msgid "Invalid date."
 msgstr "Жарамсыз күн."
@@ -3286,7 +3345,7 @@ msgid "User blocked."
 msgstr "Пайдаланушы бұғатталды."
 
 msgid "An internal error occurred while blocking the user."
-msgstr ""
+msgstr "Пайдаланушыны бұғаттау кезінде ішкі қате пайда болды."
 
 msgid "Passwords do not match."
 msgstr "Құпия сөздер сәйкес келмейді."
@@ -3313,26 +3372,26 @@ msgid "Invalid user ID."
 msgstr "Жарамсыз пайдаланушы ID."
 
 msgid "Password cannot be empty."
-msgstr ""
+msgstr "Құпиясөз бос бола алмайды."
 
 msgid "Not an admin."
 msgstr "Әкімші емес."
 
 msgid "Cover image is too large (max 5MB)."
-msgstr ""
+msgstr "Cover суреті тым үлкен (ең көп 5MB)."
 
 #, python-brace-format
 msgid "Audio file is too large (max {size}MB)."
-msgstr ""
+msgstr "Аудио файлы тым үлкен (ең көп {size}MB)."
 
 msgid "Music track was queued for processing."
-msgstr ""
+msgstr "Музыкалық трек өңдеуге кезекке қойылды."
 
 msgid "Upload failed due to an internal error."
-msgstr ""
+msgstr "Ішкі қате себепті жүктеу сәтсіз аяқталды."
 
 msgid "Name required"
-msgstr ""
+msgstr "Аты енгізу қажет."
 
 msgid "Style is too long."
 msgstr "Стиль тым ұзақ."
@@ -3356,50 +3415,51 @@ msgstr "Лақап ат стилі 100 PAW-ға сатып алынды және
 
 #, python-brace-format
 msgid "{actor1} and {actor2}"
-msgstr ""
+msgstr "{actor1} және {actor2}"
 
 #, python-format
 msgid "and %d other"
-msgstr ""
+msgstr "және %d басқа"
 
 #, python-format
 msgid "and %d others"
-msgstr ""
+msgstr "және %d басқалар"
 
 #, python-brace-format
 msgid "{actor1}, {actor2} {others}"
-msgstr ""
+msgstr "{actor1}, {actor2} және {others}"
 
 msgid "[actor] liked your sound [entity]."
-msgstr ""
+msgstr "[actor] сіздің дыбысыңызды [entity]-ні ұнатты."
 
 msgid "[actor] liked your comment on [entity]."
-msgstr ""
+msgstr "[actor] сіздің [entity]-ге қалдырған пікіріңізді ұнатты."
 
 msgid "[actor] mentioned you in a comment on [entity]."
-msgstr ""
+msgstr "[actor] сізді [entity]-дегі пікірде атады."
 
 msgid "[actor] downloaded your sound [entity]."
-msgstr ""
+msgstr "[actor] сіздің дыбысыңызды [entity]-ді жүктеп алды."
 
 msgid "[actor] left a comment on your sound [entity]."
-msgstr ""
+msgstr "[actor] сіздің дыбысыңыз [entity]-ге түсініктеме қалдырды."
 
 msgid "[actor] replied to your comment on [entity]."
-msgstr ""
+msgstr "[actor] сіздің [entity]-ге қалдырған пікіріңізге жауап берді."
 
 msgid "Your sound [entity] has been successfully processed!"
-msgstr ""
+msgstr "Сіздің дыбысыңыз [entity] сәтті өңделді!"
 
 msgid ""
 "We couldn't process your sound [entity]. Please try uploading it again."
 msgstr ""
+"Сіздің дыбысыңызды [entity] өңдей алмадық. Өтінеміз қайта жүктеп көріңіз."
 
 msgid "An administrator removed your sound: [entity]."
-msgstr ""
+msgstr "Әкімші сіздің дыбысыңызды алып тастады: [entity]."
 
 msgid "An administrator removed your comment on [entity]."
-msgstr ""
+msgstr "Әкімші сіздің [entity]-ге қалдырған пікіріңізді алып тастады."
 
 msgid "Anonymous"
-msgstr ""
+msgstr "Аноним"

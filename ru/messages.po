@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:41+0000\n"
+"POT-Creation-Date: 2026-02-23 09:14+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
@@ -104,85 +104,86 @@ msgid "About us"
 msgstr "О нас"
 
 msgid "Admin: Minecraft Management"
-msgstr ""
+msgstr "Админ: Управление Minecraft"
 
 msgid "Minecraft Server Management"
-msgstr ""
+msgstr "Управление сервером Minecraft"
 
 msgid "Whitelist and link user accounts."
-msgstr ""
+msgstr "Белый список и привязка аккаунтов."
 
 msgid "Add / Link Player"
-msgstr ""
+msgstr "Добавить / привязать игрока"
 
 msgid "UwUpad User (ID or Username)"
-msgstr ""
+msgstr "Пользователь UwUpad (ID или имя пользователя)"
 
 msgid "Minecraft Username"
-msgstr ""
+msgstr "Имя пользователя Minecraft"
 
 msgid "Link"
 msgstr "Привязать"
 
 msgid "Linked Accounts"
-msgstr ""
+msgstr "Привязанные аккаунты"
 
 msgid "UwUpad User"
-msgstr ""
+msgstr "Пользователь UwUpad"
 
 msgid "Minecraft UUID"
-msgstr ""
+msgstr "UUID Minecraft"
 
 msgid "Actions"
 msgstr "Действия"
 
 msgid "Confirm"
-msgstr ""
+msgstr "Подтвердить"
 
 msgid "Cancel"
 msgstr "Отмена"
 
 msgid "Submit"
-msgstr ""
+msgstr "Отправить"
 
 msgid "No linked users found."
-msgstr ""
+msgstr "Не найдено привязанных пользователей."
 
 msgid "Failed to load user list."
-msgstr ""
+msgstr "Не удалось загрузить список пользователей."
 
 msgid "Failed to link user."
-msgstr ""
+msgstr "Не удалось привязать пользователя."
 
 msgid "User Linked Successfully"
-msgstr ""
+msgstr "Пользователь успешно привязан"
 
 msgid "OK"
-msgstr ""
+msgstr "ОК"
 
 msgid "Error"
 msgstr "Ошибка"
 
 msgid "Unlink Account?"
-msgstr ""
+msgstr "Отвязать аккаунт?"
 
 #, python-brace-format
 msgid ""
 "Are you sure you want to unlink ${username}? This will remove them from the "
 "whitelist."
 msgstr ""
+"Вы уверены, что хотите отвязать ${username}? Это удалит их из белого списка."
 
 msgid "Unlink"
 msgstr "Отвязать"
 
 msgid "Failed to unlink user."
-msgstr ""
+msgstr "Не удалось отвязать пользователя."
 
 msgid "User Unlinked"
-msgstr ""
+msgstr "Пользователь отвязан."
 
 msgid "Successfully unlinked"
-msgstr ""
+msgstr "Успешно отвязан."
 
 msgid "Advertise on UwUpad"
 msgstr "Реклама на UwUpad"
@@ -512,13 +513,14 @@ msgid "Open"
 msgstr "Открыть"
 
 msgid "Join Millions of Players Worldwide"
-msgstr ""
+msgstr "Присоединяйся к миллионам игроков по всему миру"
 
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
+"Испытай эпичные танковые сражения. Скачай сейчас и получи бесплатный танк!"
 
 msgid "Play Now"
-msgstr ""
+msgstr "Играть сейчас"
 
 msgid "Change Password"
 msgstr "Изменить пароль"
