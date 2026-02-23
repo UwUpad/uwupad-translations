@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 14:00+0000\n"
+"POT-Creation-Date: 2026-02-23 15:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -928,6 +928,8 @@ msgid ""
 "Listen to the \"%(playlist_name)s\" playlist on UwUpad, created by "
 "%(author)s."
 msgstr ""
+"به پلی‌لیست \"%(playlist_name)s\" در UwUpad گوش کن، ساخته‌شده توسط "
+"%(author)s."
 
 msgid "Edit Playlist"
 msgstr "ویرایش لیست پخش"
@@ -2339,7 +2341,7 @@ msgstr "برای %(count)s صدا، پلی‌لیست انتخاب کنید یا
 
 #, python-format
 msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
-msgstr ""
+msgstr "برای \"%(sound_name)s\" یه پلی‌لیست انتخاب کن یا یکی جدید بساز."
 
 msgid "Create New"
 msgstr "ایجاد جدید"
