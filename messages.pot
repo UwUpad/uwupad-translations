@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 10:00+0000\n"
+"POT-Creation-Date: 2026-02-23 11:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1485,6 +1485,21 @@ msgstr ""
 msgid "Use Trimmed Audio"
 msgstr ""
 
+msgid "Слишком длинный аудиофайл"
+msgstr ""
+
+msgid ""
+"Этот файл длится больше 40 секунд. Если вы пытаетесь загрузить "
+"полноценную песню, ремикс или музыкальный микс — пожалуйста, используйте "
+"специальный загрузчик музыки для лучшего продвижения."
+msgstr ""
+
+msgid "Перейти к Музыке"
+msgstr ""
+
+msgid "Отмена"
+msgstr ""
+
 msgid "Upload a Sound"
 msgstr ""
 
@@ -1498,15 +1513,6 @@ msgid "Progress:"
 msgstr ""
 
 msgid "sounds"
-msgstr ""
-
-msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
-msgstr ""
-
-msgid "Use our dedicated music uploader for better discovery and features."
-msgstr ""
-
-msgid "Go to Music Uploader"
 msgstr ""
 
 msgid "Tags"
@@ -1610,6 +1616,9 @@ msgid "Maximum"
 msgstr ""
 
 msgid "tags allowed."
+msgstr ""
+
+msgid "Checking duration..."
 msgstr ""
 
 msgid "File too big (Max:"
@@ -2714,6 +2723,9 @@ msgstr ""
 msgid "Sorting"
 msgstr ""
 
+msgid "FYP"
+msgstr ""
+
 msgid "Hot"
 msgstr ""
 
@@ -2876,16 +2888,7 @@ msgstr ""
 msgid "Audio File"
 msgstr ""
 
-msgid "Select file (MP3, WAV, OGG)"
-msgstr ""
-
-msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
-msgstr ""
-
-msgid "Please use the Standard Uploader for short sounds."
-msgstr ""
-
-msgid "Go to Standard Uploader"
+msgid "Select file (MP3, WAV, OGG, FLAC)"
 msgstr ""
 
 msgid "I agree with the"
@@ -2897,6 +2900,17 @@ msgstr ""
 msgid "policy"
 msgstr ""
 
+msgid "Слишком коротко для музыки"
+msgstr ""
+
+msgid ""
+"Этот аудиофайл длится менее 30 секунд. Если это мем, вырезка или SFX "
+"эффект — пожалуйста, загрузите его через стандартный загрузчик звуков."
+msgstr ""
+
+msgid "Перейти к звукам"
+msgstr ""
+
 msgid "Cover image is too large (max. 5 MB)"
 msgstr ""
 
@@ -2906,6 +2920,12 @@ msgstr ""
 
 #, python-brace-format
 msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
+msgstr ""
+
+msgid "Проверка файла..."
+msgstr ""
+
+msgid "Select file (MP3, WAV, OGG)"
 msgstr ""
 
 msgid "Audio file is too large (max. 20 MB)"

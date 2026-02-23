@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 10:00+0000\n"
+"POT-Creation-Date: 2026-02-23 11:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:25+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Italian <it@li.org>\n"
@@ -1553,6 +1553,21 @@ msgstr "Anteprima selezionata"
 msgid "Use Trimmed Audio"
 msgstr "Usa audio ritagliato"
 
+msgid "Слишком длинный аудиофайл"
+msgstr ""
+
+msgid ""
+"Этот файл длится больше 40 секунд. Если вы пытаетесь загрузить полноценную "
+"песню, ремикс или музыкальный микс — пожалуйста, используйте специальный "
+"загрузчик музыки для лучшего продвижения."
+msgstr ""
+
+msgid "Перейти к Музыке"
+msgstr ""
+
+msgid "Отмена"
+msgstr ""
+
 msgid "Upload a Sound"
 msgstr "Carica un suono"
 
@@ -1569,17 +1584,6 @@ msgstr "Progresso:"
 
 msgid "sounds"
 msgstr "suoni"
-
-msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
-msgstr "Stai caricando musica/canzoni (es. pop, phonk, rap, ecc.)?"
-
-msgid "Use our dedicated music uploader for better discovery and features."
-msgstr ""
-"Usa il nostro uploader dedicato alla musica per una migliore scoperta e "
-"funzionalità."
-
-msgid "Go to Music Uploader"
-msgstr "Vai all'Uploader di Musica"
 
 msgid "Tags"
 msgstr "Tag"
@@ -1686,6 +1690,9 @@ msgstr "Massimo"
 
 msgid "tags allowed."
 msgstr "tag ammessi."
+
+msgid "Checking duration..."
+msgstr "Verifica della durata..."
 
 msgid "File too big (Max:"
 msgstr "File troppo grande (Max:"
@@ -2350,7 +2357,7 @@ msgstr "Scegli una playlist per %(count)s suoni o crea una nuova."
 
 #, python-format
 msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
-msgstr ""
+msgstr "Scegli una playlist per \"%(sound_name)s\" o creane una nuova."
 
 msgid "Create New"
 msgstr "Crea nuovo"
@@ -2840,6 +2847,9 @@ msgstr "Suoni / Meme"
 msgid "Sorting"
 msgstr "Ordinamento"
 
+msgid "FYP"
+msgstr "FYP"
+
 msgid "Hot"
 msgstr "In tendenza"
 
@@ -3002,18 +3012,8 @@ msgstr "Fino a 5 tag. Inserisci un tag e premi Invio."
 msgid "Audio File"
 msgstr "File audio"
 
-msgid "Select file (MP3, WAV, OGG)"
-msgstr "Seleziona file (MP3, WAV, OGG)"
-
-msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
-msgstr ""
-"Questo audio è abbastanza corto (< 30s). È un meme o un effetto sonoro?"
-
-msgid "Please use the Standard Uploader for short sounds."
-msgstr "Per i suoni brevi, usa l'Uploader standard."
-
-msgid "Go to Standard Uploader"
-msgstr "Vai all'Uploader standard"
+msgid "Select file (MP3, WAV, OGG, FLAC)"
+msgstr "Seleziona file (MP3, WAV, OGG, FLAC)"
 
 msgid "I agree with the"
 msgstr "Accetto i"
@@ -3023,6 +3023,17 @@ msgstr "termini"
 
 msgid "policy"
 msgstr "informativa sulla privacy"
+
+msgid "Слишком коротко для музыки"
+msgstr ""
+
+msgid ""
+"Этот аудиофайл длится менее 30 секунд. Если это мем, вырезка или SFX эффект "
+"— пожалуйста, загрузите его через стандартный загрузчик звуков."
+msgstr ""
+
+msgid "Перейти к звукам"
+msgstr ""
 
 msgid "Cover image is too large (max. 5 MB)"
 msgstr "L'immagine di copertina è troppo grande (max. 5 MB)"
@@ -3034,6 +3045,12 @@ msgstr "Non puoi aggiungere più di ${MAX_TAGS} tag."
 #, python-brace-format
 msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
 msgstr "Il tag non può contenere più di ${MAX_TAG_LENGTH} caratteri."
+
+msgid "Проверка файла..."
+msgstr ""
+
+msgid "Select file (MP3, WAV, OGG)"
+msgstr "Seleziona file (MP3, WAV, OGG)"
 
 msgid "Audio file is too large (max. 20 MB)"
 msgstr "Il file audio è troppo grande (max. 20 MB)"
@@ -3468,3 +3485,24 @@ msgstr "Un amministratore ha rimosso il tuo commento su [entity]."
 
 msgid "Anonymous"
 msgstr "Anonimo"
+
+#~ msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
+#~ msgstr "Stai caricando musica/canzoni (es. pop, phonk, rap, ecc.)?"
+
+#~ msgid "Use our dedicated music uploader for better discovery and features."
+#~ msgstr ""
+#~ "Usa il nostro uploader dedicato alla musica per una migliore scoperta e "
+#~ "funzionalità."
+
+#~ msgid "Go to Music Uploader"
+#~ msgstr "Vai all'Uploader di Musica"
+
+#~ msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
+#~ msgstr ""
+#~ "Questo audio è abbastanza corto (< 30s). È un meme o un effetto sonoro?"
+
+#~ msgid "Please use the Standard Uploader for short sounds."
+#~ msgstr "Per i suoni brevi, usa l'Uploader standard."
+
+#~ msgid "Go to Standard Uploader"
+#~ msgstr "Vai all'Uploader standard"
