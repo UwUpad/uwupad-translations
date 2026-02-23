@@ -7,7 +7,7 @@ Thank you for your interest in contributing to the translation efforts for uwupa
 ### Making New Translations
 1. Fork this repository to your GitHub account.
 2. Clone the forked repository to your local machine.
-3. Navigate to the `translations` directory.
+3. Navigate to the `/` directory.
 4. Create a new directory for your language if it doesn't exist already.
 5. Inside the language directory, create a new .po file using the template provided.
 6. Translate the strings in the .po file using a text editor or a translation tool.
@@ -17,7 +17,7 @@ Thank you for your interest in contributing to the translation efforts for uwupa
 ### Editing Existing Translations
 1. Fork this repository to your GitHub account.
 2. Clone the forked repository to your local machine.
-3. Navigate to the `translations/{lang_code}/` directory.
+3. Navigate to the `/{lang_code}/` directory.
 4. Find the .po file of the language you want to edit.
 5. Open the .po file in a text editor or a translation tool.
 6. Make the necessary edits to improve the existing translations.
