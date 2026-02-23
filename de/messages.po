@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 12:00+0000\n"
+"POT-Creation-Date: 2026-02-23 13:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: de <LL@li.org>\n"
@@ -3111,14 +3111,17 @@ msgstr "E-Mail muss länger als 5 Zeichen sein."
 msgid "Account with this email already exists."
 msgstr "Konto mit dieser E-Mail existiert bereits."
 
+msgid "Invalid sound ID."
+msgstr "Ungültige Sound-ID."
+
 msgid "Invalid data."
 msgstr "Ungültige Daten."
 
 msgid "You already have a playlist with this name."
 msgstr "Du hast bereits eine Playlist mit diesem Namen."
 
-msgid "Could not find or create playlist."
-msgstr "Playlist konnte nicht gefunden oder erstellt werden."
+msgid "No valid sounds found."
+msgstr "Keine gültigen Sounds gefunden."
 
 #, python-format
 msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
@@ -3323,9 +3326,6 @@ msgstr "Track wurde zur Verarbeitung vorgemerkt."
 msgid "Upload failed due to an internal error."
 msgstr "Upload aufgrund eines internen Fehlers fehlgeschlagen."
 
-msgid "Name required"
-msgstr "Name erforderlich"
-
 msgid "Style is too long."
 msgstr "Stil ist zu lang."
 
@@ -3412,3 +3412,9 @@ msgstr "Anonym"
 
 #~ msgid "Go to Standard Uploader"
 #~ msgstr "Zum Standard-Uploader"
+
+#~ msgid "Could not find or create playlist."
+#~ msgstr "Playlist konnte nicht gefunden oder erstellt werden."
+
+#~ msgid "Name required"
+#~ msgstr "Name erforderlich"

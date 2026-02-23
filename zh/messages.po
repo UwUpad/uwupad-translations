@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 12:00+0000\n"
+"POT-Creation-Date: 2026-02-23 13:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -1492,19 +1492,19 @@ msgid "Use Trimmed Audio"
 msgstr "使用修剪后的音频"
 
 msgid "Слишком длинный аудиофайл"
-msgstr ""
+msgstr "音频文件太长了"
 
 msgid ""
 "Этот файл длится больше 40 секунд. Если вы пытаетесь загрузить полноценную "
 "песню, ремикс или музыкальный микс — пожалуйста, используйте специальный "
 "загрузчик музыки для лучшего продвижения."
-msgstr ""
+msgstr "该文件时长超过40秒。若要上传完整歌曲、混音或音乐混合，请使用专门的音乐上传器以获得更好的推广效果。"
 
 msgid "Перейти к Музыке"
-msgstr ""
+msgstr "前往音乐"
 
 msgid "Отмена"
-msgstr ""
+msgstr "取消"
 
 msgid "Upload a Sound"
 msgstr "上传声音"
@@ -2905,15 +2905,15 @@ msgid "policy"
 msgstr "政策"
 
 msgid "Слишком коротко для музыки"
-msgstr ""
+msgstr "音乐太短，无法用作音乐"
 
 msgid ""
 "Этот аудиофайл длится менее 30 секунд. Если это мем, вырезка или SFX эффект "
 "— пожалуйста, загрузите его через стандартный загрузчик звуков."
-msgstr ""
+msgstr "这个音频文件时长少于30秒。如果它是一个梗、剪辑或 SFX 效果，请通过标准声音上传器上传。"
 
 msgid "Перейти к звукам"
-msgstr ""
+msgstr "前往声音库"
 
 msgid "Cover image is too large (max. 5 MB)"
 msgstr "封面图片过大 (最大 5 MB)"
@@ -2927,7 +2927,7 @@ msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
 msgstr "标签长度不能超过 ${MAX_TAG_LENGTH} 个字符。"
 
 msgid "Проверка файла..."
-msgstr ""
+msgstr "正在检查文件..."
 
 msgid "Select file (MP3, WAV, OGG)"
 msgstr "选择文件 (MP3, WAV, OGG)"
@@ -3068,14 +3068,17 @@ msgstr "电子邮件应长于 5 个字符。"
 msgid "Account with this email already exists."
 msgstr "该电子邮箱已被注册。"
 
+msgid "Invalid sound ID."
+msgstr "无效的声音ID。"
+
 msgid "Invalid data."
 msgstr "无效数据。"
 
 msgid "You already have a playlist with this name."
 msgstr "你已经有一个同名的播放列表。"
 
-msgid "Could not find or create playlist."
-msgstr "无法找到或创建播放列表。"
+msgid "No valid sounds found."
+msgstr "未找到有效的声音。"
 
 #, python-format
 msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
@@ -3278,9 +3281,6 @@ msgstr "曲目已加入处理队列。"
 msgid "Upload failed due to an internal error."
 msgstr "由于内部错误，上传失败。"
 
-msgid "Name required"
-msgstr "需要名称"
-
 msgid "Style is too long."
 msgstr "样式内容过长。"
 
@@ -3367,3 +3367,9 @@ msgstr "匿名"
 
 #~ msgid "Go to Standard Uploader"
 #~ msgstr "前往标准上传器"
+
+#~ msgid "Could not find or create playlist."
+#~ msgstr "无法找到或创建播放列表。"
+
+#~ msgid "Name required"
+#~ msgstr "需要名称"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 12:00+0000\n"
+"POT-Creation-Date: 2026-02-23 13:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3064,13 +3064,16 @@ msgstr ""
 msgid "Account with this email already exists."
 msgstr ""
 
+msgid "Invalid sound ID."
+msgstr ""
+
 msgid "Invalid data."
 msgstr ""
 
 msgid "You already have a playlist with this name."
 msgstr ""
 
-msgid "Could not find or create playlist."
+msgid "No valid sounds found."
 msgstr ""
 
 #, python-format
@@ -3272,9 +3275,6 @@ msgid "Music track was queued for processing."
 msgstr ""
 
 msgid "Upload failed due to an internal error."
-msgstr ""
-
-msgid "Name required"
 msgstr ""
 
 msgid "Style is too long."

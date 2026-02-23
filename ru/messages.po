@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 12:00+0000\n"
+"POT-Creation-Date: 2026-02-23 13:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
@@ -3178,14 +3178,17 @@ msgstr "Email должен быть длиннее 5 символов."
 msgid "Account with this email already exists."
 msgstr "Аккаунт с этим email уже существует."
 
+msgid "Invalid sound ID."
+msgstr ""
+
 msgid "Invalid data."
 msgstr "Неверные данные."
 
 msgid "You already have a playlist with this name."
 msgstr "У вас уже есть плейлист с этим названием."
 
-msgid "Could not find or create playlist."
-msgstr "Не удалось найти или создать плейлист."
+msgid "No valid sounds found."
+msgstr ""
 
 #, python-format
 msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
@@ -3390,9 +3393,6 @@ msgstr "Музыкальный трек поставлен в очередь н�
 msgid "Upload failed due to an internal error."
 msgstr "Загрузка не удалась из-за внутренней ошибки."
 
-msgid "Name required"
-msgstr "Требуется имя"
-
 msgid "Style is too long."
 msgstr "Стиль слишком длинный."
 
@@ -3484,3 +3484,9 @@ msgstr "Аноним"
 
 #~ msgid "Go to Standard Uploader"
 #~ msgstr "Перейти к стандартному загрузчику"
+
+#~ msgid "Could not find or create playlist."
+#~ msgstr "Не удалось найти или создать плейлист."
+
+#~ msgid "Name required"
+#~ msgstr "Требуется имя"
