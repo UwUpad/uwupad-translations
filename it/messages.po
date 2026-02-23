@@ -1,0 +1,6952 @@
+# Italian translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+# Italian translation for PROJECT.
+# Automatically generated, please revise and update.
+# Mario Rossi <mario@example.it>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-02-23 08:22+0000\n"
+"PO-Revision-Date: 2025-04-15 10:25+0200\n"
+"Last-Translator: AI Assistant <>\n"
+"Language-Team: Italian <it@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Filters"
+msgstr "Filtri"
+
+msgid "Sound Type"
+msgstr "Tipo di suono"
+
+msgid "Loud"
+msgstr "Forte"
+
+msgid "Explicit"
+msgstr "Esplicito"
+
+msgid "Duration"
+msgstr "Durata"
+
+msgid "Very short (<5s)"
+msgstr "Molto breve (<5s)"
+
+msgid "Short (5-15s)"
+msgstr "Breve (5-15s)"
+
+msgid "Medium (15-30s)"
+msgstr "Medio (15-30s)"
+
+msgid "Long (30-60s)"
+msgstr "Lungo (30-60s)"
+
+msgid "Very long (>60s)"
+msgstr "Molto lungo (>60s)"
+
+msgid "Popularity"
+msgstr "Popolarità"
+
+msgid "Unpopular (<10 downloads)"
+msgstr "Impopolare (<10 download)"
+
+msgid "Not popular (10-50 downloads)"
+msgstr "Poco popolare (10-50 download)"
+
+msgid "Popular (50-100 downloads)"
+msgstr "Popolare (50-100 download)"
+
+msgid ""
+"Very popular (100-500\n"
+"                                downloads)"
+msgstr ""
+"Molto popolare (100-500\n"
+"                                download)"
+
+msgid ""
+"Extremely popular (>500\n"
+"                                downloads)"
+msgstr ""
+"Estremamente popolare (>500\n"
+"                                download)"
+
+msgid "Likes"
+msgstr "Mi piace"
+
+msgid "Unliked (<10 likes)"
+msgstr "Pochi Mi piace (<10 Mi piace)"
+
+msgid "Not liked (10-50 likes)"
+msgstr "Non molto apprezzato (10-50 Mi piace)"
+
+msgid "Liked (50-100 likes)"
+msgstr "Apprezzato (50-100 Mi piace)"
+
+msgid "Very liked (100-500 likes)"
+msgstr "Molto apprezzato (100-500 Mi piace)"
+
+msgid "Extremely liked (>500 likes)"
+msgstr "Estremamente apprezzato (>500 Mi piace)"
+
+msgid "Newest"
+msgstr "Più recenti"
+
+msgid "Most Downloaded"
+msgstr "Più scaricati"
+
+msgid "Most Liked"
+msgstr "Più apprezzati"
+
+msgid "Apply Filters"
+msgstr "Applica filtri"
+
+msgid "About us"
+msgstr "Chi siamo"
+
+#, fuzzy
+msgid "Admin: Minecraft Management"
+msgstr "Il server Minecraft di UwU Pad è attivo!"
+
+#, fuzzy
+msgid "Minecraft Server Management"
+msgstr "Il server Minecraft di UwU Pad è attivo!"
+
+msgid "Whitelist and link user accounts."
+msgstr ""
+
+msgid "Add / Link Player"
+msgstr ""
+
+#, fuzzy
+msgid "UwUpad User (ID or Username)"
+msgstr "Email/Nome utente"
+
+#, fuzzy
+msgid "Minecraft Username"
+msgstr "Il server Minecraft di UwU Pad è attivo!"
+
+#, fuzzy
+msgid "Link"
+msgstr "Link"
+
+#, fuzzy
+msgid "Linked Accounts"
+msgstr "Hai già un account?"
+
+#, fuzzy
+msgid "UwUpad User"
+msgstr "Modifica tag"
+
+#, fuzzy
+msgid "Minecraft UUID"
+msgstr "Il server Minecraft di UwU Pad è attivo!"
+
+#, fuzzy
+msgid "Actions"
+msgstr "Durata"
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Annulla"
+
+#, fuzzy
+msgid "Submit"
+msgstr "Reimposta password"
+
+#, fuzzy
+msgid "No linked users found."
+msgstr "Playlist non trovata."
+
+#, fuzzy
+msgid "Failed to load user list."
+msgstr "Impossibile caricare altri commenti."
+
+#, fuzzy
+msgid "Failed to link user."
+msgstr "Impossibile caricare altri commenti."
+
+#, fuzzy
+msgid "User Linked Successfully"
+msgstr "Nome utente aggiornato con successo."
+
+msgid "OK"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+#, fuzzy
+msgid "Unlink Account?"
+msgstr "Hai già un account?"
+
+#, python-brace-format
+msgid ""
+"Are you sure you want to unlink ${username}? This will remove them from the "
+"whitelist."
+msgstr ""
+
+#, fuzzy
+msgid "Unlink"
+msgstr "Link"
+
+#, fuzzy
+msgid "Failed to unlink user."
+msgstr "Impossibile caricare altri commenti."
+
+#, fuzzy
+msgid "User Unlinked"
+msgstr "Utente bloccato."
+
+#, fuzzy
+msgid "Successfully unlinked"
+msgstr "Accesso effettuato con successo"
+
+msgid "Advertise on UwUpad"
+msgstr ""
+
+msgid "Place Your Banner on UwUpad!"
+msgstr ""
+
+msgid "Reach thousands of gamers and active internet users every day."
+msgstr ""
+
+msgid "What You Get"
+msgstr ""
+
+msgid "Impressions / week"
+msgstr ""
+
+msgid "Clicks / week"
+msgstr ""
+
+msgid "Rules & Guidelines"
+msgstr ""
+
+msgid "Allowed:"
+msgstr ""
+
+msgid "Gaming projects, Discord servers, social media, SFW content."
+msgstr ""
+
+msgid "Forbidden:"
+msgstr ""
+
+msgid "NSFW, gambling, scams, malware, or any illegal content."
+msgstr ""
+
+msgid "Format:"
+msgstr ""
+
+msgid ""
+"Your banner should be a PNG, JPG, or GIF file (e.g., 728x90 or similar)."
+msgstr ""
+
+msgid "Disclaimer:"
+msgstr ""
+
+msgid ""
+"We reserve the right to refuse any advertisement that does not align with "
+"our community standards."
+msgstr ""
+
+msgid "Pricing & How to Buy"
+msgstr ""
+
+#, fuzzy
+msgid "Price:"
+msgstr "Procedi"
+
+msgid "per week."
+msgstr ""
+
+msgid "How it works:"
+msgstr ""
+
+#, fuzzy
+msgid "Click the button below to pay with Telegram Stars."
+msgstr "Clicca il pulsante qui sotto per cambiare la tua password."
+
+msgid "In the payment comment, you MUST include two links:"
+msgstr ""
+
+msgid "A direct link to your banner image (e.g., from Imgur)."
+msgstr ""
+
+msgid "The link where your banner should lead."
+msgstr ""
+
+msgid ""
+"After successful payment, we will manually place your ad within 24 hours."
+msgstr ""
+
+msgid "Submit Your Ad for Review"
+msgstr ""
+
+msgid "per week"
+msgstr ""
+
+#, fuzzy
+msgid "Submit Your Ad"
+msgstr "Reimposta password"
+
+msgid "Step 1: Provide Ad Details"
+msgstr ""
+
+msgid ""
+"Fill out the form below. After submission, you will be redirected to "
+"Telegram for payment."
+msgstr ""
+
+msgid "Direct Link to your Banner Image"
+msgstr ""
+
+#, fuzzy
+msgid "Target URL"
+msgstr "URL vuoto"
+
+msgid "where users will be sent"
+msgstr ""
+
+#, fuzzy
+msgid "Your Contact"
+msgstr "Contatti"
+
+msgid "We will use this to contact you if there are issues with your ad."
+msgstr ""
+
+#, fuzzy
+msgid "Step 2: Proceed to Payment"
+msgstr "Procedi al pagamento"
+
+#, fuzzy
+msgid "All fields are required."
+msgstr "Email richiesta."
+
+msgid "Server error."
+msgstr ""
+
+#, fuzzy
+msgid "Payment link not received."
+msgstr "Pagamento Annullato"
+
+msgid "Access denied"
+msgstr "Accesso negato"
+
+msgid "Your account has been banned"
+msgstr "Il tuo account è stato bannato"
+
+msgid "Contact us for more information"
+msgstr "Contattaci per maggiori informazioni"
+
+#, fuzzy
+msgid "The best sounds for your Soundpad and ringtones"
+msgstr "Il miglior servizio di condivisione suoni per Soundpad"
+
+msgid ""
+"Find that meme sound from TikTok or a scream from your favorite game in 5 "
+"seconds. Download for free for your Soundpad or set it as a ringtone. Our "
+"collection is updated daily!"
+msgstr ""
+
+msgid "Welcome back,"
+msgstr ""
+
+#, fuzzy
+msgid "Available for VIP users only"
+msgstr "GIF solo per utenti VIP"
+
+msgid "Bulk Download is a VIP Feature"
+msgstr ""
+
+msgid "Upgrade to VIP to download entire playlists as a .zip file!"
+msgstr ""
+
+#, fuzzy
+msgid "Pause"
+msgstr "Nome utente"
+
+#, fuzzy
+msgid "This playlist is empty."
+msgstr "Il nome della playlist non può essere vuoto."
+
+#, fuzzy
+msgid "Remove from download"
+msgstr "Più scaricati"
+
+#, fuzzy
+msgid "Could not load playlist."
+msgstr "Suono non presente nella playlist."
+
+#, fuzzy
+msgid "Download cancelled."
+msgstr "Più scaricati"
+
+#, fuzzy
+msgid "Downloading"
+msgstr "Download"
+
+#, fuzzy
+msgid "Creating ZIP file... Please wait."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+msgid "Compressing..."
+msgstr ""
+
+#, fuzzy
+msgid "Resume"
+msgstr "Hai già un account?"
+
+msgid "Paused..."
+msgstr ""
+
+msgid "Resuming..."
+msgstr ""
+
+#, fuzzy
+msgid "Import cancelled."
+msgstr "Pagamento Annullato"
+
+#, fuzzy
+msgid "Importing"
+msgstr "Importa"
+
+#, fuzzy
+msgid "Import complete!"
+msgstr "Importa da URL"
+
+#, fuzzy
+msgid "Sound data not loaded yet."
+msgstr "Suono non trovato."
+
+#, fuzzy
+msgid "Error: Sound data not found."
+msgstr "Suono non trovato."
+
+msgid "Choose Boost Option"
+msgstr ""
+
+msgid "Promote your sound to reach a wider audience."
+msgstr ""
+
+msgid "VIP BENEFIT"
+msgstr ""
+
+msgid "Free Boost"
+msgstr ""
+
+#, python-format
+msgid "1 free boost every %(hours)s hours."
+msgstr ""
+
+msgid "Use Free Boost"
+msgstr ""
+
+msgid "PAY-TO-BOOST"
+msgstr ""
+
+#, fuzzy
+msgid "Pay with PAW"
+msgstr "Segnala"
+
+#, python-format
+msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
+msgstr ""
+
+#, python-format
+msgid "Pay %(cost)s PAW"
+msgstr ""
+
+msgid "Confirm Sound Boost"
+msgstr ""
+
+#, python-format
+msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
+msgstr ""
+
+msgid ""
+"This will place your sound at the top of the 'For You' page for a limited "
+"time."
+msgstr ""
+
+msgid "Get free boosts and more with VIP!"
+msgstr ""
+
+#, fuzzy
+msgid "Learn More"
+msgstr "Carica altro"
+
+msgid "Confirm & Boost"
+msgstr ""
+
+msgid "An error occurred"
+msgstr "Si è verificato un errore"
+
+msgid "All caught up!"
+msgstr ""
+
+msgid "You have no new notifications."
+msgstr ""
+
+msgid "Oops!"
+msgstr ""
+
+#, fuzzy
+msgid "Could not load notifications. Please try again later."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+msgid "Just now"
+msgstr ""
+
+#, python-format
+msgid "%(minutes)s m ago"
+msgstr ""
+
+#, python-format
+msgid "%(hours)s h ago"
+msgstr ""
+
+#, python-format
+msgid "%(days)s d ago"
+msgstr ""
+
+msgid "AdBlock detected"
+msgstr ""
+
+msgid ""
+"We rely on ads to keep our servers running. Please consider supporting us by"
+" disabling AdBlock or"
+msgstr ""
+
+#, fuzzy
+msgid "getting VIP"
+msgstr "Impostazioni lingua"
+
+msgid "I disabled it, Refresh"
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+#, fuzzy
+msgid "How to disable?"
+msgstr "Mostra altro"
+
+msgid "Continue to site (AdBlocker active)"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Join Millions of Players Worldwide"
+msgstr ""
+
+msgid "Experience epic tank battles. Download now and get a free tank!"
+msgstr ""
+
+#, fuzzy
+msgid "Play Now"
+msgstr "Playlist"
+
+msgid "Change Password"
+msgstr "Cambia Password"
+
+msgid "Secure your UwUpad account by changing your password."
+msgstr ""
+
+msgid "New password"
+msgstr "Nuova password"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Repeat new password"
+msgstr "Ripeti nuova password"
+
+msgid "Change password"
+msgstr "Cambia password"
+
+msgid "Password changed"
+msgstr "Password cambiata"
+
+msgid "VIP Checkout"
+msgstr "Checkout VIP"
+
+msgid ""
+"Help keep UwUpad running! Every donation helps us store more sounds and stay"
+" fast."
+msgstr ""
+
+msgid "VIP Membership Checkout"
+msgstr "Checkout Abbonamento VIP"
+
+msgid "Payment Method:"
+msgstr "Metodo di pagamento:"
+
+msgid "Proceed to Payment"
+msgstr "Procedi al pagamento"
+
+#, fuzzy
+msgid "Contact Us"
+msgstr "Contatti"
+
+msgid "Have a question or suggestion? Get in touch with the UwUpad team."
+msgstr ""
+
+msgid "Back to Home"
+msgstr "Torna alla Home"
+
+#, fuzzy
+msgid "Get in Touch"
+msgstr "Devi essere loggato per commentare."
+
+msgid ""
+"We are always open for communication. Choose a convenient way to contact us "
+"or leave a message through the form below."
+msgstr ""
+
+#, fuzzy
+msgid "Direct Contacts"
+msgstr "Contatti"
+
+#, fuzzy
+msgid "Telegram (Owner)"
+msgstr "Bot Telegram"
+
+msgid "@daisov - for urgent matters"
+msgstr ""
+
+#, fuzzy
+msgid "Discord Server"
+msgstr "Discord"
+
+msgid "Join our community"
+msgstr ""
+
+msgid "Email"
+msgstr "Email"
+
+msgid "admin@uwupad.me - for suggestions"
+msgstr ""
+
+#, fuzzy
+msgid "Telegram Bot"
+msgstr "Bot Telegram"
+
+msgid "@uwupad_bot - for support"
+msgstr ""
+
+#, fuzzy
+msgid "An error occurred. Please try again later."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+msgid "Feedback Form"
+msgstr ""
+
+#, fuzzy
+msgid "Your Name"
+msgstr "Nome utente"
+
+#, fuzzy
+msgid "Your Email (for a reply)"
+msgstr "Il tuo indirizzo e-mail"
+
+msgid "Your Message..."
+msgstr ""
+
+msgid "Send Message"
+msgstr ""
+
+msgid "Support UwUpad"
+msgstr ""
+
+#, fuzzy
+msgid "Back"
+msgstr "Blacklist"
+
+#, fuzzy
+msgid "Top Supporters 💖"
+msgstr "Contatta il Supporto"
+
+msgid "Support Our Project"
+msgstr ""
+
+msgid ""
+"UwUpad is free and lives on your support. Donations keep servers running!"
+msgstr ""
+
+msgid "Exchange Rate"
+msgstr ""
+
+msgid "Small help"
+msgstr ""
+
+msgid "Coffee treat ☕"
+msgstr ""
+
+msgid "Server costs"
+msgstr ""
+
+#, fuzzy
+msgid "Big support 💖"
+msgstr "Contatta il Supporto"
+
+msgid "Or enter custom amount"
+msgstr ""
+
+msgid "Donate"
+msgstr "Dona"
+
+msgid "Secure payment via Telegram Stars or Crypto."
+msgstr ""
+
+msgid "PAW tokens are added automatically as a thank you."
+msgstr ""
+
+#, fuzzy
+msgid "Other ways to support"
+msgstr "Contatta il Supporto"
+
+msgid "Card, SBP, and more — via donation platform"
+msgstr ""
+
+msgid "Crypto via Telegram"
+msgstr ""
+
+msgid "Send crypto through @wallet bot — fast and easy"
+msgstr ""
+
+msgid "Direct Crypto Transfer"
+msgstr ""
+
+#, fuzzy
+msgid "and more"
+msgstr "Carica altro"
+
+msgid "Choose Cryptocurrency"
+msgstr ""
+
+#, fuzzy
+msgid "Back to list"
+msgstr "Blacklist"
+
+#, fuzzy
+msgid "Please enter a valid amount."
+msgstr "Inserisci un motivo valido."
+
+#, fuzzy
+msgid "Failed to create payment link."
+msgstr "Impossibile eliminare il commento."
+
+msgid "DMCA Takedown Policy"
+msgstr ""
+
+msgid "Information about our policy regarding copyright infringement notices."
+msgstr ""
+
+msgid "Support UwUpad with Stars"
+msgstr ""
+
+msgid ""
+"Your support helps us cover server costs and build a better platform for "
+"everyone."
+msgstr ""
+
+msgid "Donate with Telegram Stars"
+msgstr ""
+
+msgid "Choose a preset amount or enter a custom one:"
+msgstr ""
+
+msgid "Custom Amount (e.g., 77)"
+msgstr ""
+
+msgid "Please enter an amount between 1 and 2500 Stars."
+msgstr ""
+
+#, fuzzy
+msgid "Recommendations"
+msgstr "Commenti"
+
+msgid "All Time"
+msgstr ""
+
+msgid "This Month"
+msgstr ""
+
+msgid "This Week"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+#, fuzzy
+msgid "Failed to load sounds."
+msgstr "Impossibile caricare altri commenti."
+
+msgid "Popular"
+msgstr "Popolari"
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next page"
+msgstr "Pag. succ."
+
+#, fuzzy
+msgid "Top Sound Creators"
+msgstr "Suono segnalato."
+
+msgid ""
+"Check out the leaderboard of the most popular and active sound creators on "
+"UwUpad."
+msgstr ""
+
+msgid "Leaderboard"
+msgstr "Classifica"
+
+msgid "Influence"
+msgstr ""
+
+#, fuzzy
+msgid "Uploads"
+msgstr "Carica"
+
+#, fuzzy
+msgid "Downloads"
+msgstr "Download"
+
+msgid "Comments"
+msgstr "Commenti"
+
+#, fuzzy
+msgid "Comment Likes"
+msgstr "Commenti"
+
+#, fuzzy
+msgid "Donations"
+msgstr "Durata"
+
+#, fuzzy
+msgid "Prev."
+msgstr "Pag. prec."
+
+#, fuzzy
+msgid "Next"
+msgstr "Pag. succ."
+
+#, fuzzy
+msgid "Updating leaderboard..."
+msgstr "Classifica"
+
+#, fuzzy
+msgid "Next update in:"
+msgstr "Pag. succ."
+
+msgid "Updated in real-time"
+msgstr ""
+
+msgid "No users found for this period."
+msgstr ""
+
+#, fuzzy
+msgid "Error loading data:"
+msgstr "Errore nel caricamento dei commenti."
+
+msgid "Login to UwUpad"
+msgstr ""
+
+#, fuzzy
+msgid "Back to UwUpad"
+msgstr "Torna alla pagina principale"
+
+msgid "Welcome Back"
+msgstr ""
+
+#, fuzzy
+msgid "Email or Username"
+msgstr "Email/Nome utente"
+
+#, fuzzy
+msgid "Log In"
+msgstr "Accedi"
+
+msgid "OR"
+msgstr ""
+
+#, fuzzy
+msgid "Continue with Discord"
+msgstr "Unisciti a Discord"
+
+msgid "Don't have an account?"
+msgstr "Non hai un account?"
+
+msgid "Forgot password?"
+msgstr "Password dimenticata?"
+
+#, fuzzy
+msgid "An error occurred."
+msgstr "Si è verificato un errore"
+
+#, fuzzy
+msgid "Successfully logged in!"
+msgstr "Accesso effettuato con successo"
+
+#, fuzzy
+msgid "A network error occurred."
+msgstr "Si è verificato un errore"
+
+msgid "News & Updates"
+msgstr ""
+
+msgid "The latest news and announcements from the UwUpad platform."
+msgstr ""
+
+msgid "Notification History"
+msgstr ""
+
+msgid ""
+"View all your past notifications on UwUpad, including likes, comments, and "
+"system alerts."
+msgstr ""
+
+#, fuzzy
+msgid "Filter by Type"
+msgstr "Tipo di suono"
+
+#, fuzzy
+msgid "All Types"
+msgstr "Applica filtri"
+
+#, fuzzy
+msgid "Likes on Sounds"
+msgstr "Playlist non trovata"
+
+#, fuzzy
+msgid "Likes on Comments"
+msgstr "Caricamento commenti..."
+
+#, fuzzy
+msgid "New Comments & Replies"
+msgstr "Ancora nessun commento."
+
+#, fuzzy
+msgid "Mentions in Comments"
+msgstr "Caricamento commenti..."
+
+msgid "Processing Errors"
+msgstr ""
+
+#, fuzzy
+msgid "Admin Actions"
+msgstr "Durata"
+
+#, fuzzy
+msgid "Filter by Status"
+msgstr "Filtri"
+
+msgid "All"
+msgstr ""
+
+msgid "Unread"
+msgstr ""
+
+#, fuzzy
+msgid "Read"
+msgstr "e l'"
+
+#, fuzzy
+msgid "No notifications found"
+msgstr "Nessun suono trovato"
+
+msgid "Try adjusting your filters or check back later."
+msgstr ""
+
+msgid "Something went wrong"
+msgstr ""
+
+#, fuzzy
+msgid "We couldn't load your notifications. Please try again."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+msgid "Playlist not found"
+msgstr "Playlist non trovata"
+
+msgid "Playlist with this ID not found. Please check the entered data."
+msgstr "Playlist con questo ID non trovata. Controlla i dati inseriti."
+
+msgid "Back to main page"
+msgstr "Torna alla pagina principale"
+
+#, python-format
+msgid "%(playlist_name)s - Sound Playlist"
+msgstr ""
+
+#, python-format
+msgid ""
+"Listen to the \"%(playlist_name)s\" playlist on UwUpad, created by "
+"%(author)s."
+msgstr ""
+
+#, fuzzy
+msgid "Edit Playlist"
+msgstr "Seleziona playlist"
+
+msgid "Title"
+msgstr "Titolo"
+
+msgid "Preview Image"
+msgstr "Immagine di anteprima"
+
+#, fuzzy
+msgid "Choose a file…"
+msgstr "Scegli file"
+
+#, fuzzy
+msgid "No file selected"
+msgstr "Commento eliminato."
+
+#, fuzzy
+msgid "Recommended 16:9. GIF only for VIP users."
+msgstr "GIF solo per utenti VIP"
+
+#, fuzzy
+msgid "Public Playlist"
+msgstr "Seleziona playlist"
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Playlist"
+msgstr "Playlist"
+
+msgid "Edit"
+msgstr "Modifica"
+
+#, fuzzy
+msgid "Download Playlists"
+msgstr "Impossibile caricare altri commenti."
+
+msgid ""
+"Downloading entire playlists as a .zip archive is a VIP feature. Upgrade now"
+" for instant access!"
+msgstr ""
+
+msgid "Download Playlist (VIP only)"
+msgstr ""
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Playlists"
+msgstr "Playlist"
+
+msgid "Search playlists"
+msgstr "Cerca playlist"
+
+#, fuzzy
+msgid "Sounds Inside"
+msgstr "Numero di suoni"
+
+msgid "Mini (<5)"
+msgstr "Mini (<5)"
+
+msgid "Small (5-15)"
+msgstr "Piccola (5-15)"
+
+msgid "Medium (15-30)"
+msgstr "Media (15-30)"
+
+msgid "Large (30-60)"
+msgstr "Grande (30-60)"
+
+#, fuzzy
+msgid "Very Large (>60)"
+msgstr "Molto grande (>60)"
+
+msgid "Unpopular (<10 views)"
+msgstr "Impopolare (<10 visualizzazioni)"
+
+#, fuzzy
+msgid "Not Popular (10-50 views)"
+msgstr "Poco popolare (10-50 visualizzazioni)"
+
+msgid "Popular (50-100 views)"
+msgstr "Popolare (50-100 visualizzazioni)"
+
+#, fuzzy
+msgid "Very Popular (100-500 views)"
+msgstr "Poco popolare (10-50 visualizzazioni)"
+
+#, fuzzy
+msgid "Extremely Popular (>500 views)"
+msgstr "Estremamente apprezzato (>500 Mi piace)"
+
+msgid "Sort by"
+msgstr ""
+
+#, fuzzy
+msgid "Sort: Newest"
+msgstr "Più recenti"
+
+#, fuzzy
+msgid "Sort: Most Viewed"
+msgstr "Più visualizzate"
+
+#, fuzzy
+msgid "Sort: Most Sounds"
+msgstr "Suoni totali"
+
+#, fuzzy
+msgid "Sort: Oldest"
+msgstr "Più recenti"
+
+#, fuzzy
+msgid "Sort: Name (A-Z)"
+msgstr "Nome utente"
+
+#, fuzzy
+msgid "Sort: Name (Z-A)"
+msgstr "Nome utente"
+
+#, fuzzy
+msgid "Download Playlist"
+msgstr "Impossibile caricare altri commenti."
+
+#, fuzzy
+msgid "No playlists found."
+msgstr "Playlist non trovata."
+
+#, fuzzy
+msgid "Failed to load playlists."
+msgstr "Impossibile caricare altri commenti."
+
+msgid "Poll Results"
+msgstr ""
+
+#, fuzzy
+msgid "votes"
+msgstr "Ruolo"
+
+msgid "Total Votes:"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr "Informativa sulla Privacy"
+
+msgid "Your privacy is important to us. Read our privacy policy."
+msgstr ""
+
+#, python-format
+msgid "%(username)s's Profile"
+msgstr ""
+
+#, python-format
+msgid "Check out the sounds and playlists uploaded by %(username)s on UwUpad."
+msgstr ""
+
+#, fuzzy
+msgid "Linked as"
+msgstr "Apprezzati"
+
+#, fuzzy
+msgid "Link your Discord account"
+msgstr "Hai già un account?"
+
+msgid "Edit profile"
+msgstr "Modifica profilo"
+
+msgid "Log out"
+msgstr "Esci"
+
+msgid "Edit role"
+msgstr "Modifica ruolo"
+
+#, fuzzy
+msgid "Admin Edit"
+msgstr "Durata"
+
+msgid "Add to blacklist"
+msgstr "Aggiungi alla blacklist"
+
+#, fuzzy
+msgid "Total Views"
+msgstr "Suoni totali"
+
+#, fuzzy
+msgid "Total Uploads"
+msgstr "Suoni totali"
+
+#, fuzzy
+msgid "Total Likes"
+msgstr "Più apprezzati"
+
+#, fuzzy
+msgid "Comments Made"
+msgstr "Commenti"
+
+msgid "Uploaded"
+msgstr "Caricati"
+
+msgid "Liked"
+msgstr "Apprezzati"
+
+msgid "Blacklist"
+msgstr "Blacklist"
+
+#, fuzzy
+msgid "Edit Your Profile"
+msgstr "Modifica profilo"
+
+msgid "Username"
+msgstr "Nome utente"
+
+msgid "Bio"
+msgstr ""
+
+msgid "Tell us a bit about yourself (max 250 chars)..."
+msgstr ""
+
+msgid "Optional. Displayed on your profile."
+msgstr ""
+
+msgid "Avatar"
+msgstr "Avatar"
+
+msgid "As a VIP, you can upload animated GIF avatars."
+msgstr ""
+
+msgid "Want animated GIF avatars?"
+msgstr ""
+
+msgid "Upgrade to VIP!"
+msgstr ""
+
+#, fuzzy
+msgid "Save Profile Info"
+msgstr "Visualizza Profilo"
+
+msgid "Nickname Style"
+msgstr ""
+
+msgid "Solid Fill"
+msgstr ""
+
+msgid "Gradient"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Add Color"
+msgstr ""
+
+#, fuzzy
+msgid "Angle"
+msgstr "Lingua"
+
+msgid ""
+"Forbidden red/black colors similar to staff, or unsafe code (e.g. url()) "
+"will be rejected."
+msgstr ""
+
+#, fuzzy
+msgid "Apply Style"
+msgstr "Applica filtri"
+
+msgid "Each style change costs 100 PAW. VIP users get unlimited changes."
+msgstr ""
+
+msgid "As a VIP, you can change your style for free."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Role for"
+msgstr "Modifica ruolo"
+
+#, fuzzy
+msgid "Role"
+msgstr "Ruolo"
+
+msgid "Role expires on (optional)"
+msgstr ""
+
+msgid "Leave empty for a permanent role."
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Admin Panel: Edit User"
+msgstr ""
+
+msgid "Balance (PAW)"
+msgstr ""
+
+#, fuzzy
+msgid "Account Status"
+msgstr "Contatti"
+
+msgid "Is Active (user can log in)"
+msgstr ""
+
+msgid ""
+"Unchecking this will prevent the user from logging in, but will not delete "
+"their content."
+msgstr ""
+
+msgid "Confirm Style Change"
+msgstr ""
+
+#, python-format
+msgid "Applying this style will cost <strong>%(cost)s PAW</strong>."
+msgstr ""
+
+#, python-format
+msgid "Your current balance: %(balance)s PAW."
+msgstr ""
+
+msgid "Confirm & Pay"
+msgstr ""
+
+msgid "Get unlimited style changes and more with VIP!"
+msgstr ""
+
+msgid "Insufficient Funds"
+msgstr ""
+
+#, python-format
+msgid ""
+"You need <strong>%(cost)s PAW</strong> to change your style, but you only "
+"have <strong>%(balance)s PAW</strong>."
+msgstr ""
+
+msgid "OPTION 1"
+msgstr ""
+
+msgid "Top Up Balance"
+msgstr ""
+
+#, fuzzy
+msgid "Go to Deposit"
+msgstr "Segnala"
+
+msgid "Add PAW to your account."
+msgstr ""
+
+msgid "BEST VALUE"
+msgstr ""
+
+msgid "Upgrade to VIP"
+msgstr ""
+
+msgid "Unlock VIP"
+msgstr ""
+
+msgid "Get <strong>unlimited</strong> style changes & more!"
+msgstr ""
+
+msgid "This user has not posted any comments yet."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to load comments."
+msgstr "Impossibile caricare altri commenti."
+
+#, fuzzy
+msgid "Remove from blacklist"
+msgstr "Utente rimosso dalla blacklist."
+
+#, fuzzy
+msgid "Are you sure you want to assign admin role? This grants full access."
+msgstr "Sei sicuro di voler bloccare questo utente?"
+
+#, fuzzy
+msgid "Are you sure you want to unlink your Discord account?"
+msgstr "Sei sicuro di voler bloccare questo utente?"
+
+#, fuzzy
+msgid "Could not load user data."
+msgstr "Suono non presente nella playlist."
+
+#, fuzzy
+msgid "User updated successfully. Page will reload."
+msgstr "Nome utente aggiornato con successo."
+
+#, fuzzy
+msgid "An unknown error occurred."
+msgstr "Si è verificato un errore"
+
+msgid "Register on UwUpad"
+msgstr ""
+
+#, fuzzy
+msgid "Create Account"
+msgstr "Hai già un account?"
+
+msgid "Already have an account?"
+msgstr "Hai già un account?"
+
+#, fuzzy
+msgid "Account created!"
+msgstr "Contatti"
+
+#, fuzzy
+msgid "Reset Your Password"
+msgstr "Reimposta password"
+
+msgid ""
+"Forgot your password? Enter your email to receive instructions on how to "
+"reset it."
+msgstr ""
+
+msgid "Reset password"
+msgstr "Reimposta password"
+
+msgid "Mail with password recovery instructions has been sent"
+msgstr ""
+"È stata inviata un'email con le istruzioni per il recupero della password"
+
+msgid "Click the button below to change your password."
+msgstr "Clicca il pulsante qui sotto per cambiare la tua password."
+
+msgid "Search by query "
+msgstr "Cerca per query "
+
+msgid "Sound not found"
+msgstr "Suono non trovato"
+
+msgid "Sound with this ID not found. Please check the entered data."
+msgstr "Suono con questo ID non trovato. Controlla i dati inseriti."
+
+#, fuzzy, python-format
+msgid "Download \"%(sound_name)s\" Sound"
+msgstr "Scarica Soundpad"
+
+#, python-format
+msgid ""
+"Listen to and download the \"%(sound_name)s\" sound effect for free. Perfect"
+" for Soundpad, ringtones, and streams."
+msgstr ""
+
+msgid "Add to Soundpad"
+msgstr "Aggiungi a Soundpad"
+
+#, fuzzy
+msgid "Download"
+msgstr "Download"
+
+#, fuzzy
+msgid "Like"
+msgstr "Mi piace"
+
+#, fuzzy
+msgid "Share"
+msgstr "Salva"
+
+msgid "LOUD"
+msgstr "FORTE"
+
+msgid "EXPLICIT"
+msgstr "ESPLICITO"
+
+#, fuzzy
+msgid "Edit sound"
+msgstr "Suono"
+
+msgid "Add a comment..."
+msgstr "Aggiungi un commento..."
+
+#, fuzzy
+msgid "Remove image"
+msgstr "Immagine di anteprima"
+
+msgid "Attach image"
+msgstr ""
+
+#, fuzzy
+msgid "Post"
+msgstr "Segnala"
+
+msgid "You must be"
+msgstr "Devi essere"
+
+msgid "logged in"
+msgstr "loggato"
+
+msgid "to comment."
+msgstr "per commentare."
+
+msgid "Close (Esc)"
+msgstr ""
+
+#, fuzzy
+msgid "Zoom In"
+msgstr "Accedi"
+
+#, fuzzy
+msgid "Zoom Out"
+msgstr "Esci"
+
+msgid "Rotate Left"
+msgstr ""
+
+msgid "Rotate Right"
+msgstr ""
+
+msgid "Lightbox Image"
+msgstr ""
+
+#, fuzzy
+msgid "You must be logged in to like sounds."
+msgstr "Devi essere loggato per commentare."
+
+#, fuzzy
+msgid "Failed to update like. Please try again."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+msgid "The best sound sharing service for Soundpad"
+msgstr "Il miglior servizio di condivisione suoni per Soundpad"
+
+msgid "Sound"
+msgstr "Suono"
+
+msgid "Listen"
+msgstr "Ascolta"
+
+#, fuzzy
+msgid "Edit Sound"
+msgstr "Suono"
+
+#, fuzzy
+msgid "Description"
+msgstr "Durata"
+
+msgid "Add a brief description..."
+msgstr ""
+
+msgid "Tags (comma separated)"
+msgstr ""
+
+msgid "Cover Image (Optional)"
+msgstr ""
+
+#, fuzzy
+msgid "Language (Admin)"
+msgstr "Impostazioni lingua"
+
+msgid "Mark as Music (Admin)"
+msgstr ""
+
+msgid "This will make the sound appear in the /music section."
+msgstr ""
+
+#, fuzzy
+msgid "Sound updated successfully!"
+msgstr "Commento pubblicato con successo!"
+
+#, fuzzy
+msgid "Write a reply..."
+msgstr "Crea nuova playlist"
+
+msgid "Reply"
+msgstr ""
+
+#, fuzzy
+msgid "Loading..."
+msgstr "Caricamento commenti..."
+
+#, python-format
+msgid "View %(count)s more replies"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+#, fuzzy
+msgid "Error loading replies."
+msgstr "Errore nel caricamento dei commenti."
+
+msgid "Comment attachment"
+msgstr ""
+
+#, python-format
+msgid "View %(count)s replies"
+msgstr ""
+
+msgid "No comments yet."
+msgstr "Ancora nessun commento."
+
+#, fuzzy
+msgid "Comment or attachment cannot be empty."
+msgstr "Il nome della playlist non può essere vuoto."
+
+msgid "Failed to post comment."
+msgstr "Impossibile pubblicare il commento."
+
+msgid "Hide reply"
+msgstr ""
+
+#, python-format
+msgid "Hide %(count)s replies"
+msgstr ""
+
+#, fuzzy
+msgid "You must be logged in to like comments."
+msgstr "Devi essere loggato per commentare."
+
+msgid "Comment deleted."
+msgstr "Commento eliminato."
+
+msgid "Failed to delete comment."
+msgstr "Impossibile eliminare il commento."
+
+#, python-format
+msgid "Sounds tagged with #%(tag_name)s"
+msgstr ""
+
+#, python-format
+msgid ""
+"Browse all sounds, audio memes, and ringtones tagged with #%(tag_name)s on "
+"UwUpad."
+msgstr ""
+
+#, fuzzy
+msgid "Terms of Service"
+msgstr "Termini di Utilizzo"
+
+msgid "Read the Terms of Service for using the UwUpad platform."
+msgstr ""
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Import"
+msgstr "Importa"
+
+msgid "Drop file here"
+msgstr ""
+
+msgid "Sound Utilities (VIP)"
+msgstr ""
+
+msgid "Trim Audio"
+msgstr ""
+
+msgid ""
+"Loading audio... Click and drag on the waveform to select a region to keep."
+msgstr ""
+
+#, fuzzy
+msgid "Loading waveform..."
+msgstr "Caricamento commenti..."
+
+#, fuzzy
+msgid "Preview Selected"
+msgstr "Immagine di anteprima"
+
+msgid "Use Trimmed Audio"
+msgstr ""
+
+#, fuzzy
+msgid "Upload a Sound"
+msgstr "Carica suono"
+
+msgid "Creator Challenge: Free VIP"
+msgstr ""
+
+msgid "Upload sounds that get into recommendations to unlock 1 week of VIP!"
+msgstr ""
+
+#, fuzzy
+msgid "Progress:"
+msgstr "Ruolo"
+
+#, fuzzy
+msgid "sounds"
+msgstr "Suono"
+
+msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
+msgstr ""
+
+msgid "Use our dedicated music uploader for better discovery and features."
+msgstr ""
+
+msgid "Go to Music Uploader"
+msgstr ""
+
+msgid "Tags"
+msgstr "Tag"
+
+msgid "rust, loud, funny"
+msgstr "ruggine, forte, divertente"
+
+msgid "Add up to"
+msgstr ""
+
+msgid "tags. Each tag up to"
+msgstr ""
+
+msgid "characters."
+msgstr ""
+
+msgid "Description (Optional)"
+msgstr ""
+
+msgid "Add a brief description for your sound..."
+msgstr ""
+
+#, fuzzy
+msgid "Sound Language"
+msgstr "Lingua"
+
+msgid "Music / SFX (No language)"
+msgstr ""
+
+msgid "Other"
+msgstr "Altro"
+
+msgid "Helps us recommend your sound to the right audience."
+msgstr ""
+
+msgid "Upload"
+msgstr "Carica"
+
+msgid "Choose a file"
+msgstr "Scegli file"
+
+msgid "Import from URL"
+msgstr "Importa da URL"
+
+#, fuzzy
+msgid "Supports only audio files"
+msgstr "Supporta solo file audio"
+
+msgid "Supported formats: mp3, wav, ogg"
+msgstr "Formati supportati: mp3, wav, ogg"
+
+#, fuzzy
+msgid "Max file size:"
+msgstr "Dimensione massima file: 5MB"
+
+msgid "I agree to the"
+msgstr "Accetto i"
+
+msgid "terms and conditions"
+msgstr "termini e condizioni"
+
+msgid "and"
+msgstr "e l'"
+
+msgid "privacy policy"
+msgstr "informativa sulla privacy"
+
+msgid ""
+"By uploading, you confirm that your content does not violate copyright and "
+"meets our community guidelines."
+msgstr ""
+
+#, fuzzy
+msgid "Custom Cover"
+msgstr "Suono segnalato."
+
+#, fuzzy
+msgid "Choose a cover image"
+msgstr "Scegli file"
+
+msgid "Add a background to your sound card (max 2MB)."
+msgstr ""
+
+msgid "VIP Power-Ups"
+msgstr ""
+
+msgid "Sound Utilities (Trim)"
+msgstr ""
+
+msgid "Trim your audio before uploading (VIP exclusive)."
+msgstr ""
+
+#, fuzzy
+msgid "Sound Utilities"
+msgstr "Apprezzamento rimosso dal suono."
+
+msgid ""
+"Need to trim your audio? Our built-in Sound Trimmer is a VIP exclusive tool."
+msgstr ""
+
+#, fuzzy
+msgid "Remove tag:"
+msgstr "Rimuovi pubblicità"
+
+msgid "Maximum"
+msgstr ""
+
+msgid "tags allowed."
+msgstr ""
+
+#, fuzzy
+msgid "File too big (Max:"
+msgstr "Il file è troppo grande"
+
+#, fuzzy
+msgid "Already uploading..."
+msgstr "Caricamento già in corso"
+
+#, fuzzy
+msgid "Please agree to the terms and policy."
+msgstr "Devi accettare i Termini di Utilizzo e l'Informativa sulla Privacy."
+
+#, fuzzy
+msgid "Please add at least one tag."
+msgstr "Inserisci un motivo valido."
+
+#, fuzzy
+msgid "Trimmed file is too large."
+msgstr "Il file è troppo grande"
+
+msgid "No file selected or imported for upload."
+msgstr ""
+
+#, fuzzy
+msgid "An error occurred ("
+msgstr "Si è verificato un errore"
+
+msgid ")."
+msgstr ""
+
+#, fuzzy
+msgid "Sound uploaded successfully!"
+msgstr "Commento pubblicato con successo!"
+
+msgid "Network error or server issue:"
+msgstr ""
+
+#, fuzzy
+msgid "Please enter a URL."
+msgstr "Inserisci un'email valida."
+
+#, fuzzy
+msgid "Import error ("
+msgstr "Importa da URL"
+
+msgid "URL ready for import:"
+msgstr ""
+
+#, fuzzy
+msgid "Importing:"
+msgstr "Importa"
+
+#, fuzzy
+msgid "Import failed:"
+msgstr "Più piene"
+
+msgid "Web Audio API not supported. Cannot use audio utilities."
+msgstr ""
+
+msgid "Please select an audio file first before using utilities."
+msgstr ""
+
+#, fuzzy
+msgid "Error loading waveform:"
+msgstr "Errore nel caricamento dei commenti."
+
+#, fuzzy
+msgid "Selected:"
+msgstr "ELIMINATO"
+
+msgid "Selected region is too short or invalid."
+msgstr ""
+
+msgid "Audio trimmed. The trimmed version will be uploaded."
+msgstr ""
+
+msgid "Trimmed:"
+msgstr ""
+
+msgid "Error trimming audio:"
+msgstr ""
+
+#, fuzzy
+msgid "Trim operation cancelled."
+msgstr "Pagamento Annullato"
+
+msgid "Cover image is too large (max 2MB)."
+msgstr ""
+
+msgid "This is a VIP-exclusive feature."
+msgstr ""
+
+#, fuzzy
+msgid "sounds recommended"
+msgstr "Suono segnalato."
+
+#, fuzzy
+msgid "Challenge Completed!"
+msgstr "Importa da URL"
+
+msgid "You have unlocked VIP status! Check your profile."
+msgstr ""
+
+msgid "User not found"
+msgstr "Utente non trovato"
+
+msgid "User with this ID not found. Please check the entered data."
+msgstr "Utente con questo ID non trovato. Controlla i dati inseriti."
+
+#, fuzzy
+msgid "Users"
+msgstr "Nome utente"
+
+#, fuzzy
+msgid "Search users..."
+msgstr "Cerca per query "
+
+#, fuzzy
+msgid "Roles"
+msgstr "Ruolo"
+
+msgid "Admin"
+msgstr ""
+
+msgid "Moderator"
+msgstr ""
+
+msgid "VIP"
+msgstr ""
+
+#, fuzzy
+msgid "User"
+msgstr "Nome utente"
+
+#, fuzzy
+msgid "Banned"
+msgstr "e l'"
+
+#, fuzzy
+msgid "Clear Roles"
+msgstr "Assegna ruolo"
+
+msgid "Sort users by"
+msgstr ""
+
+msgid "Joined: Newest First"
+msgstr ""
+
+msgid "Joined: Oldest First"
+msgstr ""
+
+#, fuzzy
+msgid "Username: A-Z"
+msgstr "Nome utente"
+
+#, fuzzy
+msgid "Username: Z-A"
+msgstr "Nome utente"
+
+msgid "#ID"
+msgstr ""
+
+#, fuzzy
+msgid "Error loading users. Please try again."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+msgid "Unban User"
+msgstr ""
+
+msgid "Ban User"
+msgstr ""
+
+msgid "Mod"
+msgstr ""
+
+msgid "View Profile"
+msgstr "Visualizza Profilo"
+
+#, fuzzy
+msgid "Edit User"
+msgstr "Modifica tag"
+
+msgid "No users found matching your criteria."
+msgstr ""
+
+#, fuzzy
+msgid "User banned successfully."
+msgstr "Nome utente aggiornato con successo."
+
+#, fuzzy
+msgid "User unbanned successfully."
+msgstr "Nome utente aggiornato con successo."
+
+msgid "UwUpad VIP"
+msgstr ""
+
+#, fuzzy
+msgid "Back to main"
+msgstr "Torna alla pagina principale"
+
+#, fuzzy
+msgid "Welcome, Patron!"
+msgstr "Commenti"
+
+msgid "Thank you for supporting UwUpad. Enjoy your exclusive features."
+msgstr ""
+
+msgid "Unlock the Full Experience"
+msgstr ""
+
+msgid ""
+"Elevate your presence and support the platform that powers your creativity."
+msgstr ""
+
+msgid "Your VIP Status is Active"
+msgstr ""
+
+msgid "Subscription renews on:"
+msgstr ""
+
+msgid "You have a lifetime subscription."
+msgstr ""
+
+msgid "Extend for one month"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Per month"
+msgstr ""
+
+msgid "Choose Monthly"
+msgstr ""
+
+msgid "Best Value"
+msgstr ""
+
+msgid "Yearly"
+msgstr ""
+
+msgid "Save 20% - 2 months free!"
+msgstr ""
+
+#, fuzzy
+msgid "Choose Yearly"
+msgstr "Scegli file"
+
+#, fuzzy
+msgid "Feature"
+msgstr "Hai già un account?"
+
+#, fuzzy
+msgid "Standard"
+msgstr "Modifica profilo"
+
+#, fuzzy
+msgid "VIP Patron"
+msgstr "Navigazione"
+
+#, fuzzy
+msgid "Ad-Free Experience"
+msgstr "Servizi supportati"
+
+#, fuzzy
+msgid "Playlists Creation"
+msgstr "Playlist"
+
+#, fuzzy
+msgid "Unlimited"
+msgstr "Crea nuova playlist"
+
+#, fuzzy
+msgid "Sounds per Playlist"
+msgstr "Cerca playlist"
+
+#, fuzzy
+msgid "Private Playlists"
+msgstr "Crea nuova playlist"
+
+#, fuzzy
+msgid "Bulk Playlist Download (.zip)"
+msgstr "Download"
+
+msgid "Animated GIF Avatars"
+msgstr ""
+
+#, fuzzy
+msgid "Custom Sound Covers"
+msgstr "Suono segnalato."
+
+#, fuzzy
+msgid "File Upload Size"
+msgstr "Più scaricati"
+
+#, fuzzy
+msgid "Tags per Sound"
+msgstr "Suoni totali"
+
+msgid "Nickname Styling"
+msgstr ""
+
+#, fuzzy
+msgid "Paid"
+msgstr "Carica"
+
+msgid "Unlimited & Free"
+msgstr ""
+
+#, fuzzy
+msgid "Sound Boosts"
+msgstr "Suono già presente nella playlist."
+
+msgid "1 Free Daily"
+msgstr ""
+
+#, fuzzy
+msgid "VIP Profile Badge"
+msgstr "Visualizza Profilo"
+
+#, fuzzy
+msgid "Become a Patron"
+msgstr "Commenti"
+
+#, fuzzy
+msgid "Extend Subscription"
+msgstr "Durata"
+
+msgid "Choose your preferred payment method"
+msgstr ""
+
+msgid "Your VIP subscription has expired."
+msgstr ""
+
+msgid "Time left:"
+msgstr ""
+
+msgid "Pending Ad Requests"
+msgstr ""
+
+msgid "Review and approve/reject new ad submissions."
+msgstr ""
+
+msgid "Banner Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Contact"
+msgstr "Contatti"
+
+msgid "Submitted At"
+msgstr ""
+
+#, fuzzy
+msgid "Loading requests..."
+msgstr "Caricamento commenti..."
+
+#, fuzzy
+msgid "Error loading requests."
+msgstr "Errore nel caricamento dei commenti."
+
+msgid "No pending requests."
+msgstr ""
+
+msgid "Approve"
+msgstr ""
+
+msgid "Reject"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "For You"
+msgstr "Per te"
+
+msgid "News"
+msgstr "Notizie"
+
+#, fuzzy
+msgid "Report a bug"
+msgstr "Segnala un suono"
+
+#, fuzzy
+msgid "Request a sound"
+msgstr "Segnala un suono"
+
+msgid "Contacts"
+msgstr "Contatti"
+
+msgid "DMCA"
+msgstr "DMCA"
+
+msgid "Download Soundpad"
+msgstr "Scarica Soundpad"
+
+msgid "Telegram bot"
+msgstr "Bot Telegram"
+
+msgid "Steam group"
+msgstr "Gruppo Steam"
+
+msgid "Total sounds"
+msgstr "Suoni totali"
+
+#, fuzzy
+msgid "Notifications"
+msgstr "Navigazione"
+
+msgid "Mark all as read"
+msgstr ""
+
+msgid "View all history"
+msgstr ""
+
+msgid "Have a minute?"
+msgstr ""
+
+msgid "Help us make uwupad.me better!"
+msgstr ""
+
+msgid ""
+"Tell us what to improve, what you don't like, or what features you're "
+"missing. All ideas are welcome!"
+msgstr ""
+
+msgid "Your ideas here..."
+msgstr ""
+
+#, fuzzy
+msgid "Later"
+msgstr "Classifica"
+
+#, fuzzy
+msgid "Send"
+msgstr "Suono"
+
+msgid "Sent!"
+msgstr ""
+
+msgid "You can remove sounds you don't want from the list below."
+msgstr ""
+
+#, fuzzy
+msgid "Download .zip"
+msgstr "Download"
+
+msgid "Preparing download for"
+msgstr ""
+
+msgid "Wait a few seconds or"
+msgstr ""
+
+msgid "get VIP for instant downloads"
+msgstr ""
+
+msgid ""
+"service for searching and downloading sounds for soundboards such as "
+"Soundpad or mobile devices."
+msgstr ""
+"servizio per la ricerca e il download di suoni per soundboard come Soundpad "
+"o dispositivi mobili."
+
+msgid "Find sounds and effects from TV, games, memes, and more."
+msgstr "Trova suoni ed effetti da TV, giochi, meme e altro."
+
+msgid "Navigation"
+msgstr "Navigazione"
+
+msgid "Upload sound"
+msgstr "Carica suono"
+
+msgid "Privacy policy"
+msgstr "Informativa sulla privacy"
+
+msgid "Terms of use"
+msgstr "Termini di utilizzo"
+
+msgid "Links"
+msgstr "Link"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Translations"
+msgstr "Traduzioni"
+
+msgid "Language Settings"
+msgstr "Impostazioni lingua"
+
+msgid "Appearance"
+msgstr ""
+
+#, fuzzy
+msgid "Show Sound Covers"
+msgstr "Suono segnalato."
+
+msgid "Display custom background images on sound cards."
+msgstr ""
+
+msgid "Cover Blur Intensity"
+msgstr ""
+
+msgid "Controls the blur effect on sound card backgrounds."
+msgstr ""
+
+msgid "Interface Language"
+msgstr "Lingua interfaccia"
+
+#, fuzzy
+msgid "Content Languages"
+msgstr "Filtri lingua contenuti"
+
+msgid ""
+"Select languages you want to see. Leave all unchecked to use automatic "
+"detection."
+msgstr ""
+
+msgid "Additional Options"
+msgstr "Opzioni aggiuntive"
+
+msgid "Prioritize sounds with translations"
+msgstr "Dai priorità ai suoni con traduzioni"
+
+msgid "Prioritize popular sounds regardless of language"
+msgstr "Dai priorità ai suoni popolari indipendentemente dalla lingua"
+
+msgid "Show loud warning"
+msgstr "Mostra avviso suono forte"
+
+msgid "Save & Apply"
+msgstr "Salva e applica"
+
+msgid "Donate small amount to get 3 days VIP"
+msgstr ""
+
+msgid "Say Thanks"
+msgstr ""
+
+msgid "Get +3 days VIP access"
+msgstr ""
+
+msgid "VIP Activated"
+msgstr ""
+
+msgid "Telegram"
+msgstr "Telegram"
+
+msgid "Say Thanks (+3 Days VIP)"
+msgstr ""
+
+msgid "Search"
+msgstr "Cerca"
+
+#, fuzzy
+msgid "Profile"
+msgstr "Visualizza Profilo"
+
+#, fuzzy
+msgid "Settings"
+msgstr "Impostazioni lingua"
+
+msgid "Log in"
+msgstr "Accedi"
+
+#, fuzzy
+msgid "Download Top 50 Packs:"
+msgstr "Scarica Soundpad"
+
+#, fuzzy
+msgid "Daily"
+msgstr "Email"
+
+msgid "Weekly"
+msgstr ""
+
+#, fuzzy
+msgid "Download Top 50 Sounds"
+msgstr "Scarica Soundpad"
+
+msgid "This pack contains the 50 most popular sounds of the"
+msgstr ""
+
+#, fuzzy
+msgid "ready for Soundpad."
+msgstr "Aggiungi a Soundpad"
+
+msgid "Best Value / Fast"
+msgstr ""
+
+msgid "Support us with a small donation and get 3 Days of VIP instantly."
+msgstr ""
+
+#, fuzzy
+msgid "Say Thanks & Download"
+msgstr "Impossibile scaricare il file."
+
+#, fuzzy
+msgid "Get Monthly VIP Subscription"
+msgstr "Durata"
+
+msgid "Unlocks all packs, playlists and removes ads."
+msgstr ""
+
+#, fuzzy
+msgid "Downloading..."
+msgstr "Download"
+
+#, fuzzy
+msgid "Complete!"
+msgstr "Importa da URL"
+
+#, fuzzy
+msgid "Download failed"
+msgstr "Più scaricati"
+
+#, fuzzy
+msgid "Access Restricted"
+msgstr "Accesso negato"
+
+msgid "To continue listening, please subscribe to our Telegram channel."
+msgstr ""
+
+#, fuzzy
+msgid "Important:"
+msgstr "Importa"
+
+msgid ""
+"Do not unsubscribe! If you leave the channel, you will need to verify again."
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Subscribe to unlock"
+msgstr ""
+
+#, fuzzy
+msgid "Verifying subscription..."
+msgstr "Durata"
+
+msgid "Continue"
+msgstr ""
+
+#, fuzzy
+msgid "This track is already downloading."
+msgstr "Suono già presente nella playlist."
+
+msgid ""
+"Please wait for the previous download to finish. VIPs can download multiple "
+"files at once!"
+msgstr ""
+
+#, fuzzy
+msgid "Adding to Soundpad:"
+msgstr "Aggiungi a Soundpad"
+
+msgid "DELETED"
+msgstr "ELIMINATO"
+
+msgid "Unlock This Feature"
+msgstr ""
+
+#, fuzzy
+msgid "Log In or Create Account"
+msgstr "Hai già un account?"
+
+#, fuzzy
+msgid "This sound is boosted!"
+msgstr "Suono già presente nella playlist."
+
+#, fuzzy
+msgid "Boost Sound"
+msgstr "Suoni totali"
+
+#, fuzzy
+msgid "Views"
+msgstr "Immagine di anteprima"
+
+#, fuzzy
+msgid "Add to playlist"
+msgstr "Aggiungi alla blacklist"
+
+msgid "Report"
+msgstr "Segnala"
+
+#, fuzzy
+msgid "Original Sound"
+msgstr "Suoni totali"
+
+#, fuzzy
+msgid "Go to original sound"
+msgstr "Suoni totali"
+
+#, fuzzy
+msgid "Additional Tags"
+msgstr "Opzioni aggiuntive"
+
+msgid "This sound is too loud. Are you sure you want to play it back?"
+msgstr "Questo suono è troppo forte. Sei sicuro di volerlo riprodurre?"
+
+msgid "Don't show this message again"
+msgstr "Non mostrare più questo messaggio"
+
+msgid "Yes"
+msgstr "Sì"
+
+msgid "No"
+msgstr "No"
+
+msgid ""
+"This sound includes sensitive content and it may be inappropriate to listen "
+"to. Are you sure you want to play it back?"
+msgstr ""
+"Questo suono include contenuti sensibili e potrebbe essere inappropriato "
+"ascoltarlo. Sei sicuro di volerlo riprodurre?"
+
+msgid "Show more"
+msgstr "Mostra altro"
+
+#, fuzzy
+msgid "No sounds to add."
+msgstr "Nessun suono trovato"
+
+#, fuzzy
+msgid "Add to Playlist"
+msgstr "Aggiungi alla blacklist"
+
+#, python-format
+msgid "Choose a playlist for %(count)s sounds or create a new one."
+msgstr ""
+
+#, python-format
+msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
+msgstr ""
+
+#, fuzzy
+msgid "Create New"
+msgstr "Hai già un account?"
+
+#, fuzzy
+msgid "Add to Existing"
+msgstr "Aggiungi alla blacklist"
+
+#, fuzzy
+msgid "New Playlist Name"
+msgstr "Nome playlist"
+
+msgid "My Awesome Mix"
+msgstr ""
+
+#, fuzzy
+msgid "Choose cover…"
+msgstr "Scegli file"
+
+#, fuzzy
+msgid "Make playlist public"
+msgstr "Cerca playlist"
+
+#, fuzzy
+msgid "Search your playlists..."
+msgstr "Cerca playlist"
+
+msgid "Save"
+msgstr "Salva"
+
+#, fuzzy
+msgid "You don't have any playlists yet."
+msgstr "Non hai il permesso."
+
+#, fuzzy
+msgid "Could not load your playlists."
+msgstr "Suono non presente nella playlist."
+
+#, fuzzy
+msgid "Searching..."
+msgstr "Cerca per query "
+
+#, fuzzy
+msgid "Search failed."
+msgstr "Cerca per query "
+
+#, fuzzy
+msgid "Please select a playlist."
+msgstr "Seleziona playlist"
+
+#, fuzzy
+msgid "Please enter a name for the new playlist."
+msgstr "Crea nuova playlist"
+
+#, fuzzy
+msgid "Image uploaded."
+msgstr "Caricati"
+
+#, fuzzy
+msgid "Image upload failed."
+msgstr "Più scaricati"
+
+#, fuzzy
+msgid "Playlist Limit Reached"
+msgstr "Playlist eliminata."
+
+msgid ""
+"Standard users can create up to 2 playlists. Upgrade to VIP for unlimited "
+"playlists!"
+msgstr ""
+
+#, fuzzy
+msgid "Playlist is Full"
+msgstr "Playlist"
+
+msgid ""
+"Standard users can add up to 20 sounds per playlist. Get VIP to create "
+"massive collections!"
+msgstr ""
+
+msgid "Private Playlists are a VIP Feature"
+msgstr ""
+
+msgid "Keep your collections to yourself by upgrading to VIP."
+msgstr ""
+
+#, fuzzy
+msgid "An unexpected error occurred."
+msgstr "Si è verificato un errore"
+
+msgid "Hey, check out this playlist on Uwupad!"
+msgstr ""
+
+msgid "No sounds found"
+msgstr "Nessun suono trovato"
+
+#, fuzzy
+msgid "Sound is already in the queue"
+msgstr "Suono già presente nella playlist."
+
+msgid "added to queue"
+msgstr ""
+
+msgid "Edit tags"
+msgstr "Modifica tag"
+
+msgid "Is loud"
+msgstr "È forte"
+
+msgid "Is explicit"
+msgstr "È esplicito"
+
+msgid "Report a sound"
+msgstr "Segnala un suono"
+
+msgid ""
+"We are strictly against any violations of our terms of use. Users have the "
+"ability to complain about content that is considered “spam,” “illegal "
+"activity,” or contains “copyrighted material without authorization.” If "
+"violations are found, the content will be removed immediately and this "
+"removal will be permanent."
+msgstr ""
+"Siamo fermamente contrari a qualsiasi violazione dei nostri termini di "
+"utilizzo. Gli utenti hanno la possibilità di segnalare contenuti considerati"
+" 'spam', 'attività illegale' o contenenti 'materiale protetto da copyright "
+"senza autorizzazione'. Se vengono riscontrate violazioni, il contenuto verrà"
+" rimosso immediatamente e tale rimozione sarà permanente."
+
+msgid ""
+"Please state your request in English or Russian only. We cannot process "
+"requests in other languages."
+msgstr ""
+"Si prega di formulare la richiesta solo in inglese o russo. Non possiamo "
+"elaborare richieste in altre lingue."
+
+msgid "Comment, questions, reason for post."
+msgstr "Commento, domande, motivo della segnalazione."
+
+msgid "Your e-mail address"
+msgstr "Il tuo indirizzo e-mail"
+
+msgid "You have already sent a report."
+msgstr "Hai già inviato una segnalazione."
+
+msgid "Please enter a valid reason."
+msgstr "Inserisci un motivo valido."
+
+msgid "Please enter a valid email."
+msgstr "Inserisci un'email valida."
+
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+msgid "External Link Warning"
+msgstr "Avviso link esterno"
+
+msgid ""
+"You are about to leave uwupad.me. We do not take responsibility for the "
+"content on external sites."
+msgstr ""
+"Stai per lasciare uwupad.me. Non ci assumiamo responsabilità per i contenuti"
+" dei siti esterni."
+
+msgid "Proceed"
+msgstr "Procedi"
+
+msgid "Copied to clipboard"
+msgstr "Copiato negli appunti"
+
+msgid "just now"
+msgstr ""
+
+msgid "min ago"
+msgstr ""
+
+msgid "h ago"
+msgstr ""
+
+msgid "d ago"
+msgstr ""
+
+msgid "w ago"
+msgstr ""
+
+msgid "How to disable content blocking"
+msgstr ""
+
+msgid "Select your browser, extension, or antivirus from the list below"
+msgstr ""
+
+#, fuzzy
+msgid "Google Chrome"
+msgstr "Torna alla Home"
+
+msgid ""
+"Click the extension icon (puzzle piece) in the top right corner of the "
+"browser."
+msgstr ""
+
+msgid "Find in the list"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "Click on the extension and press"
+msgstr ""
+
+#, fuzzy
+msgid "Disable on this site"
+msgstr "Applica filtri"
+
+msgid "or the big power button."
+msgstr ""
+
+msgid "Refresh the page"
+msgstr ""
+
+msgid "Built-in blocking:"
+msgstr ""
+
+msgid "If there are no extensions, go to"
+msgstr ""
+
+msgid "and allow ads for the site."
+msgstr ""
+
+msgid "Mozilla Firefox"
+msgstr ""
+
+msgid "Click on the shield icon to the left of the address bar."
+msgstr ""
+
+msgid "Toggle the switch"
+msgstr ""
+
+msgid "Enhanced Tracking Protection"
+msgstr ""
+
+#, fuzzy
+msgid "to position"
+msgstr "Segnala"
+
+msgid "OFF"
+msgstr ""
+
+msgid ""
+"If extensions (uBlock, etc.) are installed, disable them via the puzzle icon"
+" in the top right."
+msgstr ""
+
+msgid "The page will reload automatically."
+msgstr ""
+
+msgid "Apple Safari (macOS / iOS)"
+msgstr ""
+
+msgid "Right-click the address bar"
+msgstr ""
+
+msgid "Settings for This Website"
+msgstr ""
+
+msgid "Uncheck"
+msgstr ""
+
+msgid "Enable Content Blockers"
+msgstr ""
+
+msgid "Tap the icon"
+msgstr ""
+
+msgid "in the address bar"
+msgstr ""
+
+msgid "Turn Off Content Blockers"
+msgstr ""
+
+msgid "Kaspersky Protection (Anti-Banner)"
+msgstr ""
+
+msgid "Find the green hexagonal Kaspersky icon in the browser extension bar."
+msgstr ""
+
+msgid "In the menu that opens, find the section"
+msgstr ""
+
+msgid "Anti-Banner"
+msgstr ""
+
+msgid "Click the button"
+msgstr ""
+
+msgid "Allow on this website"
+msgstr ""
+
+msgid "If there is no extension, open the main Kaspersky app"
+msgstr ""
+
+#, fuzzy
+msgid "Security settings"
+msgstr "Impostazioni lingua"
+
+msgid "Disable"
+msgstr ""
+
+msgid "or add the site to exclusions."
+msgstr ""
+
+msgid "Windscribe VPN (R.O.B.E.R.T.)"
+msgstr ""
+
+msgid "Log in to your account at windscribe.com."
+msgstr ""
+
+#, fuzzy
+msgid "Go to the tab"
+msgstr "Segnala"
+
+#, fuzzy
+msgid "Select"
+msgstr "ELIMINATO"
+
+#, fuzzy
+msgid "Custom Rules"
+msgstr "Suono segnalato."
+
+msgid "Enter our site domain and select the option"
+msgstr ""
+
+#, fuzzy
+msgid "Whitelist"
+msgstr "Applica filtri"
+
+msgid ""
+"Since R.O.B.E.R.T. works at the DNS level, changes may take a few minutes to"
+" take effect. Try disconnecting and reconnecting the VPN."
+msgstr ""
+
+msgid "AdGuard (App or Extension)"
+msgstr ""
+
+msgid ""
+"Click the AdGuard icon (green shield) in the browser or in the Windows/Mac "
+"system tray."
+msgstr ""
+
+msgid "Click the large toggle"
+msgstr ""
+
+msgid "Filtering on this website"
+msgstr ""
+
+msgid "so it turns gray (off)."
+msgstr ""
+
+msgid "Wait for the page to automatically refresh."
+msgstr ""
+
+#, fuzzy
+msgid "Brave Browser"
+msgstr "Ruolo"
+
+msgid "Click the lion icon (Brave Shields) to the right of the address bar."
+msgstr ""
+
+msgid "Toggle the top slider"
+msgstr ""
+
+msgid ""
+"Brave blocks scripts very aggressively. Completely disabling shields for the"
+" site is the most reliable method."
+msgstr ""
+
+#, fuzzy
+msgid "Yandex Browser"
+msgstr "Ruolo"
+
+msgid "Click the lock icon 🔒 or shield in the left part of the SmartBox."
+msgstr ""
+
+#, fuzzy
+msgid "Click"
+msgstr "Link"
+
+#, fuzzy
+msgid "More details"
+msgstr "Email"
+
+#, fuzzy
+msgid "if required"
+msgstr "Email richiesta."
+
+msgid "Block ads on this site"
+msgstr ""
+
+msgid "Opera / Opera GX"
+msgstr ""
+
+msgid "Click the blue shield icon in the right part of the address bar."
+msgstr ""
+
+msgid "Turn off for this site"
+msgstr ""
+
+msgid "If that doesn't help: Menu"
+msgstr ""
+
+#, fuzzy
+msgid "Extensions"
+msgstr "Traduzioni"
+
+msgid "Disable third-party blockers."
+msgstr ""
+
+msgid "Avast / AVG Antivirus"
+msgstr ""
+
+msgid "Open the antivirus, go to"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+#, fuzzy
+msgid "Section"
+msgstr "Durata"
+
+#, fuzzy
+msgid "Protection"
+msgstr "Navigazione"
+
+msgid "Web Shield"
+msgstr ""
+
+msgid "Find the tab"
+msgstr ""
+
+#, fuzzy
+msgid "Exceptions"
+msgstr "Durata"
+
+msgid "and add our website address."
+msgstr ""
+
+msgid "Check browser extensions: Avast often installs"
+msgstr ""
+
+msgid "which needs to be disabled separately."
+msgstr ""
+
+msgid ""
+"If the problem is not resolved after following the instructions — try "
+"another browser or contact"
+msgstr ""
+
+#, fuzzy
+msgid "support"
+msgstr "Contatta il Supporto"
+
+msgid "Return to site"
+msgstr ""
+
+#, fuzzy
+msgid "Very popular (100-500 downloads)"
+msgstr "Poco popolare (10-50 download)"
+
+#, fuzzy
+msgid "Extremely popular (>500 downloads)"
+msgstr "Popolare (50-100 download)"
+
+msgid "Language"
+msgstr "Lingua"
+
+msgid "Toggle BETA personalization"
+msgstr ""
+
+msgid ""
+"Listen to and discover new music on UwUpad. Thousands of tracks from "
+"independent artists."
+msgstr ""
+
+msgid "Listen to and discover new music on UwUpad."
+msgstr ""
+
+#, fuzzy
+msgid "Browse"
+msgstr "Ruolo"
+
+msgid "My Library"
+msgstr ""
+
+msgid "Return to Sounds / Memes"
+msgstr ""
+
+msgid "Sounds / Memes"
+msgstr ""
+
+#, fuzzy
+msgid "Sorting"
+msgstr "Importa"
+
+msgid "Hot"
+msgstr ""
+
+#, fuzzy
+msgid "Period"
+msgstr "Procedi"
+
+#, fuzzy
+msgid "All time"
+msgstr "Applica filtri"
+
+#, fuzzy
+msgid "Year"
+msgstr "Cerca"
+
+#, fuzzy
+msgid "Month"
+msgstr "Altro"
+
+msgid "Week"
+msgstr ""
+
+#, fuzzy
+msgid "Day"
+msgstr "Email"
+
+#, fuzzy
+msgid "Now"
+msgstr "No"
+
+#, fuzzy
+msgid "Search by title..."
+msgstr "Cerca per query "
+
+msgid "What do you want to listen to?"
+msgstr ""
+
+#, fuzzy
+msgid "Liked Songs"
+msgstr "Apprezzati"
+
+#, fuzzy
+msgid "tracks"
+msgstr "Pag. succ."
+
+#, fuzzy
+msgid "Create Playlist"
+msgstr "Crea nuova playlist"
+
+#, fuzzy
+msgid "My Playlists"
+msgstr "Playlist"
+
+#, fuzzy
+msgid "Play"
+msgstr "Playlist"
+
+#, fuzzy
+msgid "Now Playing"
+msgstr "Nome playlist"
+
+msgid "Track Cover"
+msgstr ""
+
+#, fuzzy
+msgid "Track Title"
+msgstr "Titolo"
+
+#, fuzzy
+msgid "Artist"
+msgstr "Durata"
+
+msgid "Next in Queue"
+msgstr ""
+
+#, fuzzy
+msgid "Cover"
+msgstr "Altro"
+
+msgid "Select a track"
+msgstr ""
+
+msgid "Shuffle"
+msgstr ""
+
+msgid "Previous Track"
+msgstr ""
+
+#, fuzzy
+msgid "Play/Pause"
+msgstr "Nome utente"
+
+#, fuzzy
+msgid "Next Track"
+msgstr "Pag. succ."
+
+#, fuzzy
+msgid "Repeat"
+msgstr "Segnala"
+
+msgid "Fullscreen Mode"
+msgstr ""
+
+msgid "Show Track Details"
+msgstr ""
+
+msgid "Mute/Unmute"
+msgstr ""
+
+#, fuzzy
+msgid "Add to Queue"
+msgstr "Non autenticato."
+
+#, fuzzy
+msgid "New Playlist"
+msgstr "Nome playlist"
+
+#, fuzzy
+msgid "Playlist is empty"
+msgstr "Il nome della playlist non può essere vuoto."
+
+#, fuzzy
+msgid "Failed to load music."
+msgstr "Impossibile caricare altri commenti."
+
+#, fuzzy
+msgid "Unlike"
+msgstr "Link"
+
+#, fuzzy
+msgid "Your personal favorites"
+msgstr "Il tuo indirizzo e-mail"
+
+#, fuzzy
+msgid "Enter playlist name:"
+msgstr "Nome playlist"
+
+#, fuzzy
+msgid "Are you sure you want to delete this playlist?"
+msgstr "Sei sicuro di voler bloccare questo utente?"
+
+#, fuzzy
+msgid "This track is downloading."
+msgstr "Suono già presente nella playlist."
+
+msgid "Please wait for the current download to finish."
+msgstr ""
+
+#, fuzzy
+msgid "Downloading error"
+msgstr "Download"
+
+msgid "Finished!"
+msgstr ""
+
+#, fuzzy
+msgid "Upload Music"
+msgstr "Carica"
+
+#, fuzzy
+msgid "To Home"
+msgstr "Torna alla Home"
+
+msgid "Drag & Drop Cover"
+msgstr ""
+
+msgid "or click to select"
+msgstr ""
+
+#, fuzzy
+msgid "Cover Preview"
+msgstr "Immagine di anteprima"
+
+#, fuzzy
+msgid "Remove Cover"
+msgstr "Immagine di anteprima"
+
+msgid "Title of your track"
+msgstr ""
+
+msgid "Genre"
+msgstr ""
+
+msgid "Start typing to search for a genre..."
+msgstr ""
+
+msgid "E.g.: chill, summer, vibe"
+msgstr ""
+
+msgid "Up to 5 tags. Enter a tag and press Enter."
+msgstr ""
+
+#, fuzzy
+msgid "Audio File"
+msgstr "Modifica profilo"
+
+#, fuzzy
+msgid "Select file (MP3, WAV, OGG)"
+msgstr "Formati supportati: mp3, wav, ogg"
+
+msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
+msgstr ""
+
+msgid "Please use the Standard Uploader for short sounds."
+msgstr ""
+
+#, fuzzy
+msgid "Go to Standard Uploader"
+msgstr "Suoni totali"
+
+#, fuzzy
+msgid "I agree with the"
+msgstr "Accetto i"
+
+#, fuzzy
+msgid "terms"
+msgstr "Filtri"
+
+#, fuzzy
+msgid "policy"
+msgstr "Popolarità"
+
+msgid "Cover image is too large (max. 5 MB)"
+msgstr ""
+
+#, python-brace-format
+msgid "You can add no more than ${MAX_TAGS} tags."
+msgstr ""
+
+#, fuzzy, python-brace-format
+msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
+msgstr "L'email deve essere più lunga di 5 caratteri."
+
+#, fuzzy
+msgid "Audio file is too large (max. 20 MB)"
+msgstr "Il file è troppo grande"
+
+msgid "Server error:"
+msgstr ""
+
+#, fuzzy
+msgid "Music uploaded successfully!"
+msgstr "Commento pubblicato con successo!"
+
+msgid "Payment Cancelled"
+msgstr "Pagamento Annullato"
+
+msgid ""
+"Your payment was not completed. You can try again or contact support if you "
+"face any issues."
+msgstr ""
+
+msgid "Try Again"
+msgstr "Riprova"
+
+msgid "Contact Support"
+msgstr "Contatta il Supporto"
+
+msgid "Payment Successful"
+msgstr "Pagamento Riuscito"
+
+msgid "Thank you for your support! It means a lot to us."
+msgstr ""
+
+msgid "Your Order ID is:"
+msgstr ""
+
+msgid "Empty URL"
+msgstr "URL vuoto"
+
+msgid "Invalid response from processing service."
+msgstr ""
+
+msgid "Error from processing service:"
+msgstr ""
+
+msgid "Failed to communicate with the media processing service."
+msgstr ""
+
+msgid "Processing service returned success but no sound link."
+msgstr ""
+
+msgid ""
+"Multiple items found, but no direct audio link provided by processing "
+"service."
+msgstr ""
+
+msgid "Processing service returned local processing but no sound link."
+msgstr ""
+
+msgid "Invalid email."
+msgstr "Email non valida."
+
+msgid "Username cannot be empty."
+msgstr "Il nome utente non può essere vuoto."
+
+msgid "Username should be longer than 3 characters."
+msgstr "Il nome utente deve essere più lungo di 3 caratteri."
+
+msgid "Username should be shorter than 16 characters."
+msgstr "Il nome utente deve essere più corto di 16 caratteri."
+
+msgid "Username already exists."
+msgstr "Nome utente già esistente."
+
+#, fuzzy
+msgid "Bio is too long. Max 250 characters."
+msgstr "Il nome della playlist è troppo lungo. Max 32 caratteri."
+
+msgid "Invalid image."
+msgstr "Immagine non valida."
+
+msgid "Profile updated successfully"
+msgstr "Profilo aggiornato con successo"
+
+msgid "Not authenticated."
+msgstr "Non autenticato."
+
+msgid "Playlist name cannot be empty."
+msgstr "Il nome della playlist non può essere vuoto."
+
+msgid "Playlist name is too long. Max 32 chars."
+msgstr "Il nome della playlist è troppo lungo. Max 32 caratteri."
+
+msgid "Playlist name is too short. Min 4 chars."
+msgstr "Il nome della playlist è troppo corto. Min 4 caratteri."
+
+msgid "Playlist not found."
+msgstr "Playlist non trovata."
+
+msgid "You don't have permission."
+msgstr "Non hai il permesso."
+
+msgid "Playlist updated successfully."
+msgstr "Playlist aggiornata con successo."
+
+msgid "Please fill all fields."
+msgstr "Compila tutti i campi."
+
+msgid "Email should be longer than 3 characters."
+msgstr "L'email deve essere più lunga di 3 caratteri."
+
+msgid "Password should be longer than 8 characters."
+msgstr "La password deve essere più lunga di 8 caratteri."
+
+msgid "Please pass reCAPTCHA check (1)."
+msgstr "Supera il controllo reCAPTCHA (1)."
+
+msgid "Could not get your IP."
+msgstr "Impossibile ottenere il tuo IP."
+
+msgid "Please pass reCAPTCHA check (2)."
+msgstr "Supera il controllo reCAPTCHA (2)."
+
+msgid "Could not verify reCAPTCHA."
+msgstr "Impossibile verificare reCAPTCHA."
+
+#, fuzzy
+msgid "Account with this username does not exist."
+msgstr "Account con questo nome utente/email non esiste."
+
+msgid "Account with this email does not exist."
+msgstr "Account con questa email non esiste."
+
+msgid "Invalid password."
+msgstr "Password non valida."
+
+msgid "Email should be longer than 5 characters."
+msgstr "L'email deve essere più lunga di 5 caratteri."
+
+msgid "Account with this email already exists."
+msgstr "Account con questa email già esistente."
+
+msgid "Invalid data."
+msgstr "Dati non validi."
+
+msgid "You already have a playlist with this name."
+msgstr ""
+
+#, fuzzy
+msgid "Could not find or create playlist."
+msgstr "Suono non presente nella playlist."
+
+#, fuzzy, python-format
+msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
+msgstr "Suono aggiunto alla playlist {}."
+
+#, python-format
+msgid "%(count)s sounds were already in the playlist and were skipped."
+msgstr ""
+
+msgid "No new sounds were added. They might already be in the playlist."
+msgstr ""
+
+#, fuzzy
+msgid "Sound removed from playlist."
+msgstr "Suono rimosso dalla playlist {}."
+
+#, fuzzy
+msgid "Sound not found in this playlist."
+msgstr "Suono non presente nella playlist."
+
+msgid "Playlist deleted."
+msgstr "Playlist eliminata."
+
+#, fuzzy
+msgid "Sound ID is required."
+msgstr "Email richiesta."
+
+msgid "Sound not found."
+msgstr "Suono non trovato."
+
+msgid "Sound deleted."
+msgstr "Suono eliminato."
+
+#, fuzzy
+msgid "An error occurred while deleting the sound."
+msgstr "Si è verificato un errore durante l'eliminazione del commento."
+
+#, fuzzy
+msgid "Authentication required"
+msgstr "Non autenticato."
+
+#, fuzzy
+msgid "Upload in progress. Please wait."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+msgid "Cover file must be an image."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to upload cover to CDN."
+msgstr "Impossibile caricare altri commenti."
+
+#, fuzzy
+msgid "Invalid URL format"
+msgstr "Formato file non valido."
+
+#, fuzzy
+msgid "Cannot access URL"
+msgstr "Pagamento Riuscito"
+
+#, fuzzy, python-brace-format
+msgid "Failed to download file: {}"
+msgstr "Impossibile scaricare il file."
+
+#, fuzzy
+msgid "File too large"
+msgstr "Il file è troppo grande"
+
+#, fuzzy
+msgid "File too small"
+msgstr "Il file è troppo grande"
+
+msgid "No file or URL provided"
+msgstr ""
+
+msgid "Sound was queued for upload"
+msgstr ""
+
+#, fuzzy
+msgid "Upload timeout. Please try again."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+#, fuzzy
+msgid "Upload failed. Please try again."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+msgid "Sound liked."
+msgstr "Suono apprezzato."
+
+msgid "Sound unliked."
+msgstr "Apprezzamento rimosso dal suono."
+
+msgid "You can only boost your own sounds."
+msgstr ""
+
+#, fuzzy
+msgid "This sound is already boosted."
+msgstr "Suono già presente nella playlist."
+
+#, fuzzy
+msgid "Authenticated user not found."
+msgstr "Utente non trovato"
+
+#, fuzzy
+msgid "Free boosts are for VIP users only."
+msgstr "GIF solo per utenti VIP"
+
+#, python-format
+msgid ""
+"Your next free boost will be available in %(hours)d hours and %(minutes)d "
+"minutes."
+msgstr ""
+
+#, python-format
+msgid "Insufficient PAW. You need %(cost)s PAW to boost."
+msgstr ""
+
+#, python-format
+msgid "Your sound has been boosted for %(hours)d hours!"
+msgstr ""
+
+msgid "You cannot blacklist yourself."
+msgstr "Non puoi inserirti nella blacklist."
+
+msgid "User removed from blacklist."
+msgstr "Utente rimosso dalla blacklist."
+
+msgid "User added to blacklist."
+msgstr "Utente aggiunto alla blacklist."
+
+msgid "Please specify a reason. (min 5 chars)"
+msgstr "Specifica un motivo. (min 5 caratteri)"
+
+msgid "Please specify an email."
+msgstr "Specifica un'email."
+
+msgid "Reason should be shorter than 1024 characters."
+msgstr "Il motivo deve essere più corto di 1024 caratteri."
+
+msgid "Sound reported."
+msgstr "Suono segnalato."
+
+#, fuzzy
+msgid "Failed to upload cover image to CDN."
+msgstr "Impossibile caricare altri commenti."
+
+msgid "Sound disappeared during edit."
+msgstr ""
+
+#, fuzzy
+msgid "Sound updated successfully."
+msgstr "Commento pubblicato con successo!"
+
+#, fuzzy
+msgid "An internal error occurred."
+msgstr "Si è verificato un errore"
+
+msgid "Invalid date."
+msgstr "Data non valida."
+
+msgid "Invalid role."
+msgstr "Ruolo non valido."
+
+msgid "Role updated."
+msgstr "Ruolo aggiornato."
+
+msgid "You cannot block yourself."
+msgstr "Non puoi bloccare te stesso."
+
+#, fuzzy
+msgid "User not found."
+msgstr "Utente non trovato"
+
+msgid "User blocked."
+msgstr "Utente bloccato."
+
+#, fuzzy
+msgid "An internal error occurred while blocking the user."
+msgstr "Si è verificato un errore durante l'eliminazione del commento."
+
+msgid "Passwords do not match."
+msgstr "Le password non corrispondono."
+
+msgid "Invalid key."
+msgstr "Chiave non valida."
+
+msgid "User with this email not found."
+msgstr "Utente con questa email non trovato."
+
+msgid "Password changed."
+msgstr "Password cambiata."
+
+msgid "Email is required."
+msgstr "Email richiesta."
+
+msgid "An email has already been sent to this address."
+msgstr "Un'email è già stata inviata a questo indirizzo."
+
+msgid "Email sent. Check your inbox."
+msgstr "Email inviata. Controlla la tua casella di posta."
+
+msgid "Invalid user ID."
+msgstr "ID utente non valido."
+
+#, fuzzy
+msgid "Password cannot be empty."
+msgstr "Il nome utente non può essere vuoto."
+
+msgid "Not an admin."
+msgstr "Non è un amministratore."
+
+msgid "Cover image is too large (max 5MB)."
+msgstr ""
+
+#, fuzzy, python-brace-format
+msgid "Audio file is too large (max {size}MB)."
+msgstr "Il file è troppo grande"
+
+msgid "Music track was queued for processing."
+msgstr ""
+
+#, fuzzy
+msgid "Upload failed due to an internal error."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+#, fuzzy
+msgid "Name required"
+msgstr "Non autenticato."
+
+#, fuzzy
+msgid "Style is too long."
+msgstr "Il file è troppo grande"
+
+#, fuzzy
+msgid "Invalid or unsafe CSS."
+msgstr "Ruolo non valido."
+
+msgid "This color is reserved for staff members."
+msgstr ""
+
+#, fuzzy
+msgid "Nickname style updated successfully!"
+msgstr "Commento pubblicato con successo!"
+
+#, python-format
+msgid "Not enough PAW. You need %(cost)s PAW to change your nickname style."
+msgstr ""
+
+msgid "Nickname style purchased and updated for 100 PAW!"
+msgstr ""
+
+#, python-brace-format
+msgid "{actor1} and {actor2}"
+msgstr ""
+
+#, python-format
+msgid "and %d other"
+msgstr ""
+
+#, python-format
+msgid "and %d others"
+msgstr ""
+
+#, python-brace-format
+msgid "{actor1}, {actor2} {others}"
+msgstr ""
+
+msgid "[actor] liked your sound [entity]."
+msgstr ""
+
+msgid "[actor] liked your comment on [entity]."
+msgstr ""
+
+msgid "[actor] mentioned you in a comment on [entity]."
+msgstr ""
+
+msgid "[actor] downloaded your sound [entity]."
+msgstr ""
+
+msgid "[actor] left a comment on your sound [entity]."
+msgstr ""
+
+msgid "[actor] replied to your comment on [entity]."
+msgstr ""
+
+msgid "Your sound [entity] has been successfully processed!"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"We couldn't process your sound [entity]. Please try uploading it again."
+msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+msgid "An administrator removed your sound: [entity]."
+msgstr ""
+
+msgid "An administrator removed your comment on [entity]."
+msgstr ""
+
+msgid "Anonymous"
+msgstr ""
+
+#~ msgid "Crypto Donation"
+#~ msgstr "Donazione Cripto"
+
+#~ msgid "Contact us"
+#~ msgstr "Contattaci"
+
+#~ msgid "Crypto donation methods:"
+#~ msgstr "Metodi di donazione cripto:"
+
+#~ msgid "TON Ecosystem"
+#~ msgstr ""
+
+#~ msgid "Other Coins"
+#~ msgstr "Altro"
+
+#~ msgid "Trascina file qui"
+#~ msgstr "Trascina file qui"
+
+#~ msgid "Welcome to VIP Membership!"
+#~ msgstr "Benvenuto nell'Abbonamento VIP!"
+
+#~ msgid ""
+#~ "As a VIP member, you're helping support the developers and the project. "
+#~ "Thank you for your support!"
+#~ msgstr ""
+#~ "Come membro VIP, stai aiutando a sostenere gli sviluppatori e il progetto. "
+#~ "Grazie per il tuo supporto!"
+
+#~ msgid "Your nickname will stand out in recommendations and other tabs."
+#~ msgstr "Il tuo nickname risalterà nelle raccomandazioni e in altre schede."
+
+#~ msgid "Animated Avatar: You can set an animated avatar."
+#~ msgstr "Avatar Animato: Puoi impostare un avatar animato."
+
+#~ msgid "No Ads: Enjoy the app without any ads."
+#~ msgstr "Nessuna Pubblicità: Goditi l'app senza pubblicità."
+
+#~ msgid "We're constantly working on adding more benefits and features for"
+#~ msgstr ""
+#~ "Lavoriamo costantemente per aggiungere più vantaggi e funzionalità per"
+
+#~ msgid "users. Stay tuned for updates!"
+#~ msgstr "gli utenti. Resta sintonizzato per gli aggiornamenti!"
+
+#~ msgid "You're already a VIP member!"
+#~ msgstr "Sei già un membro VIP!"
+
+#~ msgid "Consider making a donation to support us even more!"
+#~ msgstr "Considera di fare una donazione per supportarci ancora di più!"
+
+#~ msgid "Become a"
+#~ msgstr "Diventa"
+
+#~ msgid ""
+#~ "There are multiple ways to become a VIP: be an active user of the site or "
+#~ "purchase the status for a lifetime."
+#~ msgstr ""
+#~ "Ci sono diversi modi per diventare VIP: essere un utente attivo del sito o "
+#~ "acquistare lo status a vita."
+
+#~ msgid "Pay with PayPal"
+#~ msgstr "Paga con PayPal"
+
+#~ msgid "Pay with Card"
+#~ msgstr "Paga con Carta"
+
+#~ msgid "Support"
+#~ msgstr "Supporto"
+
+#~ msgid ""
+#~ "Learn more about VIP privileges on our website or contact us for details."
+#~ msgstr ""
+#~ "Scopri di più sui privilegi VIP sul nostro sito web o contattaci per "
+#~ "dettagli."
+
+#~ msgid "Invalid username."
+#~ msgstr "Nome utente non valido."
+
+#~ msgid "You must agree to the terms and conditions and privacy policy."
+#~ msgstr "Devi accettare i termini e condizioni e l'informativa sulla privacy."
+
+#~ msgid "Add title"
+#~ msgstr "Aggiungi titolo"
+
+#~ msgid "Add tags"
+#~ msgstr "Aggiungi tag"
+
+#~ msgid "Too many tags. Max 3"
+#~ msgstr "Troppi tag. Max 3"
+
+#~ msgid "Add file"
+#~ msgstr "Aggiungi file"
+
+#~ msgid "File is not an audio"
+#~ msgstr "Il file non è audio"
+
+#~ msgid "Title is too long"
+#~ msgstr "Il titolo è troppo lungo"
+
+#~ msgid "Tag is too long"
+#~ msgstr "Il tag è troppo lungo"
+
+#~ msgid "Sound uploaded"
+#~ msgstr "Suono caricato"
+
+#~ msgid "Enter URL"
+#~ msgstr "Inserisci URL"
+
+#~ msgid "VIP Tag"
+#~ msgstr "Modifica tag"
+
+#~ msgid "tag on your profile and sounds."
+#~ msgstr "Il tuo profilo e i tuoi suoni avranno un"
+
+#~ msgid "Your username appears in"
+#~ msgstr ""
+
+#~ msgid "More Coming Soon"
+#~ msgstr "Altre Funzionalità Utili in Arrivo"
+
+#~ msgid "Access future exclusive features first!"
+#~ msgstr ""
+
+#~ msgid "Your contribution directly funds server costs and development."
+#~ msgstr ""
+
+#~ msgid "Invalid file size."
+#~ msgstr "Dimensione file non valida."
+
+#~ msgid "Join us at:"
+#~ msgstr "Unisciti a noi su:"
+
+#~ msgid "1.9 - 1.21.5"
+#~ msgstr ""
+
+#~ msgid "Copy IP"
+#~ msgstr "Copiato IP"
+
+#~ msgid "Details on Discord"
+#~ msgstr "Unisciti a Discord"
+
+#~ msgid "Password should contain only latin letters and numbers."
+#~ msgstr "La password deve contenere solo lettere latine e numeri."
+
+#~ msgid "You are already uploading a sound."
+#~ msgstr "Stai già caricando un suono."
+
+#~ msgid "File from URL is too large (streaming check)."
+#~ msgstr ""
+
+#~ msgid "Invalid file size. Min 1KB, Max {max_mb}MB."
+#~ msgstr ""
+
+#~ msgid "No file or URL provided."
+#~ msgstr ""
+
+#~ msgid "Invalid file format."
+#~ msgstr "Formato file non valido."
+
+#~ msgid "Title cannot be empty."
+#~ msgstr "Il titolo non può essere vuoto."
+
+#~ msgid "Uwupad - Get and share funny sounds. Easy."
+#~ msgstr "Uwupad - Ottieni e condividi suoni divertenti. Facile."
+
+#~ msgid "Profile "
+#~ msgstr "Profilo "
+
+#~ msgid "Password recovery"
+#~ msgstr "Recupero password"
+
+#~ msgid "No sound playing"
+#~ msgstr "Nessun suono in riproduzione"
+
+#~ msgid "Support a Free and Open Sound Library"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Donate to support development or share the joy of UwUpad\n"
+#~ "                    with a friend."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "One-time\n"
+#~ "                    donation"
+#~ msgstr ""
+
+#~ msgid "via Stripe (Cards, Google/Apple Pay, etc)"
+#~ msgstr ""
+
+#~ msgid "Coffee"
+#~ msgstr ""
+
+#~ msgid "Pizza"
+#~ msgstr ""
+
+#~ msgid "Lunch"
+#~ msgstr ""
+
+#~ msgid "Team Lunch"
+#~ msgstr ""
+
+#~ msgid "Custom amount (USD)"
+#~ msgstr ""
+
+#~ msgid "Or get lifetime benefits:"
+#~ msgstr ""
+
+#~ msgid "View VIP Perks"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Share\n"
+#~ "                    UwUpad with a friend"
+#~ msgstr ""
+
+#~ msgid "Sharing helps us grow!"
+#~ msgstr ""
+
+#~ msgid "Click to enlarge QR Code"
+#~ msgstr ""
+
+#~ msgid "Copy"
+#~ msgstr ""
+
+#~ msgid "Check out UwUpad for awesome Soundpad sounds!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "UwUpad helps producers, educators, video makers, and many others to do what they love. It's a different-->\n"
+#~ "<!--            kind of service that is made with love, not for profit."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We believe that the internet doesn't have to be scary, which is why UwUpad will never have intrusive ads-->\n"
+#~ "<!--            or other kinds of malicious content. It's a promise that we firmly stand by. Everything we do is built with-->\n"
+#~ "<!--            privacy, accessibility, and ease of use in mind, making UwUpad available for everyone."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you found UwUpad useful, please consider supporting our work! You can help us by making a donation or-->\n"
+#~ "<!--            sharing UwUpad with a friend. Every donation is highly appreciated and helps us keep working on UwUpad and-->\n"
+#~ "<!--            other projects."
+#~ msgstr ""
+
+#~ msgid "Alternative ways to donate"
+#~ msgstr ""
+
+#~ msgid "Multiple Nets"
+#~ msgstr ""
+
+#~ msgid "Copy address"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Payment system failed to load. Please check your connection or contact "
+#~ "support."
+#~ msgstr ""
+
+#~ msgid "Please select or enter a valid amount ($1 minimum)."
+#~ msgstr "Inserisci un motivo valido."
+
+#~ msgid "An error occurred. Please try again."
+#~ msgstr "Si è verificato un errore"
+
+#~ msgid "Could not open share dialog."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Enabled 'Show only on my language' mode. You can disable it in language "
+#~ "settings."
+#~ msgstr ""
+#~ "Modalità 'Mostra solo nella mia lingua' abilitata. Puoi disabilitarla nelle "
+#~ "impostazioni della lingua."
+
+#~ msgid "Place"
+#~ msgstr "Posizione"
+
+#~ msgid "Uploads"
+#~ msgstr "Caricamenti"
+
+#~ msgid "Playlist access"
+#~ msgstr "Accesso playlist"
+
+#~ msgid "Public"
+#~ msgstr "Pubblica"
+
+#~ msgid "Block owner"
+#~ msgstr "Blocca proprietario"
+
+#~ msgid "No description provided."
+#~ msgstr ""
+
+#~ msgid "Search username or email..."
+#~ msgstr ""
+
+#~ msgid "Apply"
+#~ msgstr ""
+
+#~ msgid "Error banning user."
+#~ msgstr "Errore nel caricamento dei commenti."
+
+#~ msgid "Error unbanning user."
+#~ msgstr ""
+
+#~ msgid "tag and a username in"
+#~ msgstr ""
+
+#~ msgid "across the site."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Upload larger files (e.g., up to 20MB for MP3/OGG, 25MB for trimmed WAVs) "
+#~ "and use more tags (e.g., up to 6 tags)."
+#~ msgstr ""
+
+#~ msgid "Sound Utilities"
+#~ msgstr "Apprezzamento rimosso dal suono."
+
+#~ msgid ""
+#~ "Access exclusive tools like an audio trimmer directly on the upload page."
+#~ msgstr ""
+
+#~ msgid "Detailed Stats"
+#~ msgstr ""
+
+#~ msgid "Get in-depth analytics for your uploaded sounds."
+#~ msgstr ""
+
+#~ msgid "Be the first to try new exclusive features as they roll out."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Your contribution directly funds server costs and development, keeping "
+#~ "UwUpad running and improving."
+#~ msgstr ""
+
+#~ msgid "Your VIP membership expires on:"
+#~ msgstr "Il tuo abbonamento VIP scade il:"
+
+#~ msgid "Never (Lifetime)"
+#~ msgstr ""
+
+#~ msgid "You have"
+#~ msgstr ""
+
+#~ msgid "VIP status!"
+#~ msgstr ""
+
+#~ msgid "Thank you for your support! You can still donate to help us further."
+#~ msgstr ""
+
+#~ msgid "Become a VIP - $9.99 (Lifetime)"
+#~ msgstr ""
+
+#~ msgid "Pay with Card / Google Pay / Apple Pay"
+#~ msgstr ""
+
+#~ msgid "Pay $9.99 securely"
+#~ msgstr ""
+
+#~ msgid "Failed to load payment options. Please refresh or contact support."
+#~ msgstr ""
+
+#~ msgid "Could not initialize payment. Please try again or contact support."
+#~ msgstr ""
+
+#~ msgid "Payment Unavailable"
+#~ msgstr "Pagamento Annullato"
+
+#~ msgid "An unexpected error occurred."
+#~ msgstr "Si è verificato un errore"
+
+#~ msgid ""
+#~ "Very popular (100-500\n"
+#~ "                                views)"
+#~ msgstr ""
+#~ "Molto popolare (100-500\n"
+#~ "                                visualizzazioni)"
+
+#~ msgid ""
+#~ "Extremely popular (>500\n"
+#~ "                                views)"
+#~ msgstr ""
+#~ "Estremamente popolare (>500\n"
+#~ "                                visualizzazioni)"
+
+#~ msgid "Most Filled"
+#~ msgstr "Più piene"
+
+#~ msgid ""
+#~ "Your payment has been cancelled. If this was unintentional, you can try "
+#~ "again."
+#~ msgstr ""
+#~ "Il tuo pagamento è stato annullato. Se non è stato intenzionale, puoi "
+#~ "riprovare."
+
+#~ msgid "If you are experiencing issues, please contact our support team."
+#~ msgstr "Se riscontri problemi, contatta il nostro team di supporto."
+
+#~ msgid ""
+#~ "Thank you for becoming a VIP member! Your support helps us continue "
+#~ "developing and improving our platform."
+#~ msgstr ""
+#~ "Grazie per essere diventato un membro VIP! Il tuo supporto ci aiuta a "
+#~ "continuare a sviluppare e migliorare la nostra piattaforma."
+
+#~ msgid ""
+#~ "Your VIP status is now active and you can enjoy all the exclusive benefits."
+#~ msgstr ""
+#~ "Il tuo status VIP è ora attivo e puoi godere di tutti i vantaggi esclusivi."
+
+#~ msgid "Please enter a valid amount of at least $1.00"
+#~ msgstr "Inserisci un motivo valido."
+
+#~ msgid "Donate to UwUpad"
+#~ msgstr "Donato"
+
+#~ msgid "Your donations help us cover server costs and continue development."
+#~ msgstr ""
+
+#~ msgid "Make a Donation"
+#~ msgstr "Opzioni aggiuntive"
+
+#~ msgid "Choose an amount or enter a custom one below:"
+#~ msgstr ""
+
+#~ msgid "Custom Amount"
+#~ msgstr ""
+
+#~ msgid "Alternative Methods"
+#~ msgstr "Metodo di pagamento:"
+
+#~ msgid "Donate with Crypto"
+#~ msgstr ""
+
+#~ msgid "Crypto Donations"
+#~ msgstr "Top per donazioni"
+
+#~ msgid "Suitable for users from Russia and CIS countries."
+#~ msgstr ""
+
+#~ msgid "Go to Donationalerts"
+#~ msgstr ""
+
+#~ msgid "Could not load donation options."
+#~ msgstr "Impossibile caricare i commenti."
+
+#~ msgid "Please enter a valid amount."
+#~ msgstr "Inserisci un motivo valido."
+
+#~ msgid "Unlock exclusive features and support UwUpad's development!"
+#~ msgstr ""
+
+#~ msgid "VIP Benefits"
+#~ msgstr "Vantaggi VIP"
+
+#~ msgid "VIP Tag & Yellow Nickname"
+#~ msgstr "Nickname"
+
+#~ msgid "Stand out with a special"
+#~ msgstr ""
+
+#~ msgid "tag and a"
+#~ msgstr ""
+
+#~ msgid "yellow"
+#~ msgstr "Giallo"
+
+#~ msgid "username."
+#~ msgstr "Nome utente"
+
+#~ msgid "Animated Avatar"
+#~ msgstr ""
+
+#~ msgid "Express yourself with a GIF or WebP avatar."
+#~ msgstr ""
+
+#~ msgid "No Ads"
+#~ msgstr "Rimuovi pubblicità"
+
+#~ msgid "Enjoy a completely ad-free experience."
+#~ msgstr ""
+
+#~ msgid "Increased Upload Limits"
+#~ msgstr "Caricamento già in corso"
+
+#~ msgid "Upload larger files and use more tags."
+#~ msgstr ""
+
+#~ msgid "Early Access"
+#~ msgstr "Accesso playlist"
+
+#~ msgid "Be the first to try new exclusive features."
+#~ msgstr ""
+
+#~ msgid "Direct Support"
+#~ msgstr "Contatta il Supporto"
+
+#~ msgid "Greeting in Page Loader"
+#~ msgstr ""
+
+#~ msgid "Get a special greeting message when loading pages."
+#~ msgstr ""
+
+#~ msgid "VIP Active!"
+#~ msgstr ""
+
+#~ msgid "Thank you for your amazing support!"
+#~ msgstr ""
+
+#~ msgid "Make an Additional Donation"
+#~ msgstr "Opzioni aggiuntive"
+
+#~ msgid "Become a VIP - ... (Loading)"
+#~ msgstr ""
+
+#~ msgid "Get all benefits forever with a one-time payment."
+#~ msgstr ""
+
+#~ msgid "Accepts Cards, Crypto, and more"
+#~ msgstr ""
+
+#~ msgid "Alternative Method / Questions"
+#~ msgstr ""
+
+#~ msgid "Become a VIP -"
+#~ msgstr ""
+
+#~ msgid "Lifetime"
+#~ msgstr ""
+
+#~ msgid "Pay"
+#~ msgstr ""
+
+#~ msgid "securely"
+#~ msgstr ""
+
+#~ msgid "Error loading price"
+#~ msgstr "Errore nel caricamento dei commenti."
+
+#~ msgid "Try again later"
+#~ msgstr "Riprova"
+
+#~ msgid "Already viewed."
+#~ msgstr "Già visualizzato."
+
+#~ msgid "Close"
+#~ msgstr ""
+
+#~ msgid "Buy Ad Slot (1000 Stars)"
+#~ msgstr ""
+
+#~ msgid "Price: 1000 Telegram Stars per week"
+#~ msgstr ""
+
+#~ msgid "Telegram Stars per week"
+#~ msgstr ""
+
+#~ msgid "Try our Telegram bot!"
+#~ msgstr "Bot Telegram"
+
+#~ msgid "Want your ad here? Click!"
+#~ msgstr ""
+
+#~ msgid "VIP Membership"
+#~ msgstr "Checkout Abbonamento VIP"
+
+#~ msgid "Unlock exclusive tools and support UwUpad's future."
+#~ msgstr ""
+
+#~ msgid "Your New Superpowers"
+#~ msgstr ""
+
+#~ msgid "Total Ad-Free Experience"
+#~ msgstr ""
+
+#~ msgid "Focus completely on sounds without interruption. Zero ads, forever."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Crafted the perfect audio mix? Save your queue as a personal playlist "
+#~ "instantly."
+#~ msgstr ""
+
+#~ msgid "Priority Access to New Features"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Be the first to experience the powerful new tools we build exclusively for "
+#~ "VIPs."
+#~ msgstr ""
+
+#~ msgid "Animated Profile Avatar"
+#~ msgstr ""
+
+#~ msgid "Bring your profile to life with a GIF or WebP avatar."
+#~ msgstr ""
+
+#~ msgid "Exclusive VIP Profile Badge"
+#~ msgstr ""
+
+#~ msgid "A unique badge on your profile that marks you as a key supporter."
+#~ msgstr ""
+
+#~ msgid "Power the Project"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Your one-time payment directly fuels our servers and future development."
+#~ msgstr ""
+
+#~ msgid "VIP Status: Active!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Thank you for your incredible support! All exclusive features are unlocked."
+#~ msgstr ""
+
+#~ msgid "Get VIP Forever"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A single one-time payment via Telegram unlocks all benefits permanently. No "
+#~ "subscriptions."
+#~ msgstr ""
+
+#~ msgid "Buy with Telegram Stars"
+#~ msgstr ""
+
+#~ msgid "Payment is handled securely inside the Telegram app."
+#~ msgstr ""
+
+#~ msgid "Become a VIP"
+#~ msgstr ""
+
+#~ msgid "Log in to your account to purchase VIP status and unlock all benefits."
+#~ msgstr ""
+
+#~ msgid "Log In to Purchase"
+#~ msgstr "Devi essere loggato per commentare."
+
+#~ msgid "Remove ADS"
+#~ msgstr "Rimuovi pubblicità"
+
+#~ msgid "Select playlist"
+#~ msgstr "Seleziona playlist"
+
+#~ msgid "Playlist name"
+#~ msgstr "Nome playlist"
+
+#~ msgid "Add"
+#~ msgstr "Aggiungi"
+
+#~ msgid "You must be logged in to add sounds to your playlist."
+#~ msgstr "Devi essere loggato per aggiungere suoni alla tua playlist."
+
+#~ msgid "THIS IS NOT VIP. THIS IS ANOTHER LEVEL."
+#~ msgstr ""
+
+#~ msgid "Stop being a spectator. Become a patron of the project."
+#~ msgstr ""
+
+#~ msgid "Annoying ads"
+#~ msgstr ""
+
+#~ msgid "Limited functionality"
+#~ msgstr ""
+
+#~ msgid "Complete ad-free experience"
+#~ msgstr ""
+
+#~ msgid "You are part of the project's future"
+#~ msgstr ""
+
+#~ msgid "10% of opportunities"
+#~ msgstr ""
+
+#~ msgid "10\\% of opportunities"
+#~ msgstr ""
+
+#~ msgid "Want to save your listening queues as permanent playlists?"
+#~ msgstr ""
+
+#~ msgid "Want to save your favorite sounds as a playlist?"
+#~ msgstr ""
+
+#~ msgid "Slow down!"
+#~ msgstr "Rallenta!"
+
+#~ msgid "By Downloads"
+#~ msgstr "Top per download"
+
+#~ msgid "By Uploads"
+#~ msgstr "Top per caricamenti"
+
+#~ msgid "By Donates"
+#~ msgstr "Top per donazioni"
+
+#~ msgid "No users found in this category."
+#~ msgstr ""
+
+#~ msgid "Error loading data."
+#~ msgstr "Errore nel caricamento dei commenti."
+
+#~ msgid ""
+#~ "Login to your UwUpad account to upload sounds, create playlists, and manage "
+#~ "your profile."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Join the UwUpad community! Register for free to upload sounds and create "
+#~ "your own sound playlists."
+#~ msgstr ""
+
+#~ msgid "Terms of Use"
+#~ msgstr "Termini di Utilizzo"
+
+#~ msgid "Register"
+#~ msgstr "Registrati"
+
+#~ msgid "You must agree to the Terms of Use and Privacy Policy."
+#~ msgstr "Devi accettare i Termini di Utilizzo e l'Informativa sulla Privacy."
+
+#~ msgid "Deposit Uwu-Coins"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Purchase Uwu-Coins with Telegram Stars. Use them to dominate the platform."
+#~ msgstr ""
+
+#~ msgid "Deposit with Telegram Stars"
+#~ msgstr ""
+
+#~ msgid "Choose a preset coin package or enter a custom amount:"
+#~ msgstr ""
+
+#~ msgid "Custom Amount (1-2500)"
+#~ msgstr ""
+
+#~ msgid "Delete comment"
+#~ msgstr "Elimina commento"
+
+#~ msgid "UwUpad: Another Level"
+#~ msgstr ""
+
+#~ msgid "STOP BEING A PAWN. BECOME A KING."
+#~ msgstr ""
+
+#~ msgid "VIP status isn't just about features. It's a statement."
+#~ msgstr ""
+
+#~ msgid "Standard User"
+#~ msgstr ""
+
+#~ msgid "Distracted by trash"
+#~ msgstr ""
+
+#~ msgid "10٪ of opportunities"
+#~ msgstr ""
+
+#~ msgid "You are just traffic"
+#~ msgstr ""
+
+#~ msgid "UwUpad Patron"
+#~ msgstr ""
+
+#~ msgid "Complete control over your attention"
+#~ msgstr ""
+
+#~ msgid "Save sounds to playlists"
+#~ msgstr "Cerca playlist"
+
+#~ msgid "Exclusive profile badge"
+#~ msgstr ""
+
+#~ msgid "Animated GIF avatar"
+#~ msgstr ""
+
+#~ msgid "You are an investor. You influence the future of the project."
+#~ msgstr ""
+
+#~ msgid "ONE TIME & FOREVER"
+#~ msgstr ""
+
+#~ msgid "ASCEND TO THE NEW LEVEL"
+#~ msgstr ""
+
+#~ msgid "LOG IN TO ASCEND"
+#~ msgstr ""
+
+#~ msgid "What the insiders say:"
+#~ msgstr ""
+
+#~ msgid "Bought it just for the badge, now I feel elite. 10/10."
+#~ msgstr ""
+
+#~ msgid "an anonymous patron"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The ability to save queues to playlists is exactly what was missing. Worth "
+#~ "every penny."
+#~ msgstr ""
+
+#~ msgid "user since 2024"
+#~ msgstr ""
+
+#~ msgid "Server error:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Explore UwUCraft — a vanilla server where your story becomes a part of its "
+#~ "permanent history."
+#~ msgstr ""
+
+#~ msgid "Upgrade to Patron ($10)"
+#~ msgstr ""
+
+#~ msgid "mod."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Place a Sign on the container and type exactly this on the first line "
+#~ "(including brackets):"
+#~ msgstr ""
+
+#~ msgid "Activator (Note Block):"
+#~ msgstr ""
+
+#~ msgid "A Note Block within a ~5 block radius to act as a beacon for couriers."
+#~ msgstr ""
+
+#~ msgid "Place your Chest/Barrel and a Note Block nearby."
+#~ msgstr ""
+
+#~ msgid "Part 2: Your Personal Courier (Bee)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Your station doesn't have a permanent worker. Instead, it acts as a beacon. "
+#~ "When you pay for a delivery, the Note Block sends out a signal, calling the "
+#~ "nearest free Bee in the world to act as a courier for this specific "
+#~ "delivery."
+#~ msgstr ""
+
+#~ msgid "Bee linking process"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Build a small enclosure for your Bee to prevent it from wandering too far "
+#~ "from its station."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "... Once the Bundle, Address, and full Payment are present, the Note Block "
+#~ "will activate, summoning the nearest free Bee to collect the parcel and "
+#~ "begin its journey."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Breaking any of the three core components (sign, container, or note block) "
+#~ "will permanently dismantle your mail station."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "... Once the Bundle, Address, and full Payment are present, the Beehive will"
+#~ " activate, dispatching the nearest bee to collect the parcel and begin its "
+#~ "journey."
+#~ msgstr ""
+
+#~ msgid "Diamonds"
+#~ msgstr ""
+
+#~ msgid "Netherite Ingot"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Simply add 1 Netherite Ingot to the container in addition to the diamond "
+#~ "payment."
+#~ msgstr ""
+
+#~ msgid "The Principle of Trust"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "There are no land claims. Your only protection is your <b>reputation</b>. "
+#~ "Build alliances, establish trade routes, or become an outcast. The whitelist"
+#~ " is our only shield."
+#~ msgstr ""
+
+#~ msgid "The Genesis of Economy"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We don't provide a currency. <b>You create it.</b> Will diamonds be the "
+#~ "standard? Found a trade guild and dictate the flow of resources. Use our "
+#~ "Discord to build trust."
+#~ msgstr ""
+
+#~ msgid "A World That Remembers"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This world will <b>never be wiped</b>. The ruins of past eras and the "
+#~ "monuments of your own will remain forever. The Live Map is our shared "
+#~ "historical document."
+#~ msgstr ""
+
+#~ msgid "Begin Your Journey"
+#~ msgstr ""
+
+#~ msgid "Foundations of Trust"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Griefing and theft are strictly forbidden. Every action on the server is "
+#~ "logged. <b>Damage will be instantly reversed</b>, and the violator will be "
+#~ "permanently banned without warning."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Player-versus-player combat is allowed <b>only when all participants have "
+#~ "clearly expressed their consent</b>. Unprovoked attacks, traps, and ambushes"
+#~ " are considered violations of trust."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The use of cheats, X-Ray resource packs, exploits, or any modifications that"
+#~ " provide an unfair advantage is a direct path to a <b>permanent ban</b>."
+#~ msgstr ""
+
+#~ msgid "Place the items you want to send inside a"
+#~ msgstr ""
+
+#~ msgid "Place the"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "... Once the Bundle, Address, and full Payment are present, the Beehive will"
+#~ " activate, dispatching the nearest bee to collect the parcel. You can track "
+#~ "the courier's real-time flight path on the live map!"
+#~ msgstr ""
+
+#~ msgid "blocks:"
+#~ msgstr "Blacklist"
+
+#~ msgid "Free Whitelist Applications End In:"
+#~ msgstr ""
+
+#~ msgid "Days"
+#~ msgstr ""
+
+#~ msgid "Mins"
+#~ msgstr "Link"
+
+#~ msgid "Secs"
+#~ msgstr "Nome utente"
+
+#~ msgid "Apply for Whitelist"
+#~ msgstr "Applica filtri"
+
+#~ msgid ""
+#~ "For a limited time, you can get free access by submitting an application."
+#~ msgstr ""
+
+#~ msgid "Discord Username (e.g. @username)"
+#~ msgstr ""
+
+#~ msgid "I agree to the server rules (no cheating)."
+#~ msgstr ""
+
+#~ msgid "I confirm that I have joined the UwUpad Discord server."
+#~ msgstr ""
+
+#~ msgid "Submit Application"
+#~ msgstr ""
+
+#~ msgid "Account Linked"
+#~ msgstr "Suono apprezzato."
+
+#~ msgid "Your VIP status is active. Join the server now!"
+#~ msgstr ""
+
+#~ msgid "Re-sync In-game Role"
+#~ msgstr ""
+
+#~ msgid "Your linked UUID:"
+#~ msgstr ""
+
+#~ msgid "Whitelist Access Confirmed"
+#~ msgstr ""
+
+#~ msgid "You have permanent access. Upgrade to unlock all VIP perks!"
+#~ msgstr ""
+
+#~ msgid "Upgrade to Patron ($5.99)"
+#~ msgstr ""
+
+#~ msgid "The free whitelist application event has ended."
+#~ msgstr ""
+
+#~ msgid "You must agree to all conditions."
+#~ msgstr "Devi accettare i Termini di Utilizzo e l'Informativa sulla Privacy."
+
+#~ msgid "Your application has been sent successfully!"
+#~ msgstr "Commento pubblicato con successo!"
+
+#~ msgid "Submitted!"
+#~ msgstr "Reimposta password"
+
+#~ msgid ""
+#~ "A pure vanilla experience on an infinite world. No cheats, no resets. Only "
+#~ "history, forged by players."
+#~ msgstr ""
+
+#~ msgid "Whitelist Access"
+#~ msgstr ""
+
+#~ msgid "Voice chat via"
+#~ msgstr ""
+
+#~ msgid "mod"
+#~ msgstr ""
+
+#~ msgid "Permanent access to the server"
+#~ msgstr ""
+
+#~ msgid "Pure vanilla gameplay"
+#~ msgstr ""
+
+#~ msgid "Become part of a world with a persistent history"
+#~ msgstr ""
+
+#~ msgid "Purchase Access"
+#~ msgstr ""
+
+#~ msgid "All Whitelist benefits, plus:"
+#~ msgstr ""
+
+#~ msgid "on the website"
+#~ msgstr "Più recenti"
+
+#~ msgid "Join the Legacy"
+#~ msgstr "Unisciti a Telegram"
+
+#~ msgid "To purchase access or link your VIP account, you must be logged in."
+#~ msgstr ""
+
+#~ msgid "Join Our Community"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All discussions, events, and trade offers happen on our Discord server. Join"
+#~ " to become a full-fledged member of the world!"
+#~ msgstr ""
+
+#~ msgid "A New World Awaits"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Explore uwumine — a vanilla server where your story becomes a part of its "
+#~ "permanent history."
+#~ msgstr ""
+
+#~ msgid "Explore the Server"
+#~ msgstr "Servizi supportati"
+
+#~ msgid "Maybe Later"
+#~ msgstr ""
+
+#~ msgid "Server Page"
+#~ msgstr "Torna alla pagina principale"
+
+#~ msgid "General"
+#~ msgstr "Email"
+
+#~ msgid "Manifesto"
+#~ msgstr ""
+
+#~ msgid "Rules"
+#~ msgstr "Ruolo"
+
+#~ msgid "Economy"
+#~ msgstr ""
+
+#~ msgid "Mechanics"
+#~ msgstr ""
+
+#~ msgid "Settlements"
+#~ msgstr "Impostazioni lingua"
+
+#~ msgid "Living Mail"
+#~ msgstr ""
+
+#~ msgid "UwUCraft: The Player Guide"
+#~ msgstr ""
+
+#~ msgid "The Chronicle Project"
+#~ msgstr ""
+
+#~ msgid "Foundations of Trust (Rules)"
+#~ msgstr ""
+
+#~ msgid "Zero Tolerance for Destruction"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Griefing and theft are strictly forbidden. Every action on the server is "
+#~ "logged. Damage will be instantly reversed, and the violator will be "
+#~ "permanently banned without warning."
+#~ msgstr ""
+
+#~ msgid "PvP by Consent"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Player-versus-player combat is allowed only when all participants have "
+#~ "clearly expressed their consent. Unprovoked attacks, traps, and ambushes are"
+#~ " considered violations of trust."
+#~ msgstr ""
+
+#~ msgid "Fair Play Only"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The use of cheats, X-Ray resource packs, exploits, or any modifications that"
+#~ " provide an unfair advantage is a direct path to a permanent ban."
+#~ msgstr ""
+
+#~ msgid "Server Economy"
+#~ msgstr ""
+
+#~ msgid "About the Currency"
+#~ msgstr ""
+
+#~ msgid "Currency of Nations"
+#~ msgstr "Commenti"
+
+#~ msgid "Settlements Guide"
+#~ msgstr ""
+
+#~ msgid "Living Mail Guide"
+#~ msgstr ""
+
+#~ msgid "Go to Living Mail System"
+#~ msgstr ""
+
+#~ msgid "On this page"
+#~ msgstr "Pag. succ."
+
+#~ msgid ""
+#~ "Share your sound with the UwUpad community. Upload your audio file, add a "
+#~ "title and tags."
+#~ msgstr ""
+
+#~ msgid "Supported services"
+#~ msgstr "Servizi supportati"
+
+#~ msgid ""
+#~ "Loading audio... Click and drag on the waveform to select a\n"
+#~ "                region to keep."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "tags. Each\n"
+#~ "                            tag up to"
+#~ msgstr ""
+#~ "Molto popolare (100-500\n"
+#~ "                                visualizzazioni)"
+
+#~ msgid "View Detailed Sound Stats"
+#~ msgstr ""
+
+#~ msgid "Get in-depth analytics for your uploaded sounds (VIP exclusive)."
+#~ msgstr ""
+
+#~ msgid "Unsupported file type."
+#~ msgstr "Servizi supportati"
+
+#~ msgid "File is too big:"
+#~ msgstr "Il file è troppo grande"
+
+#~ msgid "Max allowed for this type:"
+#~ msgstr ""
+
+#~ msgid "Please enter a title."
+#~ msgstr "Inserisci un'email valida."
+
+#~ msgid "One or more tags exceed the max length of"
+#~ msgstr ""
+
+#~ msgid "Your browser does not support necessary audio features."
+#~ msgstr ""
+
+#~ msgid "Audio context error."
+#~ msgstr ""
+
+#~ msgid "Error decoding audio:"
+#~ msgstr ""
+
+#~ msgid "Failed to get decoded audio data for WaveSurfer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Click and drag on the waveform to select a region to keep, or click a region"
+#~ " to edit."
+#~ msgstr ""
+
+#~ msgid "Error: WaveSurfer altered sample rate post-load!"
+#~ msgstr ""
+
+#~ msgid "WaveSurfer error:"
+#~ msgstr ""
+
+#~ msgid "Duration:"
+#~ msgstr "Durata"
+
+#~ msgid "Audio system not ready."
+#~ msgstr ""
+
+#~ msgid "No region selected."
+#~ msgstr "Commento eliminato."
+
+#~ msgid "Could not get decoded audio data."
+#~ msgstr "Impossibile ottenere il tuo IP."
+
+#~ msgid "Trimmed audio (WAV) is too large:"
+#~ msgstr ""
+
+#~ msgid "Max allowed for trimmed audio:"
+#~ msgstr ""
+
+#~ msgid "approx."
+#~ msgstr ""
+
+#~ msgid "Could not initiate payment. Please try again later."
+#~ msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+#~ msgid "As a VIP, you can boost one sound for free every %(hours)s hours."
+#~ msgstr ""
+
+#~ msgid "Expire date"
+#~ msgstr "Data di scadenza"
+
+#~ msgid "Remove from blacklist"
+#~ msgstr "Rimuovi dalla blacklist"
+
+#~ msgid "Fingerprint"
+#~ msgstr ""
+
+#~ msgid "Original"
+#~ msgstr ""
+
+#~ msgid "Go to original sound. Fingerprint"
+#~ msgstr ""
+
+#~ msgid "Duplicate"
+#~ msgstr ""
+
+#~ msgid "About This Sound"
+#~ msgstr "Segnala un suono"
+
+#~ msgid "Post Comment"
+#~ msgstr "Pubblica commento"
+
+#~ msgid "Load More"
+#~ msgstr "Carica altro"
+
+#~ msgid "Are you sure you want to block this user?"
+#~ msgstr "Sei sicuro di voler bloccare questo utente?"
+
+#~ msgid "Delete all user sounds"
+#~ msgstr "Elimina tutti i suoni dell'utente"
+
+#~ msgid "Could not load comments."
+#~ msgstr "Impossibile caricare i commenti."
+
+#~ msgid "Error loading comments."
+#~ msgstr "Errore nel caricamento dei commenti."
+
+#~ msgid "Comment cannot be empty."
+#~ msgstr "Il commento non può essere vuoto."
+
+#~ msgid "Comment posted successfully!"
+#~ msgstr "Commento pubblicato con successo!"
+
+#~ msgid "An error occurred while posting your comment."
+#~ msgstr "Si è verificato un errore durante la pubblicazione del commento."
+
+#~ msgid "You do not have permission to delete this comment."
+#~ msgstr "Non hai il permesso di eliminare questo commento."
+
+#~ msgid "An error occurred while deleting the comment."
+#~ msgstr "Si è verificato un errore durante l'eliminazione del commento."
+
+#~ msgid "Are you sure you want to delete this comment? This cannot be undone."
+#~ msgstr ""
+#~ "Sei sicuro di voler eliminare questo commento? L'azione è irreversibile."
+
+#~ msgid ""
+#~ "Your sound has been boosted to the top of recommendations for %(hours)d "
+#~ "hours!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you like our project, you can support it by clicking the link below."
+#~ msgstr ""
+#~ "Se ti piace il nostro progetto, puoi supportarlo cliccando sul link "
+#~ "sottostante."
+
+#~ msgid "Select an existing playlist or create a new one to save your queue."
+#~ msgstr ""
+
+#~ msgid "Unlock Unlimited Playlists!"
+#~ msgstr ""
+
+#~ msgid "for lifetime access."
+#~ msgstr ""
+
+#~ msgid "Unlock Feature"
+#~ msgstr ""
+
+#~ msgid "Ad"
+#~ msgstr "e l'"
+
+#~ msgid "UwUMine Minecraft Server"
+#~ msgstr "Il server Minecraft di UwU Pad è attivo!"
+
+#~ msgid ""
+#~ "Select an existing playlist or create a new one for the sound "
+#~ "\"%(sound_name)s\"."
+#~ msgstr ""
+
+#~ msgid "You must be logged in to create playlists."
+#~ msgstr "Devi essere loggato per commentare."
+
+#~ msgid "Sound data not loaded yet. Please wait a moment."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Save this and any other sounds into custom playlists. A key feature to "
+#~ "organize your collection, available only for VIPs."
+#~ msgstr ""
+
+#~ msgid "Changelog: The Arena Update"
+#~ msgstr ""
+
+#~ msgid "Version 0.8"
+#~ msgstr ""
+
+#~ msgid "August 2025"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Today we stop being just a sound library. We become an Arena. This is the "
+#~ "biggest update in uwupad.me history, affecting everything from core "
+#~ "mechanics and competition to a complete visual overhaul and new "
+#~ "customization features."
+#~ msgstr ""
+
+#~ msgid "The Arena: A New Era of Competition"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We've completely re-imagined the leadership and interaction system on the "
+#~ "platform. Your profile is no longer just a business card. It's your "
+#~ "fighter's stats."
+#~ msgstr ""
+
+#~ msgid "Influence Score System:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Introduced Influence Rating. Every action you take—like, view, download, "
+#~ "upload—now has weight and contributes to your personal score."
+#~ msgstr ""
+
+#~ msgid "Dynamic Leaderboards:"
+#~ msgstr "Classifica"
+
+#~ msgid ""
+#~ "Static 'all-time' tops are a thing of the past. Now you fight for supremacy "
+#~ "every day, every week, and every month. Newcomers can overtake veterans—the "
+#~ "most active win."
+#~ msgstr ""
+
+#~ msgid "Rank \"Delta\":"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We don't just show your place. We show your progress. On the leaderboards "
+#~ "page, you can see how many positions you've climbed (or fallen) and the "
+#~ "score increase for the period. This is no longer a race. This is esports."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Completely reworked the statistics gathering architecture. Instead of an "
+#~ "inefficient hourly recount, the system now records every user action (like, "
+#~ "view) in real-time with a timestamp."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This ensures absolute accuracy for periodic tops and reduces the load on the"
+#~ " database. Leaderboard loading speed has increased by ~3000%."
+#~ msgstr ""
+
+#~ msgid "Complete Visual Redesign: \"Liquid Glass\""
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The entire site has been redesigned from the ground up to match our new "
+#~ "vision."
+#~ msgstr ""
+
+#~ msgid "New Style:"
+#~ msgstr "Più recenti"
+
+#~ msgid ""
+#~ "A unified \"Liquid Glass\" design has been implemented—dark, minimalistic, "
+#~ "with translucent elements, blur, and rounded corners."
+#~ msgstr ""
+
+#~ msgid "Unified CSS:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All styles have been merged into a single file for maximum performance and "
+#~ "consistency."
+#~ msgstr ""
+
+#~ msgid "Redesigned Pages:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Login, registration, and deposit pages have been completely redone into "
+#~ "separate, centered forms with smooth animations."
+#~ msgstr ""
+
+#~ msgid "Updated Components:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Sound cards, the profile header, and the user dropdown menu have received a "
+#~ "new, modern, and functional design."
+#~ msgstr ""
+
+#~ msgid "Global Notifications:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Old pop-ups have been replaced with a new system that supports stacking "
+#~ "(notifications appear on top of each other) and features smooth animations."
+#~ msgstr ""
+
+#~ msgid "New Features & Personalization"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We're giving you new tools for self-expression and to support the project."
+#~ msgstr ""
+
+#~ msgid "Nickname Customization:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can now change your nickname style: solid fill, gradient (up to 5 "
+#~ "colors), or your own CSS code."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "VIP users can change their style for free and without limits. Regular users "
+#~ "can change their style for 100 PAW (the new internal currency)."
+#~ msgstr ""
+
+#~ msgid "New Payment System:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Added balance top-ups (PAW) and donations to support the project. All "
+#~ "payments (VIP, top-ups, donations) can now be made via Telegram Stars or "
+#~ "cryptocurrency (USDT)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The payment Telegram bot was completely rewritten on a stateful "
+#~ "architecture, eliminating \"infinite loading\" errors."
+#~ msgstr ""
+
+#~ msgid "Fixes & Technical Improvements"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Fixed a critical error (`MissingGreenlet`) on profile pages during "
+#~ "statistics calculation."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Fixed a bug in the leaderboards API where daily/weekly/monthly tops always "
+#~ "showed 0 points."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Resolved an `sqlalchemy.exc.InvalidRequestError` when updating nickname "
+#~ "styles by correctly merging DB sessions."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Optimized profile page loading: all data is now loaded with a single, "
+#~ "efficient query."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Performed a database migration: all existing likes were carefully "
+#~ "transferred to the new event system without any loss."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Fixed numerous visual bugs: author nickname display on sound cards, admin "
+#~ "button styles, old hover colors, and avatar compression in profiles."
+#~ msgstr ""
+
+#~ msgid "The game has changed. It's time to dominate."
+#~ msgstr ""
+
+#~ msgid "GIF only for VIP users"
+#~ msgstr "GIF solo per utenti VIP"
+
+#~ msgid "GIF is only allowed for VIP users"
+#~ msgstr "Le GIF sono consentite solo agli utenti VIP"
+
+#~ msgid "Limited Playlist Functionality"
+#~ msgstr ""
+
+#~ msgid "Standard Profile"
+#~ msgstr "Modifica profilo"
+
+#~ msgid "Default Avatar"
+#~ msgstr "Avatar"
+
+#~ msgid "Basic Sound Uploads"
+#~ msgstr "Torna alla pagina principale"
+
+#~ msgid "Create & Manage Unlimited Playlists"
+#~ msgstr "Crea nuova playlist"
+
+#~ msgid "Directly Support the Project"
+#~ msgstr ""
+
+#~ msgid "Playlist with this name already exists."
+#~ msgstr "Playlist con questo nome già esistente."
+
+#~ msgid "Max 3 tags."
+#~ msgstr "Max 3 tag."
+
+#~ msgid "Success"
+#~ msgstr "Successo"
+
+#~ msgid "Conflict while updating tags."
+#~ msgstr ""
+
+#~ msgid "Up to 2 playlists, 20 sounds each"
+#~ msgstr "Playlist non trovata."
+
+#~ msgid "Limited Downloads"
+#~ msgstr "Download"
+
+#~ msgid "Daily limit & download delay"
+#~ msgstr ""
+
+#~ msgid "Static Avatars Only"
+#~ msgstr ""
+
+#~ msgid "No Custom Sound Covers"
+#~ msgstr "Suono segnalato."
+
+#~ msgid "Paid Nickname Styling"
+#~ msgstr ""
+
+#~ msgid "Each change costs PAW"
+#~ msgstr ""
+
+#~ msgid "Paid Sound Boosts Only"
+#~ msgstr ""
+
+#~ msgid "Ad-Free Browsing"
+#~ msgstr ""
+
+#~ msgid "No limits on playlists or sounds"
+#~ msgstr "Playlist non trovata."
+
+#~ msgid "Unlimited Downloads"
+#~ msgstr "Più scaricati"
+
+#~ msgid "No limits, no delay, ZIP downloads"
+#~ msgstr ""
+
+#~ msgid "Unlimited Nickname Styling"
+#~ msgstr ""
+
+#~ msgid "Free, unlimited style changes"
+#~ msgstr "Crea nuova playlist"
+
+#~ msgid "Free Daily Sound Boost"
+#~ msgstr ""
+
+#~ msgid "One-Time Payment, Lifetime Access"
+#~ msgstr ""
+
+#~ msgid "Payment is handled securely via Telegram Stars"
+#~ msgstr ""
+
+#~ msgid "From Our Patrons"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The ad-free experience alone is worth it. It makes finding sounds so much "
+#~ "faster."
+#~ msgstr ""
+
+#~ msgid "Long-time User"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Finally, I can organize all my favorite meme sounds into playlists. A game-"
+#~ "changer for my streams!"
+#~ msgstr ""
+
+#~ msgid "Content Creator"
+#~ msgstr "Suono segnalato."
+
+#~ msgid ""
+#~ "Happy to support a project I use daily. The GIF avatar is a nice bonus."
+#~ msgstr ""
+
+#~ msgid "Anonymous Patron"
+#~ msgstr ""
+
+#~ msgid "Daily Limit Reached"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You have reached your daily download limit of %(limit)s sounds. Upgrade to "
+#~ "VIP for unlimited downloads!"
+#~ msgstr ""
+
+#~ msgid "Listening Queue"
+#~ msgstr ""
+
+#~ msgid "Your queue is empty. Add sounds to get started!"
+#~ msgstr ""
+
+#~ msgid "Clear Queue"
+#~ msgstr "Assegna ruolo"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Cerca playlist"
+
+#~ msgid "Add sounds to the queue first!"
+#~ msgstr ""
+
+#~ msgid "Cannot play sound that is not on the current page."
+#~ msgstr ""
+
+#~ msgid "Error loading data. Please try again later."
+#~ msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+#~ msgid "Custom Cover (VIP)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Make your sounds stand out with custom background images. This feature is "
+#~ "exclusive to VIP members."
+#~ msgstr ""
+
+#~ msgid "Unlock Custom Covers"
+#~ msgstr ""
+
+#~ msgid "Custom covers are a VIP feature."
+#~ msgstr ""
+
+#~ msgid "Download Limit Reached"
+#~ msgstr "Playlist eliminata."
+
+#~ msgid ""
+#~ "You have used all your available downloads. Charges regenerate over time. "
+#~ "Upgrade to VIP for unlimited downloads!"
+#~ msgstr ""
+
+#~ msgid "Guest Limit Reached"
+#~ msgstr "Playlist eliminata."
+
+#~ msgid ""
+#~ "You have reached the download limit for guests. Please log in to get "
+#~ "%(auth_limit)s downloads or wait for them to recharge."
+#~ msgstr ""
+
+#~ msgid "Latin Scripts"
+#~ msgstr "Scritture latine"
+
+#~ msgid "Cyrillic Scripts"
+#~ msgstr "Scritture cirilliche"
+
+#~ msgid "Asian Scripts"
+#~ msgstr "Scritture asiatiche"
+
+#~ msgid "Other Scripts"
+#~ msgstr "Altre scritture"
+
+#~ msgid ""
+#~ "The most transparent dice game on Telegram. Deposit & Withdraw instantly via"
+#~ " CryptoBot."
+#~ msgstr ""
+
+#~ msgid "Download is preparing..."
+#~ msgstr "Più scaricati"
+
+#~ msgid "Download started."
+#~ msgstr "Più scaricati"
+
+#~ msgid ""
+#~ "Your AdBlock is limiting search results. Disable it or get VIP for full "
+#~ "access."
+#~ msgstr ""
+
+#~ msgid "Your AdBlock is breaking the site layout."
+#~ msgstr ""
+
+#~ msgid "Get a VIP pass to browse without ads and support the servers."
+#~ msgstr ""
+
+#~ msgid "Learn more about VIP"
+#~ msgstr ""
+
+#~ msgid "Your browser's built-in blocker is active."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Modern browsers like <strong>Opera GX</strong>, <strong>Brave</strong>, or "
+#~ "Firefox with custom settings often have <strong>built-in ad and script "
+#~ "blockers</strong>."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "These features interfere with site functionality and threaten our ability to"
+#~ " operate. Please support us by choosing an option:"
+#~ msgstr ""
+
+#~ msgid "THE VIP WAY"
+#~ msgstr ""
+
+#~ msgid "Best Experience"
+#~ msgstr ""
+
+#~ msgid "Get VIP Pass"
+#~ msgstr ""
+
+#~ msgid "No ads, no interruptions, full speed."
+#~ msgstr ""
+
+#~ msgid "THE FREE WAY"
+#~ msgstr ""
+
+#~ msgid "Whitelist Us"
+#~ msgstr ""
+
+#~ msgid "I've Whitelisted The Site"
+#~ msgstr ""
+
+#~ msgid "Click the shield icon"
+#~ msgstr ""
+
+#~ msgid "in your address bar and disable the blocker for uwupad.me."
+#~ msgstr ""
+
+#~ msgid "@uwupad - for urgent matters"
+#~ msgstr ""
+
+#~ msgid "To use this feature, please subscribe to our Telegram channel."
+#~ msgstr ""
+
+#~ msgid "I have subscribed"
+#~ msgstr ""
+
+#~ msgid "Subscription not found. Please join the channel."
+#~ msgstr ""
+
+#~ msgid "Check Again"
+#~ msgstr "Riprova"
+
+#~ msgid "Verified!"
+#~ msgstr ""
+
+#~ msgid "Your Story Begins Now"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The Second Era of our private vanilla server has started. Join an adult "
+#~ "community, protected from griefers by a unique justice system. All that's "
+#~ "missing is you."
+#~ msgstr ""
+
+#~ msgid "Apply on Discord"
+#~ msgstr "Unisciti a Discord"
+
+#~ msgid "Payments Are Back!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Great news! We've restored the ability to purchase VIP status and make "
+#~ "donations. Your support is crucial for the development and maintenance of "
+#~ "UwUpad."
+#~ msgstr ""
+
+#~ msgid "Thank you for staying with us!"
+#~ msgstr ""
+
+#~ msgid "Become VIP"
+#~ msgstr ""
+
+#~ msgid "Go VIP"
+#~ msgstr ""
+
+#~ msgid "10 KEYS SOUNDPAD GIVEAWAY!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Participate in our Telegram channel and get a chance to win. Don't miss out!"
+#~ msgstr ""
+
+#~ msgid "Participate"
+#~ msgstr ""
+
+#~ msgid "Fair Crypto Game"
+#~ msgstr ""
+
+#~ msgid "Instant withdrawals & fair play. Test your luck directly in Telegram!"
+#~ msgstr ""
+
+#~ msgid "Play Now"
+#~ msgstr ""
+
+#~ msgid "Complete a quick task to unlock all 50 sounds instantly:"
+#~ msgstr ""
+
+#~ msgid "Unlock Top 50 Pack"
+#~ msgstr ""
+
+#~ msgid "Get unlimited access to all packs and premium features."
+#~ msgstr ""
+
+#~ msgid "Get VIP Access"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "After completing the task, the download will be unlocked automatically "
+#~ "within 1-5 minutes."
+#~ msgstr ""
+
+#~ msgid "Waiting for task completion... Do not close the site."
+#~ msgstr ""
+
+#~ msgid "Preparing link..."
+#~ msgstr "Cerca per query "
+
+#~ msgid "For free high-speed download, request verification is required."
+#~ msgstr ""
+
+#~ msgid "DOWNLOAD FILE"
+#~ msgstr "Più scaricati"
+
+#~ msgid "Click to speed up timer"
+#~ msgstr ""
+
+#~ msgid "Wait"
+#~ msgstr ""
+
+#~ msgid "sec..."
+#~ msgstr "Cerca per query "
+
+#~ msgid "Link is ready!"
+#~ msgstr "Apprezzati"
+
+#~ msgid "Proceed to download"
+#~ msgstr "Procedi al pagamento"
+
+#~ msgid "VERIFICATION COMPLETED"
+#~ msgstr ""
+
+#~ msgid "GET SHIP + 500 GOLD + 7 DAYS VIP"
+#~ msgstr ""
+
+#~ msgid "GET FREE TANK + 7 DAYS PREMIUM"
+#~ msgstr ""
+
+#~ msgid "Wait ${timeLeft}s to download"
+#~ msgstr ""
+
+#~ msgid "Skip Advertisement"
+#~ msgstr ""
+
+#~ msgid "Join the Community!"
+#~ msgstr "Unisciti a Discord"
+
+#~ msgid ""
+#~ "Create a free account to like sounds, create unlimited playlists, and join "
+#~ "the leaderboard."
+#~ msgstr ""
+
+#~ msgid "Continue as Guest"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Join our Discord server to chat with other users and get the latest news."
+#~ msgstr ""
+#~ "Unisciti al nostro server Discord per chattare con altri utenti e ricevere "
+#~ "le ultime notizie."
+
+#~ msgid "Join Discord"
+#~ msgstr "Unisciti a Discord"
+
+#~ msgid "Join our Telegram channel to be aware and get the latest news."
+#~ msgstr ""
+#~ "Unisciti al nostro canale Telegram per essere aggiornato e ricevere le "
+#~ "ultime notizie."
+
+#~ msgid "Join Telegram"
+#~ msgstr "Unisciti a Telegram"
+
+#~ msgid "Deposit PAW"
+#~ msgstr "Segnala"
+
+#~ msgid "Top Up Your Balance"
+#~ msgstr ""
+
+#~ msgid "Purchase PAW to dominate the platform."
+#~ msgstr ""
+
+#~ msgid "Deposit"
+#~ msgstr "Segnala"
+
+#~ msgid "Please enter an amount between 1 and 2500."
+#~ msgstr "Inserisci un'email valida."
+
+#~ msgid "Nickname Shop"
+#~ msgstr ""
+
+#~ msgid "Your Balance"
+#~ msgstr ""
+
+#~ msgid "Nickname Colors"
+#~ msgstr ""
+
+#~ msgid "Nickname Effects"
+#~ msgstr ""
+
+#~ msgid "Preview Your Nickname"
+#~ msgstr "Immagine di anteprima"
+
+#~ msgid "Enter your nickname for preview:"
+#~ msgstr ""
+
+#~ msgid "Buy / Apply"
+#~ msgstr "Salva e applica"
+
+#~ msgid "Applied"
+#~ msgstr "Apprezzati"
+
+#~ msgid "Buy"
+#~ msgstr ""
+
+#~ msgid "Preview"
+#~ msgstr "Immagine di anteprima"
+
+#~ msgid "Buy for"
+#~ msgstr ""
+
+#~ msgid "Close Preview"
+#~ msgstr ""
+
+#~ msgid "Apply This Style"
+#~ msgstr "Applica filtri"
+
+#~ msgid "Buy This Style"
+#~ msgstr ""
+
+#~ msgid "You must be logged in to make purchases."
+#~ msgstr "Devi essere loggato per commentare."
+
+#~ msgid "Insufficient PAW balance. Please top up."
+#~ msgstr ""
+
+#~ msgid "Purchase successful! Item added to your collection."
+#~ msgstr ""
+
+#~ msgid "Would you like to apply this style now?"
+#~ msgstr ""
+
+#~ msgid "You must be logged in to apply styles."
+#~ msgstr "Devi essere loggato per commentare."
+
+#~ msgid "You do not own this style."
+#~ msgstr ""
+
+#~ msgid "Nickname style applied successfully!"
+#~ msgstr "Commento pubblicato con successo!"
+
+#~ msgid "uwumine - Legacy Server"
+#~ msgstr "Il server Minecraft di UwU Pad è attivo!"
+
+#~ msgid ""
+#~ "A world where everything you create lasts forever. A private vanilla server "
+#~ "with no wipes, no pay-to-win, and no cheaters — a club for those who want to"
+#~ " build history together."
+#~ msgstr ""
+
+#~ msgid "Server Wiki"
+#~ msgstr ""
+
+#~ msgid "Live Map"
+#~ msgstr ""
+
+#~ msgid "Whitelisted"
+#~ msgstr "Applica filtri"
+
+#~ msgid "For players from Russia:"
+#~ msgstr ""
+
+#~ msgid "If you experience high ping, use our regional IP:"
+#~ msgstr ""
+
+#~ msgid "Disabling your VPN is also recommended for the best connection."
+#~ msgstr ""
+
+#~ msgid "You Have Been Invited!"
+#~ msgstr "Il tuo account è stato bannato"
+
+#~ msgid "Ваш друг предоставил вам доступ к серверу UwUCraft Legacy."
+#~ msgstr ""
+
+#~ msgid "invites you to join the server."
+#~ msgstr ""
+
+#~ msgid "Activate Whitelist"
+#~ msgstr "Applica filtri"
+
+#~ msgid "Please log in or create a UwUpad account to claim your invite."
+#~ msgstr ""
+
+#~ msgid "Log In to Activate"
+#~ msgstr "Devi essere loggato per commentare."
+
+#~ msgid "This server is for Licensed Minecraft Java Edition accounts only."
+#~ msgstr ""
+
+#~ msgid "Progress"
+#~ msgstr "Ruolo"
+
+#~ msgid "For voice chat, we use the"
+#~ msgstr ""
+
+#~ msgid "Hours Played"
+#~ msgstr "Contatti"
+
+#~ msgid "Your time builds the world's history."
+#~ msgstr ""
+
+#~ msgid "Invite Keys"
+#~ msgstr "Chiave non valida."
+
+#~ msgid "How does it work?"
+#~ msgstr ""
+
+#~ msgid "Next key at"
+#~ msgstr "Pag. succ."
+
+#~ msgid "hours"
+#~ msgstr "Nome utente"
+
+#~ msgid "You have reached the invite limit for now."
+#~ msgstr ""
+
+#~ msgid "Invite a Player"
+#~ msgstr ""
+
+#~ msgid "Sync VIP Role on Server"
+#~ msgstr ""
+
+#~ msgid "Your Generated Invite Links:"
+#~ msgstr ""
+
+#~ msgid "Click to copy"
+#~ msgstr ""
+
+#~ msgid "Revoke Key"
+#~ msgstr ""
+
+#~ msgid "Welcome, Patron"
+#~ msgstr "Commenti"
+
+#~ msgid "Link your Minecraft account to claim your in-game VIP benefits."
+#~ msgstr ""
+
+#~ msgid "Your Minecraft Username"
+#~ msgstr "Il server Minecraft di UwU Pad è attivo!"
+
+#~ msgid "Link Account"
+#~ msgstr "Hai già un account?"
+
+#~ msgid "This action is permanent and can only be changed via support."
+#~ msgstr ""
+
+#~ msgid "Whitelist Pass"
+#~ msgstr "Applica filtri"
+
+#~ msgid "LIFETIME"
+#~ msgstr ""
+
+#~ msgid "Permanent access to a world with no wipes"
+#~ msgstr ""
+
+#~ msgid "Pure vanilla gameplay as it was intended"
+#~ msgstr ""
+
+#~ msgid "Live community with voice chat (PlasmoVoice)"
+#~ msgstr ""
+
+#~ msgid "License-only access — no cheaters or alt accounts"
+#~ msgstr ""
+
+#~ msgid "Purchase Pass"
+#~ msgstr "Cambia password"
+
+#~ msgid "Founding Patron"
+#~ msgstr "Navigazione"
+
+#~ msgid "All Whitelist Pass benefits, plus:"
+#~ msgstr ""
+
+#~ msgid "UwUpad VIP Status"
+#~ msgstr ""
+
+#~ msgid "on site & Discord"
+#~ msgstr "Unisciti a Discord"
+
+#~ msgid "Unique nickname color & prefix in-game"
+#~ msgstr ""
+
+#~ msgid "Priority queue access on a full server"
+#~ msgstr ""
+
+#~ msgid "Voting rights on community decisions"
+#~ msgstr ""
+
+#~ msgid "Log In to Become a Patron"
+#~ msgstr "Commenti"
+
+#~ msgid "Become a Member"
+#~ msgstr "Commenti"
+
+#~ msgid "To purchase access or claim an invite, you must be logged in."
+#~ msgstr ""
+
+#~ msgid "The Heart of the Community"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All discussions, events, and player trades happen on our Discord server. "
+#~ "Joining is essential to become a full-fledged member of the world."
+#~ msgstr ""
+
+#~ msgid "Join the Discord"
+#~ msgstr "Unisciti a Discord"
+
+#~ msgid ""
+#~ "To get your VIP/Whitelist role in Discord, link your Discord account in your"
+#~ msgstr ""
+
+#~ msgid "UwUpad profile"
+#~ msgstr "Visualizza Profilo"
+
+#~ msgid "then type"
+#~ msgstr "Tipo di suono"
+
+#~ msgid "in the"
+#~ msgstr ""
+
+#~ msgid "channel."
+#~ msgstr "Annulla"
+
+#~ msgid "Minecraft: Java Edition (License required) | Server Version: 1.21+"
+#~ msgstr ""
+
+#~ msgid "Voice Chat Mod:"
+#~ msgstr ""
+
+#~ msgid "Could not load player count."
+#~ msgstr "Impossibile caricare i commenti."
+
+#~ msgid "Copied!"
+#~ msgstr ""
+
+#~ msgid "Failed to re-sync role."
+#~ msgstr "Impossibile caricare altri commenti."
+
+#~ msgid "Sync Signal Sent"
+#~ msgstr ""
+
+#~ msgid "Please rejoin the server in a minute to see the changes."
+#~ msgstr ""
+
+#~ msgid "Done!"
+#~ msgstr "Dona"
+
+#~ msgid ""
+#~ "Enter the exact Minecraft username of the player you want to invite. You "
+#~ "will receive a unique link to share with them."
+#~ msgstr ""
+
+#~ msgid "Generate Invite"
+#~ msgstr ""
+
+#~ msgid "Failed to generate invite."
+#~ msgstr "Impossibile eliminare il commento."
+
+#~ msgid "Invite Link Generated!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Your unique invite link for ${mcUsername} has been copied to your clipboard."
+#~ " Send it to player!"
+#~ msgstr ""
+
+#~ msgid "Great!"
+#~ msgstr "Hai già un account?"
+
+#~ msgid ""
+#~ "You earn invite keys by playing on the server. Each key allows you to "
+#~ "whitelist one friend."
+#~ msgstr ""
+
+#~ msgid "1st Key"
+#~ msgstr ""
+
+#~ msgid "Hours"
+#~ msgstr "Nome utente"
+
+#~ msgid "2nd Key"
+#~ msgstr "Chiave non valida."
+
+#~ msgid "3rd Key"
+#~ msgstr ""
+
+#~ msgid "4th Key"
+#~ msgstr ""
+
+#~ msgid "5th Key"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The required time doubles for each subsequent key. Time is only tracked for "
+#~ "whitelisted players."
+#~ msgstr ""
+
+#~ msgid "Invite System"
+#~ msgstr "Chiave non valida."
+
+#~ msgid "Got It"
+#~ msgstr ""
+
+#~ msgid "Revoke Invite Key?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Are you sure you want to delete this unused invite key? This action cannot "
+#~ "be undone."
+#~ msgstr ""
+#~ "Sei sicuro di voler eliminare questo commento? L'azione è irreversibile."
+
+#~ msgid "Revoke"
+#~ msgstr "Immagine di anteprima"
+
+#~ msgid "Invite link copied to clipboard!"
+#~ msgstr "Copiato negli appunti"
+
+#~ msgid "Failed to activate invite."
+#~ msgstr "Impossibile eliminare il commento."
+
+#~ msgid "Welcome to the Server!"
+#~ msgstr "Servizi supportati"
+
+#~ msgid ""
+#~ "Your invite has been successfully activated! You can now join the server. We"
+#~ " recommend reading the wiki to get started."
+#~ msgstr ""
+
+#~ msgid "Let's Go!"
+#~ msgstr ""
+
+#~ msgid "Activation Error"
+#~ msgstr ""
+
+#~ msgid "Server is unable to process the request."
+#~ msgstr ""
+
+#~ msgid "Success!"
+#~ msgstr "Successo"
+
+#~ msgid "Account linked successfully!"
+#~ msgstr "Commento pubblicato con successo!"
+
+#~ msgid "Linked!"
+#~ msgstr "Apprezzati"
+
+#~ msgid "Please try again later."
+#~ msgstr "Impossibile caricare i commenti. Riprova più tardi."
+
+#~ msgid "Enter Minecraft Username"
+#~ msgstr "Il server Minecraft di UwU Pad è attivo!"
+
+#~ msgid ""
+#~ "Please enter your exact case-sensitive username. This purchase will be "
+#~ "linked to this account permanently."
+#~ msgstr ""
+
+#~ msgid "Continue"
+#~ msgstr ""
+
+#~ msgid "Purchase Whitelist Pass"
+#~ msgstr "Applica filtri"
+
+#~ msgid "Invalid Username"
+#~ msgstr "ID utente non valido."
+
+#~ msgid "Please enter a valid Minecraft username."
+#~ msgstr "Inserisci un motivo valido."
+
+#~ msgid "Confirm Action"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Are you sure you want to permanently link the Minecraft account "
+#~ "\"${username}\" to your VIP status?"
+#~ msgstr ""
+
+#~ msgid "Final Confirmation"
+#~ msgstr ""
+
+#~ msgid "This action CANNOT be undone without contacting support."
+#~ msgstr ""
+
+#~ msgid "Guide: The Living Mail System"
+#~ msgstr ""
+
+#~ msgid "Back to Server Page"
+#~ msgstr "Torna alla pagina principale"
+
+#~ msgid "The Living Mail System"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A player-driven delivery network based on engineering, resources, and real "
+#~ "journeys."
+#~ msgstr ""
+
+#~ msgid "Part 1: Building Your Mail Station"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To join the mail network, you need a station. It requires three components "
+#~ "placed near each other:"
+#~ msgstr ""
+
+#~ msgid "Container:"
+#~ msgstr ""
+
+#~ msgid "Any Chest or Barrel. This is your mailbox."
+#~ msgstr ""
+
+#~ msgid "Address Sign:"
+#~ msgstr ""
+
+#~ msgid "A Sign placed directly on or next to the container."
+#~ msgstr ""
+
+#~ msgid "Activator (Beehive):"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A Beehive within a ~5 block radius. It serves as a home base for your "
+#~ "couriers."
+#~ msgstr ""
+
+#~ msgid "Setup Steps:"
+#~ msgstr ""
+
+#~ msgid "Place your Chest/Barrel and a Beehive nearby."
+#~ msgstr ""
+
+#~ msgid "Place a Sign on the container and type exactly this on the first line:"
+#~ msgstr ""
+
+#~ msgid "World Integration:"
+#~ msgstr ""
+
+#~ msgid "Once created, your Mail Station will be automatically marked on the"
+#~ msgstr ""
+
+#~ msgid "live map"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Upon completion, the plugin will automatically convert the sign and assign "
+#~ "your station a unique Postal Index."
+#~ msgstr ""
+
+#~ msgid "Part 2: Your Courier (Bee)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Your station's couriers are bees. The system prioritizes using a nearby "
+#~ "free-flying bee for delivery. If there are no free bees, one will be "
+#~ "dispatched from the Beehive linked to your station. Make sure your beehive "
+#~ "is populated!"
+#~ msgstr ""
+
+#~ msgid "Bee courier dispatch process"
+#~ msgstr ""
+
+#~ msgid "Tip:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Ensure your Beehive is accessible and has bees. No bees means no delivery "
+#~ "service!"
+#~ msgstr ""
+
+#~ msgid "Part 3: Sending a Parcel"
+#~ msgstr ""
+
+#~ msgid "Sending a parcel is a precise, 4-step ritual:"
+#~ msgstr ""
+
+#~ msgid "Package:"
+#~ msgstr ""
+
+#~ msgid "Place the items in a"
+#~ msgstr ""
+
+#~ msgid "Bundle"
+#~ msgstr ""
+
+#~ msgid "for small parcels, or a"
+#~ msgstr ""
+
+#~ msgid "Shulker Box"
+#~ msgstr ""
+
+#~ msgid "for large cargo. The delivery cost is the same for both."
+#~ msgstr ""
+
+#~ msgid "Address:"
+#~ msgstr ""
+
+#~ msgid "Take a piece of"
+#~ msgstr ""
+
+#~ msgid "Paper"
+#~ msgstr ""
+
+#~ msgid "and rename it on an"
+#~ msgstr ""
+
+#~ msgid "Anvil"
+#~ msgstr "Email"
+
+#~ msgid "to the recipient's Postal Index (e.g.,"
+#~ msgstr ""
+
+#~ msgid "Calculate Cost:"
+#~ msgstr ""
+
+#~ msgid "Place your"
+#~ msgstr "Sei sicuro?"
+
+#~ msgid "and the renamed"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "into your station's container. You will immediately receive a chat message "
+#~ "with the delivery cost."
+#~ msgstr ""
+
+#~ msgid "Pay & Send:"
+#~ msgstr ""
+
+#~ msgid "Add the required"
+#~ msgstr "Non autenticato."
+
+#~ msgid "Emeralds"
+#~ msgstr "Email"
+
+#~ msgid ""
+#~ "to the container. Once the Package, Address, and full Payment are present, "
+#~ "the Beehive will activate, dispatching a bee to collect your delivery. You "
+#~ "can track the courier's real-time flight path on the live map!"
+#~ msgstr ""
+
+#~ msgid "Part 4: Tariffs & Express Delivery"
+#~ msgstr ""
+
+#~ msgid "The delivery cost depends on the distance to the destination."
+#~ msgstr ""
+
+#~ msgid "Base Currency:"
+#~ msgstr ""
+
+#~ msgid "Emerald"
+#~ msgstr "Email"
+
+#~ msgid "Tariffs:"
+#~ msgstr ""
+
+#~ msgid "Up to 500 blocks:"
+#~ msgstr ""
+
+#~ msgid "Free"
+#~ msgstr "Hai già un account?"
+
+#~ msgid "501 - 2000 blocks:"
+#~ msgstr ""
+
+#~ msgid "Over 2000 blocks:"
+#~ msgstr ""
+
+#~ msgid "The price increases by"
+#~ msgstr ""
+
+#~ msgid "for each subsequent 1000 blocks."
+#~ msgstr ""
+
+#~ msgid "Need it faster? Use Express Delivery!"
+#~ msgstr ""
+
+#~ msgid "Express Currency:"
+#~ msgstr ""
+
+#~ msgid "Eye of Ender"
+#~ msgstr ""
+
+#~ msgid "Effect:"
+#~ msgstr "ELIMINATO"
+
+#~ msgid "Increases courier speed by"
+#~ msgstr ""
+
+#~ msgid "How to use:"
+#~ msgstr "Mostra altro"
+
+#~ msgid ""
+#~ "Simply add 1 Eye of Ender to the container in addition to the emerald "
+#~ "payment."
+#~ msgstr ""
+
+#~ msgid "Part 5: Mechanics & Details"
+#~ msgstr ""
+
+#~ msgid "Phantom Courier:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "While on a delivery, your Bee becomes an invulnerable phantom. It flies in a"
+#~ " straight line to its destination, passing through any obstacles. It cannot "
+#~ "be killed or stuck."
+#~ msgstr ""
+
+#~ msgid "Chunk Loading:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The courier can travel any distance, even if no players are online along the"
+#~ " route. The system will automatically keep the necessary chunks loaded for "
+#~ "its flight."
+#~ msgstr ""
+
+#~ msgid "Delivery Failure:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If the recipient's container is broken or full, the courier will drop the "
+#~ "bundle as an item at the destination coordinates. The delivery fee is non-"
+#~ "refundable."
+#~ msgstr ""
+
+#~ msgid "Dismantling a Station:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Breaking any of the three core components (sign, container, or beehive) will"
+#~ " permanently dismantle your mail station."
+#~ msgstr ""
+
+#~ msgid "Live Map Integration:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All registered Mail Stations and active couriers are visible in real-time on"
+#~ " map.uwupad.me. You can literally watch your package travel across the "
+#~ "world."
+#~ msgstr ""
+
+#~ msgid "UwUCraft Wiki"
+#~ msgstr ""
+
+#~ msgid "На сервер"
+#~ msgstr ""
+
+#~ msgid "Общее"
+#~ msgstr ""
+
+#~ msgid "Манифест"
+#~ msgstr ""
+
+#~ msgid "Правила"
+#~ msgstr ""
+
+#~ msgid "Правосудие"
+#~ msgstr ""
+
+#~ msgid "Особенности"
+#~ msgstr ""
+
+#~ msgid "Механики"
+#~ msgstr ""
+
+#~ msgid "Поселения"
+#~ msgstr ""
+
+#~ msgid "Живая Почта"
+#~ msgstr ""
+
+#~ msgid "UwUCraft: Гайд для игрока"
+#~ msgstr ""
+
+#~ msgid "Проект \"Хроника\""
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Наш сервер — это не просто выживание, это создание общей истории. Мы ценим "
+#~ "творчество, сотрудничество и доверие. Ваше приключение здесь — это новая "
+#~ "глава в нашей общей книге."
+#~ msgstr ""
+
+#~ msgid "Основы Сервера (Правила)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Эти правила — фундамент нашего сообщества. Их цель — защитить каждого игрока"
+#~ " и обеспечить комфортную игру. Все действия на сервере записываются "
+#~ "(логируются)."
+#~ msgstr ""
+
+#~ msgid "1. Фундамент Уважения"
+#~ msgstr ""
+
+#~ msgid "Будьте человеком."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Оскорбления, токсичное поведение, травля и разжигание ненависти строго "
+#~ "запрещены."
+#~ msgstr ""
+
+#~ msgid "Без спама."
+#~ msgstr ""
+
+#~ msgid "Уважайте чат и другие каналы коммуникации."
+#~ msgstr ""
+
+#~ msgid "2. Принципы Честной Игры"
+#~ msgstr ""
+
+#~ msgid "Нулевая терпимость к разрушениям."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Гриферство (разрушение чужих построек) и воровство в любом виде запрещены. "
+#~ "Это самые серьезные нарушения на сервере."
+#~ msgstr ""
+
+#~ msgid "Запрет на читы и эксплойты."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Использование читов, X-Ray, дюпа, багов игры или любых модификаций, дающих "
+#~ "нечестное преимущество, ведет к немедленной и перманентной блокировке."
+#~ msgstr ""
+
+#~ msgid "3. Правила Взаимодействия и PvP"
+#~ msgstr ""
+
+#~ msgid "PvP по умолчанию ЗАПРЕЩЕНО."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "На сервере нельзя нанести урон другому игроку без его согласия. Правило "
+#~ "имеет только три исключения:"
+#~ msgstr ""
+
+#~ msgid "Явное согласие:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "PvP разрешено, если оба игрока написали явное согласие в общем чате "
+#~ "(например, \"дуэль\", \"+\", \"го\")."
+#~ msgstr ""
+
+#~ msgid "PvP-Зоны:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Вы можете строить арены. Нахождение на территории, четко обозначенной "
+#~ "табличками как \"PvP-Зона\", приравнивается к согласию на бой."
+#~ msgstr ""
+
+#~ msgid "Статус \"Изгой\":"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Игрока со статусом \"Изгой\", выданным по решению суда, может атаковать "
+#~ "любой игрок без предупреждения."
+#~ msgstr ""
+
+#~ msgid "4. Сохранение Мира"
+#~ msgstr ""
+
+#~ msgid "Уважайте личное пространство."
+#~ msgstr ""
+
+#~ msgid "Не стройте вплотную к чужим постройкам без разрешения."
+#~ msgstr ""
+
+#~ msgid "Сохраняйте эстетику."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Убирайте за собой временные постройки (столбы 1x1, летающие кроны деревьев)."
+#~ msgstr ""
+
+#~ msgid "Никаких лаг-машин."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Создание механизмов, вызывающих значительную нагрузку на сервер, запрещено."
+#~ msgstr ""
+
+#~ msgid "Система Правосудия: Декреты"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Мы создали систему, которая работает по двум главным принципам: "
+#~ "<b>мгновенная помощь жертве</b> и <b>неотвратимое наказание для "
+#~ "нарушителя</b>."
+#~ msgstr ""
+
+#~ msgid "Шаг 1: Подача Иска"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Если вы стали жертвой нарушения (кража, гриф), немедленно создайте заявку в "
+#~ "Discord-канале"
+#~ msgstr ""
+
+#~ msgid ". Администратор проверит логи и вынесет вердикт в кратчайшие сроки."
+#~ msgstr ""
+
+#~ msgid "Шаг 2: Мгновенная Компенсация"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Как только вина нарушителя будет доказана, администрация <b>немедленно "
+#~ "выдаст вам полную компенсацию</b> утерянных ресурсов из <b>\"Общественного "
+#~ "Фонда\"</b> сервера. Вам не нужно ждать, пока нарушитель вернется в игру. "
+#~ "Ваша проблема будет решена."
+#~ msgstr ""
+
+#~ msgid "Если Фонд пуст?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Вам будет выдан \"Долговой Ордер\" — официальная гарантия, которая ставит "
+#~ "вас на первое место в очереди на получение компенсации, как только Фонд "
+#~ "пополнится."
+#~ msgstr ""
+
+#~ msgid "Шаг 3: Наказание Нарушителя — Статус \"Изгой\""
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Теперь нарушитель должен ресурсы не вам, а серверу. У него есть 24 часа, "
+#~ "чтобы вернуть долг и уплатить штраф. Если он этого не делает, его аккаунт "
+#~ "получает бессрочный статус <b>\"Изгой\"</b>."
+#~ msgstr ""
+
+#~ msgid "Что такое \"Изгой\"?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Это полная заморозка геймплея. При входе на сервер игрок оказывается в "
+#~ "изоляции, не может двигаться или взаимодействовать с миром. Единственный "
+#~ "выход — связаться с админом для погашения долга перед сервером."
+#~ msgstr ""
+
+#~ msgid "А если он не заходит?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Если \"Изгой\" не появляется 7 дней, администрация выносит \"Заочный "
+#~ "приговор\" и конфискует его имущество для погашения долга."
+#~ msgstr ""
+
+#~ msgid "Шаг 4: Система Трех Ударов"
+#~ msgstr ""
+
+#~ msgid "Мы верим во второй шанс, но не в третий."
+#~ msgstr ""
+
+#~ msgid "Первое нарушение:"
+#~ msgstr ""
+
+#~ msgid "Наказание по системе \"Декретов\"."
+#~ msgstr ""
+
+#~ msgid "Второе нарушение:"
+#~ msgstr ""
+
+#~ msgid "Наказание с многократно увеличенным штрафом."
+#~ msgstr ""
+
+#~ msgid "Третье нарушение:"
+#~ msgstr ""
+
+#~ msgid "Перманентный бан."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Эта система гарантирует, что на сервере безопасно, а справедливость — не "
+#~ "пустое слово."
+#~ msgstr ""
+
+#~ msgid "Ключевые особенности"
+#~ msgstr ""
+
+#~ msgid "Система приглашений (ключи)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Мы — закрытое сообщество. Вы зарабатываете ключи за игровое время, чтобы "
+#~ "пригласить на сервер своих друзей. Вы несете ответственность за тех, кого "
+#~ "пригласили."
+#~ msgstr ""
+
+#~ msgid "Изменения геймплея"
+#~ msgstr ""
+
+#~ msgid "Один игрок на кровать:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Один игрок на кровать. У игрока может быть только одна кровать, а также "
+#~ "никто другой не сможет ее использовать."
+#~ msgstr ""
+
+#~ msgid "Усиленные Гасты:"
+#~ msgstr ""
+
+#~ msgid "Скорость полета счастливых гастов увеличена."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Мы понимаем, как обидно терять все вещи из-за случайной смерти. Поэтому на "
+#~ "сервере действует система защиты инвентаря."
+#~ msgstr ""
+
+#~ msgid "Призрак:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "После смерти на вашем месте остается ваш призрак. Новый призрак <b>НЕ</b> "
+#~ "заменяет старого."
+#~ msgstr ""
+
+#~ msgid "Защита (1 час):"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "В течение первого часа (72000 тиков) только вы можете забрать свои вещи, "
+#~ "просто подойдя к нему."
+#~ msgstr ""
+
+#~ msgid "Общий доступ:"
+#~ msgstr ""
+
+#~ msgid "По истечении часа <b>любой</b> игрок сможет подобрать ваши вещи."
+#~ msgstr ""
+
+#~ msgid "Исчезновение:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Призрак исчезнет навсегда через час, если чанк с ним будет прогружен. "
+#~ "(только вами)"
+#~ msgstr ""
+
+#~ msgid "Гайд по Поселениям"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Вы можете объединяться с другими игроками, чтобы создавать свои собственные "
+#~ "хутора, деревни и города. Регистрация происходит в Discord-канале"
+#~ msgstr ""
+
+#~ msgid "Правила поселений"
+#~ msgstr ""
+
+#~ msgid "Минимум участников:"
+#~ msgstr ""
+
+#~ msgid "игрока"
+#~ msgstr ""
+
+#~ msgid "Дистанция:"
+#~ msgstr ""
+
+#~ msgid "Не менее 500 блоков от центра другого поселения."
+#~ msgstr ""
+
+#~ msgid "Активность:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Если все участники неактивны более недели, поселение может быть признано "
+#~ "заброшенным."
+#~ msgstr ""
+
+#~ msgid "Гайд по Живой Почте"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "На сервере действует уникальная система доставки предметов с помощью пчел. "
+#~ "Подробный гайд находится на отдельной странице."
+#~ msgstr ""
+
+#~ msgid "Перейти к системе Живой Почты"
+#~ msgstr ""
+
+#~ msgid "На этой странице"
+#~ msgstr ""
+
+#~ msgid "UwUCasino"
+#~ msgstr ""
+
+#~ msgid "Casino"
+#~ msgstr ""
+
+#~ msgid "Lobby"
+#~ msgstr ""
+
+#~ msgid "Stats"
+#~ msgstr "Tag"
+
+#~ msgid "Leaders"
+#~ msgstr "Classifica"
+
+#~ msgid "Create Game"
+#~ msgstr "Hai già un account?"
+
+#~ msgid "All Lobbies"
+#~ msgstr "Più apprezzati"
+
+#~ msgid "My Lobbies"
+#~ msgstr ""
+
+#~ msgid "No active games. Create one!"
+#~ msgstr ""
+
+#~ msgid "Loading stats..."
+#~ msgstr "Caricamento commenti..."
+
+#~ msgid "Match History"
+#~ msgstr ""
+
+#~ msgid "No recent matches."
+#~ msgstr ""
+
+#~ msgid "Loading leaderboard..."
+#~ msgstr "Classifica"
+
+#~ msgid "Welcome to UwUCasino"
+#~ msgstr ""
+
+#~ msgid "Create or join a game from the lobby to start playing!"
+#~ msgstr ""
+
+#~ msgid "Global Chat"
+#~ msgstr ""
+
+#~ msgid "Say something..."
+#~ msgstr ""
+
+#~ msgid "Access Denied"
+#~ msgstr "Accesso negato"
+
+#~ msgid "You must be logged in to enter the UwUCasino."
+#~ msgstr "Devi essere loggato per commentare."
+
+#~ msgid "Log In to Play"
+#~ msgstr "Devi essere loggato per commentare."
+
+#~ msgid "Create a New Game"
+#~ msgstr "Crea nuova playlist"
+
+#~ msgid "Game"
+#~ msgstr ""
+
+#~ msgid "Coin Flip"
+#~ msgstr ""
+
+#~ msgid "Dice Roll"
+#~ msgstr "Assegna ruolo"
+
+#~ msgid "Rock, Paper, Scissors"
+#~ msgstr ""
+
+#~ msgid "Stake"
+#~ msgstr "Salva"
+
+#~ msgid "The amount you and your opponent will bet."
+#~ msgstr ""
+
+#~ msgid "Create Lobby"
+#~ msgstr "Hai già un account?"
+
+#~ msgid "Heads"
+#~ msgstr "Email"
+
+#~ msgid "Tails"
+#~ msgstr "Email"
+
+#~ msgid "Provably Fair"
+#~ msgstr ""
+
+#~ msgid "Roll Dice"
+#~ msgstr "Ruolo"
+
+#~ msgid "You have no active lobbies."
+#~ msgstr ""
+
+#~ msgid "Join"
+#~ msgstr "Accedi"
+
+#~ msgid "Back to Lobby"
+#~ msgstr "Torna alla Home"
+
+#~ msgid "One step left!"
+#~ msgstr ""
+
+#~ msgid "Subscribe to support us or wait to skip."
+#~ msgstr ""
+
+#~ msgid "Skip in"
+#~ msgstr ""
+
+#~ msgid "Skip"
+#~ msgstr ""
+
+#~ msgid "Subscription Required"
+#~ msgstr "Non autenticato."
+
+#~ msgid ""
+#~ "To continue listening and downloading, please subscribe to our channel."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Warning: If you unsubscribe, you will be asked to subscribe again next time."
+#~ msgstr ""
+
+#~ msgid "Would you like to save the sounds as permanent playlists?"
+#~ msgstr ""
+
+#~ msgid "Get VIP to unlock playlists, GIF avatars, and an ad-free experience!"
+#~ msgstr ""
+
+#~ msgid "UwUCraft Settlements"
+#~ msgstr ""
+
+#~ msgid "Back to Main"
+#~ msgstr "Torna alla pagina principale"
+
+#~ msgid "Settlements of UwUCraft"
+#~ msgstr ""
+
+#~ msgid "A living history of the server, documented by its players."
+#~ msgstr ""
+
+#~ msgid "Add Settlement"
+#~ msgstr ""
+
+#~ msgid "Settlement Name"
+#~ msgstr ""
+
+#~ msgid "Members (comma separated)"
+#~ msgstr ""
+
+#~ msgid "Short description or theme..."
+#~ msgstr ""
+
+#~ msgid "No settlements have been registered yet."
+#~ msgstr ""
+
+#~ msgid "Map"
+#~ msgstr ""
+
+#~ msgid "Details"
+#~ msgstr "Email"
+
+#~ msgid "Add New Settlement"
+#~ msgstr ""
+
+#~ msgid "Create"
+#~ msgstr "Hai già un account?"
+
+#~ msgid "Edit Settlement"
+#~ msgstr ""
+
+#~ msgid "Delete Settlement?"
+#~ msgstr ""
+
+#~ msgid "This action cannot be undone."
+#~ msgstr "Il commento non può essere vuoto."
+
+#~ msgid "Сортировка"
+#~ msgstr ""
+
+#~ msgid "Популярное"
+#~ msgstr ""
+
+#~ msgid "Новое"
+#~ msgstr ""
+
+#~ msgid "Горячее"
+#~ msgstr ""
+
+#~ msgid "Период"
+#~ msgstr ""
+
+#~ msgid "Всё время"
+#~ msgstr ""
+
+#~ msgid "Год"
+#~ msgstr ""
+
+#~ msgid "Месяц"
+#~ msgstr ""
+
+#~ msgid "Неделя"
+#~ msgstr ""
+
+#~ msgid "День"
+#~ msgstr ""
+
+#~ msgid "Сейчас"
+#~ msgstr ""
+
+#~ msgid "Поиск по названию..."
+#~ msgstr ""
+
+#~ msgid "Воспроизвести"
+#~ msgstr ""
+
+#~ msgid "Скачать"
+#~ msgstr ""
+
+#~ msgid "Этот трек уже скачивается."
+#~ msgstr ""
+
+#~ msgid "Дождитесь окончания другой загрузки."
+#~ msgstr ""
+
+#~ msgid "Загрузка..."
+#~ msgstr ""
+
+#~ msgid "Ошибка загрузки"
+#~ msgstr ""
+
+#~ msgid "Завершено!"
+#~ msgstr ""
+
+#~ msgid "Ошибка"
+#~ msgstr ""
+
+#~ msgid "Create an Account"
+#~ msgstr "Hai già un account?"
+
+#~ msgid "5-16 characters, a-z, 0-9"
+#~ msgstr ""
+
+#~ msgid "At least 8 characters"
+#~ msgstr ""
+
+#~ msgid "Terms"
+#~ msgstr "Filtri"
+
+#~ msgid "Policy"
+#~ msgstr "Popolarità"
+
+#~ msgid "You must agree to the Terms and Policy."
+#~ msgstr "Devi accettare i Termini di Utilizzo e l'Informativa sulla Privacy."
+
+#~ msgid "Registration successful!"
+#~ msgstr "Registrazione avvenuta con successo"
+
+#~ msgid "Minecraft"
+#~ msgstr ""
+
+#~ msgid "Receive a premium tank and status for 7 days."
+#~ msgstr ""
+
+#~ msgid "Password does not meet security requirements."
+#~ msgstr ""
+
+#~ msgid "Unlock VIP features!"
+#~ msgstr ""

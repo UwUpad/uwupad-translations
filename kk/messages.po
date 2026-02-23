@@ -1,0 +1,6001 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-02-23 08:22+0000\n"
+"PO-Revision-Date: 2024-04-20 00:00+0000\n"
+"Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
+"Language-Team: kk <LL@li.org>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Filters"
+msgstr "Сүзгілер"
+
+msgid "Sound Type"
+msgstr "Дыбыс түрі"
+
+msgid "Loud"
+msgstr "Қатты"
+
+msgid "Explicit"
+msgstr "Ашық"
+
+msgid "Duration"
+msgstr "Ұзақтығы"
+
+msgid "Very short (<5s)"
+msgstr "Өте қысқа (<5с)"
+
+msgid "Short (5-15s)"
+msgstr "Қысқа (5-15с)"
+
+msgid "Medium (15-30s)"
+msgstr "Орташа (15-30с)"
+
+msgid "Long (30-60s)"
+msgstr "Ұзын (30-60с)"
+
+msgid "Very long (>60s)"
+msgstr "Өте ұзын (>60с)"
+
+msgid "Popularity"
+msgstr "Танымалдылығы"
+
+msgid "Unpopular (<10 downloads)"
+msgstr "Танымал емес (<10 жүктеу)"
+
+msgid "Not popular (10-50 downloads)"
+msgstr "Аз танымал (10-50 жүктеу)"
+
+msgid "Popular (50-100 downloads)"
+msgstr "Танымал (50-100 жүктеу)"
+
+msgid ""
+"Very popular (100-500\n"
+"                                downloads)"
+msgstr ""
+"Өте танымал (100-500\n"
+"                                жүктеу)"
+
+msgid ""
+"Extremely popular (>500\n"
+"                                downloads)"
+msgstr ""
+"Өте танымал (>500\n"
+"                                жүктеу)"
+
+msgid "Likes"
+msgstr "Лайктар"
+
+msgid "Unliked (<10 likes)"
+msgstr "Аз лайктар (<10)"
+
+msgid "Not liked (10-50 likes)"
+msgstr "Көп лайктар емес (10-50)"
+
+msgid "Liked (50-100 likes)"
+msgstr "Ұнады (50-100)"
+
+msgid "Very liked (100-500 likes)"
+msgstr "Өте ұнады (100-500)"
+
+msgid "Extremely liked (>500 likes)"
+msgstr "Өте қатты ұнады (>500)"
+
+msgid "Newest"
+msgstr "Ең жаңасы"
+
+msgid "Most Downloaded"
+msgstr "Ең көп жүктелген"
+
+msgid "Most Liked"
+msgstr "Ең танымал"
+
+msgid "Apply Filters"
+msgstr "Сүзгілерді қолдану"
+
+msgid "About us"
+msgstr "Біз туралы"
+
+msgid "Admin: Minecraft Management"
+msgstr "UwUPad Minecraft сервері"
+
+msgid "Minecraft Server Management"
+msgstr "Minecraft-тағы лақап ат"
+
+msgid "Whitelist and link user accounts."
+msgstr "Ақ тізім және пайдаланушы тіркелгілерін байланыстыру."
+
+msgid "Add / Link Player"
+msgstr "Ойыншыны қосу / Байланыстыру"
+
+msgid "UwUpad User (ID or Username)"
+msgstr "UwUpad пайдаланушысы (ID немесе пайдаланушы аты)"
+
+msgid "Minecraft Username"
+msgstr "Minecraft лақап аты"
+
+msgid "Link"
+msgstr "Байланыстыру"
+
+msgid "Linked Accounts"
+msgstr "Байланыстырылған тіркелгілер"
+
+msgid "UwUpad User"
+msgstr "UwUpad пайдаланушысы"
+
+msgid "Minecraft UUID"
+msgstr "Minecraft UUID"
+
+msgid "Actions"
+msgstr "Әрекеттер"
+
+msgid "Confirm"
+msgstr "Растау"
+
+msgid "Cancel"
+msgstr "Бас тарту"
+
+msgid "Submit"
+msgstr "Жіберу"
+
+msgid "No linked users found."
+msgstr "Байланыстырылған пайдаланушылар табылмады."
+
+msgid "Failed to load user list."
+msgstr "Пайдаланушы тізімін жүктеу мүмкін болмады."
+
+msgid "Failed to link user."
+msgstr "Пайдаланушыны байланыстыру мүмкін болмады."
+
+msgid "User Linked Successfully"
+msgstr "Пайдаланушы сәтті байланыстырылды"
+
+msgid "OK"
+msgstr "Жарайды"
+
+msgid "Error"
+msgstr "Қате"
+
+msgid "Unlink Account?"
+msgstr "Аккаунтты ажырату керек пе?"
+
+#, python-brace-format
+msgid ""
+"Are you sure you want to unlink ${username}? This will remove them from the "
+"whitelist."
+msgstr ""
+"${username} байланысын үзуді қалайтыныңызға сенімдісіз бе? Бұл оларды ақ "
+"тізімнен жояды."
+
+msgid "Unlink"
+msgstr "Байланысты үзу"
+
+msgid "Failed to unlink user."
+msgstr "Пайдаланушыны ажырату мүмкін болмады."
+
+msgid "User Unlinked"
+msgstr "Пайдаланушы ажыратылды"
+
+msgid "Successfully unlinked"
+msgstr "Сәтті ажыратылды"
+
+msgid "Advertise on UwUpad"
+msgstr "UwUpad-та жарнама беру"
+
+msgid "Place Your Banner on UwUpad!"
+msgstr "Баннерді UwUpad-қа орналастырыңыз!"
+
+msgid "Reach thousands of gamers and active internet users every day."
+msgstr ""
+"Күн сайын мыңдаған ойыншылар мен белсенді интернет пайдаланушыларына "
+"жетіңіз."
+
+msgid "What You Get"
+msgstr "Сіз не аласыз"
+
+msgid "Impressions / week"
+msgstr "Көрсетілімдер / апта"
+
+msgid "Clicks / week"
+msgstr "Басулар / апта"
+
+msgid "Rules & Guidelines"
+msgstr "Ережелер мен нұсқаулар"
+
+msgid "Allowed:"
+msgstr "Рұқсат етілген:"
+
+msgid "Gaming projects, Discord servers, social media, SFW content."
+msgstr "Ойын жобалары, Discord серверлері, әлеуметтік желілер, SFW контент."
+
+msgid "Forbidden:"
+msgstr "Тыйым салынған:"
+
+msgid "NSFW, gambling, scams, malware, or any illegal content."
+msgstr ""
+"NSFW, құмар ойындар, алаяқтық, зиянды бағдарламалар немесе кез келген заңсыз"
+" мазмұн."
+
+msgid "Format:"
+msgstr "Пішім:"
+
+msgid ""
+"Your banner should be a PNG, JPG, or GIF file (e.g., 728x90 or similar)."
+msgstr ""
+"Баннер PNG, JPG немесе GIF файлы болуы керек (мысалы, 728x90 немесе ұқсас)."
+
+msgid "Disclaimer:"
+msgstr "Жауапкершіліктен бас тарту:"
+
+msgid ""
+"We reserve the right to refuse any advertisement that does not align with "
+"our community standards."
+msgstr ""
+"Біз қауымдастық стандарттарына сәйкес келмейтін кез келген жарнамадан бас "
+"тарту құқығын өзімізде қалдырамыз."
+
+msgid "Pricing & How to Buy"
+msgstr "Бағасы және қалай сатып алуға болады"
+
+msgid "Price:"
+msgstr "Бағасы:"
+
+msgid "per week."
+msgstr "аптасына."
+
+msgid "How it works:"
+msgstr "Қалай жұмыс істейді:"
+
+msgid "Click the button below to pay with Telegram Stars."
+msgstr "Telegram Stars арқылы төлеу үшін төмендегі батырманы басыңыз."
+
+msgid "In the payment comment, you MUST include two links:"
+msgstr "Төлем түсініктемесінде ЕКІ сілтеме кірістіруіңіз КЕРЕК:"
+
+msgid "A direct link to your banner image (e.g., from Imgur)."
+msgstr "Баннер суретіне тікелей сілтеме (мысалы, Imgur-дан)."
+
+msgid "The link where your banner should lead."
+msgstr "Баннер бағыттауы керек сілтеме."
+
+msgid ""
+"After successful payment, we will manually place your ad within 24 hours."
+msgstr ""
+"Төлем сәтті өткеннен кейін, біз сіздің жарнамаңызды 24 сағат ішінде қолмен "
+"орналастырамыз."
+
+msgid "Submit Your Ad for Review"
+msgstr "Жарнамаңызды шолуға жіберіңіз"
+
+msgid "per week"
+msgstr "аптасына"
+
+msgid "Submit Your Ad"
+msgstr "Жарнамаңызды жіберу"
+
+msgid "Step 1: Provide Ad Details"
+msgstr "1-қадам: Жарнама мәліметтерін көрсетіңіз"
+
+msgid ""
+"Fill out the form below. After submission, you will be redirected to "
+"Telegram for payment."
+msgstr ""
+"Төмендегі пішінді толтырыңыз. Жібергеннен кейін, сіз төлем үшін Telegram-ға "
+"бағытталасыз."
+
+msgid "Direct Link to your Banner Image"
+msgstr "Баннер суретіне тікелей сілтеме"
+
+msgid "Target URL"
+msgstr "Мақсатты URL"
+
+msgid "where users will be sent"
+msgstr "пайдаланушылар жіберілетін жер"
+
+msgid "Your Contact"
+msgstr "Сіздің байланысыңыз"
+
+msgid "We will use this to contact you if there are issues with your ad."
+msgstr ""
+"Жарнамаңызбен мәселелер туындаса, біз сізбен байланысу үшін осыны "
+"қолданамыз."
+
+msgid "Step 2: Proceed to Payment"
+msgstr "2-қадам: Төлемге өту"
+
+msgid "All fields are required."
+msgstr "Барлық өрістер міндетті."
+
+msgid "Server error."
+msgstr "Сервер қатесі."
+
+msgid "Payment link not received."
+msgstr "Төлем сілтемесі алынбады."
+
+msgid "Access denied"
+msgstr "Қатынасудан бас тартылды"
+
+msgid "Your account has been banned"
+msgstr "Сіздің аккаунтыңыз бұғатталды"
+
+msgid "Contact us for more information"
+msgstr "Қосымша ақпарат алу үшін бізбен байланысыңыз"
+
+msgid "The best sounds for your Soundpad and ringtones"
+msgstr "Soundpad және қоңырау үндері үшін ең жақсы дыбыстар"
+
+msgid ""
+"Find that meme sound from TikTok or a scream from your favorite game in 5 "
+"seconds. Download for free for your Soundpad or set it as a ringtone. Our "
+"collection is updated daily!"
+msgstr ""
+"TikTok-тан сол мем дыбысын немесе сүйікті ойыныңыздан айқайды 5 секундта "
+"табыңыз. Soundpad үшін тегін жүктеп алыңыз немесе қоңырау үні ретінде "
+"орнатыңыз. Біздің жинағымыз күн сайын жаңартылады!"
+
+msgid "Welcome back,"
+msgstr "Қайта қош келдіңіз,"
+
+#, fuzzy
+msgid "Available for VIP users only"
+msgstr "GIF тек VIP пайдаланушылары үшін"
+
+#, fuzzy
+msgid "Bulk Download is a VIP Feature"
+msgstr "Бұл функцияны ашу"
+
+msgid "Upgrade to VIP to download entire playlists as a .zip file!"
+msgstr ""
+
+#, fuzzy
+msgid "Pause"
+msgstr "Пайдаланушы"
+
+#, fuzzy
+msgid "This playlist is empty."
+msgstr "Ойнату тізімінің атауы бос болмауы керек."
+
+#, fuzzy
+msgid "Remove from download"
+msgstr "Ең көп жүктелген"
+
+#, fuzzy
+msgid "Could not load playlist."
+msgstr "Ойнату тізімдеріңізді жүктеу мүмкін болмады."
+
+#, fuzzy
+msgid "Download cancelled."
+msgstr "Жүктеу қатесі."
+
+#, fuzzy
+msgid "Downloading"
+msgstr "Жүктеу"
+
+#, fuzzy
+msgid "Creating ZIP file... Please wait."
+msgstr "Жүктеу жүруде. Күтіңіз."
+
+msgid "Compressing..."
+msgstr ""
+
+#, fuzzy
+msgid "Resume"
+msgstr "Тегін"
+
+msgid "Paused..."
+msgstr ""
+
+msgid "Resuming..."
+msgstr ""
+
+#, fuzzy
+msgid "Import cancelled."
+msgstr "Кесу операциясы тоқтатылды."
+
+#, fuzzy
+msgid "Importing"
+msgstr "Импорттау:"
+
+#, fuzzy
+msgid "Import complete!"
+msgstr "URL-дан импорттау"
+
+#, fuzzy
+msgid "Sound data not loaded yet."
+msgstr "Дыбыс деректері әлі жүктелген жоқ. Біраз күтіңіз."
+
+#, fuzzy
+msgid "Error: Sound data not found."
+msgstr "Дыбыс табылмады."
+
+msgid "Choose Boost Option"
+msgstr ""
+
+msgid "Promote your sound to reach a wider audience."
+msgstr ""
+
+msgid "VIP BENEFIT"
+msgstr ""
+
+#, fuzzy
+msgid "Free Boost"
+msgstr "Растау және төлеу"
+
+#, fuzzy, python-format
+msgid "1 free boost every %(hours)s hours."
+msgstr "VIP ретінде, сіз стиліңізді тегін өзгерте аласыз."
+
+msgid "Use Free Boost"
+msgstr ""
+
+msgid "PAY-TO-BOOST"
+msgstr ""
+
+#, fuzzy
+msgid "Pay with PAW"
+msgstr "PAW-ты енгізу"
+
+#, fuzzy, python-format
+msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
+msgstr "Сіздің ағымдағы балансыңыз: %(balance)s PAW."
+
+#, python-format
+msgid "Pay %(cost)s PAW"
+msgstr ""
+
+msgid "Confirm Sound Boost"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
+msgstr "Бұл стильді қолдану <strong>%(cost)s PAW</strong> тұрады."
+
+msgid ""
+"This will place your sound at the top of the 'For You' page for a limited "
+"time."
+msgstr ""
+
+#, fuzzy
+msgid "Get free boosts and more with VIP!"
+msgstr "Шектеусіз стиль өзгерістерін және басқа да нәрселерді VIP-пен алыңыз!"
+
+msgid "Learn More"
+msgstr "Көбірек білу"
+
+#, fuzzy
+msgid "Confirm & Boost"
+msgstr "Растау және төлеу"
+
+msgid "An error occurred"
+msgstr "Қате орын алды"
+
+msgid "All caught up!"
+msgstr ""
+
+#, fuzzy
+msgid "You have no new notifications."
+msgstr "Жаһандық хабарландырулар:"
+
+msgid "Oops!"
+msgstr ""
+
+#, fuzzy
+msgid "Could not load notifications. Please try again later."
+msgstr "Түсініктемелерді жүктеу мүмкін болмады. Кейінірек қайталап көріңіз."
+
+msgid "Just now"
+msgstr ""
+
+#, python-format
+msgid "%(minutes)s m ago"
+msgstr ""
+
+#, python-format
+msgid "%(hours)s h ago"
+msgstr ""
+
+#, python-format
+msgid "%(days)s d ago"
+msgstr ""
+
+msgid "AdBlock detected"
+msgstr ""
+
+msgid ""
+"We rely on ads to keep our servers running. Please consider supporting us by"
+" disabling AdBlock or"
+msgstr ""
+
+#, fuzzy
+msgid "getting VIP"
+msgstr "Параметрлер"
+
+msgid "I disabled it, Refresh"
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+#, fuzzy
+msgid "How to disable?"
+msgstr "Қалай қолдануға болады:"
+
+msgid "Continue to site (AdBlocker active)"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Join Millions of Players Worldwide"
+msgstr ""
+
+msgid "Experience epic tank battles. Download now and get a free tank!"
+msgstr ""
+
+#, fuzzy
+msgid "Play Now"
+msgstr "Қолдану"
+
+msgid "Change Password"
+msgstr "Құпия сөзді өзгерту"
+
+msgid "Secure your UwUpad account by changing your password."
+msgstr "Құпия сөзіңізді өзгерту арқылы UwUpad тіркелгіңізді қорғаңыз."
+
+msgid "New password"
+msgstr "Жаңа құпия сөз"
+
+msgid "Password"
+msgstr "Құпия сөз"
+
+msgid "Repeat new password"
+msgstr "Жаңа құпия сөзді қайталаңыз"
+
+msgid "Change password"
+msgstr "Құпия сөзді өзгерту"
+
+msgid "Password changed"
+msgstr "Құпия сөз өзгертілді"
+
+msgid "VIP Checkout"
+msgstr "VIP төлемі"
+
+msgid ""
+"Help keep UwUpad running! Every donation helps us store more sounds and stay"
+" fast."
+msgstr ""
+"UwUpad жұмысын жалғастыруға көмектесіңіз! Әрбір қайырымдылық бізге көбірек "
+"дыбыстарды сақтауға және жылдамдықты сақтауға көмектеседі."
+
+msgid "VIP Membership Checkout"
+msgstr "VIP мүшелігін төлеу"
+
+msgid "Payment Method:"
+msgstr "Төлем әдісі:"
+
+msgid "Proceed to Payment"
+msgstr "Төлемге өту"
+
+msgid "Contact Us"
+msgstr "Бізбен байланысыңыз"
+
+msgid "Have a question or suggestion? Get in touch with the UwUpad team."
+msgstr "Сұрақ немесе ұсыныс бар ма? UwUpad командасымен байланысыңыз."
+
+msgid "Back to Home"
+msgstr "Басты бетке оралу"
+
+#, fuzzy
+msgid "Get in Touch"
+msgstr "Сатып алу үшін кіру"
+
+msgid ""
+"We are always open for communication. Choose a convenient way to contact us "
+"or leave a message through the form below."
+msgstr ""
+
+#, fuzzy
+msgid "Direct Contacts"
+msgstr "Байланыстар"
+
+#, fuzzy
+msgid "Telegram (Owner)"
+msgstr "Telegram боты"
+
+msgid "@daisov - for urgent matters"
+msgstr ""
+
+#, fuzzy
+msgid "Discord Server"
+msgstr "Discord"
+
+msgid "Join our community"
+msgstr ""
+
+msgid "Email"
+msgstr "Электрондық пошта"
+
+msgid "admin@uwupad.me - for suggestions"
+msgstr ""
+
+#, fuzzy
+msgid "Telegram Bot"
+msgstr "Telegram боты"
+
+msgid "@uwupad_bot - for support"
+msgstr ""
+
+#, fuzzy
+msgid "An error occurred. Please try again later."
+msgstr "Деректерді жүктеу қатесі. Кейінірек қайталап көріңіз."
+
+msgid "Feedback Form"
+msgstr ""
+
+#, fuzzy
+msgid "Your Name"
+msgstr "Пайдаланушы аты"
+
+#, fuzzy
+msgid "Your Email (for a reply)"
+msgstr "Сіздің электрондық пошта мекенжайыңыз"
+
+msgid "Your Message..."
+msgstr ""
+
+msgid "Send Message"
+msgstr ""
+
+msgid "Support UwUpad"
+msgstr "UwUpad-қа қолдау көрсету"
+
+#, fuzzy
+msgid "Back"
+msgstr "Қара тізім"
+
+#, fuzzy
+msgid "Top Supporters 💖"
+msgstr "UwUpad-қа қолдау көрсету"
+
+#, fuzzy
+msgid "Support Our Project"
+msgstr "UwUpad-қа қолдау көрсету"
+
+msgid ""
+"UwUpad is free and lives on your support. Donations keep servers running!"
+msgstr ""
+
+msgid "Exchange Rate"
+msgstr ""
+
+msgid "Small help"
+msgstr ""
+
+msgid "Coffee treat ☕"
+msgstr ""
+
+#, fuzzy
+msgid "Server costs"
+msgstr "Сервер қатесі."
+
+#, fuzzy
+msgid "Big support 💖"
+msgstr "UwUpad-қа қолдау көрсету"
+
+msgid "Or enter custom amount"
+msgstr "Немесе теңшелетін соманы енгізіңіз"
+
+msgid "Donate"
+msgstr "Қайырымдылық жасау"
+
+msgid "Secure payment via Telegram Stars or Crypto."
+msgstr ""
+
+msgid "PAW tokens are added automatically as a thank you."
+msgstr ""
+
+#, fuzzy
+msgid "Other ways to support"
+msgstr "Қолдау қызметіне хабарласу"
+
+msgid "Card, SBP, and more — via donation platform"
+msgstr ""
+
+msgid "Crypto via Telegram"
+msgstr ""
+
+msgid "Send crypto through @wallet bot — fast and easy"
+msgstr ""
+
+msgid "Direct Crypto Transfer"
+msgstr ""
+
+#, fuzzy
+msgid "and more"
+msgstr "Көбірек білу"
+
+msgid "Choose Cryptocurrency"
+msgstr ""
+
+#, fuzzy
+msgid "Back to list"
+msgstr "Қара тізім"
+
+#, fuzzy
+msgid "Please enter a valid amount."
+msgstr "Дұрыс себеп енгізіңіз."
+
+msgid "Failed to create payment link."
+msgstr "Төлем сілтемесін жасау мүмкін болмады."
+
+msgid "DMCA Takedown Policy"
+msgstr "DMCA жою саясаты"
+
+msgid "Information about our policy regarding copyright infringement notices."
+msgstr ""
+"Авторлық құқықты бұзу туралы хабарламаларға қатысты біздің саясатымыз туралы"
+" ақпарат."
+
+msgid "Support UwUpad with Stars"
+msgstr "Жұлдыздармен UwUpad-қа қолдау көрсету"
+
+msgid ""
+"Your support helps us cover server costs and build a better platform for "
+"everyone."
+msgstr ""
+"Сіздің қолдауыңыз бізге сервер шығындарын жабуға және барлығына арналған "
+"жақсырақ платформа құруға көмектеседі."
+
+msgid "Donate with Telegram Stars"
+msgstr "Telegram Stars арқылы қайырымдылық жасау"
+
+msgid "Choose a preset amount or enter a custom one:"
+msgstr ""
+"Алдын ала орнатылған соманы таңдаңыз немесе өзіңіздің сомаңызды енгізіңіз:"
+
+msgid "Custom Amount (e.g., 77)"
+msgstr "Теңшелетін сома (мысалы, 77)"
+
+msgid "Please enter an amount between 1 and 2500 Stars."
+msgstr "1 мен 2500 Stars аралығындағы соманы енгізіңіз."
+
+msgid "Recommendations"
+msgstr "Ұсыныстар"
+
+msgid "All Time"
+msgstr "Барлық уақыт"
+
+msgid "This Month"
+msgstr "Осы ай"
+
+msgid "This Week"
+msgstr "Осы апта"
+
+msgid "Today"
+msgstr "Бүгін"
+
+msgid "Failed to load sounds."
+msgstr "Дыбыстарды жүктеу мүмкін болмады."
+
+msgid "Popular"
+msgstr "Танымал"
+
+msgid "Previous"
+msgstr "Алдыңғы"
+
+msgid "Next page"
+msgstr "Келесі бет"
+
+msgid "Top Sound Creators"
+msgstr "Ең үздік дыбыс жасаушылар"
+
+msgid ""
+"Check out the leaderboard of the most popular and active sound creators on "
+"UwUpad."
+msgstr ""
+"UwUpad-тағы ең танымал және белсенді дыбыс жасаушылардың рейтингісін "
+"қараңыз."
+
+msgid "Leaderboard"
+msgstr "Пайдаланушылар тізімі"
+
+msgid "Influence"
+msgstr "Ықпал"
+
+msgid "Uploads"
+msgstr "Жүктелімдер"
+
+#, fuzzy
+msgid "Downloads"
+msgstr "Жүктеу"
+
+msgid "Comments"
+msgstr "Түсініктемелер"
+
+#, fuzzy
+msgid "Comment Likes"
+msgstr "Түсініктемелер"
+
+#, fuzzy
+msgid "Donations"
+msgstr "Әрекеттер"
+
+msgid "Prev."
+msgstr "Алдыңғы."
+
+msgid "Next"
+msgstr "Келесі"
+
+#, fuzzy
+msgid "Updating leaderboard..."
+msgstr "Пайдаланушылар тізімі"
+
+#, fuzzy
+msgid "Next update in:"
+msgstr "Келесі бет"
+
+msgid "Updated in real-time"
+msgstr ""
+
+msgid "No users found for this period."
+msgstr "Бұл кезең үшін пайдаланушылар табылмады."
+
+#, fuzzy
+msgid "Error loading data:"
+msgstr "WaveSurfer-де толқын пішінін жүктеу қатесі:"
+
+msgid "Login to UwUpad"
+msgstr "UwUpad-қа кіру"
+
+msgid "Back to UwUpad"
+msgstr "UwUpad-қа оралу"
+
+msgid "Welcome Back"
+msgstr "Қайта қош келдіңіз"
+
+msgid "Email or Username"
+msgstr "Электрондық пошта немесе пайдаланушы аты"
+
+msgid "Log In"
+msgstr "Кіру"
+
+msgid "OR"
+msgstr "НЕМЕСЕ"
+
+msgid "Continue with Discord"
+msgstr "Discord арқылы жалғастыру"
+
+msgid "Don't have an account?"
+msgstr "Аккаунтыңыз жоқ па?"
+
+msgid "Forgot password?"
+msgstr "Құпия сөзіңізді ұмыттыңыз ба?"
+
+msgid "An error occurred."
+msgstr "Қате орын алды."
+
+msgid "Successfully logged in!"
+msgstr "Сәтті кірдіңіз!"
+
+msgid "A network error occurred."
+msgstr "Желі қатесі орын алды."
+
+msgid "News & Updates"
+msgstr "Жаңалықтар мен жаңартулар"
+
+msgid "The latest news and announcements from the UwUpad platform."
+msgstr "UwUpad платформасының соңғы жаңалықтары мен хабарландырулары."
+
+#, fuzzy
+msgid "Notification History"
+msgstr "Жаһандық хабарландырулар:"
+
+msgid ""
+"View all your past notifications on UwUpad, including likes, comments, and "
+"system alerts."
+msgstr ""
+
+#, fuzzy
+msgid "Filter by Type"
+msgstr "содан кейін теріңіз"
+
+#, fuzzy
+msgid "All Types"
+msgstr "Барлық уақыт"
+
+#, fuzzy
+msgid "Likes on Sounds"
+msgstr "Ойнату тізімі табылмады"
+
+#, fuzzy
+msgid "Likes on Comments"
+msgstr "Түсініктемелер жүктелуде..."
+
+#, fuzzy
+msgid "New Comments & Replies"
+msgstr "Әзірге түсініктемелер жоқ."
+
+#, fuzzy
+msgid "Mentions in Comments"
+msgstr "Түсініктемелер жүктелуде..."
+
+msgid "Processing Errors"
+msgstr ""
+
+#, fuzzy
+msgid "Admin Actions"
+msgstr "Әрекеттер"
+
+#, fuzzy
+msgid "Filter by Status"
+msgstr "Сүзгілер"
+
+msgid "All"
+msgstr ""
+
+msgid "Unread"
+msgstr ""
+
+#, fuzzy
+msgid "Read"
+msgstr "Жарнама"
+
+#, fuzzy
+msgid "No notifications found"
+msgstr "Жаһандық хабарландырулар:"
+
+msgid "Try adjusting your filters or check back later."
+msgstr ""
+
+msgid "Something went wrong"
+msgstr ""
+
+#, fuzzy
+msgid "We couldn't load your notifications. Please try again."
+msgstr "Жүктеу қатесі. Қайталап көріңіз."
+
+msgid "Playlist not found"
+msgstr "Ойнату тізімі табылмады"
+
+msgid "Playlist with this ID not found. Please check the entered data."
+msgstr "Бұл ID бар ойнату тізімі табылмады. Енгізілген деректерді тексеріңіз."
+
+msgid "Back to main page"
+msgstr "Басты бетке оралу"
+
+#, python-format
+msgid "%(playlist_name)s - Sound Playlist"
+msgstr "%(playlist_name)s - Дыбыс ойнату тізімі"
+
+#, python-format
+msgid ""
+"Listen to the \"%(playlist_name)s\" playlist on UwUpad, created by "
+"%(author)s."
+msgstr ""
+"UwUpad-тағы «%(playlist_name)s» ойнату тізімін тыңдаңыз, оны %(author)s "
+"жасаған."
+
+msgid "Edit Playlist"
+msgstr "Ойнату тізімін өңдеу"
+
+msgid "Title"
+msgstr "Атауы"
+
+msgid "Preview Image"
+msgstr "Алдын ала қарау суреті"
+
+msgid "Choose a file…"
+msgstr "Файл таңдаңыз…"
+
+msgid "No file selected"
+msgstr "Файл таңдалмаған"
+
+msgid "Recommended 16:9. GIF only for VIP users."
+msgstr "Ұсынылатын 16:9. GIF тек VIP пайдаланушылары үшін."
+
+msgid "Public Playlist"
+msgstr "Жалпыға қолжетімді ойнату тізімі"
+
+msgid "Save Changes"
+msgstr "Өзгерістерді сақтау"
+
+msgid "Playlist"
+msgstr "Ойнату тізімі"
+
+msgid "Edit"
+msgstr "Өңдеу"
+
+#, fuzzy
+msgid "Download Playlists"
+msgstr "Ойнату тізімдерін жүктеу мүмкін болмады."
+
+msgid ""
+"Downloading entire playlists as a .zip archive is a VIP feature. Upgrade now"
+" for instant access!"
+msgstr ""
+
+msgid "Download Playlist (VIP only)"
+msgstr ""
+
+msgid "Delete"
+msgstr "Жою"
+
+msgid "Playlists"
+msgstr "Ойнату тізімдері"
+
+msgid "Search playlists"
+msgstr "Ойнату тізімдерін іздеу"
+
+msgid "Sounds Inside"
+msgstr "Ішіндегі дыбыстар"
+
+msgid "Mini (<5)"
+msgstr "Мини (<5)"
+
+msgid "Small (5-15)"
+msgstr "Кішкентай (5-15)"
+
+msgid "Medium (15-30)"
+msgstr "Орташа (15-30)"
+
+msgid "Large (30-60)"
+msgstr "Үлкен (30-60)"
+
+msgid "Very Large (>60)"
+msgstr "Өте үлкен (>60)"
+
+msgid "Unpopular (<10 views)"
+msgstr "Танымал емес (<10 қаралым)"
+
+msgid "Not Popular (10-50 views)"
+msgstr "Аз танымал (10-50 қаралым)"
+
+msgid "Popular (50-100 views)"
+msgstr "Танымал (50-100 қаралым)"
+
+msgid "Very Popular (100-500 views)"
+msgstr "Өте танымал (100-500 қаралым)"
+
+msgid "Extremely Popular (>500 views)"
+msgstr "Өте танымал (>500 қаралым)"
+
+msgid "Sort by"
+msgstr "Сұрыптау"
+
+msgid "Sort: Newest"
+msgstr "Сұрыптау: Ең жаңасы"
+
+msgid "Sort: Most Viewed"
+msgstr "Сұрыптау: Ең көп қаралым"
+
+msgid "Sort: Most Sounds"
+msgstr "Сұрыптау: Ең көп дыбыс"
+
+#, fuzzy
+msgid "Sort: Oldest"
+msgstr "Сұрыптау: Ең жаңасы"
+
+#, fuzzy
+msgid "Sort: Name (A-Z)"
+msgstr "Пайдаланушы аты: A-Z"
+
+#, fuzzy
+msgid "Sort: Name (Z-A)"
+msgstr "Пайдаланушы аты: Z-A"
+
+#, fuzzy
+msgid "Download Playlist"
+msgstr "Ойнату тізімдерін жүктеу мүмкін болмады."
+
+msgid "No playlists found."
+msgstr "Ойнату тізімдері табылмады."
+
+msgid "Failed to load playlists."
+msgstr "Ойнату тізімдерін жүктеу мүмкін болмады."
+
+msgid "Poll Results"
+msgstr "Сауалнама нәтижелері"
+
+msgid "votes"
+msgstr "дауыстар"
+
+msgid "Total Votes:"
+msgstr "Барлық дауыстар:"
+
+msgid "Privacy Policy"
+msgstr "Құпиялық саясаты"
+
+msgid "Your privacy is important to us. Read our privacy policy."
+msgstr ""
+"Сіздің құпиялылығыңыз біз үшін маңызды. Біздің құпиялық саясатымызды оқыңыз."
+
+#, python-format
+msgid "%(username)s's Profile"
+msgstr "%(username)s профилі"
+
+#, python-format
+msgid "Check out the sounds and playlists uploaded by %(username)s on UwUpad."
+msgstr ""
+"UwUpad-та %(username)s жүктеген дыбыстар мен ойнату тізімдерін қараңыз."
+
+msgid "Linked as"
+msgstr "Байланыстырылған"
+
+msgid "Link your Discord account"
+msgstr "Discord аккаунтыңызды байланыстырыңыз"
+
+msgid "Edit profile"
+msgstr "Профильді өңдеу"
+
+msgid "Log out"
+msgstr "Шығу"
+
+msgid "Edit role"
+msgstr "Рөлді өңдеу"
+
+#, fuzzy
+msgid "Admin Edit"
+msgstr "Әкімші"
+
+msgid "Add to blacklist"
+msgstr "Қара тізімге қосу"
+
+msgid "Total Views"
+msgstr "Барлық қаралымдар"
+
+msgid "Total Uploads"
+msgstr "Барлық жүктеулер"
+
+msgid "Total Likes"
+msgstr "Барлық лайктар"
+
+#, fuzzy
+msgid "Comments Made"
+msgstr "Түсініктемелер"
+
+msgid "Uploaded"
+msgstr "Жүктелген"
+
+msgid "Liked"
+msgstr "Ұнады"
+
+msgid "Blacklist"
+msgstr "Қара тізім"
+
+msgid "Edit Your Profile"
+msgstr "Профиліңізді өңдеу"
+
+msgid "Username"
+msgstr "Пайдаланушы аты"
+
+msgid "Bio"
+msgstr "Биография"
+
+msgid "Tell us a bit about yourself (max 250 chars)..."
+msgstr "Өзіңіз туралы біраз айтыңыз (макс 250 таңба)..."
+
+msgid "Optional. Displayed on your profile."
+msgstr "Міндетті емес. Профиліңізде көрсетіледі."
+
+msgid "Avatar"
+msgstr "Аватар"
+
+#, fuzzy
+msgid "As a VIP, you can upload animated GIF avatars."
+msgstr "Анимациялық GIF аватарлары"
+
+#, fuzzy
+msgid "Want animated GIF avatars?"
+msgstr "Анимациялық GIF аватарлары"
+
+#, fuzzy
+msgid "Upgrade to VIP!"
+msgstr "VIP-ке жаңарту"
+
+msgid "Save Profile Info"
+msgstr "Профиль ақпаратын сақтау"
+
+msgid "Nickname Style"
+msgstr "Лақап ат стилі"
+
+msgid "Solid Fill"
+msgstr "Біртұтас толтыру"
+
+msgid "Gradient"
+msgstr "Градиент"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Add Color"
+msgstr "Түс қосу"
+
+msgid "Angle"
+msgstr "Бұрыш"
+
+msgid ""
+"Forbidden red/black colors similar to staff, or unsafe code (e.g. url()) "
+"will be rejected."
+msgstr ""
+"Қызметкерлерге ұқсас тыйым салынған қызыл/қара түстер немесе қауіпті код "
+"(мысалы, url()) қабылданбайды."
+
+msgid "Apply Style"
+msgstr "Стильді қолдану"
+
+msgid "Each style change costs 100 PAW. VIP users get unlimited changes."
+msgstr ""
+"Әрбір стиль өзгерісі 100 PAW тұрады. VIP пайдаланушылары шектеусіз "
+"өзгерістерге ие болады."
+
+msgid "As a VIP, you can change your style for free."
+msgstr "VIP ретінде, сіз стиліңізді тегін өзгерте аласыз."
+
+msgid "Close"
+msgstr "Жабу"
+
+#, fuzzy
+msgid "Edit Role for"
+msgstr "Рөлді өңдеу"
+
+#, fuzzy
+msgid "Role"
+msgstr "Рөлдер"
+
+msgid "Role expires on (optional)"
+msgstr ""
+
+msgid "Leave empty for a permanent role."
+msgstr ""
+
+#, fuzzy
+msgid "Save changes"
+msgstr "Өзгерістерді сақтау"
+
+msgid "Admin Panel: Edit User"
+msgstr ""
+
+msgid "Balance (PAW)"
+msgstr ""
+
+#, fuzzy
+msgid "Account Status"
+msgstr "Бізбен байланысыңыз"
+
+msgid "Is Active (user can log in)"
+msgstr ""
+
+msgid ""
+"Unchecking this will prevent the user from logging in, but will not delete "
+"their content."
+msgstr ""
+
+msgid "Confirm Style Change"
+msgstr "Стиль өзгерісін растау"
+
+#, python-format
+msgid "Applying this style will cost <strong>%(cost)s PAW</strong>."
+msgstr "Бұл стильді қолдану <strong>%(cost)s PAW</strong> тұрады."
+
+#, python-format
+msgid "Your current balance: %(balance)s PAW."
+msgstr "Сіздің ағымдағы балансыңыз: %(balance)s PAW."
+
+msgid "Confirm & Pay"
+msgstr "Растау және төлеу"
+
+msgid "Get unlimited style changes and more with VIP!"
+msgstr "Шектеусіз стиль өзгерістерін және басқа да нәрселерді VIP-пен алыңыз!"
+
+msgid "Insufficient Funds"
+msgstr "Қаражат жеткіліксіз"
+
+#, python-format
+msgid ""
+"You need <strong>%(cost)s PAW</strong> to change your style, but you only "
+"have <strong>%(balance)s PAW</strong>."
+msgstr ""
+"Стиліңізді өзгерту үшін сізге <strong>%(cost)s PAW</strong> қажет, бірақ "
+"сізде бар болғаны <strong>%(balance)s PAW</strong> бар."
+
+msgid "OPTION 1"
+msgstr "1-НҰСҚА"
+
+msgid "Top Up Balance"
+msgstr "Балансты толықтыру"
+
+msgid "Go to Deposit"
+msgstr "Депозитке өту"
+
+msgid "Add PAW to your account."
+msgstr "Аккаунтыңызға PAW қосыңыз."
+
+msgid "BEST VALUE"
+msgstr "ҮЗДІК ҚҰН"
+
+msgid "Upgrade to VIP"
+msgstr "VIP-ке жаңарту"
+
+msgid "Unlock VIP"
+msgstr "VIP құлпын ашу"
+
+msgid "Get <strong>unlimited</strong> style changes & more!"
+msgstr ""
+"<strong>Шектеусіз</strong> стиль өзгерістерін және басқа да нәрселерді "
+"алыңыз!"
+
+msgid "This user has not posted any comments yet."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to load comments."
+msgstr "Көбірек түсініктемелерді жүктеу мүмкін болмады."
+
+#, fuzzy
+msgid "Remove from blacklist"
+msgstr "Пайдаланушы қара тізімнен жойылды."
+
+#, fuzzy
+msgid "Are you sure you want to assign admin role? This grants full access."
+msgstr "Discord аккаунтыңызды ажыратқыңыз келетініне сенімдісіз бе?"
+
+msgid "Are you sure you want to unlink your Discord account?"
+msgstr "Discord аккаунтыңызды ажыратқыңыз келетініне сенімдісіз бе?"
+
+#, fuzzy
+msgid "Could not load user data."
+msgstr "Ойнату тізімдеріңізді жүктеу мүмкін болмады."
+
+#, fuzzy
+msgid "User updated successfully. Page will reload."
+msgstr "Пайдаланушы бұғаттаудан сәтті шығарылды."
+
+msgid "An unknown error occurred."
+msgstr "Белгісіз қате орын алды."
+
+#, fuzzy
+msgid "Register on UwUpad"
+msgstr "UwUpad-та жарнама беру"
+
+msgid "Create Account"
+msgstr "Аккаунт жасау"
+
+msgid "Already have an account?"
+msgstr "Аккаунтыңыз бар ма?"
+
+#, fuzzy
+msgid "Account created!"
+msgstr "Бізбен байланысыңыз"
+
+msgid "Reset Your Password"
+msgstr "Құпия сөзіңізді қалпына келтіріңіз"
+
+msgid ""
+"Forgot your password? Enter your email to receive instructions on how to "
+"reset it."
+msgstr ""
+"Құпия сөзіңізді ұмыттыңыз ба? Оны қалай қалпына келтіру керектігі туралы "
+"нұсқаулық алу үшін электрондық поштаңызды енгізіңіз."
+
+msgid "Reset password"
+msgstr "Құпия сөзді қалпына келтіру"
+
+msgid "Mail with password recovery instructions has been sent"
+msgstr ""
+"Құпия сөзді қалпына келтіру нұсқаулары бар электрондық пошта жіберілді"
+
+msgid "Click the button below to change your password."
+msgstr "Құпия сөзіңізді өзгерту үшін төмендегі батырманы басыңыз."
+
+msgid "Search by query "
+msgstr "Сұрау бойынша іздеу "
+
+msgid "Sound not found"
+msgstr "Дыбыс табылмады"
+
+msgid "Sound with this ID not found. Please check the entered data."
+msgstr "Бұл ID бар дыбыс табылмады. Енгізілген деректерді тексеріңіз."
+
+#, python-format
+msgid "Download \"%(sound_name)s\" Sound"
+msgstr "«%(sound_name)s» дыбысын жүктеу"
+
+#, python-format
+msgid ""
+"Listen to and download the \"%(sound_name)s\" sound effect for free. Perfect"
+" for Soundpad, ringtones, and streams."
+msgstr ""
+"«%(sound_name)s» дыбыс эффектісін тегін тыңдаңыз және жүктеп алыңыз. "
+"Soundpad, қоңырау үндері және стримдер үшін тамаша."
+
+msgid "Add to Soundpad"
+msgstr "Soundpad-қа қосу"
+
+msgid "Download"
+msgstr "Жүктеу"
+
+msgid "Like"
+msgstr "Лайк"
+
+msgid "Share"
+msgstr "Бөлісу"
+
+msgid "LOUD"
+msgstr "ҚАТТЫ"
+
+msgid "EXPLICIT"
+msgstr "АШЫҚ"
+
+#, fuzzy
+msgid "Edit sound"
+msgstr "Дыбыс"
+
+msgid "Add a comment..."
+msgstr "Түсініктеме қосу..."
+
+#, fuzzy
+msgid "Remove image"
+msgstr "Алдын ала қарау суреті"
+
+msgid "Attach image"
+msgstr ""
+
+#, fuzzy
+msgid "Post"
+msgstr "Енгізу"
+
+msgid "You must be"
+msgstr "Сіз"
+
+msgid "logged in"
+msgstr "жүйеге кірген"
+
+msgid "to comment."
+msgstr "болуыңыз керек."
+
+#, fuzzy
+msgid "Close (Esc)"
+msgstr "Жабу"
+
+#, fuzzy
+msgid "Zoom In"
+msgstr "Кіру"
+
+#, fuzzy
+msgid "Zoom Out"
+msgstr "Шығу"
+
+msgid "Rotate Left"
+msgstr ""
+
+msgid "Rotate Right"
+msgstr ""
+
+msgid "Lightbox Image"
+msgstr ""
+
+msgid "You must be logged in to like sounds."
+msgstr "Дыбыстарды ұнату үшін жүйеге кіруіңіз керек."
+
+msgid "Failed to update like. Please try again."
+msgstr "Лайкты жаңарту мүмкін болмады. Қайталап көріңіз."
+
+msgid "The best sound sharing service for Soundpad"
+msgstr "Soundpad үшін ең жақсы дыбыс бөлісу қызметі"
+
+msgid "Sound"
+msgstr "Дыбыс"
+
+msgid "Listen"
+msgstr "Тыңдау"
+
+#, fuzzy
+msgid "Edit Sound"
+msgstr "Дыбыс"
+
+#, fuzzy
+msgid "Description"
+msgstr "Ұзақтығы"
+
+msgid "Add a brief description..."
+msgstr ""
+
+#, fuzzy
+msgid "Tags (comma separated)"
+msgstr "Мүшелер (үтірмен бөлінген)"
+
+msgid "Cover Image (Optional)"
+msgstr ""
+
+#, fuzzy
+msgid "Language (Admin)"
+msgstr "Тіл параметрлері"
+
+msgid "Mark as Music (Admin)"
+msgstr ""
+
+msgid "This will make the sound appear in the /music section."
+msgstr ""
+
+#, fuzzy
+msgid "Sound updated successfully!"
+msgstr "Дыбыс сәтті жүктелді!"
+
+#, fuzzy
+msgid "Write a reply..."
+msgstr "Жаңа ойнату тізімін жасау..."
+
+#, fuzzy
+msgid "Reply"
+msgstr "Қолдану"
+
+msgid "Loading..."
+msgstr "Жүктелуде..."
+
+#, python-format
+msgid "View %(count)s more replies"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+#, fuzzy
+msgid "Error loading replies."
+msgstr "Сұрауларды жүктеу қатесі."
+
+msgid "Comment attachment"
+msgstr ""
+
+#, python-format
+msgid "View %(count)s replies"
+msgstr ""
+
+msgid "No comments yet."
+msgstr "Әзірге түсініктемелер жоқ."
+
+#, fuzzy
+msgid "Comment or attachment cannot be empty."
+msgstr "Ойнату тізімінің атауы бос болмауы керек."
+
+msgid "Failed to post comment."
+msgstr "Түсініктеме жіберу мүмкін болмады."
+
+msgid "Hide reply"
+msgstr ""
+
+#, python-format
+msgid "Hide %(count)s replies"
+msgstr ""
+
+#, fuzzy
+msgid "You must be logged in to like comments."
+msgstr "Түсініктеме қалдыру үшін жүйеге кіруіңіз керек."
+
+msgid "Comment deleted."
+msgstr "Түсініктеме жойылды."
+
+msgid "Failed to delete comment."
+msgstr "Түсініктемені жою мүмкін болмады."
+
+#, python-format
+msgid "Sounds tagged with #%(tag_name)s"
+msgstr "#%(tag_name)s тегімен белгіленген дыбыстар"
+
+#, python-format
+msgid ""
+"Browse all sounds, audio memes, and ringtones tagged with #%(tag_name)s on "
+"UwUpad."
+msgstr ""
+"UwUpad-та #%(tag_name)s тегімен белгіленген барлық дыбыстарды, аудио "
+"мемдерді және қоңырау үндерін қараңыз."
+
+msgid "Terms of Service"
+msgstr "Қызмет көрсету шарттары"
+
+msgid "Read the Terms of Service for using the UwUpad platform."
+msgstr "UwUpad платформасын пайдалану шарттарын оқыңыз."
+
+msgid "Home"
+msgstr "Басты бет"
+
+msgid "Import"
+msgstr "Импорттау"
+
+msgid "Drop file here"
+msgstr "Файлды осы жерге тастаңыз"
+
+msgid "Sound Utilities (VIP)"
+msgstr "Дыбыс утилиттері (VIP)"
+
+msgid "Trim Audio"
+msgstr "Аудионы кесу"
+
+msgid ""
+"Loading audio... Click and drag on the waveform to select a region to keep."
+msgstr ""
+"Аудио жүктелуде... Сақтау үшін толқын пішінін басып, сүйреңіз. аймақты "
+"таңдаңыз."
+
+msgid "Loading waveform..."
+msgstr "Толқын пішіні жүктелуде..."
+
+msgid "Preview Selected"
+msgstr "Таңдалғанды алдын ала қарау"
+
+msgid "Use Trimmed Audio"
+msgstr "Кесілген аудионы пайдалану"
+
+msgid "Upload a Sound"
+msgstr "Дыбыс жүктеу"
+
+msgid "Creator Challenge: Free VIP"
+msgstr ""
+
+msgid "Upload sounds that get into recommendations to unlock 1 week of VIP!"
+msgstr ""
+
+#, fuzzy
+msgid "Progress:"
+msgstr "Прогресс"
+
+#, fuzzy
+msgid "sounds"
+msgstr "Дыбыс"
+
+msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
+msgstr ""
+
+msgid "Use our dedicated music uploader for better discovery and features."
+msgstr ""
+
+msgid "Go to Music Uploader"
+msgstr ""
+
+msgid "Tags"
+msgstr "Тегтер"
+
+msgid "rust, loud, funny"
+msgstr "тот, қатты, күлкілі"
+
+msgid "Add up to"
+msgstr "Қосу"
+
+msgid "tags. Each tag up to"
+msgstr ""
+
+msgid "characters."
+msgstr "таңбаға дейін."
+
+msgid "Description (Optional)"
+msgstr ""
+
+msgid "Add a brief description for your sound..."
+msgstr ""
+
+#, fuzzy
+msgid "Sound Language"
+msgstr "Тіл"
+
+msgid "Music / SFX (No language)"
+msgstr ""
+
+msgid "Other"
+msgstr "Басқа"
+
+msgid "Helps us recommend your sound to the right audience."
+msgstr ""
+
+msgid "Upload"
+msgstr "Жүктеу"
+
+msgid "Choose a file"
+msgstr "Файл таңдаңыз"
+
+msgid "Import from URL"
+msgstr "URL-дан импорттау"
+
+#, fuzzy
+msgid "Supports only audio files"
+msgstr "Тек аудио файлдарды қолдайды"
+
+msgid "Supported formats: mp3, wav, ogg"
+msgstr "Қолдау көрсетілетін форматтар: mp3, wav, ogg"
+
+msgid "Max file size:"
+msgstr "Файлдың максималды өлшемі:"
+
+msgid "I agree to the"
+msgstr "Мен келісемін"
+
+msgid "terms and conditions"
+msgstr "шарттар мен ережелерге"
+
+msgid "and"
+msgstr "және"
+
+msgid "privacy policy"
+msgstr "құпиялық саясатына"
+
+msgid ""
+"By uploading, you confirm that your content does not violate copyright and "
+"meets our community guidelines."
+msgstr ""
+
+#, fuzzy
+msgid "Custom Cover"
+msgstr "Ең үздік дыбыс жасаушылар"
+
+#, fuzzy
+msgid "Choose a cover image"
+msgstr "Файл таңдаңыз"
+
+msgid "Add a background to your sound card (max 2MB)."
+msgstr ""
+
+msgid "VIP Power-Ups"
+msgstr "VIP артықшылықтары"
+
+msgid "Sound Utilities (Trim)"
+msgstr "Дыбыс утилиттері (Кесу)"
+
+msgid "Trim your audio before uploading (VIP exclusive)."
+msgstr "Жүктеу алдында аудиоңызды кесіңіз (тек VIP үшін)."
+
+#, fuzzy
+msgid "Sound Utilities"
+msgstr "Дыбыс утилиттері (VIP)"
+
+msgid ""
+"Need to trim your audio? Our built-in Sound Trimmer is a VIP exclusive tool."
+msgstr ""
+
+msgid "Remove tag:"
+msgstr "Тегті жою:"
+
+msgid "Maximum"
+msgstr "Максимум"
+
+msgid "tags allowed."
+msgstr "тегтерге рұқсат етілген."
+
+msgid "File too big (Max:"
+msgstr "Файл тым үлкен (Макс:"
+
+msgid "Already uploading..."
+msgstr "Қазірдің өзінде жүктелуде..."
+
+msgid "Please agree to the terms and policy."
+msgstr "Шарттар мен саясатпен келісіңіз."
+
+msgid "Please add at least one tag."
+msgstr "Кем дегенде бір тег қосыңыз."
+
+#, fuzzy
+msgid "Trimmed file is too large."
+msgstr "Кесілген аудио (WAV) тым үлкен:"
+
+msgid "No file selected or imported for upload."
+msgstr "Жүктеу үшін файл таңдалмаған немесе импортталмаған."
+
+msgid "An error occurred ("
+msgstr "Қате орын алды ("
+
+msgid ")."
+msgstr ")."
+
+msgid "Sound uploaded successfully!"
+msgstr "Дыбыс сәтті жүктелді!"
+
+msgid "Network error or server issue:"
+msgstr "Желі қатесі немесе сервер мәселесі:"
+
+msgid "Please enter a URL."
+msgstr "URL мекенжайын енгізіңіз."
+
+msgid "Import error ("
+msgstr "Импорт қатесі ("
+
+msgid "URL ready for import:"
+msgstr "Импорттауға дайын URL:"
+
+msgid "Importing:"
+msgstr "Импорттау:"
+
+msgid "Import failed:"
+msgstr "Импорт қатесі:"
+
+msgid "Web Audio API not supported. Cannot use audio utilities."
+msgstr ""
+"Web Audio API қолдау көрсетілмейді. Аудио утилиттерді қолдану мүмкін емес."
+
+msgid "Please select an audio file first before using utilities."
+msgstr "Утилиттерді қолданбас бұрын алдымен аудио файлды таңдаңыз."
+
+#, fuzzy
+msgid "Error loading waveform:"
+msgstr "WaveSurfer-де толқын пішінін жүктеу қатесі:"
+
+msgid "Selected:"
+msgstr "Таңдалған:"
+
+msgid "Selected region is too short or invalid."
+msgstr "Таңдалған аймақ тым қысқа немесе жарамсыз."
+
+msgid "Audio trimmed. The trimmed version will be uploaded."
+msgstr "Аудио кесілді. Кесілген нұсқасы жүктеледі."
+
+msgid "Trimmed:"
+msgstr "Кесілген:"
+
+msgid "Error trimming audio:"
+msgstr "Аудионы кесу қатесі:"
+
+msgid "Trim operation cancelled."
+msgstr "Кесу операциясы тоқтатылды."
+
+msgid "Cover image is too large (max 2MB)."
+msgstr ""
+
+msgid "This is a VIP-exclusive feature."
+msgstr ""
+
+#, fuzzy
+msgid "sounds recommended"
+msgstr "Дыбыс туралы шағым берілді."
+
+#, fuzzy
+msgid "Challenge Completed!"
+msgstr "URL-дан импорттау"
+
+msgid "You have unlocked VIP status! Check your profile."
+msgstr ""
+
+msgid "User not found"
+msgstr "Пайдаланушы табылмады"
+
+msgid "User with this ID not found. Please check the entered data."
+msgstr "Бұл ID бар пайдаланушы табылмады. Енгізілген деректерді тексеріңіз."
+
+msgid "Users"
+msgstr "Пайдаланушылар"
+
+msgid "Search users..."
+msgstr "Пайдаланушыларды іздеу..."
+
+msgid "Roles"
+msgstr "Рөлдер"
+
+msgid "Admin"
+msgstr "Әкімші"
+
+msgid "Moderator"
+msgstr "Модератор"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "User"
+msgstr "Пайдаланушы"
+
+msgid "Banned"
+msgstr "Бұғатталған"
+
+msgid "Clear Roles"
+msgstr "Рөлдерді тазалау"
+
+msgid "Sort users by"
+msgstr "Пайдаланушыларды сұрыптау"
+
+msgid "Joined: Newest First"
+msgstr "Қосылды: Ең жаңасы бірінші"
+
+msgid "Joined: Oldest First"
+msgstr "Қосылды: Ең ескісі бірінші"
+
+msgid "Username: A-Z"
+msgstr "Пайдаланушы аты: A-Z"
+
+msgid "Username: Z-A"
+msgstr "Пайдаланушы аты: Z-A"
+
+msgid "#ID"
+msgstr "#ID"
+
+msgid "Error loading users. Please try again."
+msgstr "Пайдаланушыларды жүктеу қатесі. Қайталап көріңіз."
+
+msgid "Unban User"
+msgstr "Пайдаланушыны бұғаттауды жою"
+
+msgid "Ban User"
+msgstr "Пайдаланушыны бұғаттау"
+
+msgid "Mod"
+msgstr "Модератор"
+
+msgid "View Profile"
+msgstr "Профильді көру"
+
+msgid "Edit User"
+msgstr "Пайдаланушыны өңдеу"
+
+msgid "No users found matching your criteria."
+msgstr "Сіздің критерийлеріңізге сәйкес келетін пайдаланушылар табылмады."
+
+msgid "User banned successfully."
+msgstr "Пайдаланушы сәтті бұғатталды."
+
+msgid "User unbanned successfully."
+msgstr "Пайдаланушы бұғаттаудан сәтті шығарылды."
+
+msgid "UwUpad VIP"
+msgstr "UwUpad VIP"
+
+msgid "Back to main"
+msgstr "Басты бетке оралу"
+
+#, fuzzy
+msgid "Welcome, Patron!"
+msgstr "Қош келдіңіз, Қамқоршы"
+
+msgid "Thank you for supporting UwUpad. Enjoy your exclusive features."
+msgstr ""
+
+msgid "Unlock the Full Experience"
+msgstr "Толық тәжірибені ашу"
+
+msgid ""
+"Elevate your presence and support the platform that powers your creativity."
+msgstr ""
+"Сіздің қатысуыңызды арттырыңыз және шығармашылығыңызды қуаттайтын "
+"платформаны қолдаңыз."
+
+msgid "Your VIP Status is Active"
+msgstr ""
+
+msgid "Subscription renews on:"
+msgstr ""
+
+#, fuzzy
+msgid "You have a lifetime subscription."
+msgstr "Жаһандық хабарландырулар:"
+
+msgid "Extend for one month"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+#, fuzzy
+msgid "Per month"
+msgstr "Осы ай"
+
+#, fuzzy
+msgid "Choose Monthly"
+msgstr "Осы ай"
+
+#, fuzzy
+msgid "Best Value"
+msgstr "ҮЗДІК ҚҰН"
+
+msgid "Yearly"
+msgstr ""
+
+msgid "Save 20% - 2 months free!"
+msgstr ""
+
+#, fuzzy
+msgid "Choose Yearly"
+msgstr "Файл таңдаңыз…"
+
+#, fuzzy
+msgid "Feature"
+msgstr "Жасау"
+
+msgid "Standard"
+msgstr "Стандартты"
+
+msgid "VIP Patron"
+msgstr "VIP қамқоршысы"
+
+#, fuzzy
+msgid "Ad-Free Experience"
+msgstr "Жарнамамен қолдау көрсетілетін тәжірибе"
+
+#, fuzzy
+msgid "Playlists Creation"
+msgstr "Ойнату тізімдері"
+
+#, fuzzy
+msgid "Unlimited"
+msgstr "Шектеусіз ойнату тізімдерін жасау"
+
+#, fuzzy
+msgid "Sounds per Playlist"
+msgstr "Ойнату тізімдерін іздеу"
+
+#, fuzzy
+msgid "Private Playlists"
+msgstr "Шектеусіз ойнату тізімдерін жасау"
+
+#, fuzzy
+msgid "Bulk Playlist Download (.zip)"
+msgstr "Жүктеу"
+
+msgid "Animated GIF Avatars"
+msgstr "Анимациялық GIF аватарлары"
+
+#, fuzzy
+msgid "Custom Sound Covers"
+msgstr "Ең үздік дыбыс жасаушылар"
+
+#, fuzzy
+msgid "File Upload Size"
+msgstr "Жүктеу қатесі."
+
+#, fuzzy
+msgid "Tags per Sound"
+msgstr "Барлық дыбыстар"
+
+#, fuzzy
+msgid "Nickname Styling"
+msgstr "Лақап ат стилі"
+
+#, fuzzy
+msgid "Paid"
+msgstr "Жүктеу"
+
+msgid "Unlimited & Free"
+msgstr ""
+
+#, fuzzy
+msgid "Sound Boosts"
+msgstr "Дыбыс қазірдің өзінде кезекте тұр"
+
+#, fuzzy
+msgid "1 Free Daily"
+msgstr "ТЕГІН ЖОЛЫ"
+
+#, fuzzy
+msgid "VIP Profile Badge"
+msgstr "Профильді көру"
+
+msgid "Become a Patron"
+msgstr "Қамқоршы болу"
+
+#, fuzzy
+msgid "Extend Subscription"
+msgstr "Ұзақтығы"
+
+msgid "Choose your preferred payment method"
+msgstr ""
+
+msgid "Your VIP subscription has expired."
+msgstr ""
+
+msgid "Time left:"
+msgstr ""
+
+msgid "Pending Ad Requests"
+msgstr "Күтудегі жарнама сұраулары"
+
+msgid "Review and approve/reject new ad submissions."
+msgstr "Жаңа жарнама жіберулерді қарап, мақұлдау/қабылдамау."
+
+msgid "Banner Preview"
+msgstr "Баннерді алдын ала қарау"
+
+msgid "Contact"
+msgstr "Байланыс"
+
+msgid "Submitted At"
+msgstr "Жіберілді"
+
+msgid "Loading requests..."
+msgstr "Сұраулар жүктелуде..."
+
+msgid "Error loading requests."
+msgstr "Сұрауларды жүктеу қатесі."
+
+msgid "No pending requests."
+msgstr "Күтудегі сұраулар жоқ."
+
+msgid "Approve"
+msgstr "Мақұлдау"
+
+msgid "Reject"
+msgstr "Қабылдамау"
+
+msgid "Music"
+msgstr ""
+
+msgid "For You"
+msgstr "Сізге"
+
+msgid "News"
+msgstr "Жаңалықтар"
+
+msgid "Report a bug"
+msgstr "Қатені хабарлау"
+
+msgid "Request a sound"
+msgstr "Дыбыс сұрау"
+
+msgid "Contacts"
+msgstr "Байланыстар"
+
+msgid "DMCA"
+msgstr "Авторлық құқық иелеріне"
+
+msgid "Download Soundpad"
+msgstr "Soundpad жүктеп алу"
+
+msgid "Telegram bot"
+msgstr "Telegram боты"
+
+msgid "Steam group"
+msgstr "Steam тобы"
+
+msgid "Total sounds"
+msgstr "Барлық дыбыстар"
+
+#, fuzzy
+msgid "Notifications"
+msgstr "Жаһандық хабарландырулар:"
+
+msgid "Mark all as read"
+msgstr ""
+
+msgid "View all history"
+msgstr ""
+
+msgid "Have a minute?"
+msgstr ""
+
+msgid "Help us make uwupad.me better!"
+msgstr ""
+
+msgid ""
+"Tell us what to improve, what you don't like, or what features you're "
+"missing. All ideas are welcome!"
+msgstr ""
+
+msgid "Your ideas here..."
+msgstr ""
+
+#, fuzzy
+msgid "Later"
+msgstr "Пайдаланушылар тізімі"
+
+#, fuzzy
+msgid "Send"
+msgstr "Дыбыс"
+
+msgid "Sent!"
+msgstr ""
+
+msgid "You can remove sounds you don't want from the list below."
+msgstr ""
+
+#, fuzzy
+msgid "Download .zip"
+msgstr "Жүктеу"
+
+msgid "Preparing download for"
+msgstr ""
+
+msgid "Wait a few seconds or"
+msgstr ""
+
+msgid "get VIP for instant downloads"
+msgstr ""
+
+msgid ""
+"service for searching and downloading sounds for soundboards such as "
+"Soundpad or mobile devices."
+msgstr ""
+"Soundpad немесе мобильді құрылғылар үшін дыбыстарды іздеу және жүктеп алу "
+"қызметі."
+
+msgid "Find sounds and effects from TV, games, memes, and more."
+msgstr ""
+"Теледидардан, ойындардан, мемдерден және басқа да дыбыстар мен эффекттерді "
+"табыңыз."
+
+msgid "Navigation"
+msgstr "Навигация"
+
+msgid "Upload sound"
+msgstr "Дыбыс жүктеу"
+
+msgid "Privacy policy"
+msgstr "Құпиялық саясаты"
+
+msgid "Terms of use"
+msgstr "Пайдалану шарттары"
+
+msgid "Links"
+msgstr "Сілтемелер"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Translations"
+msgstr "Аудармалар"
+
+msgid "Language Settings"
+msgstr "Тіл параметрлері"
+
+msgid "Appearance"
+msgstr ""
+
+#, fuzzy
+msgid "Show Sound Covers"
+msgstr "Ең үздік дыбыс жасаушылар"
+
+msgid "Display custom background images on sound cards."
+msgstr ""
+
+msgid "Cover Blur Intensity"
+msgstr ""
+
+msgid "Controls the blur effect on sound card backgrounds."
+msgstr ""
+
+msgid "Interface Language"
+msgstr "Интерфейс тілі"
+
+#, fuzzy
+msgid "Content Languages"
+msgstr "Мазмұн тілі сүзгілері"
+
+msgid ""
+"Select languages you want to see. Leave all unchecked to use automatic "
+"detection."
+msgstr ""
+
+msgid "Additional Options"
+msgstr "Қосымша опциялар"
+
+msgid "Prioritize sounds with translations"
+msgstr "Аудармасы бар дыбыстарға басымдық беру"
+
+msgid "Prioritize popular sounds regardless of language"
+msgstr "Тіліне қарамастан танымал дыбыстарға басымдық беру"
+
+msgid "Show loud warning"
+msgstr "Қатты ескертуді көрсету"
+
+msgid "Save & Apply"
+msgstr "Сақтау және қолдану"
+
+msgid "Donate small amount to get 3 days VIP"
+msgstr ""
+
+#, fuzzy
+msgid "Say Thanks"
+msgstr "Өзгерістерді сақтау"
+
+msgid "Get +3 days VIP access"
+msgstr ""
+
+msgid "VIP Activated"
+msgstr "VIP белсендірілді"
+
+msgid "Telegram"
+msgstr "Telegram"
+
+msgid "Say Thanks (+3 Days VIP)"
+msgstr ""
+
+msgid "Search"
+msgstr "Іздеу"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Settings"
+msgstr "Параметрлер"
+
+msgid "Log in"
+msgstr "Кіру"
+
+#, fuzzy
+msgid "Download Top 50 Packs:"
+msgstr "Soundpad жүктеп алу"
+
+#, fuzzy
+msgid "Daily"
+msgstr "Мәліметтер"
+
+msgid "Weekly"
+msgstr ""
+
+#, fuzzy
+msgid "Download Top 50 Sounds"
+msgstr "Soundpad жүктеп алу"
+
+msgid "This pack contains the 50 most popular sounds of the"
+msgstr ""
+
+#, fuzzy
+msgid "ready for Soundpad."
+msgstr "Soundpad-қа қосу"
+
+#, fuzzy
+msgid "Best Value / Fast"
+msgstr "ҮЗДІК ҚҰН"
+
+msgid "Support us with a small donation and get 3 Days of VIP instantly."
+msgstr ""
+
+#, fuzzy
+msgid "Say Thanks & Download"
+msgstr "Файлды жүктеу мүмкін болмады: {}"
+
+#, fuzzy
+msgid "Get Monthly VIP Subscription"
+msgstr "Ұзақтығы"
+
+msgid "Unlocks all packs, playlists and removes ads."
+msgstr ""
+
+#, fuzzy
+msgid "Downloading..."
+msgstr "Жүктеу"
+
+#, fuzzy
+msgid "Complete!"
+msgstr "URL-дан импорттау"
+
+#, fuzzy
+msgid "Download failed"
+msgstr "Жүктеу қатесі."
+
+#, fuzzy
+msgid "Access Restricted"
+msgstr "Қатынасудан бас тартылды"
+
+msgid "To continue listening, please subscribe to our Telegram channel."
+msgstr ""
+
+msgid "Important:"
+msgstr "Маңызды:"
+
+msgid ""
+"Do not unsubscribe! If you leave the channel, you will need to verify again."
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Subscribe to unlock"
+msgstr ""
+
+#, fuzzy
+msgid "Verifying subscription..."
+msgstr "Ұзақтығы"
+
+msgid "Continue"
+msgstr ""
+
+#, fuzzy
+msgid "This track is already downloading."
+msgstr "Дыбыс қазірдің өзінде кезекте тұр"
+
+msgid ""
+"Please wait for the previous download to finish. VIPs can download multiple "
+"files at once!"
+msgstr ""
+
+#, fuzzy
+msgid "Adding to Soundpad:"
+msgstr "Soundpad-қа қосу"
+
+msgid "DELETED"
+msgstr "ЖОЙЫЛДЫ"
+
+msgid "Unlock This Feature"
+msgstr "Бұл функцияны ашу"
+
+msgid "Log In or Create Account"
+msgstr "Кіру немесе тіркелгі жасау"
+
+#, fuzzy
+msgid "This sound is boosted!"
+msgstr "Дыбыс қазірдің өзінде кезекте тұр"
+
+#, fuzzy
+msgid "Boost Sound"
+msgstr "Сұрыптау: Ең көп дыбыс"
+
+msgid "Views"
+msgstr "Қаралымдар"
+
+msgid "Add to playlist"
+msgstr "Ойнату тізіміне қосу"
+
+msgid "Report"
+msgstr "Шағымдану"
+
+msgid "Original Sound"
+msgstr "Түпнұсқа дыбыс"
+
+msgid "Go to original sound"
+msgstr "Түпнұсқа дыбысқа өту"
+
+#, fuzzy
+msgid "Additional Tags"
+msgstr "Қосымша опциялар"
+
+msgid "This sound is too loud. Are you sure you want to play it back?"
+msgstr "Бұл дыбыс тым қатты. Оны ойнатуды қалайтыныңызға сенімдісіз бе?"
+
+msgid "Don't show this message again"
+msgstr "Бұл хабарламаны қайта көрсетпеу"
+
+msgid "Yes"
+msgstr "Иә"
+
+msgid "No"
+msgstr "Жоқ"
+
+msgid ""
+"This sound includes sensitive content and it may be inappropriate to listen "
+"to. Are you sure you want to play it back?"
+msgstr ""
+"Бұл дыбыс сезімтал мазмұнды қамтиды және оны тыңдау орынсыз болуы мүмкін. "
+"Оны ойнатуды қалайтыныңызға сенімдісіз бе?"
+
+msgid "Show more"
+msgstr "Көбірек көрсету"
+
+#, fuzzy
+msgid "No sounds to add."
+msgstr "Дыбыстар табылмады"
+
+msgid "Add to Playlist"
+msgstr "Ойнату тізіміне қосу"
+
+#, python-format
+msgid "Choose a playlist for %(count)s sounds or create a new one."
+msgstr ""
+
+#, python-format
+msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
+msgstr ""
+
+#, fuzzy
+msgid "Create New"
+msgstr "Жасау"
+
+#, fuzzy
+msgid "Add to Existing"
+msgstr "Ойнату тізіміне қосу"
+
+msgid "New Playlist Name"
+msgstr "Жаңа ойнату тізімінің атауы"
+
+msgid "My Awesome Mix"
+msgstr "Менің керемет миксім"
+
+#, fuzzy
+msgid "Choose cover…"
+msgstr "Файл таңдаңыз…"
+
+#, fuzzy
+msgid "Make playlist public"
+msgstr "Ойнату тізімі ретінде сақтау"
+
+#, fuzzy
+msgid "Search your playlists..."
+msgstr "Ойнату тізімдерін іздеу"
+
+msgid "Save"
+msgstr "Сақтау"
+
+#, fuzzy
+msgid "You don't have any playlists yet."
+msgstr "Сізде рұқсат жоқ."
+
+#, fuzzy
+msgid "Could not load your playlists."
+msgstr "Ойнату тізімдеріңізді жүктеу мүмкін болмады."
+
+#, fuzzy
+msgid "Searching..."
+msgstr "Пайдаланушыларды іздеу..."
+
+#, fuzzy
+msgid "Search failed."
+msgstr "Пайдаланушыларды іздеу..."
+
+#, fuzzy
+msgid "Please select a playlist."
+msgstr "Кезек тізімін ойнату тізімі ретінде сақтау"
+
+#, fuzzy
+msgid "Please enter a name for the new playlist."
+msgstr "Жаңа ойнату тізімін жасау..."
+
+#, fuzzy
+msgid "Image uploaded."
+msgstr "Жүктелген"
+
+#, fuzzy
+msgid "Image upload failed."
+msgstr "Жүктеу қатесі."
+
+#, fuzzy
+msgid "Playlist Limit Reached"
+msgstr "Ойнату тізімі жойылды."
+
+msgid ""
+"Standard users can create up to 2 playlists. Upgrade to VIP for unlimited "
+"playlists!"
+msgstr ""
+
+#, fuzzy
+msgid "Playlist is Full"
+msgstr "Ойнату тізімдері"
+
+msgid ""
+"Standard users can add up to 20 sounds per playlist. Get VIP to create "
+"massive collections!"
+msgstr ""
+
+msgid "Private Playlists are a VIP Feature"
+msgstr ""
+
+msgid "Keep your collections to yourself by upgrading to VIP."
+msgstr ""
+
+msgid "An unexpected error occurred."
+msgstr "Күтпеген қате орын алды."
+
+msgid "Hey, check out this playlist on Uwupad!"
+msgstr "Эй, Uwupad-тағы осы ойнату тізімін қараңыз!"
+
+msgid "No sounds found"
+msgstr "Дыбыстар табылмады"
+
+msgid "Sound is already in the queue"
+msgstr "Дыбыс қазірдің өзінде кезекте тұр"
+
+msgid "added to queue"
+msgstr "кезекке қосылды"
+
+msgid "Edit tags"
+msgstr "Тегтерді өңдеу"
+
+msgid "Is loud"
+msgstr "Қатты ма"
+
+msgid "Is explicit"
+msgstr "Ашық ма"
+
+msgid "Report a sound"
+msgstr "Дыбыс туралы шағымдану"
+
+msgid ""
+"We are strictly against any violations of our terms of use. Users have the "
+"ability to complain about content that is considered “spam,” “illegal "
+"activity,” or contains “copyrighted material without authorization.” If "
+"violations are found, the content will be removed immediately and this "
+"removal will be permanent."
+msgstr ""
+"Біз пайдалану шарттарымыздың кез келген бұзушылықтарына қатаң қарсымыз. "
+"Пайдаланушылар «спам», «заңсыз әрекет» деп саналатын немесе «авторлық "
+"құқықпен қорғалған материалдарды рұқсатсыз» қамтитын мазмұнға шағымдануға "
+"құқылы. Егер бұзушылықтар табылса, мазмұн дереу жойылады және бұл жою "
+"тұрақты болады."
+
+msgid ""
+"Please state your request in English or Russian only. We cannot process "
+"requests in other languages."
+msgstr ""
+"Өтінішіңізді тек ағылшын немесе орыс тілдерінде көрсетіңіз. Біз басқа "
+"тілдердегі өтініштерді өңдей алмаймыз."
+
+msgid "Comment, questions, reason for post."
+msgstr "Түсініктеме, сұрақтар, жариялау себебі."
+
+msgid "Your e-mail address"
+msgstr "Сіздің электрондық пошта мекенжайыңыз"
+
+msgid "You have already sent a report."
+msgstr "Сіз қазірдің өзінде есеп жібердіңіз."
+
+msgid "Please enter a valid reason."
+msgstr "Дұрыс себеп енгізіңіз."
+
+msgid "Please enter a valid email."
+msgstr "Жарамды электрондық пошта мекенжайын енгізіңіз."
+
+msgid "Are you sure?"
+msgstr "Сенімдісіз бе?"
+
+msgid "External Link Warning"
+msgstr "Сыртқы сілтеме ескертуі"
+
+msgid ""
+"You are about to leave uwupad.me. We do not take responsibility for the "
+"content on external sites."
+msgstr ""
+"Сіз uwupad.me сайтынан шыққалы тұрсыз. Біз сыртқы сайттардағы мазмұн үшін "
+"жауапкершілік алмаймыз."
+
+msgid "Proceed"
+msgstr "Жалғастыру"
+
+msgid "Copied to clipboard"
+msgstr "Алмасу буферіне көшірілді"
+
+msgid "just now"
+msgstr ""
+
+msgid "min ago"
+msgstr ""
+
+msgid "h ago"
+msgstr ""
+
+msgid "d ago"
+msgstr ""
+
+msgid "w ago"
+msgstr ""
+
+msgid "How to disable content blocking"
+msgstr ""
+
+msgid "Select your browser, extension, or antivirus from the list below"
+msgstr ""
+
+#, fuzzy
+msgid "Google Chrome"
+msgstr "Басты бетке оралу"
+
+msgid ""
+"Click the extension icon (puzzle piece) in the top right corner of the "
+"browser."
+msgstr ""
+
+msgid "Find in the list"
+msgstr ""
+
+msgid "or"
+msgstr "немесе"
+
+msgid "Click on the extension and press"
+msgstr ""
+
+#, fuzzy
+msgid "Disable on this site"
+msgstr "Осы стильді қолдану"
+
+msgid "or the big power button."
+msgstr ""
+
+msgid "Refresh the page"
+msgstr ""
+
+msgid "Built-in blocking:"
+msgstr ""
+
+msgid "If there are no extensions, go to"
+msgstr ""
+
+msgid "and allow ads for the site."
+msgstr ""
+
+msgid "Mozilla Firefox"
+msgstr ""
+
+msgid "Click on the shield icon to the left of the address bar."
+msgstr ""
+
+msgid "Toggle the switch"
+msgstr ""
+
+msgid "Enhanced Tracking Protection"
+msgstr ""
+
+#, fuzzy
+msgid "to position"
+msgstr "Депозитке өту"
+
+msgid "OFF"
+msgstr ""
+
+msgid ""
+"If extensions (uBlock, etc.) are installed, disable them via the puzzle icon"
+" in the top right."
+msgstr ""
+
+msgid "The page will reload automatically."
+msgstr ""
+
+msgid "Apple Safari (macOS / iOS)"
+msgstr ""
+
+msgid "Right-click the address bar"
+msgstr ""
+
+msgid "Settings for This Website"
+msgstr ""
+
+msgid "Uncheck"
+msgstr ""
+
+msgid "Enable Content Blockers"
+msgstr ""
+
+msgid "Tap the icon"
+msgstr ""
+
+msgid "in the address bar"
+msgstr ""
+
+msgid "Turn Off Content Blockers"
+msgstr ""
+
+msgid "Kaspersky Protection (Anti-Banner)"
+msgstr ""
+
+msgid "Find the green hexagonal Kaspersky icon in the browser extension bar."
+msgstr ""
+
+msgid "In the menu that opens, find the section"
+msgstr ""
+
+msgid "Anti-Banner"
+msgstr ""
+
+#, fuzzy
+msgid "Click the button"
+msgstr "Қалқан белгішесін басыңыз"
+
+msgid "Allow on this website"
+msgstr ""
+
+msgid "If there is no extension, open the main Kaspersky app"
+msgstr ""
+
+#, fuzzy
+msgid "Security settings"
+msgstr "Параметрлер"
+
+msgid "Disable"
+msgstr ""
+
+msgid "or add the site to exclusions."
+msgstr ""
+
+msgid "Windscribe VPN (R.O.B.E.R.T.)"
+msgstr ""
+
+msgid "Log in to your account at windscribe.com."
+msgstr ""
+
+#, fuzzy
+msgid "Go to the tab"
+msgstr "Депозитке өту"
+
+#, fuzzy
+msgid "Select"
+msgstr "Таңдалған:"
+
+#, fuzzy
+msgid "Custom Rules"
+msgstr "Ең үздік дыбыс жасаушылар"
+
+msgid "Enter our site domain and select the option"
+msgstr ""
+
+#, fuzzy
+msgid "Whitelist"
+msgstr "Ақ тізімде"
+
+msgid ""
+"Since R.O.B.E.R.T. works at the DNS level, changes may take a few minutes to"
+" take effect. Try disconnecting and reconnecting the VPN."
+msgstr ""
+
+msgid "AdGuard (App or Extension)"
+msgstr ""
+
+msgid ""
+"Click the AdGuard icon (green shield) in the browser or in the Windows/Mac "
+"system tray."
+msgstr ""
+
+msgid "Click the large toggle"
+msgstr ""
+
+msgid "Filtering on this website"
+msgstr ""
+
+msgid "so it turns gray (off)."
+msgstr ""
+
+msgid "Wait for the page to automatically refresh."
+msgstr ""
+
+#, fuzzy
+msgid "Brave Browser"
+msgstr "Рөлдер"
+
+msgid "Click the lion icon (Brave Shields) to the right of the address bar."
+msgstr ""
+
+msgid "Toggle the top slider"
+msgstr ""
+
+msgid ""
+"Brave blocks scripts very aggressively. Completely disabling shields for the"
+" site is the most reliable method."
+msgstr ""
+
+#, fuzzy
+msgid "Yandex Browser"
+msgstr "Рөлдер"
+
+msgid "Click the lock icon 🔒 or shield in the left part of the SmartBox."
+msgstr ""
+
+#, fuzzy
+msgid "Click"
+msgstr "Байланыстыру"
+
+#, fuzzy
+msgid "More details"
+msgstr "Мәліметтер"
+
+#, fuzzy
+msgid "if required"
+msgstr "Электрондық пошта қажет."
+
+#, fuzzy
+msgid "Block ads on this site"
+msgstr "Сіз бұл стильге ие емессіз."
+
+msgid "Opera / Opera GX"
+msgstr ""
+
+msgid "Click the blue shield icon in the right part of the address bar."
+msgstr ""
+
+msgid "Turn off for this site"
+msgstr ""
+
+msgid "If that doesn't help: Menu"
+msgstr ""
+
+#, fuzzy
+msgid "Extensions"
+msgstr "Аудармалар"
+
+msgid "Disable third-party blockers."
+msgstr ""
+
+msgid "Avast / AVG Antivirus"
+msgstr ""
+
+msgid "Open the antivirus, go to"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+#, fuzzy
+msgid "Section"
+msgstr "Әрекеттер"
+
+#, fuzzy
+msgid "Protection"
+msgstr "Жаһандық хабарландырулар:"
+
+msgid "Web Shield"
+msgstr ""
+
+#, fuzzy
+msgid "Find the tab"
+msgstr "ішінде"
+
+#, fuzzy
+msgid "Exceptions"
+msgstr "Әрекеттер"
+
+msgid "and add our website address."
+msgstr ""
+
+msgid "Check browser extensions: Avast often installs"
+msgstr ""
+
+msgid "which needs to be disabled separately."
+msgstr ""
+
+msgid ""
+"If the problem is not resolved after following the instructions — try "
+"another browser or contact"
+msgstr ""
+
+#, fuzzy
+msgid "support"
+msgstr "UwUpad-қа қолдау көрсету"
+
+msgid "Return to site"
+msgstr ""
+
+msgid "Very popular (100-500 downloads)"
+msgstr "Өте танымал (100-500 жүктеу)"
+
+msgid "Extremely popular (>500 downloads)"
+msgstr "Өте танымал (>500 жүктеу)"
+
+msgid "Language"
+msgstr "Тіл"
+
+#, fuzzy
+msgid "Toggle BETA personalization"
+msgstr "Жаңа мүмкіндіктер мен жекелендіру"
+
+msgid ""
+"Listen to and discover new music on UwUpad. Thousands of tracks from "
+"independent artists."
+msgstr ""
+
+msgid "Listen to and discover new music on UwUpad."
+msgstr ""
+
+#, fuzzy
+msgid "Browse"
+msgstr "Рөлдер"
+
+msgid "My Library"
+msgstr ""
+
+msgid "Return to Sounds / Memes"
+msgstr ""
+
+msgid "Sounds / Memes"
+msgstr ""
+
+#, fuzzy
+msgid "Sorting"
+msgstr "Импорттау:"
+
+msgid "Hot"
+msgstr ""
+
+#, fuzzy
+msgid "Period"
+msgstr "Жалғастыру"
+
+#, fuzzy
+msgid "All time"
+msgstr "Барлық уақыт"
+
+#, fuzzy
+msgid "Year"
+msgstr "Іздеу"
+
+#, fuzzy
+msgid "Month"
+msgstr "Осы ай"
+
+#, fuzzy
+msgid "Week"
+msgstr "аптасына"
+
+#, fuzzy
+msgid "Day"
+msgstr "Бүгін"
+
+#, fuzzy
+msgid "Now"
+msgstr "Жоқ"
+
+#, fuzzy
+msgid "Search by title..."
+msgstr "Пайдаланушыларды іздеу..."
+
+msgid "What do you want to listen to?"
+msgstr ""
+
+#, fuzzy
+msgid "Liked Songs"
+msgstr "Байланыстырылған"
+
+#, fuzzy
+msgid "tracks"
+msgstr "Келесі бет"
+
+#, fuzzy
+msgid "Create Playlist"
+msgstr "Шектеусіз ойнату тізімдерін жасау"
+
+#, fuzzy
+msgid "My Playlists"
+msgstr "Ойнату тізімдері"
+
+#, fuzzy
+msgid "Play"
+msgstr "Қолдану"
+
+#, fuzzy
+msgid "Now Playing"
+msgstr "Жаңа ойнату тізімінің атауы"
+
+msgid "Track Cover"
+msgstr ""
+
+#, fuzzy
+msgid "Track Title"
+msgstr "Атауы"
+
+#, fuzzy
+msgid "Artist"
+msgstr "Әрекеттер"
+
+#, fuzzy
+msgid "Next in Queue"
+msgstr "Тыңдау кезегі"
+
+#, fuzzy
+msgid "Cover"
+msgstr "Код"
+
+msgid "Select a track"
+msgstr ""
+
+msgid "Shuffle"
+msgstr ""
+
+#, fuzzy
+msgid "Previous Track"
+msgstr "Алдыңғы"
+
+#, fuzzy
+msgid "Play/Pause"
+msgstr "Пайдаланушы"
+
+#, fuzzy
+msgid "Next Track"
+msgstr "Келесі бет"
+
+#, fuzzy
+msgid "Repeat"
+msgstr "Шағымдану"
+
+msgid "Fullscreen Mode"
+msgstr ""
+
+msgid "Show Track Details"
+msgstr ""
+
+msgid "Mute/Unmute"
+msgstr ""
+
+#, fuzzy
+msgid "Add to Queue"
+msgstr "кезекке қосылды"
+
+#, fuzzy
+msgid "New Playlist"
+msgstr "Жаңа ойнату тізімінің атауы"
+
+#, fuzzy
+msgid "Playlist is empty"
+msgstr "Ойнату тізімінің атауы бос болмауы керек."
+
+#, fuzzy
+msgid "Failed to load music."
+msgstr "Пайдаланушы тізімін жүктеу мүмкін болмады."
+
+#, fuzzy
+msgid "Unlike"
+msgstr "Байланысты үзу"
+
+#, fuzzy
+msgid "Your personal favorites"
+msgstr "Сіздің электрондық пошта мекенжайыңыз"
+
+#, fuzzy
+msgid "Enter playlist name:"
+msgstr "Жаңа ойнату тізімінің атауы"
+
+#, fuzzy
+msgid "Are you sure you want to delete this playlist?"
+msgstr "Discord аккаунтыңызды ажыратқыңыз келетініне сенімдісіз бе?"
+
+#, fuzzy
+msgid "This track is downloading."
+msgstr "Дыбыс қазірдің өзінде кезекте тұр"
+
+msgid "Please wait for the current download to finish."
+msgstr ""
+
+#, fuzzy
+msgid "Downloading error"
+msgstr "Жүктеу"
+
+msgid "Finished!"
+msgstr ""
+
+#, fuzzy
+msgid "Upload Music"
+msgstr "Жүктелімдер"
+
+#, fuzzy
+msgid "To Home"
+msgstr "Басты бетке оралу"
+
+msgid "Drag & Drop Cover"
+msgstr ""
+
+#, fuzzy
+msgid "or click to select"
+msgstr "Көшіру үшін басыңыз"
+
+#, fuzzy
+msgid "Cover Preview"
+msgstr "Алдын ала қарауды жабу"
+
+#, fuzzy
+msgid "Remove Cover"
+msgstr "Алдын ала қарау суреті"
+
+msgid "Title of your track"
+msgstr ""
+
+msgid "Genre"
+msgstr ""
+
+msgid "Start typing to search for a genre..."
+msgstr ""
+
+msgid "E.g.: chill, summer, vibe"
+msgstr ""
+
+msgid "Up to 5 tags. Enter a tag and press Enter."
+msgstr ""
+
+#, fuzzy
+msgid "Audio File"
+msgstr "Профильді өңдеу"
+
+#, fuzzy
+msgid "Select file (MP3, WAV, OGG)"
+msgstr "Қолдау көрсетілетін форматтар: mp3, wav, ogg"
+
+msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
+msgstr ""
+
+msgid "Please use the Standard Uploader for short sounds."
+msgstr ""
+
+#, fuzzy
+msgid "Go to Standard Uploader"
+msgstr "Барлық жүктеулер"
+
+#, fuzzy
+msgid "I agree with the"
+msgstr "Мен келісемін"
+
+#, fuzzy
+msgid "terms"
+msgstr "Шарттарға"
+
+#, fuzzy
+msgid "policy"
+msgstr "Саясатқа"
+
+msgid "Cover image is too large (max. 5 MB)"
+msgstr ""
+
+#, python-brace-format
+msgid "You can add no more than ${MAX_TAGS} tags."
+msgstr ""
+
+#, fuzzy, python-brace-format
+msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
+msgstr "Электрондық пошта 5 таңбадан ұзағырақ болуы керек."
+
+#, fuzzy
+msgid "Audio file is too large (max. 20 MB)"
+msgstr "Кесілген аудио (WAV) тым үлкен:"
+
+#, fuzzy
+msgid "Server error:"
+msgstr "Сервер қатесі."
+
+#, fuzzy
+msgid "Music uploaded successfully!"
+msgstr "Дыбыс сәтті жүктелді!"
+
+msgid "Payment Cancelled"
+msgstr "Төлем тоқтатылды"
+
+msgid ""
+"Your payment was not completed. You can try again or contact support if you "
+"face any issues."
+msgstr ""
+"Сіздің төлеміңіз аяқталмады. Қайтадан әрекет ете аласыз немесе мәселелер "
+"туындаса, қолдау қызметіне хабарласыңыз."
+
+msgid "Try Again"
+msgstr "Қайта көріңіз"
+
+msgid "Contact Support"
+msgstr "Қолдау қызметіне хабарласу"
+
+msgid "Payment Successful"
+msgstr "Төлем сәтті өтті"
+
+msgid "Thank you for your support! It means a lot to us."
+msgstr "Қолдауыңыз үшін рахмет! Бұл біз үшін өте маңызды."
+
+msgid "Your Order ID is:"
+msgstr "Сіздің тапсырыс ID:"
+
+msgid "Empty URL"
+msgstr "Бос URL"
+
+msgid "Invalid response from processing service."
+msgstr "Өңдеу қызметінен жарамсыз жауап."
+
+msgid "Error from processing service:"
+msgstr "Өңдеу қызметінен қате:"
+
+msgid "Failed to communicate with the media processing service."
+msgstr "Медиа өңдеу қызметімен байланыс орнату мүмкін болмады."
+
+msgid "Processing service returned success but no sound link."
+msgstr "Өңдеу қызметі сәтті аяқталғанын хабарлады, бірақ дыбыс сілтемесі жоқ."
+
+msgid ""
+"Multiple items found, but no direct audio link provided by processing "
+"service."
+msgstr ""
+"Бірнеше элемент табылды, бірақ өңдеу қызметі тікелей аудио сілтемесін "
+"бермеді."
+
+msgid "Processing service returned local processing but no sound link."
+msgstr ""
+"Өңдеу қызметі жергілікті өңдеуді хабарлады, бірақ дыбыс сілтемесі жоқ."
+
+msgid "Invalid email."
+msgstr "Жарамсыз электрондық пошта."
+
+msgid "Username cannot be empty."
+msgstr "Пайдаланушы аты бос болмауы керек."
+
+msgid "Username should be longer than 3 characters."
+msgstr "Пайдаланушы аты 3 таңбадан ұзағырақ болуы керек."
+
+msgid "Username should be shorter than 16 characters."
+msgstr "Пайдаланушы аты 16 таңбадан қысқа болуы керек."
+
+msgid "Username already exists."
+msgstr "Пайдаланушы аты қазірдің өзінде бар."
+
+msgid "Bio is too long. Max 250 characters."
+msgstr "Биография тым ұзақ. Максимум 250 таңба."
+
+msgid "Invalid image."
+msgstr "Жарамсыз сурет."
+
+msgid "Profile updated successfully"
+msgstr "Профиль сәтті жаңартылды"
+
+msgid "Not authenticated."
+msgstr "Аутентификацияланбаған."
+
+msgid "Playlist name cannot be empty."
+msgstr "Ойнату тізімінің атауы бос болмауы керек."
+
+msgid "Playlist name is too long. Max 32 chars."
+msgstr "Ойнату тізімінің атауы тым ұзақ. Максимум 32 таңба."
+
+msgid "Playlist name is too short. Min 4 chars."
+msgstr "Ойнату тізімінің атауы тым қысқа. Минимум 4 таңба."
+
+msgid "Playlist not found."
+msgstr "Ойнату тізімі табылмады."
+
+msgid "You don't have permission."
+msgstr "Сізде рұқсат жоқ."
+
+msgid "Playlist updated successfully."
+msgstr "Ойнату тізімі сәтті жаңартылды."
+
+msgid "Please fill all fields."
+msgstr "Барлық өрістерді толтырыңыз."
+
+msgid "Email should be longer than 3 characters."
+msgstr "Электрондық пошта 3 таңбадан ұзағырақ болуы керек."
+
+msgid "Password should be longer than 8 characters."
+msgstr "Құпия сөз 8 таңбадан ұзағырақ болуы керек."
+
+msgid "Please pass reCAPTCHA check (1)."
+msgstr "reCAPTCHA тексеруінен өтіңіз (1)."
+
+msgid "Could not get your IP."
+msgstr "Сіздің IP-ді алу мүмкін болмады."
+
+msgid "Please pass reCAPTCHA check (2)."
+msgstr "reCAPTCHA тексеруінен өтіңіз (2)."
+
+msgid "Could not verify reCAPTCHA."
+msgstr "reCAPTCHA-ны тексеру мүмкін болмады."
+
+#, fuzzy
+msgid "Account with this username does not exist."
+msgstr "Бұл пайдаланушы аты/электрондық поштамен аккаунт жоқ."
+
+msgid "Account with this email does not exist."
+msgstr "Бұл электрондық поштамен аккаунт жоқ."
+
+msgid "Invalid password."
+msgstr "Жарамсыз құпия сөз."
+
+msgid "Email should be longer than 5 characters."
+msgstr "Электрондық пошта 5 таңбадан ұзағырақ болуы керек."
+
+msgid "Account with this email already exists."
+msgstr "Бұл электрондық поштамен аккаунт қазірдің өзінде бар."
+
+msgid "Invalid data."
+msgstr "Жарамсыз деректер."
+
+msgid "You already have a playlist with this name."
+msgstr ""
+
+msgid "Could not find or create playlist."
+msgstr "Ойнату тізімін табу немесе жасау мүмкін болмады."
+
+#, python-format
+msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
+msgstr "%(count)s дыбыс '%(playlist_name)s' ойнату тізіміне қосылды."
+
+#, python-format
+msgid "%(count)s sounds were already in the playlist and were skipped."
+msgstr ""
+"%(count)s дыбыс қазірдің өзінде ойнату тізімінде болғандықтан, өткізіліп "
+"жіберілді."
+
+msgid "No new sounds were added. They might already be in the playlist."
+msgstr "Жаңа дыбыстар қосылған жоқ. Олар ойнату тізімінде болуы мүмкін."
+
+#, fuzzy
+msgid "Sound removed from playlist."
+msgstr "Дыбыс ойнату тізімінен жойылды {}."
+
+#, fuzzy
+msgid "Sound not found in this playlist."
+msgstr "Дыбыс ойнату тізімінде жоқ."
+
+msgid "Playlist deleted."
+msgstr "Ойнату тізімі жойылды."
+
+#, fuzzy
+msgid "Sound ID is required."
+msgstr "Электрондық пошта қажет."
+
+msgid "Sound not found."
+msgstr "Дыбыс табылмады."
+
+msgid "Sound deleted."
+msgstr "Дыбыс жойылды."
+
+#, fuzzy
+msgid "An error occurred while deleting the sound."
+msgstr "Түсініктемені жою кезінде қате орын алды."
+
+msgid "Authentication required"
+msgstr "Аутентификация қажет"
+
+msgid "Upload in progress. Please wait."
+msgstr "Жүктеу жүруде. Күтіңіз."
+
+msgid "Cover file must be an image."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to upload cover to CDN."
+msgstr "Көбірек түсініктемелерді жүктеу мүмкін болмады."
+
+msgid "Invalid URL format"
+msgstr "Жарамсыз URL пішімі"
+
+msgid "Cannot access URL"
+msgstr "URL мекенжайына кіру мүмкін емес"
+
+#, python-brace-format
+msgid "Failed to download file: {}"
+msgstr "Файлды жүктеу мүмкін болмады: {}"
+
+msgid "File too large"
+msgstr "Файл тым үлкен"
+
+msgid "File too small"
+msgstr "Файл тым кішкентай"
+
+msgid "No file or URL provided"
+msgstr "Файл немесе URL көрсетілмеген"
+
+msgid "Sound was queued for upload"
+msgstr ""
+
+msgid "Upload timeout. Please try again."
+msgstr "Жүктеу уақыты аяқталды. Қайталап көріңіз."
+
+msgid "Upload failed. Please try again."
+msgstr "Жүктеу қатесі. Қайталап көріңіз."
+
+msgid "Sound liked."
+msgstr "Дыбыс ұнады."
+
+msgid "Sound unliked."
+msgstr "Лайк алынды."
+
+msgid "You can only boost your own sounds."
+msgstr ""
+
+#, fuzzy
+msgid "This sound is already boosted."
+msgstr "Дыбыс қазірдің өзінде кезекте тұр"
+
+#, fuzzy
+msgid "Authenticated user not found."
+msgstr "Пайдаланушы табылмады."
+
+#, fuzzy
+msgid "Free boosts are for VIP users only."
+msgstr "GIF тек VIP пайдаланушылары үшін"
+
+#, python-format
+msgid ""
+"Your next free boost will be available in %(hours)d hours and %(minutes)d "
+"minutes."
+msgstr ""
+
+#, fuzzy, python-format
+msgid "Insufficient PAW. You need %(cost)s PAW to boost."
+msgstr ""
+"Жеткіліксіз PAW. Лақап ат стиліңізді өзгерту үшін сізге %(cost)s PAW қажет."
+
+#, fuzzy, python-format
+msgid "Your sound has been boosted for %(hours)d hours!"
+msgstr "VIP ретінде, сіз стиліңізді тегін өзгерте аласыз."
+
+msgid "You cannot blacklist yourself."
+msgstr "Сіз өзіңізді қара тізімге қоса алмайсыз."
+
+msgid "User removed from blacklist."
+msgstr "Пайдаланушы қара тізімнен жойылды."
+
+msgid "User added to blacklist."
+msgstr "Пайдаланушы қара тізімге қосылды."
+
+msgid "Please specify a reason. (min 5 chars)"
+msgstr "Себебін көрсетіңіз. (кем дегенде 5 таңба)"
+
+msgid "Please specify an email."
+msgstr "Электрондық поштаны көрсетіңіз."
+
+msgid "Reason should be shorter than 1024 characters."
+msgstr "Себебі 1024 таңбадан қысқа болуы керек."
+
+msgid "Sound reported."
+msgstr "Дыбыс туралы шағым берілді."
+
+#, fuzzy
+msgid "Failed to upload cover image to CDN."
+msgstr "Көбірек түсініктемелерді жүктеу мүмкін болмады."
+
+msgid "Sound disappeared during edit."
+msgstr ""
+
+#, fuzzy
+msgid "Sound updated successfully."
+msgstr "Дыбыс сәтті жүктелді!"
+
+#, fuzzy
+msgid "An internal error occurred."
+msgstr "Желі қатесі орын алды."
+
+msgid "Invalid date."
+msgstr "Жарамсыз күн."
+
+msgid "Invalid role."
+msgstr "Жарамсыз рөл."
+
+msgid "Role updated."
+msgstr "Рөл жаңартылды."
+
+msgid "You cannot block yourself."
+msgstr "Сіз өзіңізді бұғаттай алмайсыз."
+
+msgid "User not found."
+msgstr "Пайдаланушы табылмады."
+
+msgid "User blocked."
+msgstr "Пайдаланушы бұғатталды."
+
+#, fuzzy
+msgid "An internal error occurred while blocking the user."
+msgstr "Түсініктемені жою кезінде қате орын алды."
+
+msgid "Passwords do not match."
+msgstr "Құпия сөздер сәйкес келмейді."
+
+msgid "Invalid key."
+msgstr "Жарамсыз кілт."
+
+msgid "User with this email not found."
+msgstr "Бұл электрондық поштамен пайдаланушы табылмады."
+
+msgid "Password changed."
+msgstr "Құпия сөз өзгертілді."
+
+msgid "Email is required."
+msgstr "Электрондық пошта қажет."
+
+msgid "An email has already been sent to this address."
+msgstr "Бұл мекенжайға электрондық пошта қазірдің өзінде жіберілді."
+
+msgid "Email sent. Check your inbox."
+msgstr "Электрондық пошта жіберілді. Пошта жәшігіңізді тексеріңіз."
+
+msgid "Invalid user ID."
+msgstr "Жарамсыз пайдаланушы ID."
+
+#, fuzzy
+msgid "Password cannot be empty."
+msgstr "Пайдаланушы аты бос болмауы керек."
+
+msgid "Not an admin."
+msgstr "Әкімші емес."
+
+msgid "Cover image is too large (max 5MB)."
+msgstr ""
+
+#, fuzzy, python-brace-format
+msgid "Audio file is too large (max {size}MB)."
+msgstr "Кесілген аудио (WAV) тым үлкен:"
+
+msgid "Music track was queued for processing."
+msgstr ""
+
+#, fuzzy
+msgid "Upload failed due to an internal error."
+msgstr "Жүктеу қатесі. Қайталап көріңіз."
+
+#, fuzzy
+msgid "Name required"
+msgstr "Қажетті"
+
+msgid "Style is too long."
+msgstr "Стиль тым ұзақ."
+
+msgid "Invalid or unsafe CSS."
+msgstr "Жарамсыз немесе қауіпті CSS."
+
+msgid "This color is reserved for staff members."
+msgstr "Бұл түс қызметкерлер үшін сақталған."
+
+msgid "Nickname style updated successfully!"
+msgstr "Лақап ат стилі сәтті жаңартылды!"
+
+#, python-format
+msgid "Not enough PAW. You need %(cost)s PAW to change your nickname style."
+msgstr ""
+"Жеткіліксіз PAW. Лақап ат стиліңізді өзгерту үшін сізге %(cost)s PAW қажет."
+
+msgid "Nickname style purchased and updated for 100 PAW!"
+msgstr "Лақап ат стилі 100 PAW-ға сатып алынды және жаңартылды!"
+
+#, python-brace-format
+msgid "{actor1} and {actor2}"
+msgstr ""
+
+#, python-format
+msgid "and %d other"
+msgstr ""
+
+#, python-format
+msgid "and %d others"
+msgstr ""
+
+#, python-brace-format
+msgid "{actor1}, {actor2} {others}"
+msgstr ""
+
+msgid "[actor] liked your sound [entity]."
+msgstr ""
+
+msgid "[actor] liked your comment on [entity]."
+msgstr ""
+
+msgid "[actor] mentioned you in a comment on [entity]."
+msgstr ""
+
+msgid "[actor] downloaded your sound [entity]."
+msgstr ""
+
+msgid "[actor] left a comment on your sound [entity]."
+msgstr ""
+
+msgid "[actor] replied to your comment on [entity]."
+msgstr ""
+
+msgid "Your sound [entity] has been successfully processed!"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"We couldn't process your sound [entity]. Please try uploading it again."
+msgstr "Жүктеу қатесі. Қайталап көріңіз."
+
+msgid "An administrator removed your sound: [entity]."
+msgstr ""
+
+msgid "An administrator removed your comment on [entity]."
+msgstr ""
+
+#, fuzzy
+msgid "Anonymous"
+msgstr "Анонимді қамқоршы"
+
+#~ msgid "A New World Awaits"
+#~ msgstr "Жаңа әлем күтеді"
+
+#~ msgid ""
+#~ "Explore uwumine — a vanilla server where your story becomes a part of its "
+#~ "permanent history."
+#~ msgstr ""
+#~ "uwumine-ді зерттеңіз — сіздің тарихыңыз оның тұрақты тарихының бір бөлігі "
+#~ "болатын ванильді сервер."
+
+#~ msgid "Explore the Server"
+#~ msgstr "Серверді зерттеу"
+
+#~ msgid "Maybe Later"
+#~ msgstr "Кейінірек"
+
+#~ msgid "Server Page"
+#~ msgstr "Сервер беті"
+
+#~ msgid "General"
+#~ msgstr "Жалпы"
+
+#~ msgid "Manifesto"
+#~ msgstr "Манифест"
+
+#~ msgid "Rules"
+#~ msgstr "Ережелер"
+
+#~ msgid "Economy"
+#~ msgstr "Экономика"
+
+#~ msgid "Mechanics"
+#~ msgstr "Механика"
+
+#~ msgid "Settlements"
+#~ msgstr "Елді мекендер"
+
+#~ msgid "Living Mail"
+#~ msgstr "Тірі пошта"
+
+#~ msgid "UwUCraft: The Player Guide"
+#~ msgstr "uwumine: Ойыншы нұсқаулығы"
+
+#~ msgid "The Chronicle Project"
+#~ msgstr "Жылнама жобасы"
+
+#~ msgid "Foundations of Trust (Rules)"
+#~ msgstr "Сенім негіздері (Ережелер)"
+
+#~ msgid "Zero Tolerance for Destruction"
+#~ msgstr "Жоюға нөлдік төзімділік"
+
+#~ msgid ""
+#~ "Griefing and theft are strictly forbidden. Every action on the server is "
+#~ "logged. Damage will be instantly reversed, and the violator will be "
+#~ "permanently banned without warning."
+#~ msgstr ""
+#~ "Зиян келтіру және ұрлық қатаң тыйым салынған. Сервердегі әрбір әрекет "
+#~ "тіркеледі. Зақым лезде кері қайтарылады, ал бұзушы ескертусіз тұрақты түрде "
+#~ "бұғатталады."
+
+#~ msgid "PvP by Consent"
+#~ msgstr "Келісім бойынша PvP"
+
+#~ msgid ""
+#~ "Player-versus-player combat is allowed only when all participants have "
+#~ "clearly expressed their consent. Unprovoked attacks, traps, and ambushes are"
+#~ " considered violations of trust."
+#~ msgstr ""
+#~ "Ойыншы мен ойыншы арасындағы шайқас тек барлық қатысушылар өз келісімін анық"
+#~ " білдірген жағдайда ғана рұқсат етіледі. Себепсіз шабуылдар, тұзақтар және "
+#~ "торуылдар сенімді бұзу болып саналады."
+
+#~ msgid "Fair Play Only"
+#~ msgstr "Тек әділ ойын"
+
+#~ msgid ""
+#~ "The use of cheats, X-Ray resource packs, exploits, or any modifications that"
+#~ " provide an unfair advantage is a direct path to a permanent ban."
+#~ msgstr ""
+#~ "Читтерді, X-Ray ресурс жинақтарын, эксплойттарды немесе әділетсіз артықшылық"
+#~ " беретін кез келген модификацияларды пайдалану тұрақты бұғаттауға тікелей "
+#~ "жол ашады."
+
+#~ msgid "Server Economy"
+#~ msgstr "Сервер экономикасы"
+
+#~ msgid "Currency of Nations"
+#~ msgstr "Ұлттар валютасы"
+
+#~ msgid "Settlements Guide"
+#~ msgstr "Елді мекендер нұсқаулығы"
+
+#~ msgid "Living Mail Guide"
+#~ msgstr "Тірі пошта нұсқаулығы"
+
+#~ msgid "Go to Living Mail System"
+#~ msgstr "Тірі пошта жүйесіне өту"
+
+#~ msgid "On this page"
+#~ msgstr "Осы бетте"
+
+#~ msgid ""
+#~ "Share your sound with the UwUpad community. Upload your audio file, add a "
+#~ "title and tags."
+#~ msgstr ""
+#~ "Дыбысыңызды UwUpad қауымдастығымен бөлісіңіз. Аудио файлды жүктеп, атауын "
+#~ "және тегтерді қосыңыз."
+
+#~ msgid "Supported services"
+#~ msgstr "Қолдау көрсетілетін қызметтер"
+
+#~ msgid ""
+#~ "Loading audio... Click and drag on the waveform to select a\n"
+#~ "                region to keep."
+#~ msgstr ""
+#~ "Аудио жүктелуде... Сақтау үшін толқын пішінін басып, сүйреңіз.\n"
+#~ "                аймақты таңдаңыз."
+
+#~ msgid ""
+#~ "tags. Each\n"
+#~ "                            tag up to"
+#~ msgstr ""
+#~ "тегтер. Әрбір\n"
+#~ "                            тег"
+
+#~ msgid "View Detailed Sound Stats"
+#~ msgstr "Толық дыбыс статистикасын қарау"
+
+#~ msgid "Get in-depth analytics for your uploaded sounds (VIP exclusive)."
+#~ msgstr ""
+#~ "Жүктелген дыбыстарыңыз үшін тереңдетілген аналитиканы алыңыз (тек VIP үшін)."
+
+#~ msgid "Unsupported file type."
+#~ msgstr "Қолдау көрсетілмейтін файл түрі."
+
+#~ msgid "File is too big:"
+#~ msgstr "Файл тым үлкен:"
+
+#~ msgid "Max allowed for this type:"
+#~ msgstr "Бұл түрі үшін рұқсат етілген максималды:"
+
+#~ msgid "Please enter a title."
+#~ msgstr "Атауын енгізіңіз."
+
+#~ msgid "One or more tags exceed the max length of"
+#~ msgstr "Бір немесе бірнеше тег максималды ұзындығынан асып кетті"
+
+#~ msgid "Your browser does not support necessary audio features."
+#~ msgstr "Сіздің браузеріңіз қажетті аудио функцияларды қолдамайды."
+
+#~ msgid "Audio context error."
+#~ msgstr "Аудио контекст қатесі."
+
+#~ msgid "Error decoding audio:"
+#~ msgstr "Аудио декодтау қатесі:"
+
+#~ msgid "Failed to get decoded audio data for WaveSurfer."
+#~ msgstr "WaveSurfer үшін декодталған аудио деректерді алу мүмкін болмады."
+
+#~ msgid ""
+#~ "Click and drag on the waveform to select a region to keep, or click a region"
+#~ " to edit."
+#~ msgstr ""
+#~ "Сақтау үшін толқын пішінін басып, сүйреңіз, немесе өңдеу үшін аймақты "
+#~ "басыңыз."
+
+#~ msgid "Error: WaveSurfer altered sample rate post-load!"
+#~ msgstr "Қате: WaveSurfer жүктеуден кейін үлгі жиілігін өзгертті!"
+
+#~ msgid "WaveSurfer error:"
+#~ msgstr "WaveSurfer қатесі:"
+
+#~ msgid "Duration:"
+#~ msgstr "Ұзақтығы:"
+
+#~ msgid "Audio system not ready."
+#~ msgstr "Аудио жүйе дайын емес."
+
+#~ msgid "No region selected."
+#~ msgstr "Аймақ таңдалмаған."
+
+#~ msgid "Could not get decoded audio data."
+#~ msgstr "Декодталған аудио деректерді алу мүмкін болмады."
+
+#~ msgid "Max allowed for trimmed audio:"
+#~ msgstr "Кесілген аудио үшін рұқсат етілген максималды:"
+
+#~ msgid "approx."
+#~ msgstr "шамамен."
+
+#~ msgid "Could not initiate payment. Please try again later."
+#~ msgstr "Төлемді бастау мүмкін болмады. Кейінірек қайталап көріңіз."
+
+#~ msgid "Expire date"
+#~ msgstr "Жарамдылық мерзімі"
+
+#~ msgid "Remove from blacklist"
+#~ msgstr "Қара тізімнен жою"
+
+#~ msgid "Fingerprint"
+#~ msgstr "Саусақ ізі"
+
+#~ msgid "Original"
+#~ msgstr "Түпнұсқа"
+
+#~ msgid "Go to original sound. Fingerprint"
+#~ msgstr "Түпнұсқа дыбысқа өту. Саусақ ізі"
+
+#~ msgid "Duplicate"
+#~ msgstr "Көшірме"
+
+#~ msgid "About This Sound"
+#~ msgstr "Валюта туралы"
+
+#~ msgid "Post Comment"
+#~ msgstr "Түсініктеме жіберу"
+
+#~ msgid "Load More"
+#~ msgstr "Көбірек жүктеу"
+
+#~ msgid "Are you sure you want to block this user?"
+#~ msgstr "Бұл пайдаланушыны бұғаттағыңыз келетініне сенімдісіз бе?"
+
+#~ msgid "Delete all user sounds"
+#~ msgstr "Пайдаланушының барлық дыбыстарын жою"
+
+#~ msgid "Could not load comments."
+#~ msgstr "Түсініктемелерді жүктеу мүмкін болмады."
+
+#~ msgid "Error loading comments."
+#~ msgstr "Түсініктемелерді жүктеу қатесі."
+
+#~ msgid "Comment cannot be empty."
+#~ msgstr "Түсініктеме бос болмауы керек."
+
+#~ msgid "Comment posted successfully!"
+#~ msgstr "Түсініктеме сәтті жіберілді!"
+
+#~ msgid "An error occurred while posting your comment."
+#~ msgstr "Түсініктемеңізді жіберу кезінде қате орын алды."
+
+#~ msgid "You do not have permission to delete this comment."
+#~ msgstr "Бұл түсініктемені жоюға рұқсатыңыз жоқ."
+
+#~ msgid "An error occurred while deleting the comment."
+#~ msgstr "Түсініктемені жою кезінде қате орын алды."
+
+#~ msgid "Are you sure you want to delete this comment? This cannot be undone."
+#~ msgstr ""
+#~ "Бұл түсініктемені жойғыңыз келетініне сенімдісіз бе? Бұл әрекетті болдырмау "
+#~ "мүмкін емес."
+
+#~ msgid ""
+#~ "Your sound has been boosted to the top of recommendations for %(hours)d "
+#~ "hours!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you like our project, you can support it by clicking the link below."
+#~ msgstr ""
+#~ "Егер сізге біздің жобамыз ұнаса, төмендегі сілтемеге басу арқылы оны қолдай "
+#~ "аласыз."
+
+#~ msgid "Select an existing playlist or create a new one to save your queue."
+#~ msgstr ""
+#~ "Кезек тізімін сақтау үшін бар ойнату тізімін таңдаңыз немесе жаңасын "
+#~ "жасаңыз."
+
+#~ msgid "Unlock Unlimited Playlists!"
+#~ msgstr "Шектеусіз ойнату тізімдерін ашыңыз!"
+
+#~ msgid "for lifetime access."
+#~ msgstr "өмір бойы қол жетімділік үшін."
+
+#~ msgid "Unlock Feature"
+#~ msgstr "Функцияны ашу"
+
+#~ msgid "Ad"
+#~ msgstr "Жарнама"
+
+#~ msgid "UwUMine Minecraft Server"
+#~ msgstr "UwUPad Minecraft сервері"
+
+#~ msgid ""
+#~ "Select an existing playlist or create a new one for the sound "
+#~ "\"%(sound_name)s\"."
+#~ msgstr ""
+#~ "«%(sound_name)s» дыбысы үшін бар ойнату тізімін таңдаңыз немесе жаңасын "
+#~ "жасаңыз."
+
+#~ msgid "You must be logged in to create playlists."
+#~ msgstr "Ойнату тізімдерін жасау үшін жүйеге кіруіңіз керек."
+
+#~ msgid ""
+#~ "Save this and any other sounds into custom playlists. A key feature to "
+#~ "organize your collection, available only for VIPs."
+#~ msgstr ""
+#~ "Бұл және кез келген басқа дыбыстарды теңшелетін ойнату тізімдеріне сақтаңыз."
+#~ " Коллекцияңызды ұйымдастырудың негізгі функциясы, тек VIP үшін қол жетімді."
+
+#~ msgid "Changelog: The Arena Update"
+#~ msgstr "Өзгерістер журналы: Арена жаңартуы"
+
+#~ msgid "Version 0.8"
+#~ msgstr "0.8 нұсқасы"
+
+#~ msgid "August 2025"
+#~ msgstr "Тамыз 2025"
+
+#~ msgid ""
+#~ "Today we stop being just a sound library. We become an Arena. This is the "
+#~ "biggest update in uwupad.me history, affecting everything from core "
+#~ "mechanics and competition to a complete visual overhaul and new "
+#~ "customization features."
+#~ msgstr ""
+#~ "Бүгін біз тек дыбыс кітапханасы болуды тоқтатамыз. Біз Аренаға айналамыз. "
+#~ "Бұл uwupad.me тарихындағы ең үлкен жаңарту, ол негізгі механикадан және "
+#~ "бәсекелестіктен бастап, толық визуалды өзгерістерге және жаңа теңшеулерге "
+#~ "дейін бәріне әсер етеді."
+
+#~ msgid "The Arena: A New Era of Competition"
+#~ msgstr "Арена: Бәсекелестіктің жаңа дәуірі"
+
+#~ msgid ""
+#~ "We've completely re-imagined the leadership and interaction system on the "
+#~ "platform. Your profile is no longer just a business card. It's your "
+#~ "fighter's stats."
+#~ msgstr ""
+#~ "Біз платформадағы басқару және өзара әрекеттесу жүйесін толығымен қайта "
+#~ "қарастырдық. Сіздің профиліңіз енді жай ғана визит картасы емес. Бұл сіздің "
+#~ "жауынгеріңіздің статистикасы."
+
+#~ msgid "Influence Score System:"
+#~ msgstr "Ықпал ұпай жүйесі:"
+
+#~ msgid ""
+#~ "Introduced Influence Rating. Every action you take—like, view, download, "
+#~ "upload—now has weight and contributes to your personal score."
+#~ msgstr ""
+#~ "Ықпал рейтингі енгізілді. Сіздің әрбір әрекетіңіз — лайк, қарау, жүктеу, "
+#~ "жүктеу — енді салмаққа ие және жеке ұпайыңызға үлес қосады."
+
+#~ msgid "Dynamic Leaderboards:"
+#~ msgstr "Динамикалық лидерлер тақтасы:"
+
+#~ msgid ""
+#~ "Static 'all-time' tops are a thing of the past. Now you fight for supremacy "
+#~ "every day, every week, and every month. Newcomers can overtake veterans—the "
+#~ "most active win."
+#~ msgstr ""
+#~ "Статикалық 'барлық уақыттағы' топтар өткен шақта қалды. Енді сіз күн сайын, "
+#~ "апта сайын және ай сайын үстемдік үшін күресесіз. Жаңа келгендер "
+#~ "ардагерлерді басып оза алады — ең белсендісі жеңеді."
+
+#~ msgid "Rank \"Delta\":"
+#~ msgstr "Ранг \"Дельта\":"
+
+#~ msgid ""
+#~ "We don't just show your place. We show your progress. On the leaderboards "
+#~ "page, you can see how many positions you've climbed (or fallen) and the "
+#~ "score increase for the period. This is no longer a race. This is esports."
+#~ msgstr ""
+#~ "Біз тек сіздің орныңызды көрсетпейміз. Біз сіздің ілгерілеуіңізді "
+#~ "көрсетеміз. Лидерлер тақтасы бетінде сіз қанша орынға көтерілгеніңізді "
+#~ "(немесе түскеніңізді) және кезеңдегі ұпай өсімін көре аласыз. Бұл енді жарыс"
+#~ " емес. Бұл киберспорт."
+
+#~ msgid ""
+#~ "Completely reworked the statistics gathering architecture. Instead of an "
+#~ "inefficient hourly recount, the system now records every user action (like, "
+#~ "view) in real-time with a timestamp."
+#~ msgstr ""
+#~ "Статистика жинау архитектурасы толығымен қайта жасалды. Тиімсіз сағаттық "
+#~ "қайта санаудың орнына, жүйе енді әрбір пайдаланушы әрекетін (лайк, қарау) "
+#~ "нақты уақыт режимінде уақыт белгісімен жазады."
+
+#~ msgid ""
+#~ "This ensures absolute accuracy for periodic tops and reduces the load on the"
+#~ " database. Leaderboard loading speed has increased by ~3000%."
+#~ msgstr ""
+#~ "Бұл мерзімді топтар үшін абсолютті дәлдікті қамтамасыз етеді және дерекқорға"
+#~ " жүктемені азайтады. Лидерлер тақтасын жүктеу жылдамдығы ~3000% артты."
+
+#~ msgid "Complete Visual Redesign: \"Liquid Glass\""
+#~ msgstr "Толық визуалды қайта дизайн: «Сұйық Шыны»"
+
+#~ msgid ""
+#~ "The entire site has been redesigned from the ground up to match our new "
+#~ "vision."
+#~ msgstr ""
+#~ "Бүкіл сайт біздің жаңа көзқарасымызға сәйкес келу үшін нөлден бастап қайта "
+#~ "жобаланды."
+
+#~ msgid "New Style:"
+#~ msgstr "Жаңа стиль:"
+
+#~ msgid ""
+#~ "A unified \"Liquid Glass\" design has been implemented—dark, minimalistic, "
+#~ "with translucent elements, blur, and rounded corners."
+#~ msgstr ""
+#~ "Біртұтас «Сұйық Шыны» дизайны енгізілді — қара, минималистік, мөлдір "
+#~ "элементтермен, бұлыңғырлықпен және дөңгеленген бұрыштармен."
+
+#~ msgid "Unified CSS:"
+#~ msgstr "Біртұтас CSS:"
+
+#~ msgid ""
+#~ "All styles have been merged into a single file for maximum performance and "
+#~ "consistency."
+#~ msgstr ""
+#~ "Барлық стильдер максималды өнімділік пен сәйкестік үшін бір файлға "
+#~ "біріктірілді."
+
+#~ msgid "Redesigned Pages:"
+#~ msgstr "Қайта жасалған беттер:"
+
+#~ msgid ""
+#~ "Login, registration, and deposit pages have been completely redone into "
+#~ "separate, centered forms with smooth animations."
+#~ msgstr ""
+#~ "Кіру, тіркеу және депозит беттері толығымен бөлек, тегіс анимациясы бар "
+#~ "орталықтандырылған формаларға қайта жасалды."
+
+#~ msgid "Updated Components:"
+#~ msgstr "Жаңартылған компоненттер:"
+
+#~ msgid ""
+#~ "Sound cards, the profile header, and the user dropdown menu have received a "
+#~ "new, modern, and functional design."
+#~ msgstr ""
+#~ "Дыбыс карталары, профиль тақырыбы және пайдаланушының ашылмалы мәзірі жаңа, "
+#~ "заманауи және функционалды дизайнға ие болды."
+
+#~ msgid "Global Notifications:"
+#~ msgstr "Жаһандық хабарландырулар:"
+
+#~ msgid ""
+#~ "Old pop-ups have been replaced with a new system that supports stacking "
+#~ "(notifications appear on top of each other) and features smooth animations."
+#~ msgstr ""
+#~ "Ескі қалқыма терезелер жаңа жүйемен ауыстырылды, ол жинақтауды (хабарламалар"
+#~ " бір-бірінің үстіне шығады) қолдайды және тегіс анимацияларға ие."
+
+#~ msgid "New Features & Personalization"
+#~ msgstr "Жаңа мүмкіндіктер мен жекелендіру"
+
+#~ msgid ""
+#~ "We're giving you new tools for self-expression and to support the project."
+#~ msgstr ""
+#~ "Біз сізге өзін-өзі көрсету және жобаны қолдау үшін жаңа құралдар береміз."
+
+#~ msgid "Nickname Customization:"
+#~ msgstr "Лақап атты теңшеу:"
+
+#~ msgid ""
+#~ "You can now change your nickname style: solid fill, gradient (up to 5 "
+#~ "colors), or your own CSS code."
+#~ msgstr ""
+#~ "Енді лақап атыңыздың стилін өзгерте аласыз: біртұтас толтыру, градиент (5 "
+#~ "түске дейін) немесе өзіңіздің CSS кодыңыз."
+
+#~ msgid ""
+#~ "VIP users can change their style for free and without limits. Regular users "
+#~ "can change their style for 100 PAW (the new internal currency)."
+#~ msgstr ""
+#~ "VIP пайдаланушылар өз стилін тегін және шектеусіз өзгерте алады. Қатардағы "
+#~ "пайдаланушылар өз стилін 100 PAW-ға (жаңа ішкі валюта) өзгерте алады."
+
+#~ msgid "New Payment System:"
+#~ msgstr "Жаңа төлем жүйесі:"
+
+#~ msgid ""
+#~ "Added balance top-ups (PAW) and donations to support the project. All "
+#~ "payments (VIP, top-ups, donations) can now be made via Telegram Stars or "
+#~ "cryptocurrency (USDT)."
+#~ msgstr ""
+#~ "Балансты толықтырулар (PAW) және жобаны қолдау үшін қайырымдылықтар қосылды."
+#~ " Барлық төлемдер (VIP, толықтырулар, қайырымдылықтар) енді Telegram Stars "
+#~ "немесе криптовалюта (USDT) арқылы жүзеге асырылуы мүмкін."
+
+#~ msgid ""
+#~ "The payment Telegram bot was completely rewritten on a stateful "
+#~ "architecture, eliminating \"infinite loading\" errors."
+#~ msgstr ""
+#~ "Төлем Telegram боты «шексіз жүктеу» қателерін жоя отырып, күйлі "
+#~ "архитектурада толығымен қайта жазылды."
+
+#~ msgid "Fixes & Technical Improvements"
+#~ msgstr "Түзетулер мен техникалық жақсартулар"
+
+#~ msgid ""
+#~ "Fixed a critical error (`MissingGreenlet`) on profile pages during "
+#~ "statistics calculation."
+#~ msgstr ""
+#~ "Статистиканы есептеу кезінде профиль беттеріндегі (`MissingGreenlet`) "
+#~ "критикалық қате түзетілді."
+
+#~ msgid ""
+#~ "Fixed a bug in the leaderboards API where daily/weekly/monthly tops always "
+#~ "showed 0 points."
+#~ msgstr ""
+#~ "Лидерлер тақтасының API-дегі күнделікті/апталық/айлық топтар әрқашан 0 "
+#~ "ұпайды көрсеткен қате түзетілді."
+
+#~ msgid ""
+#~ "Resolved an `sqlalchemy.exc.InvalidRequestError` when updating nickname "
+#~ "styles by correctly merging DB sessions."
+#~ msgstr ""
+#~ "ДБ сессияларын дұрыс біріктіру арқылы лақап ат стилін жаңартқанда "
+#~ "`sqlalchemy.exc.InvalidRequestError` қатесі шешілді."
+
+#~ msgid ""
+#~ "Optimized profile page loading: all data is now loaded with a single, "
+#~ "efficient query."
+#~ msgstr ""
+#~ "Профиль бетін жүктеу оңтайландырылды: барлық деректер енді бір, тиімді сұрау"
+#~ " арқылы жүктеледі."
+
+#~ msgid ""
+#~ "Performed a database migration: all existing likes were carefully "
+#~ "transferred to the new event system without any loss."
+#~ msgstr ""
+#~ "Дерекқорды миграциялау орындалды: барлық қолданыстағы лайктар ешқандай "
+#~ "жоғалтусыз жаңа оқиға жүйесіне мұқият ауыстырылды."
+
+#~ msgid ""
+#~ "Fixed numerous visual bugs: author nickname display on sound cards, admin "
+#~ "button styles, old hover colors, and avatar compression in profiles."
+#~ msgstr ""
+#~ "Көптеген визуалды қателер түзетілді: дыбыс карталарындағы автордың лақап "
+#~ "атының көрсетілуі, әкімші батырмасының стильдері, ескі тышқанды "
+#~ "жылжытқандағы түстер және профильдердегі аватар қысу."
+
+#~ msgid "The game has changed. It's time to dominate."
+#~ msgstr "Ойын өзгерді. Үстемдік ету уақыты келді."
+
+#~ msgid "GIF only for VIP users"
+#~ msgstr "GIF тек VIP пайдаланушылары үшін"
+
+#~ msgid "GIF is only allowed for VIP users"
+#~ msgstr "GIF тек VIP пайдаланушыларына рұқсат етілген"
+
+#~ msgid "Limited Playlist Functionality"
+#~ msgstr "Шектеулі ойнату тізімі функциясы"
+
+#~ msgid "Standard Profile"
+#~ msgstr "Стандартты профиль"
+
+#~ msgid "Default Avatar"
+#~ msgstr "Әдепкі аватар"
+
+#~ msgid "Basic Sound Uploads"
+#~ msgstr "Негізгі дыбыс жүктеулері"
+
+#~ msgid "Create & Manage Unlimited Playlists"
+#~ msgstr "Шектеусіз ойнату тізімдерін жасау және басқару"
+
+#~ msgid "Exclusive VIP Profile Badge"
+#~ msgstr "Эксклюзивті VIP профиль белгісі"
+
+#~ msgid "Directly Support the Project"
+#~ msgstr "Жобаны тікелей қолдау"
+
+#~ msgid "Playlist with this name already exists."
+#~ msgstr "Осы атаумен ойнату тізімі қазірдің өзінде бар."
+
+#~ msgid "Max 3 tags."
+#~ msgstr "Максимум 3 тег."
+
+#~ msgid "Success"
+#~ msgstr "Сәтті"
+
+#~ msgid "Conflict while updating tags."
+#~ msgstr ""
+
+#~ msgid "Up to 2 playlists, 20 sounds each"
+#~ msgstr "Ойнату тізімдері табылмады."
+
+#~ msgid "Limited Downloads"
+#~ msgstr "Жүктеу"
+
+#~ msgid "Daily limit & download delay"
+#~ msgstr ""
+
+#~ msgid "Static Avatars Only"
+#~ msgstr ""
+
+#~ msgid "No Custom Sound Covers"
+#~ msgstr "Ең үздік дыбыс жасаушылар"
+
+#~ msgid "Paid Nickname Styling"
+#~ msgstr "Шектеусіз лақап ат стилін өзгерту"
+
+#~ msgid "Each change costs PAW"
+#~ msgstr ""
+
+#~ msgid "Paid Sound Boosts Only"
+#~ msgstr ""
+
+#~ msgid "Ad-Free Browsing"
+#~ msgstr "Жарнамасыз қарау"
+
+#~ msgid "No limits on playlists or sounds"
+#~ msgstr "Ойнату тізімдері табылмады."
+
+#~ msgid "Unlimited Downloads"
+#~ msgstr "Ең көп жүктелген"
+
+#~ msgid "No limits, no delay, ZIP downloads"
+#~ msgstr ""
+
+#~ msgid "Unlimited Nickname Styling"
+#~ msgstr "Шектеусіз лақап ат стилін өзгерту"
+
+#~ msgid "Free, unlimited style changes"
+#~ msgstr "Шектеусіз стиль өзгерістерін және басқа да нәрселерді VIP-пен алыңыз!"
+
+#~ msgid "Free Daily Sound Boost"
+#~ msgstr "Растау және төлеу"
+
+#~ msgid "One-Time Payment, Lifetime Access"
+#~ msgstr "Бір реттік төлем, өмір бойы қол жетімділік"
+
+#~ msgid "Payment is handled securely via Telegram Stars"
+#~ msgstr "Төлем Telegram Stars арқылы қауіпсіз өңделеді"
+
+#~ msgid "Log In to Purchase"
+#~ msgstr "Сатып алу үшін кіру"
+
+#~ msgid "From Our Patrons"
+#~ msgstr "Біздің қамқоршылардан"
+
+#~ msgid ""
+#~ "The ad-free experience alone is worth it. It makes finding sounds so much "
+#~ "faster."
+#~ msgstr ""
+#~ "Жарнамасыз тәжірибенің өзі құнды. Ол дыбыстарды табуды әлдеқайда "
+#~ "жылдамдатады."
+
+#~ msgid "Long-time User"
+#~ msgstr "Көптен бері пайдаланушы"
+
+#~ msgid ""
+#~ "Finally, I can organize all my favorite meme sounds into playlists. A game-"
+#~ "changer for my streams!"
+#~ msgstr ""
+#~ "Ақыры, мен өзімнің сүйікті мем дыбыстарын ойнату тізімдеріне ұйымдастыра "
+#~ "аламын. Бұл менің стримдерім үшін ойынды өзгертті!"
+
+#~ msgid "Content Creator"
+#~ msgstr "Мазмұн жасаушы"
+
+#~ msgid ""
+#~ "Happy to support a project I use daily. The GIF avatar is a nice bonus."
+#~ msgstr ""
+#~ "Күнделікті қолданатын жобаны қолдағаныма қуаныштымын. GIF аватары - жақсы "
+#~ "бонус."
+
+#~ msgid "Anonymous Patron"
+#~ msgstr "Анонимді қамқоршы"
+
+#~ msgid "Daily Limit Reached"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You have reached your daily download limit of %(limit)s sounds. Upgrade to "
+#~ "VIP for unlimited downloads!"
+#~ msgstr ""
+
+#~ msgid "Your queue is empty. Add sounds to get started!"
+#~ msgstr "Кезегіңіз бос. Бастау үшін дыбыстарды қосыңыз!"
+
+#~ msgid "Clear Queue"
+#~ msgstr "Кезек тізімін тазалау"
+
+#~ msgid "Save as Playlist"
+#~ msgstr "Ойнату тізімі ретінде сақтау"
+
+#~ msgid "Add sounds to the queue first!"
+#~ msgstr "Алдымен дыбыстарды кезекке қосыңыз!"
+
+#~ msgid "Cannot play sound that is not on the current page."
+#~ msgstr "Ағымдағы бетте жоқ дыбысты ойнату мүмкін емес."
+
+#~ msgid "Error loading data. Please try again later."
+#~ msgstr "Деректерді жүктеу қатесі. Кейінірек қайталап көріңіз."
+
+#~ msgid "Live Preview"
+#~ msgstr "Алдын ала қарауды жабу"
+
+#~ msgid "Custom Cover (VIP)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Make your sounds stand out with custom background images. This feature is "
+#~ "exclusive to VIP members."
+#~ msgstr ""
+
+#~ msgid "Unlock Custom Covers"
+#~ msgstr ""
+
+#~ msgid "Custom covers are a VIP feature."
+#~ msgstr ""
+
+#~ msgid "Download Limit Reached"
+#~ msgstr "Ойнату тізімі жойылды."
+
+#~ msgid ""
+#~ "You have used all your available downloads. Charges regenerate over time. "
+#~ "Upgrade to VIP for unlimited downloads!"
+#~ msgstr ""
+
+#~ msgid "Guest Limit Reached"
+#~ msgstr "Ойнату тізімі жойылды."
+
+#~ msgid ""
+#~ "You have reached the download limit for guests. Please log in to get "
+#~ "%(auth_limit)s downloads or wait for them to recharge."
+#~ msgstr ""
+
+#~ msgid "Latin Scripts"
+#~ msgstr "Латын жазулары"
+
+#~ msgid "Cyrillic Scripts"
+#~ msgstr "Кириллица жазулары"
+
+#~ msgid "Asian Scripts"
+#~ msgstr "Азиялық жазулар"
+
+#~ msgid "Other Scripts"
+#~ msgstr "Басқа жазулар"
+
+#~ msgid ""
+#~ "The most transparent dice game on Telegram. Deposit & Withdraw instantly via"
+#~ " CryptoBot."
+#~ msgstr ""
+
+#~ msgid "Download is preparing..."
+#~ msgstr "Жүктеу дайындалуда..."
+
+#~ msgid "Download started."
+#~ msgstr "Жүктеу басталды."
+
+#~ msgid ""
+#~ "Your AdBlock is limiting search results. Disable it or get VIP for full "
+#~ "access."
+#~ msgstr ""
+#~ "Сіздің AdBlock іздеу нәтижелерін шектеп жатыр. Оны өшіріңіз немесе толық қол"
+#~ " жеткізу үшін VIP алыңыз."
+
+#~ msgid "Your AdBlock is breaking the site layout."
+#~ msgstr "Сіздің AdBlock сайтының орналасуын бұзады."
+
+#~ msgid "Get a VIP pass to browse without ads and support the servers."
+#~ msgstr ""
+#~ "Жарнамасыз қарау және серверлерді қолдау үшін VIP рұқсаттамасын алыңыз."
+
+#~ msgid "Learn more about VIP"
+#~ msgstr "VIP туралы көбірек білу"
+
+#~ msgid "Your browser's built-in blocker is active."
+#~ msgstr "Браузеріңіздің кіріктірілген блоктаушысы белсенді."
+
+#~ msgid ""
+#~ "Modern browsers like <strong>Opera GX</strong>, <strong>Brave</strong>, or "
+#~ "Firefox with custom settings often have <strong>built-in ad and script "
+#~ "blockers</strong>."
+#~ msgstr ""
+#~ "<strong>Opera GX</strong>, <strong>Brave</strong> немесе реттелетін "
+#~ "параметрлері бар Firefox сияқты заманауи браузерлерде жиі "
+#~ "<strong>кіріктірілген жарнама және сценарий блоктаушылары</strong> болады."
+
+#~ msgid ""
+#~ "These features interfere with site functionality and threaten our ability to"
+#~ " operate. Please support us by choosing an option:"
+#~ msgstr ""
+#~ "Бұл мүмкіндіктер сайттың жұмысына кедергі келтіреді және біздің жұмыс істеу "
+#~ "қабілетімізге қауіп төндіреді. Бір опцияны таңдау арқылы бізге қолдау "
+#~ "көрсетіңіз:"
+
+#~ msgid "THE VIP WAY"
+#~ msgstr "VIP ЖОЛЫ"
+
+#~ msgid "Best Experience"
+#~ msgstr "Ең жақсы тәжірибе"
+
+#~ msgid "Get VIP Pass"
+#~ msgstr "VIP рұқсаттамасын алу"
+
+#~ msgid "No ads, no interruptions, full speed."
+#~ msgstr "Жарнамасыз, үзіліссіз, толық жылдамдық."
+
+#~ msgid "THE FREE WAY"
+#~ msgstr "ТЕГІН ЖОЛЫ"
+
+#~ msgid "Whitelist Us"
+#~ msgstr "AdBlock өшіру"
+
+#~ msgid "I've Whitelisted The Site"
+#~ msgstr "Мен ADBLOCK-ты өшірдім"
+
+#~ msgid "in your address bar and disable the blocker for uwupad.me."
+#~ msgstr "мекенжай жолағыңыздағы uwupad.me үшін блоктаушыны өшіріңіз."
+
+#~ msgid "@uwupad - for urgent matters"
+#~ msgstr ""
+
+#~ msgid "To use this feature, please subscribe to our Telegram channel."
+#~ msgstr ""
+
+#~ msgid "I have subscribed"
+#~ msgstr ""
+
+#~ msgid "Subscription not found. Please join the channel."
+#~ msgstr ""
+
+#~ msgid "Check Again"
+#~ msgstr "Қайта көріңіз"
+
+#~ msgid "Verified!"
+#~ msgstr ""
+
+#~ msgid "Your Story Begins Now"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The Second Era of our private vanilla server has started. Join an adult "
+#~ "community, protected from griefers by a unique justice system. All that's "
+#~ "missing is you."
+#~ msgstr ""
+
+#~ msgid "Apply on Discord"
+#~ msgstr "Discord-қа қосылу"
+
+#~ msgid "Payments Are Back!"
+#~ msgstr "Төлемдер қайтадан қол жетімді!"
+
+#~ msgid ""
+#~ "Great news! We've restored the ability to purchase VIP status and make "
+#~ "donations. Your support is crucial for the development and maintenance of "
+#~ "UwUpad."
+#~ msgstr ""
+#~ "Жақсы жаңалық! Біз VIP мәртебесін сатып алу және қайырымдылық жасау "
+#~ "мүмкіндігін қалпына келтірдік. Сіздің қолдауыңыз UwUpad-тың дамуы мен "
+#~ "қызметінде маңызды рөл атқарады."
+
+#~ msgid "Thank you for staying with us!"
+#~ msgstr "Бізбен бірге болғаныңыз үшін рахмет!"
+
+#~ msgid "Become VIP"
+#~ msgstr "VIP болу"
+
+#~ msgid "Go VIP"
+#~ msgstr "VIP болыңыз"
+
+#~ msgid "10 KEYS SOUNDPAD GIVEAWAY!"
+#~ msgstr "10 SOUNDPAD КІЛТТЕРІНІҢ ҰТЫС ОЙЫНЫ!"
+
+#~ msgid ""
+#~ "Participate in our Telegram channel and get a chance to win. Don't miss out!"
+#~ msgstr ""
+#~ "Біздің Telegram арнамызға қатысып, ұтып алу мүмкіндігін алыңыз. Өткізіп "
+#~ "алмаңыз!"
+
+#~ msgid "Participate"
+#~ msgstr "Қатысу"
+
+#~ msgid "Fair Crypto Game"
+#~ msgstr ""
+
+#~ msgid "Instant withdrawals & fair play. Test your luck directly in Telegram!"
+#~ msgstr ""
+
+#~ msgid "Play Now"
+#~ msgstr ""
+
+#~ msgid "Complete a quick task to unlock all 50 sounds instantly:"
+#~ msgstr ""
+
+#~ msgid "Unlock Top 50 Pack"
+#~ msgstr ""
+
+#~ msgid "Get unlimited access to all packs and premium features."
+#~ msgstr ""
+
+#~ msgid "Get VIP Access"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "After completing the task, the download will be unlocked automatically "
+#~ "within 1-5 minutes."
+#~ msgstr ""
+
+#~ msgid "Waiting for task completion... Do not close the site."
+#~ msgstr ""
+
+#~ msgid "Preparing link..."
+#~ msgstr "Пайдаланушыларды іздеу..."
+
+#~ msgid "For free high-speed download, request verification is required."
+#~ msgstr ""
+
+#~ msgid "DOWNLOAD FILE"
+#~ msgstr "Жүктеу қатесі."
+
+#~ msgid "Click to speed up timer"
+#~ msgstr "Көшіру үшін басыңыз"
+
+#~ msgid "Wait"
+#~ msgstr ""
+
+#~ msgid "sec..."
+#~ msgstr "Пайдаланушыларды іздеу..."
+
+#~ msgid "Link is ready!"
+#~ msgstr "Байланыстырылды!"
+
+#~ msgid "Proceed to download"
+#~ msgstr "Төлемге өту"
+
+#~ msgid "VERIFICATION COMPLETED"
+#~ msgstr ""
+
+#~ msgid "GET SHIP + 500 GOLD + 7 DAYS VIP"
+#~ msgstr ""
+
+#~ msgid "GET FREE TANK + 7 DAYS PREMIUM"
+#~ msgstr ""
+
+#~ msgid "Wait ${timeLeft}s to download"
+#~ msgstr ""
+
+#~ msgid "Skip Advertisement"
+#~ msgstr ""
+
+#~ msgid "Join the Community!"
+#~ msgstr "Қауымдастықтың жүрегі"
+
+#~ msgid ""
+#~ "Create a free account to like sounds, create unlimited playlists, and join "
+#~ "the leaderboard."
+#~ msgstr ""
+
+#~ msgid "Continue as Guest"
+#~ msgstr "Жалғастыру"
+
+#~ msgid ""
+#~ "Join our Discord server to chat with other users and get the latest news."
+#~ msgstr ""
+#~ "Басқа пайдаланушылармен сөйлесу және соңғы жаңалықтарды алу үшін біздің "
+#~ "Discord серверімізге қосылыңыз."
+
+#~ msgid "Join Discord"
+#~ msgstr "Discord-қа қосылу"
+
+#~ msgid "Join our Telegram channel to be aware and get the latest news."
+#~ msgstr ""
+#~ "Хабардар болу және соңғы жаңалықтарды алу үшін біздің Telegram арнамызға "
+#~ "қосылыңыз."
+
+#~ msgid "Join Telegram"
+#~ msgstr "Telegram-ға қосылу"
+
+#~ msgid "Deposit PAW"
+#~ msgstr "PAW-ты енгізу"
+
+#~ msgid "Top Up Your Balance"
+#~ msgstr "Балансыңызды толықтырыңыз"
+
+#~ msgid "Purchase PAW to dominate the platform."
+#~ msgstr "Платформада үстемдік ету үшін PAW сатып алыңыз."
+
+#~ msgid "Deposit"
+#~ msgstr "Енгізу"
+
+#~ msgid "Please enter an amount between 1 and 2500."
+#~ msgstr "1 мен 2500 аралығындағы соманы енгізіңіз."
+
+#~ msgid "Nickname Shop"
+#~ msgstr "Лақап ат дүкені"
+
+#~ msgid "Your Balance"
+#~ msgstr "Сіздің балансыңыз"
+
+#~ msgid "Nickname Colors"
+#~ msgstr "Лақап ат түстері"
+
+#~ msgid "Nickname Effects"
+#~ msgstr "Лақап ат эффектілері"
+
+#~ msgid "Preview Your Nickname"
+#~ msgstr "Лақап атыңызды алдын ала қарау"
+
+#~ msgid "Enter your nickname for preview:"
+#~ msgstr "Алдын ала қарау үшін лақап атыңызды енгізіңіз:"
+
+#~ msgid "Buy / Apply"
+#~ msgstr "Сатып алу / Қолдану"
+
+#~ msgid "Applied"
+#~ msgstr "Қолданылды"
+
+#~ msgid "Apply"
+#~ msgstr "Қолдану"
+
+#~ msgid "Buy"
+#~ msgstr "Сатып алу"
+
+#~ msgid "Preview"
+#~ msgstr "Алдын ала қарау"
+
+#~ msgid "Buy for"
+#~ msgstr "Сатып алу үшін"
+
+#~ msgid "Close Preview"
+#~ msgstr "Алдын ала қарауды жабу"
+
+#~ msgid "Apply This Style"
+#~ msgstr "Осы стильді қолдану"
+
+#~ msgid "Buy This Style"
+#~ msgstr "Осы стильді сатып алу"
+
+#~ msgid "You must be logged in to make purchases."
+#~ msgstr "Сатып алу үшін жүйеге кіруіңіз керек."
+
+#~ msgid "Insufficient PAW balance. Please top up."
+#~ msgstr "PAW балансы жеткіліксіз. Толықтырыңыз."
+
+#~ msgid "Purchase successful! Item added to your collection."
+#~ msgstr "Сатып алу сәтті өтті! Зат коллекцияңызға қосылды."
+
+#~ msgid "Would you like to apply this style now?"
+#~ msgstr "Бұл стильді қазір қолданғыңыз келе ме?"
+
+#~ msgid "You must be logged in to apply styles."
+#~ msgstr "Стильдерді қолдану үшін жүйеге кіруіңіз керек."
+
+#~ msgid "You do not own this style."
+#~ msgstr "Сіз бұл стильге ие емессіз."
+
+#~ msgid "Nickname style applied successfully!"
+#~ msgstr "Лақап ат стилі сәтті қолданылды!"
+
+#~ msgid "uwumine - Legacy Server"
+#~ msgstr "uwumine - Legacy Server"
+
+#~ msgid ""
+#~ "A world where everything you create lasts forever. A private vanilla server "
+#~ "with no wipes, no pay-to-win, and no cheaters — a club for those who want to"
+#~ " build history together."
+#~ msgstr ""
+#~ "Сіз жасайтын барлық нәрсе мәңгі сақталатын әлем. Жоюсыз, төлем-жеңіссіз және"
+#~ " алдаушыларсыз жеке ванильді сервер — бірге тарих құрғысы келетіндер үшін "
+#~ "клуб."
+
+#~ msgid "Copy"
+#~ msgstr "Көшіру"
+
+#~ msgid "Server Wiki"
+#~ msgstr "Сервер Wiki"
+
+#~ msgid "Live Map"
+#~ msgstr "LIVE Карта"
+
+#~ msgid "Whitelisted"
+#~ msgstr "Ақ тізімде"
+
+#~ msgid "For players from Russia:"
+#~ msgstr "Ресейден келген ойыншылар үшін:"
+
+#~ msgid "If you experience high ping, use our regional IP:"
+#~ msgstr "Егер сізде жоғары пинг болса, біздің аймақтық IP-ді пайдаланыңыз:"
+
+#~ msgid "Disabling your VPN is also recommended for the best connection."
+#~ msgstr "Үздік қосылым үшін VPN-ді өшіру де ұсынылады."
+
+#~ msgid "You Have Been Invited!"
+#~ msgstr "Сіз шақырылдыңыз!"
+
+#~ msgid "Ваш друг предоставил вам доступ к серверу UwUCraft Legacy."
+#~ msgstr "Сізге UwUCraft Legacy серверіне кіру рұқсаты берілді."
+
+#~ msgid "invites you to join the server."
+#~ msgstr "сізді серверге қосылуға шақырады."
+
+#~ msgid "Activate Whitelist"
+#~ msgstr "Ақ тізімді белсендіру"
+
+#~ msgid "Please log in or create a UwUpad account to claim your invite."
+#~ msgstr "Шақыруыңызды алу үшін UwUpad аккаунтына кіріңіз немесе жасаңыз."
+
+#~ msgid "Log In to Activate"
+#~ msgstr "Белсендіру үшін кіру"
+
+#~ msgid "This server is for Licensed Minecraft Java Edition accounts only."
+#~ msgstr ""
+
+#~ msgid "Progress"
+#~ msgstr "Прогресс"
+
+#~ msgid "For voice chat, we use the"
+#~ msgstr "Дауыстық чат үшін біз"
+
+#~ msgid "Hours Played"
+#~ msgstr "Ойналған сағаттар"
+
+#~ msgid "Your time builds the world's history."
+#~ msgstr "Сіздің уақытыңыз әлем тарихын құрады."
+
+#~ msgid "Invite Keys"
+#~ msgstr "Шақыру кілттері"
+
+#~ msgid "How does it work?"
+#~ msgstr "Бұл қалай жұмыс істейді?"
+
+#~ msgid "Next key at"
+#~ msgstr "Арқылы келесі кілт"
+
+#~ msgid "hours"
+#~ msgstr "сағат"
+
+#~ msgid "You have reached the invite limit for now."
+#~ msgstr "Қазіргі уақытта шақыру лимитіне жеттіңіз."
+
+#~ msgid "Invite a Player"
+#~ msgstr "Ойыншыны шақыру"
+
+#~ msgid "Sync VIP Role on Server"
+#~ msgstr ""
+
+#~ msgid "Your Generated Invite Links:"
+#~ msgstr "Сіздің жасалған шақыру сілтемелеріңіз:"
+
+#~ msgid "Click to copy"
+#~ msgstr "Көшіру үшін басыңыз"
+
+#~ msgid "Revoke Key"
+#~ msgstr "Кілтті кері қайтару"
+
+#~ msgid "Welcome, Patron"
+#~ msgstr "Қош келдіңіз, Қамқоршы"
+
+#~ msgid "Link your Minecraft account to claim your in-game VIP benefits."
+#~ msgstr ""
+#~ "Ойындағы VIP артықшылықтарын алу үшін Minecraft аккаунтыңызды "
+#~ "байланыстырыңыз."
+
+#~ msgid "Your Minecraft Username"
+#~ msgstr "Сіздің Minecraft лақап атыңыз"
+
+#~ msgid "Link Account"
+#~ msgstr "Аккаунтты байланыстыру"
+
+#~ msgid "This action is permanent and can only be changed via support."
+#~ msgstr ""
+#~ "Бұл әрекет тұрақты және оны тек қолдау қызметі арқылы өзгертуге болады."
+
+#~ msgid "Whitelist Pass"
+#~ msgstr "Ақ тізім рұқсаттамасы"
+
+#~ msgid "LIFETIME"
+#~ msgstr "ӨМІР БОЙЫ"
+
+#~ msgid "Permanent access to a world with no wipes"
+#~ msgstr "Жоюсыз әлемге тұрақты қол жетімділік"
+
+#~ msgid "Pure vanilla gameplay as it was intended"
+#~ msgstr "Таза ванильді ойын, ол қалай ойластырылған болса"
+
+#~ msgid "Live community with voice chat (PlasmoVoice)"
+#~ msgstr "Дауыстық чаты бар тірі қауымдастық (PlasmoVoice)"
+
+#~ msgid "License-only access — no cheaters or alt accounts"
+#~ msgstr "Тек лицензия бойынша кіру — алдаушылар мен қосалқы аккаунттар жоқ"
+
+#~ msgid "Purchase Pass"
+#~ msgstr "Рұқсаттаманы сатып алу"
+
+#~ msgid "Founding Patron"
+#~ msgstr "Құрылтайшы Қамқоршы"
+
+#~ msgid "All Whitelist Pass benefits, plus:"
+#~ msgstr "Барлық ақ тізім рұқсаттамасының артықшылықтары, сонымен қатар:"
+
+#~ msgid "UwUpad VIP Status"
+#~ msgstr "UwUpad VIP мәртебесі"
+
+#~ msgid "on site & Discord"
+#~ msgstr "сайтта және Discord-та"
+
+#~ msgid "Unique nickname color & prefix in-game"
+#~ msgstr "Ойындағы бірегей лақап ат түсі мен префикс"
+
+#~ msgid "Priority queue access on a full server"
+#~ msgstr "Толық сервердегі басымдық кезегіне қол жеткізу"
+
+#~ msgid "Voting rights on community decisions"
+#~ msgstr "Қауымдастық шешімдерінде дауыс беру құқығы"
+
+#~ msgid "Log In to Become a Patron"
+#~ msgstr "Қамқоршы болу үшін кіру"
+
+#~ msgid "Become a Member"
+#~ msgstr "Мүше болу"
+
+#~ msgid "To purchase access or claim an invite, you must be logged in."
+#~ msgstr ""
+#~ "Қол жеткізуді сатып алу немесе шақыруды алу үшін жүйеге кіруіңіз керек."
+
+#~ msgid "The Heart of the Community"
+#~ msgstr "Қауымдастықтың жүрегі"
+
+#~ msgid ""
+#~ "All discussions, events, and player trades happen on our Discord server. "
+#~ "Joining is essential to become a full-fledged member of the world."
+#~ msgstr ""
+#~ "Барлық талқылаулар, іс-шаралар және ойыншылар арасындағы сауда біздің "
+#~ "Discord серверімізде өтеді. Әлемнің толыққанды мүшесі болу үшін қосылу "
+#~ "маңызды."
+
+#~ msgid "Join the Discord"
+#~ msgstr "Discord-қа қосылу"
+
+#~ msgid ""
+#~ "To get your VIP/Whitelist role in Discord, link your Discord account in your"
+#~ msgstr ""
+#~ "Discord-та VIP/Ақ тізім рөлін алу үшін Discord аккаунтыңызды өзіңіздің"
+
+#~ msgid "UwUpad profile"
+#~ msgstr "UwUpad профиліңізде"
+
+#~ msgid "then type"
+#~ msgstr "содан кейін теріңіз"
+
+#~ msgid "in the"
+#~ msgstr "ішінде"
+
+#~ msgid "channel."
+#~ msgstr "арнада."
+
+#~ msgid "Minecraft: Java Edition (License required) | Server Version: 1.21+"
+#~ msgstr ""
+#~ "Minecraft: Java Edition (Лицензия талап етіледі) | Сервер нұсқасы: 1.21+"
+
+#~ msgid "Voice Chat Mod:"
+#~ msgstr "Дауыстық чат модулі:"
+
+#~ msgid "Could not load player count."
+#~ msgstr "Ойыншылар санын жүктеу мүмкін болмады."
+
+#~ msgid "Copied!"
+#~ msgstr "Көшірілді!"
+
+#~ msgid "Failed to re-sync role."
+#~ msgstr "Рөлді қайта синхрондау мүмкін болмады."
+
+#~ msgid "Sync Signal Sent"
+#~ msgstr "Рөл синхрондалды"
+
+#~ msgid "Please rejoin the server in a minute to see the changes."
+#~ msgstr "Өзгерістерді көру үшін бір минуттан кейін серверге қайта кіріңіз."
+
+#~ msgid "Done!"
+#~ msgstr "Дайын!"
+
+#~ msgid ""
+#~ "Enter the exact Minecraft username of the player you want to invite. You "
+#~ "will receive a unique link to share with them."
+#~ msgstr ""
+#~ "Шақырғыңыз келетін ойыншының нақты Minecraft лақап атын енгізіңіз. Сіз "
+#~ "олармен бөлісу үшін бірегей сілтеме аласыз."
+
+#~ msgid "Generate Invite"
+#~ msgstr "Шақыру жасау"
+
+#~ msgid "Failed to generate invite."
+#~ msgstr "Шақыруды жасау мүмкін болмады."
+
+#~ msgid "Invite Link Generated!"
+#~ msgstr "Шақыру сілтемесі жасалды!"
+
+#~ msgid ""
+#~ "Your unique invite link for ${mcUsername} has been copied to your clipboard."
+#~ " Send it to player!"
+#~ msgstr ""
+#~ "${mcUsername} үшін бірегей шақыру сілтемеңіз алмасу буферіңізге көшірілді. "
+#~ "Оны ойыншыға жіберіңіз!"
+
+#~ msgid "Great!"
+#~ msgstr "Керемет!"
+
+#~ msgid ""
+#~ "You earn invite keys by playing on the server. Each key allows you to "
+#~ "whitelist one friend."
+#~ msgstr ""
+#~ "Сіз серверде ойнау арқылы шақыру кілттерін аласыз. Әрбір кілт сізге бір "
+#~ "досыңызды ақ тізімге қосуға мүмкіндік береді."
+
+#~ msgid "1st Key"
+#~ msgstr "1-ші кілт"
+
+#~ msgid "Hours"
+#~ msgstr "Сағат"
+
+#~ msgid "2nd Key"
+#~ msgstr "2-ші кілт"
+
+#~ msgid "3rd Key"
+#~ msgstr "3-ші кілт"
+
+#~ msgid "4th Key"
+#~ msgstr "4-ші кілт"
+
+#~ msgid "5th Key"
+#~ msgstr "5-ші кілт"
+
+#~ msgid ""
+#~ "The required time doubles for each subsequent key. Time is only tracked for "
+#~ "whitelisted players."
+#~ msgstr ""
+#~ "Әрбір келесі кілт үшін қажетті уақыт екі есе артады. Уақыт тек ақ тізімдегі "
+#~ "ойыншылар үшін бақыланады."
+
+#~ msgid "Invite System"
+#~ msgstr "Шақыру жүйесі"
+
+#~ msgid "Got It"
+#~ msgstr "Түсіндім"
+
+#~ msgid "Revoke Invite Key?"
+#~ msgstr "Шақыру кілтін кері қайтару керек пе?"
+
+#~ msgid ""
+#~ "Are you sure you want to delete this unused invite key? This action cannot "
+#~ "be undone."
+#~ msgstr ""
+#~ "Бұл пайдаланылмаған шақыру кілтін жойғыңыз келетініне сенімдісіз бе? Бұл "
+#~ "әрекетті болдырмау мүмкін емес."
+
+#~ msgid "Revoke"
+#~ msgstr "Кері қайтару"
+
+#~ msgid "Invite link copied to clipboard!"
+#~ msgstr "Шақыру сілтемесі алмасу буферіне көшірілді!"
+
+#~ msgid "Failed to activate invite."
+#~ msgstr "Шақыруды белсендіру мүмкін болмады."
+
+#~ msgid "Welcome to the Server!"
+#~ msgstr "Серверге қош келдіңіз!"
+
+#~ msgid ""
+#~ "Your invite has been successfully activated! You can now join the server. We"
+#~ " recommend reading the wiki to get started."
+#~ msgstr ""
+#~ "Сіздің шақыруыңыз сәтті белсендірілді! Енді серверге қосыла аласыз. Бастау "
+#~ "үшін викиді оқуды ұсынамыз."
+
+#~ msgid "Let's Go!"
+#~ msgstr "Кеттік!"
+
+#~ msgid "Activation Error"
+#~ msgstr "Белсендіру қатесі"
+
+#~ msgid "Server is unable to process the request."
+#~ msgstr "Сервер сұранысты өңдей алмайды."
+
+#~ msgid "Success!"
+#~ msgstr "Сәтті!"
+
+#~ msgid "Account linked successfully!"
+#~ msgstr "Аккаунт сәтті байланыстырылды!"
+
+#~ msgid "Linked!"
+#~ msgstr "Байланыстырылды!"
+
+#~ msgid "Please try again later."
+#~ msgstr "Кейінірек қайталап көріңіз."
+
+#~ msgid "Enter Minecraft Username"
+#~ msgstr "Minecraft лақап атын енгізіңіз"
+
+#~ msgid ""
+#~ "Please enter your exact case-sensitive username. This purchase will be "
+#~ "linked to this account permanently."
+#~ msgstr ""
+#~ "Нақты, регистрге сезімтал лақап атыңызды енгізіңіз. Бұл сатып алу осы "
+#~ "аккаунтқа тұрақты түрде байланыстырылады."
+
+#~ msgid "Continue"
+#~ msgstr "Жалғастыру"
+
+#~ msgid "Purchase Whitelist Pass"
+#~ msgstr "Ақ тізім рұқсаттамасы"
+
+#~ msgid "Invalid Username"
+#~ msgstr "Жарамсыз лақап ат"
+
+#~ msgid "Please enter a valid Minecraft username."
+#~ msgstr "Жарамды Minecraft лақап атын енгізіңіз."
+
+#~ msgid "Confirm Action"
+#~ msgstr "Әрекетті растау"
+
+#~ msgid ""
+#~ "Are you sure you want to permanently link the Minecraft account "
+#~ "\"${username}\" to your VIP status?"
+#~ msgstr ""
+#~ "«${username}» Minecraft аккаунтын VIP мәртебеңізге тұрақты байланыстырғыңыз "
+#~ "келетініне сенімдісіз бе?"
+
+#~ msgid "Final Confirmation"
+#~ msgstr "Соңғы растау"
+
+#~ msgid "This action CANNOT be undone without contacting support."
+#~ msgstr "Бұл әрекетті қолдау қызметіне хабарласпай болдырмау МҮМКІН ЕМЕС."
+
+#~ msgid "Guide: The Living Mail System"
+#~ msgstr "Нұсқаулық: Тірі пошта жүйесі"
+
+#~ msgid "Back to Server Page"
+#~ msgstr "Сервер бетіне оралу"
+
+#~ msgid "The Living Mail System"
+#~ msgstr "Тірі пошта жүйесі"
+
+#~ msgid ""
+#~ "A player-driven delivery network based on engineering, resources, and real "
+#~ "journeys."
+#~ msgstr ""
+#~ "Инженерлік, ресурстар мен нақты сапарларға негізделген ойыншылар басқаратын "
+#~ "жеткізу желісі."
+
+#~ msgid "Part 1: Building Your Mail Station"
+#~ msgstr "1-бөлім: Пошта станцияңызды құру"
+
+#~ msgid ""
+#~ "To join the mail network, you need a station. It requires three components "
+#~ "placed near each other:"
+#~ msgstr ""
+#~ "Пошта желісіне қосылу үшін сізге станция қажет. Ол бір-біріне жақын "
+#~ "орналасқан үш компонентті талап етеді:"
+
+#~ msgid "Container:"
+#~ msgstr "Контейнер:"
+
+#~ msgid "Any Chest or Barrel. This is your mailbox."
+#~ msgstr "Кез келген сандық немесе бөшке. Бұл сіздің пошта жәшігіңіз."
+
+#~ msgid "Address Sign:"
+#~ msgstr "Мекенжай белгісі:"
+
+#~ msgid "A Sign placed directly on or next to the container."
+#~ msgstr "Контейнердің үстіне немесе жанына орналастырылған белгі."
+
+#~ msgid "Activator (Beehive):"
+#~ msgstr "Белсендіргіш (Ара ұясы):"
+
+#~ msgid ""
+#~ "A Beehive within a ~5 block radius. It serves as a home base for your "
+#~ "couriers."
+#~ msgstr ""
+#~ "Шамамен 5 блок радиусындағы ара ұясы. Ол сіздің курьерлеріңіз үшін үй базасы"
+#~ " қызметін атқарады."
+
+#~ msgid "Setup Steps:"
+#~ msgstr "Орнату қадамдары:"
+
+#~ msgid "Place your Chest/Barrel and a Beehive nearby."
+#~ msgstr "Сандығыңызды/бөшкенізді және жақын жерде ара ұясын орналастырыңыз."
+
+#~ msgid "Place a Sign on the container and type exactly this on the first line:"
+#~ msgstr "Контейнерге белгіні орналастырып, бірінші жолға дәл осыны теріңіз:"
+
+#~ msgid "World Integration:"
+#~ msgstr "Әлемдік интеграция:"
+
+#~ msgid "Once created, your Mail Station will be automatically marked on the"
+#~ msgstr ""
+#~ "Жасалғаннан кейін, сіздің пошта станцияңыз автоматты түрде белгіленеді"
+
+#~ msgid "live map"
+#~ msgstr "LIVE картада"
+
+#~ msgid ""
+#~ "Upon completion, the plugin will automatically convert the sign and assign "
+#~ "your station a unique Postal Index."
+#~ msgstr ""
+#~ "Аяқталғаннан кейін, плагин автоматты түрде белгіні түрлендіреді және "
+#~ "станцияңызға бірегей пошта индексін тағайындайды."
+
+#~ msgid "Part 2: Your Courier (Bee)"
+#~ msgstr "2-бөлім: Сіздің курьеріңіз (Ара)"
+
+#~ msgid ""
+#~ "Your station's couriers are bees. The system prioritizes using a nearby "
+#~ "free-flying bee for delivery. If there are no free bees, one will be "
+#~ "dispatched from the Beehive linked to your station. Make sure your beehive "
+#~ "is populated!"
+#~ msgstr ""
+#~ "Сіздің станцияңыздың курьерлері — аралар. Жүйе жеткізу үшін жақын жердегі "
+#~ "бос ұшатын араны пайдалануға басымдық береді. Егер бос аралар болмаса, "
+#~ "біреуі сіздің станцияңызға байланысты ара ұясынан жіберіледі. Ара ұяңыздың "
+#~ "толтырылғанына көз жеткізіңіз!"
+
+#~ msgid "Bee courier dispatch process"
+#~ msgstr "Ара курьерін жіберу процесі"
+
+#~ msgid "Tip:"
+#~ msgstr "Кеңес:"
+
+#~ msgid ""
+#~ "Ensure your Beehive is accessible and has bees. No bees means no delivery "
+#~ "service!"
+#~ msgstr ""
+#~ "Ара ұяңыздың қол жетімді екеніне және оның аралары бар екеніне көз "
+#~ "жеткізіңіз. Аралар жоқ болса, жеткізу қызметі де жоқ!"
+
+#~ msgid "Part 3: Sending a Parcel"
+#~ msgstr "3-бөлім: Сәлемдеме жіберу"
+
+#~ msgid "Sending a parcel is a precise, 4-step ritual:"
+#~ msgstr "Сәлемдеме жіберу - дәл, 4 қадамдық рәсім:"
+
+#~ msgid "Package:"
+#~ msgstr "Қаптама:"
+
+#~ msgid "Place the items in a"
+#~ msgstr "Заттарды"
+
+#~ msgid "Bundle"
+#~ msgstr "Топтамаға"
+
+#~ msgid "for small parcels, or a"
+#~ msgstr "ұсақ сәлемдемелер үшін немесе"
+
+#~ msgid "Shulker Box"
+#~ msgstr "Шулкер қорапқа"
+
+#~ msgid "for large cargo. The delivery cost is the same for both."
+#~ msgstr "үлкен жүк үшін. Жеткізу құны екеуі үшін де бірдей."
+
+#~ msgid "Address:"
+#~ msgstr "Мекенжай:"
+
+#~ msgid "Take a piece of"
+#~ msgstr "Бір парақ"
+
+#~ msgid "Paper"
+#~ msgstr "Қағазды"
+
+#~ msgid "and rename it on an"
+#~ msgstr "алып, оны"
+
+#~ msgid "Anvil"
+#~ msgstr "Төске"
+
+#~ msgid "to the recipient's Postal Index (e.g.,"
+#~ msgstr "қайта атаңыз, алушының пошта индексіне (мысалы,"
+
+#~ msgid "Calculate Cost:"
+#~ msgstr "Құнын есептеу:"
+
+#~ msgid "Place your"
+#~ msgstr "Сіздің"
+
+#~ msgid "and the renamed"
+#~ msgstr "және қайта аталған"
+
+#~ msgid ""
+#~ "into your station's container. You will immediately receive a chat message "
+#~ "with the delivery cost."
+#~ msgstr ""
+#~ "станцияңыздың контейнеріне салыңыз. Сіз дереу жеткізу құны туралы чат "
+#~ "хабарламасын аласыз."
+
+#~ msgid "Pay & Send:"
+#~ msgstr "Төлеу және жіберу:"
+
+#~ msgid "Add the required"
+#~ msgstr "Қажетті"
+
+#~ msgid "Emeralds"
+#~ msgstr "Изумрудтарды"
+
+#~ msgid ""
+#~ "to the container. Once the Package, Address, and full Payment are present, "
+#~ "the Beehive will activate, dispatching a bee to collect your delivery. You "
+#~ "can track the courier's real-time flight path on the live map!"
+#~ msgstr ""
+#~ "контейнерге қосыңыз. Қаптама, Мекенжай және толық төлем болған кезде, ара "
+#~ "ұясы іске қосылады, жеткізуіңізді жинау үшін араны жібереді. Сіз курьердің "
+#~ "нақты уақыттағы ұшу жолын тікелей картада бақылай аласыз!"
+
+#~ msgid "Part 4: Tariffs & Express Delivery"
+#~ msgstr "4-бөлім: Тарифтер және экспресс жеткізу"
+
+#~ msgid "The delivery cost depends on the distance to the destination."
+#~ msgstr "Жеткізу құны баратын жерге дейінгі қашықтыққа байланысты."
+
+#~ msgid "Base Currency:"
+#~ msgstr "Базалық валюта:"
+
+#~ msgid "Emerald"
+#~ msgstr "Изумруд"
+
+#~ msgid "Tariffs:"
+#~ msgstr "Тарифтер:"
+
+#~ msgid "Up to 500 blocks:"
+#~ msgstr "500 блокқа дейін:"
+
+#~ msgid "Free"
+#~ msgstr "Тегін"
+
+#~ msgid "501 - 2000 blocks:"
+#~ msgstr "501 - 2000 блок:"
+
+#~ msgid "Over 2000 blocks:"
+#~ msgstr "2000 блоктен артық:"
+
+#~ msgid "The price increases by"
+#~ msgstr "Бағасы өседі"
+
+#~ msgid "for each subsequent 1000 blocks."
+#~ msgstr "әрбір келесі 1000 блок үшін."
+
+#~ msgid "Need it faster? Use Express Delivery!"
+#~ msgstr "Жылдамырақ қажет пе? Экспресс жеткізуді қолданыңыз!"
+
+#~ msgid "Express Currency:"
+#~ msgstr "Экспресс валютасы:"
+
+#~ msgid "Eye of Ender"
+#~ msgstr "Эндер көзі"
+
+#~ msgid "Effect:"
+#~ msgstr "Әсері:"
+
+#~ msgid "Increases courier speed by"
+#~ msgstr "Курьер жылдамдығын арттырады"
+
+#~ msgid "How to use:"
+#~ msgstr "Қалай қолдануға болады:"
+
+#~ msgid ""
+#~ "Simply add 1 Eye of Ender to the container in addition to the emerald "
+#~ "payment."
+#~ msgstr "Жай ғана изумруд төлеміне қосымша контейнерге 1 Эндер көзін қосыңыз."
+
+#~ msgid "Part 5: Mechanics & Details"
+#~ msgstr "5-бөлім: Механика және егжей-тегжейлі мәліметтер"
+
+#~ msgid "Phantom Courier:"
+#~ msgstr "Фантомдық курьер:"
+
+#~ msgid ""
+#~ "While on a delivery, your Bee becomes an invulnerable phantom. It flies in a"
+#~ " straight line to its destination, passing through any obstacles. It cannot "
+#~ "be killed or stuck."
+#~ msgstr ""
+#~ "Жеткізу кезінде сіздің араңыз осал емес фантомға айналады. Ол кез келген "
+#~ "кедергілерден өтіп, тікелей баратын жеріне ұшады. Оны өлтіру немесе "
+#~ "кептестіру мүмкін емес."
+
+#~ msgid "Chunk Loading:"
+#~ msgstr "Чанктарды жүктеу:"
+
+#~ msgid ""
+#~ "The courier can travel any distance, even if no players are online along the"
+#~ " route. The system will automatically keep the necessary chunks loaded for "
+#~ "its flight."
+#~ msgstr ""
+#~ "Курьер кез келген қашықтықты жүріп өте алады, тіпті жол бойында ойыншылар "
+#~ "онлайн болмаса да. Жүйе оның ұшуы үшін қажетті чанктарды автоматты түрде "
+#~ "жүктелген күйде сақтайды."
+
+#~ msgid "Delivery Failure:"
+#~ msgstr "Жеткізу қатесі:"
+
+#~ msgid ""
+#~ "If the recipient's container is broken or full, the courier will drop the "
+#~ "bundle as an item at the destination coordinates. The delivery fee is non-"
+#~ "refundable."
+#~ msgstr ""
+#~ "Егер алушының контейнері сынған немесе толы болса, курьер қаптамды "
+#~ "тағайындалған координаттарда зат ретінде тастайды. Жеткізу ақысы "
+#~ "қайтарылмайды."
+
+#~ msgid "Dismantling a Station:"
+#~ msgstr "Станцияны бөлшектеу:"
+
+#~ msgid ""
+#~ "Breaking any of the three core components (sign, container, or beehive) will"
+#~ " permanently dismantle your mail station."
+#~ msgstr ""
+#~ "Үш негізгі компоненттің (белгі, контейнер немесе ара ұясы) кез келгенін бұзу"
+#~ " сіздің пошта станцияңызды тұрақты түрде бөлшектейді."
+
+#~ msgid "Live Map Integration:"
+#~ msgstr "Тікелей карта интеграциясы:"
+
+#~ msgid ""
+#~ "All registered Mail Stations and active couriers are visible in real-time on"
+#~ " map.uwupad.me. You can literally watch your package travel across the "
+#~ "world."
+#~ msgstr ""
+#~ "Барлық тіркелген пошта станциялары мен белсенді курьерлер map.uwupad.me "
+#~ "сайтында нақты уақыт режимінде көрінеді. Сіз өзіңіздің сәлемдемеңіздің әлем "
+#~ "бойынша қалай қозғалатынын тікелей бақылай аласыз."
+
+#~ msgid "UwUCraft Wiki"
+#~ msgstr "uwumine Wiki"
+
+#~ msgid "На сервер"
+#~ msgstr ""
+
+#~ msgid "Общее"
+#~ msgstr ""
+
+#~ msgid "Манифест"
+#~ msgstr ""
+
+#~ msgid "Правила"
+#~ msgstr ""
+
+#~ msgid "Правосудие"
+#~ msgstr ""
+
+#~ msgid "Особенности"
+#~ msgstr ""
+
+#~ msgid "Механики"
+#~ msgstr ""
+
+#~ msgid "Поселения"
+#~ msgstr ""
+
+#~ msgid "Живая Почта"
+#~ msgstr ""
+
+#~ msgid "UwUCraft: Гайд для игрока"
+#~ msgstr ""
+
+#~ msgid "Проект \"Хроника\""
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Наш сервер — это не просто выживание, это создание общей истории. Мы ценим "
+#~ "творчество, сотрудничество и доверие. Ваше приключение здесь — это новая "
+#~ "глава в нашей общей книге."
+#~ msgstr ""
+
+#~ msgid "Основы Сервера (Правила)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Эти правила — фундамент нашего сообщества. Их цель — защитить каждого игрока"
+#~ " и обеспечить комфортную игру. Все действия на сервере записываются "
+#~ "(логируются)."
+#~ msgstr ""
+
+#~ msgid "1. Фундамент Уважения"
+#~ msgstr ""
+
+#~ msgid "Будьте человеком."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Оскорбления, токсичное поведение, травля и разжигание ненависти строго "
+#~ "запрещены."
+#~ msgstr ""
+
+#~ msgid "Без спама."
+#~ msgstr ""
+
+#~ msgid "Уважайте чат и другие каналы коммуникации."
+#~ msgstr ""
+
+#~ msgid "2. Принципы Честной Игры"
+#~ msgstr ""
+
+#~ msgid "Нулевая терпимость к разрушениям."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Гриферство (разрушение чужих построек) и воровство в любом виде запрещены. "
+#~ "Это самые серьезные нарушения на сервере."
+#~ msgstr ""
+
+#~ msgid "Запрет на читы и эксплойты."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Использование читов, X-Ray, дюпа, багов игры или любых модификаций, дающих "
+#~ "нечестное преимущество, ведет к немедленной и перманентной блокировке."
+#~ msgstr ""
+
+#~ msgid "3. Правила Взаимодействия и PvP"
+#~ msgstr ""
+
+#~ msgid "PvP по умолчанию ЗАПРЕЩЕНО."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "На сервере нельзя нанести урон другому игроку без его согласия. Правило "
+#~ "имеет только три исключения:"
+#~ msgstr ""
+
+#~ msgid "Явное согласие:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "PvP разрешено, если оба игрока написали явное согласие в общем чате "
+#~ "(например, \"дуэль\", \"+\", \"го\")."
+#~ msgstr ""
+
+#~ msgid "PvP-Зоны:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Вы можете строить арены. Нахождение на территории, четко обозначенной "
+#~ "табличками как \"PvP-Зона\", приравнивается к согласию на бой."
+#~ msgstr ""
+
+#~ msgid "Статус \"Изгой\":"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Игрока со статусом \"Изгой\", выданным по решению суда, может атаковать "
+#~ "любой игрок без предупреждения."
+#~ msgstr ""
+
+#~ msgid "4. Сохранение Мира"
+#~ msgstr ""
+
+#~ msgid "Уважайте личное пространство."
+#~ msgstr ""
+
+#~ msgid "Не стройте вплотную к чужим постройкам без разрешения."
+#~ msgstr ""
+
+#~ msgid "Сохраняйте эстетику."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Убирайте за собой временные постройки (столбы 1x1, летающие кроны деревьев)."
+#~ msgstr ""
+
+#~ msgid "Никаких лаг-машин."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Создание механизмов, вызывающих значительную нагрузку на сервер, запрещено."
+#~ msgstr ""
+
+#~ msgid "Система Правосудия: Декреты"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Мы создали систему, которая работает по двум главным принципам: "
+#~ "<b>мгновенная помощь жертве</b> и <b>неотвратимое наказание для "
+#~ "нарушителя</b>."
+#~ msgstr ""
+
+#~ msgid "Шаг 1: Подача Иска"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Если вы стали жертвой нарушения (кража, гриф), немедленно создайте заявку в "
+#~ "Discord-канале"
+#~ msgstr ""
+
+#~ msgid ". Администратор проверит логи и вынесет вердикт в кратчайшие сроки."
+#~ msgstr ""
+
+#~ msgid "Шаг 2: Мгновенная Компенсация"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Как только вина нарушителя будет доказана, администрация <b>немедленно "
+#~ "выдаст вам полную компенсацию</b> утерянных ресурсов из <b>\"Общественного "
+#~ "Фонда\"</b> сервера. Вам не нужно ждать, пока нарушитель вернется в игру. "
+#~ "Ваша проблема будет решена."
+#~ msgstr ""
+
+#~ msgid "Если Фонд пуст?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Вам будет выдан \"Долговой Ордер\" — официальная гарантия, которая ставит "
+#~ "вас на первое место в очереди на получение компенсации, как только Фонд "
+#~ "пополнится."
+#~ msgstr ""
+
+#~ msgid "Шаг 3: Наказание Нарушителя — Статус \"Изгой\""
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Теперь нарушитель должен ресурсы не вам, а серверу. У него есть 24 часа, "
+#~ "чтобы вернуть долг и уплатить штраф. Если он этого не делает, его аккаунт "
+#~ "получает бессрочный статус <b>\"Изгой\"</b>."
+#~ msgstr ""
+
+#~ msgid "Что такое \"Изгой\"?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Это полная заморозка геймплея. При входе на сервер игрок оказывается в "
+#~ "изоляции, не может двигаться или взаимодействовать с миром. Единственный "
+#~ "выход — связаться с админом для погашения долга перед сервером."
+#~ msgstr ""
+
+#~ msgid "А если он не заходит?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Если \"Изгой\" не появляется 7 дней, администрация выносит \"Заочный "
+#~ "приговор\" и конфискует его имущество для погашения долга."
+#~ msgstr ""
+
+#~ msgid "Шаг 4: Система Трех Ударов"
+#~ msgstr ""
+
+#~ msgid "Мы верим во второй шанс, но не в третий."
+#~ msgstr ""
+
+#~ msgid "Первое нарушение:"
+#~ msgstr ""
+
+#~ msgid "Наказание по системе \"Декретов\"."
+#~ msgstr ""
+
+#~ msgid "Второе нарушение:"
+#~ msgstr ""
+
+#~ msgid "Наказание с многократно увеличенным штрафом."
+#~ msgstr ""
+
+#~ msgid "Третье нарушение:"
+#~ msgstr ""
+
+#~ msgid "Перманентный бан."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Эта система гарантирует, что на сервере безопасно, а справедливость — не "
+#~ "пустое слово."
+#~ msgstr ""
+
+#~ msgid "Ключевые особенности"
+#~ msgstr ""
+
+#~ msgid "Система приглашений (ключи)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Мы — закрытое сообщество. Вы зарабатываете ключи за игровое время, чтобы "
+#~ "пригласить на сервер своих друзей. Вы несете ответственность за тех, кого "
+#~ "пригласили."
+#~ msgstr ""
+
+#~ msgid "Изменения геймплея"
+#~ msgstr ""
+
+#~ msgid "Один игрок на кровать:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Один игрок на кровать. У игрока может быть только одна кровать, а также "
+#~ "никто другой не сможет ее использовать."
+#~ msgstr ""
+
+#~ msgid "Усиленные Гасты:"
+#~ msgstr ""
+
+#~ msgid "Скорость полета счастливых гастов увеличена."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Мы понимаем, как обидно терять все вещи из-за случайной смерти. Поэтому на "
+#~ "сервере действует система защиты инвентаря."
+#~ msgstr ""
+
+#~ msgid "Призрак:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "После смерти на вашем месте остается ваш призрак. Новый призрак <b>НЕ</b> "
+#~ "заменяет старого."
+#~ msgstr ""
+
+#~ msgid "Защита (1 час):"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "В течение первого часа (72000 тиков) только вы можете забрать свои вещи, "
+#~ "просто подойдя к нему."
+#~ msgstr ""
+
+#~ msgid "Общий доступ:"
+#~ msgstr ""
+
+#~ msgid "По истечении часа <b>любой</b> игрок сможет подобрать ваши вещи."
+#~ msgstr ""
+
+#~ msgid "Исчезновение:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Призрак исчезнет навсегда через час, если чанк с ним будет прогружен. "
+#~ "(только вами)"
+#~ msgstr ""
+
+#~ msgid "Гайд по Поселениям"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Вы можете объединяться с другими игроками, чтобы создавать свои собственные "
+#~ "хутора, деревни и города. Регистрация происходит в Discord-канале"
+#~ msgstr ""
+
+#~ msgid "Правила поселений"
+#~ msgstr ""
+
+#~ msgid "Минимум участников:"
+#~ msgstr ""
+
+#~ msgid "игрока"
+#~ msgstr ""
+
+#~ msgid "Дистанция:"
+#~ msgstr ""
+
+#~ msgid "Не менее 500 блоков от центра другого поселения."
+#~ msgstr ""
+
+#~ msgid "Активность:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Если все участники неактивны более недели, поселение может быть признано "
+#~ "заброшенным."
+#~ msgstr ""
+
+#~ msgid "Гайд по Живой Почте"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "На сервере действует уникальная система доставки предметов с помощью пчел. "
+#~ "Подробный гайд находится на отдельной странице."
+#~ msgstr ""
+
+#~ msgid "Перейти к системе Живой Почты"
+#~ msgstr ""
+
+#~ msgid "На этой странице"
+#~ msgstr ""
+
+#~ msgid "UwUCasino"
+#~ msgstr ""
+
+#~ msgid "Casino"
+#~ msgstr ""
+
+#~ msgid "Lobby"
+#~ msgstr ""
+
+#~ msgid "Stats"
+#~ msgstr "Тегтер"
+
+#~ msgid "Leaders"
+#~ msgstr "Пайдаланушылар тізімі"
+
+#~ msgid "Create Game"
+#~ msgstr "Жасау"
+
+#~ msgid "All Lobbies"
+#~ msgstr "Барлық лайктар"
+
+#~ msgid "My Lobbies"
+#~ msgstr ""
+
+#~ msgid "No active games. Create one!"
+#~ msgstr ""
+
+#~ msgid "Loading stats..."
+#~ msgstr "Сұраулар жүктелуде..."
+
+#~ msgid "Match History"
+#~ msgstr ""
+
+#~ msgid "No recent matches."
+#~ msgstr ""
+
+#~ msgid "Loading leaderboard..."
+#~ msgstr "Пайдаланушылар тізімі"
+
+#~ msgid "Welcome to UwUCasino"
+#~ msgstr ""
+
+#~ msgid "Create or join a game from the lobby to start playing!"
+#~ msgstr ""
+
+#~ msgid "Global Chat"
+#~ msgstr "Жаһандық хабарландырулар:"
+
+#~ msgid "Say something..."
+#~ msgstr ""
+
+#~ msgid "Access Denied"
+#~ msgstr "Қатынасудан бас тартылды"
+
+#~ msgid "You must be logged in to enter the UwUCasino."
+#~ msgstr "Сатып алу үшін жүйеге кіруіңіз керек."
+
+#~ msgid "Log In to Play"
+#~ msgstr "UwUpad-қа кіру"
+
+#~ msgid "Create a New Game"
+#~ msgstr "Жаңа ойнату тізімін жасау..."
+
+#~ msgid "Game"
+#~ msgstr ""
+
+#~ msgid "Coin Flip"
+#~ msgstr "Растау"
+
+#~ msgid "Dice Roll"
+#~ msgstr "Рөл беру"
+
+#~ msgid "Rock, Paper, Scissors"
+#~ msgstr ""
+
+#~ msgid "Stake"
+#~ msgstr "Сақтау"
+
+#~ msgid "The amount you and your opponent will bet."
+#~ msgstr ""
+
+#~ msgid "Create Lobby"
+#~ msgstr "Жасау"
+
+#~ msgid "Heads"
+#~ msgstr "Изумрудтарды"
+
+#~ msgid "Tails"
+#~ msgstr "Мәліметтер"
+
+#~ msgid "Provably Fair"
+#~ msgstr ""
+
+#~ msgid "Roll Dice"
+#~ msgstr "Рөл"
+
+#~ msgid "You have no active lobbies."
+#~ msgstr ""
+
+#~ msgid "Join"
+#~ msgstr "Кіру"
+
+#~ msgid "Back to Lobby"
+#~ msgstr "Басты бетке оралу"
+
+#~ msgid "One step left!"
+#~ msgstr ""
+
+#~ msgid "Subscribe to support us or wait to skip."
+#~ msgstr ""
+
+#~ msgid "Skip in"
+#~ msgstr ""
+
+#~ msgid "Skip"
+#~ msgstr ""
+
+#~ msgid "Subscription Required"
+#~ msgstr "Аутентификация қажет"
+
+#~ msgid ""
+#~ "To continue listening and downloading, please subscribe to our channel."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Warning: If you unsubscribe, you will be asked to subscribe again next time."
+#~ msgstr ""
+
+#~ msgid "Would you like to save the sounds as permanent playlists?"
+#~ msgstr "Дыбыстарды тұрақты ойнату тізімдері ретінде сақтағыңыз келе ме?"
+
+#~ msgid "Get VIP to unlock playlists, GIF avatars, and an ad-free experience!"
+#~ msgstr ""
+#~ "Ойнату тізімдерін, GIF аватарларын және жарнамасыз тәжірибені ашу үшін VIP "
+#~ "алыңыз!"
+
+#~ msgid "UwUCraft Settlements"
+#~ msgstr "UwUCraft елді мекендері"
+
+#~ msgid "Back to Main"
+#~ msgstr "Басты бетке оралу"
+
+#~ msgid "Settlements of UwUCraft"
+#~ msgstr "UwUCraft елді мекендері"
+
+#~ msgid "A living history of the server, documented by its players."
+#~ msgstr "Ойыншылары құжаттаған сервердің тірі тарихы."
+
+#~ msgid "Add Settlement"
+#~ msgstr "Елді мекенді қосу"
+
+#~ msgid "Settlement Name"
+#~ msgstr "Елді мекеннің атауы"
+
+#~ msgid "Members (comma separated)"
+#~ msgstr "Мүшелер (үтірмен бөлінген)"
+
+#~ msgid "Short description or theme..."
+#~ msgstr "Қысқаша сипаттама немесе тақырып..."
+
+#~ msgid "No settlements have been registered yet."
+#~ msgstr "Әзірге елді мекендер тіркелмеген."
+
+#~ msgid "Map"
+#~ msgstr "Карта"
+
+#~ msgid "Details"
+#~ msgstr "Мәліметтер"
+
+#~ msgid "Add New Settlement"
+#~ msgstr "Жаңа елді мекен қосу"
+
+#~ msgid "Create"
+#~ msgstr "Жасау"
+
+#~ msgid "Edit Settlement"
+#~ msgstr "Елді мекенді өңдеу"
+
+#~ msgid "Delete Settlement?"
+#~ msgstr "Елді мекенді жою керек пе?"
+
+#~ msgid "This action cannot be undone."
+#~ msgstr "Бұл әрекетті болдырмау мүмкін емес."
+
+#~ msgid "Сортировка"
+#~ msgstr ""
+
+#~ msgid "Популярное"
+#~ msgstr ""
+
+#~ msgid "Новое"
+#~ msgstr ""
+
+#~ msgid "Горячее"
+#~ msgstr ""
+
+#~ msgid "Период"
+#~ msgstr ""
+
+#~ msgid "Всё время"
+#~ msgstr ""
+
+#~ msgid "Год"
+#~ msgstr ""
+
+#~ msgid "Месяц"
+#~ msgstr ""
+
+#~ msgid "Неделя"
+#~ msgstr ""
+
+#~ msgid "День"
+#~ msgstr ""
+
+#~ msgid "Сейчас"
+#~ msgstr ""
+
+#~ msgid "Поиск по названию..."
+#~ msgstr ""
+
+#~ msgid "Воспроизвести"
+#~ msgstr ""
+
+#~ msgid "Скачать"
+#~ msgstr ""
+
+#~ msgid "Этот трек уже скачивается."
+#~ msgstr ""
+
+#~ msgid "Дождитесь окончания другой загрузки."
+#~ msgstr ""
+
+#~ msgid "Загрузка..."
+#~ msgstr ""
+
+#~ msgid "Ошибка загрузки"
+#~ msgstr ""
+
+#~ msgid "Завершено!"
+#~ msgstr ""
+
+#~ msgid "Ошибка"
+#~ msgstr ""
+
+#~ msgid "Create an Account"
+#~ msgstr "Аккаунт жасау"
+
+#~ msgid "5-16 characters, a-z, 0-9"
+#~ msgstr "5-16 таңба, a-z, 0-9"
+
+#~ msgid "At least 8 characters"
+#~ msgstr "Кем дегенде 8 таңба"
+
+#~ msgid "Terms"
+#~ msgstr "Шарттарға"
+
+#~ msgid "Policy"
+#~ msgstr "Саясатқа"
+
+#~ msgid "You must agree to the Terms and Policy."
+#~ msgstr "Сіз Шарттар мен Саясатпен келісуіңіз керек."
+
+#~ msgid "Registration successful!"
+#~ msgstr "Тіркеу сәтті өтті!"
+
+#~ msgid "Minecraft"
+#~ msgstr "Minecraft"
+
+#~ msgid "Receive a premium tank and status for 7 days."
+#~ msgstr ""
+
+#~ msgid "Password does not meet security requirements."
+#~ msgstr "Құпия сөз қауіпсіздік талаптарына сәйкес келмейді."
+
+#~ msgid "Unlock VIP features!"
+#~ msgstr "Бұл функцияны ашу"
