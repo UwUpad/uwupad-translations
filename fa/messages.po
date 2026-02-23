@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:22+0000\n"
+"POT-Creation-Date: 2026-02-23 08:34+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -110,13 +110,11 @@ msgstr "اعمال فیلترها"
 msgid "About us"
 msgstr "درباره ما"
 
-#, fuzzy
 msgid "Admin: Minecraft Management"
-msgstr "سرور Minecraft UwU Pad زنده است!"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft Server Management"
-msgstr "سرور Minecraft UwU Pad زنده است!"
+msgstr ""
 
 msgid "Whitelist and link user accounts."
 msgstr ""
@@ -124,33 +122,26 @@ msgstr ""
 msgid "Add / Link Player"
 msgstr ""
 
-#, fuzzy
 msgid "UwUpad User (ID or Username)"
-msgstr "ایمیل/نام کاربری"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft Username"
-msgstr "سرور Minecraft UwU Pad زنده است!"
+msgstr ""
 
-#, fuzzy
 msgid "Link"
-msgstr "لینک‌ها"
+msgstr ""
 
-#, fuzzy
 msgid "Linked Accounts"
-msgstr "قبلاً حساب کاربری داشته‌اید؟"
+msgstr ""
 
-#, fuzzy
 msgid "UwUpad User"
-msgstr "ویرایش تگ‌ها"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft UUID"
-msgstr "سرور Minecraft UwU Pad زنده است!"
+msgstr ""
 
-#, fuzzy
 msgid "Actions"
-msgstr "مدت زمان"
+msgstr ""
 
 msgid "Confirm"
 msgstr ""
@@ -158,25 +149,20 @@ msgstr ""
 msgid "Cancel"
 msgstr "لغو"
 
-#, fuzzy
 msgid "Submit"
-msgstr "بازنشانی رمز عبور"
+msgstr ""
 
-#, fuzzy
 msgid "No linked users found."
-msgstr "لیست پخش یافت نشد."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load user list."
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to link user."
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
-#, fuzzy
 msgid "User Linked Successfully"
-msgstr "نام کاربری با موفقیت به‌روز شد."
+msgstr ""
 
 msgid "OK"
 msgstr ""
@@ -184,9 +170,8 @@ msgstr ""
 msgid "Error"
 msgstr ""
 
-#, fuzzy
 msgid "Unlink Account?"
-msgstr "قبلاً حساب کاربری داشته‌اید؟"
+msgstr ""
 
 #, python-brace-format
 msgid ""
@@ -194,21 +179,17 @@ msgid ""
 "whitelist."
 msgstr ""
 
-#, fuzzy
 msgid "Unlink"
-msgstr "لینک‌ها"
+msgstr ""
 
-#, fuzzy
 msgid "Failed to unlink user."
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
-#, fuzzy
 msgid "User Unlinked"
-msgstr "کاربر مسدود شد."
+msgstr ""
 
-#, fuzzy
 msgid "Successfully unlinked"
-msgstr "با موفقیت وارد شدید"
+msgstr ""
 
 msgid "Advertise on UwUpad"
 msgstr ""
@@ -261,9 +242,8 @@ msgstr ""
 msgid "Pricing & How to Buy"
 msgstr ""
 
-#, fuzzy
 msgid "Price:"
-msgstr "ادامه"
+msgstr ""
 
 msgid "per week."
 msgstr ""
@@ -271,9 +251,8 @@ msgstr ""
 msgid "How it works:"
 msgstr ""
 
-#, fuzzy
 msgid "Click the button below to pay with Telegram Stars."
-msgstr "برای تغییر رمز عبور خود روی دکمه زیر کلیک کنید."
+msgstr ""
 
 msgid "In the payment comment, you MUST include two links:"
 msgstr ""
@@ -294,9 +273,8 @@ msgstr ""
 msgid "per week"
 msgstr ""
 
-#, fuzzy
 msgid "Submit Your Ad"
-msgstr "بازنشانی رمز عبور"
+msgstr ""
 
 msgid "Step 1: Provide Ad Details"
 msgstr ""
@@ -309,34 +287,29 @@ msgstr ""
 msgid "Direct Link to your Banner Image"
 msgstr ""
 
-#, fuzzy
 msgid "Target URL"
-msgstr "URL خالی است"
+msgstr ""
 
 msgid "where users will be sent"
 msgstr ""
 
-#, fuzzy
 msgid "Your Contact"
-msgstr "تماس با ما"
+msgstr ""
 
 msgid "We will use this to contact you if there are issues with your ad."
 msgstr ""
 
-#, fuzzy
 msgid "Step 2: Proceed to Payment"
-msgstr "ادامه به پرداخت"
+msgstr ""
 
-#, fuzzy
 msgid "All fields are required."
-msgstr "ایمیل الزامی است."
+msgstr ""
 
 msgid "Server error."
 msgstr ""
 
-#, fuzzy
 msgid "Payment link not received."
-msgstr "پرداخت لغو شد"
+msgstr ""
 
 msgid "Access denied"
 msgstr "دسترسی رد شد"
@@ -347,9 +320,8 @@ msgstr "حساب کاربری شما مسدود شده است"
 msgid "Contact us for more information"
 msgstr "برای اطلاعات بیشتر با ما تماس بگیرید"
 
-#, fuzzy
 msgid "The best sounds for your Soundpad and ringtones"
-msgstr "بهترین سرویس اشتراک‌گذاری صدا برای Soundpad"
+msgstr ""
 
 msgid ""
 "Find that meme sound from TikTok or a scream from your favorite game in 5 "
@@ -360,9 +332,8 @@ msgstr ""
 msgid "Welcome back,"
 msgstr ""
 
-#, fuzzy
 msgid "Available for VIP users only"
-msgstr "GIF فقط برای کاربران VIP"
+msgstr ""
 
 msgid "Bulk Download is a VIP Feature"
 msgstr ""
@@ -370,40 +341,32 @@ msgstr ""
 msgid "Upgrade to VIP to download entire playlists as a .zip file!"
 msgstr ""
 
-#, fuzzy
 msgid "Pause"
-msgstr "نام کاربری"
+msgstr ""
 
-#, fuzzy
 msgid "This playlist is empty."
-msgstr "نام لیست پخش نمی‌تواند خالی باشد."
+msgstr ""
 
-#, fuzzy
 msgid "Remove from download"
-msgstr "بیشترین دانلود"
+msgstr ""
 
-#, fuzzy
 msgid "Could not load playlist."
-msgstr "صدا در لیست پخش نیست."
+msgstr ""
 
-#, fuzzy
 msgid "Download cancelled."
-msgstr "بیشترین دانلود"
+msgstr ""
 
-#, fuzzy
 msgid "Downloading"
-msgstr "دانلودها"
+msgstr ""
 
-#, fuzzy
 msgid "Creating ZIP file... Please wait."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
 msgid "Compressing..."
 msgstr ""
 
-#, fuzzy
 msgid "Resume"
-msgstr "قبلاً حساب کاربری داشته‌اید؟"
+msgstr ""
 
 msgid "Paused..."
 msgstr ""
@@ -411,25 +374,20 @@ msgstr ""
 msgid "Resuming..."
 msgstr ""
 
-#, fuzzy
 msgid "Import cancelled."
-msgstr "پرداخت لغو شد"
+msgstr ""
 
-#, fuzzy
 msgid "Importing"
-msgstr "وارد کردن"
+msgstr ""
 
-#, fuzzy
 msgid "Import complete!"
-msgstr "وارد کردن از URL"
+msgstr ""
 
-#, fuzzy
 msgid "Sound data not loaded yet."
-msgstr "صدا یافت نشد."
+msgstr ""
 
-#, fuzzy
 msgid "Error: Sound data not found."
-msgstr "صدا یافت نشد."
+msgstr ""
 
 msgid "Choose Boost Option"
 msgstr ""
@@ -453,9 +411,8 @@ msgstr ""
 msgid "PAY-TO-BOOST"
 msgstr ""
 
-#, fuzzy
 msgid "Pay with PAW"
-msgstr "گزارش"
+msgstr ""
 
 #, python-format
 msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
@@ -480,9 +437,8 @@ msgstr ""
 msgid "Get free boosts and more with VIP!"
 msgstr ""
 
-#, fuzzy
 msgid "Learn More"
-msgstr "بارگذاری بیشتر"
+msgstr ""
 
 msgid "Confirm & Boost"
 msgstr ""
@@ -499,9 +455,8 @@ msgstr ""
 msgid "Oops!"
 msgstr ""
 
-#, fuzzy
 msgid "Could not load notifications. Please try again later."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
 msgid "Just now"
 msgstr ""
@@ -526,9 +481,8 @@ msgid ""
 " disabling AdBlock or"
 msgstr ""
 
-#, fuzzy
 msgid "getting VIP"
-msgstr "تنظیمات زبان"
+msgstr ""
 
 msgid "I disabled it, Refresh"
 msgstr ""
@@ -536,9 +490,8 @@ msgstr ""
 msgid "Please wait"
 msgstr ""
 
-#, fuzzy
 msgid "How to disable?"
-msgstr "نمایش بیشتر"
+msgstr ""
 
 msgid "Continue to site (AdBlocker active)"
 msgstr ""
@@ -552,9 +505,8 @@ msgstr ""
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
 
-#, fuzzy
 msgid "Play Now"
-msgstr "لیست پخش"
+msgstr ""
 
 msgid "Change Password"
 msgstr "تغییر رمز عبور"
@@ -594,9 +546,8 @@ msgstr "روش پرداخت:"
 msgid "Proceed to Payment"
 msgstr "ادامه به پرداخت"
 
-#, fuzzy
 msgid "Contact Us"
-msgstr "تماس با ما"
+msgstr ""
 
 msgid "Have a question or suggestion? Get in touch with the UwUpad team."
 msgstr ""
@@ -604,29 +555,25 @@ msgstr ""
 msgid "Back to Home"
 msgstr "بازگشت به خانه"
 
-#, fuzzy
 msgid "Get in Touch"
-msgstr "برای نظر دادن باید وارد شوید."
+msgstr ""
 
 msgid ""
 "We are always open for communication. Choose a convenient way to contact us "
 "or leave a message through the form below."
 msgstr ""
 
-#, fuzzy
 msgid "Direct Contacts"
-msgstr "تماس با ما"
+msgstr ""
 
-#, fuzzy
 msgid "Telegram (Owner)"
-msgstr "ربات تلگرام"
+msgstr ""
 
 msgid "@daisov - for urgent matters"
 msgstr ""
 
-#, fuzzy
 msgid "Discord Server"
-msgstr "دیسکورد"
+msgstr ""
 
 msgid "Join our community"
 msgstr ""
@@ -637,27 +584,23 @@ msgstr "ایمیل"
 msgid "admin@uwupad.me - for suggestions"
 msgstr ""
 
-#, fuzzy
 msgid "Telegram Bot"
-msgstr "ربات تلگرام"
+msgstr ""
 
 msgid "@uwupad_bot - for support"
 msgstr ""
 
-#, fuzzy
 msgid "An error occurred. Please try again later."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
 msgid "Feedback Form"
 msgstr ""
 
-#, fuzzy
 msgid "Your Name"
-msgstr "نام کاربری"
+msgstr ""
 
-#, fuzzy
 msgid "Your Email (for a reply)"
-msgstr "آدرس ایمیل شما"
+msgstr ""
 
 msgid "Your Message..."
 msgstr ""
@@ -668,13 +611,11 @@ msgstr ""
 msgid "Support UwUpad"
 msgstr ""
 
-#, fuzzy
 msgid "Back"
-msgstr "لیست سیاه"
+msgstr ""
 
-#, fuzzy
 msgid "Top Supporters 💖"
-msgstr "تماس با پشتیبانی"
+msgstr ""
 
 msgid "Support Our Project"
 msgstr ""
@@ -695,9 +636,8 @@ msgstr ""
 msgid "Server costs"
 msgstr ""
 
-#, fuzzy
 msgid "Big support 💖"
-msgstr "تماس با پشتیبانی"
+msgstr ""
 
 msgid "Or enter custom amount"
 msgstr ""
@@ -711,9 +651,8 @@ msgstr ""
 msgid "PAW tokens are added automatically as a thank you."
 msgstr ""
 
-#, fuzzy
 msgid "Other ways to support"
-msgstr "تماس با پشتیبانی"
+msgstr ""
 
 msgid "Card, SBP, and more — via donation platform"
 msgstr ""
@@ -727,24 +666,20 @@ msgstr ""
 msgid "Direct Crypto Transfer"
 msgstr ""
 
-#, fuzzy
 msgid "and more"
-msgstr "بارگذاری بیشتر"
+msgstr ""
 
 msgid "Choose Cryptocurrency"
 msgstr ""
 
-#, fuzzy
 msgid "Back to list"
-msgstr "لیست سیاه"
+msgstr ""
 
-#, fuzzy
 msgid "Please enter a valid amount."
-msgstr "لطفاً دلیل معتبری وارد کنید."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to create payment link."
-msgstr "حذف نظر ناموفق بود."
+msgstr ""
 
 msgid "DMCA Takedown Policy"
 msgstr ""
@@ -772,9 +707,8 @@ msgstr ""
 msgid "Please enter an amount between 1 and 2500 Stars."
 msgstr ""
 
-#, fuzzy
 msgid "Recommendations"
-msgstr "نظرات"
+msgstr ""
 
 msgid "All Time"
 msgstr ""
@@ -788,9 +722,8 @@ msgstr ""
 msgid "Today"
 msgstr ""
 
-#, fuzzy
 msgid "Failed to load sounds."
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
 msgid "Popular"
 msgstr "محبوب"
@@ -801,9 +734,8 @@ msgstr ""
 msgid "Next page"
 msgstr "صفحه بعد"
 
-#, fuzzy
 msgid "Top Sound Creators"
-msgstr "صدا گزارش شد."
+msgstr ""
 
 msgid ""
 "Check out the leaderboard of the most popular and active sound creators on "
@@ -816,40 +748,32 @@ msgstr "جدول امتیازات"
 msgid "Influence"
 msgstr ""
 
-#, fuzzy
 msgid "Uploads"
-msgstr "آپلود"
+msgstr ""
 
-#, fuzzy
 msgid "Downloads"
-msgstr "دانلودها"
+msgstr ""
 
 msgid "Comments"
 msgstr "نظرات"
 
-#, fuzzy
 msgid "Comment Likes"
-msgstr "نظرات"
+msgstr ""
 
-#, fuzzy
 msgid "Donations"
-msgstr "مدت زمان"
+msgstr ""
 
-#, fuzzy
 msgid "Prev."
-msgstr "صفحه قبل"
+msgstr ""
 
-#, fuzzy
 msgid "Next"
-msgstr "صفحه بعد"
+msgstr ""
 
-#, fuzzy
 msgid "Updating leaderboard..."
-msgstr "جدول امتیازات"
+msgstr ""
 
-#, fuzzy
 msgid "Next update in:"
-msgstr "صفحه بعد"
+msgstr ""
 
 msgid "Updated in real-time"
 msgstr ""
@@ -857,34 +781,29 @@ msgstr ""
 msgid "No users found for this period."
 msgstr ""
 
-#, fuzzy
 msgid "Error loading data:"
-msgstr "خطا در بارگذاری نظرات."
+msgstr ""
 
 msgid "Login to UwUpad"
 msgstr ""
 
-#, fuzzy
 msgid "Back to UwUpad"
-msgstr "بازگشت به صفحه اصلی"
+msgstr ""
 
 msgid "Welcome Back"
 msgstr ""
 
-#, fuzzy
 msgid "Email or Username"
-msgstr "ایمیل/نام کاربری"
+msgstr ""
 
-#, fuzzy
 msgid "Log In"
-msgstr "ورود"
+msgstr ""
 
 msgid "OR"
 msgstr ""
 
-#, fuzzy
 msgid "Continue with Discord"
-msgstr "پیوستن به دیسکورد"
+msgstr ""
 
 msgid "Don't have an account?"
 msgstr "حساب کاربری ندارید؟"
@@ -892,17 +811,14 @@ msgstr "حساب کاربری ندارید؟"
 msgid "Forgot password?"
 msgstr "رمز عبور را فراموش کرده‌اید؟"
 
-#, fuzzy
 msgid "An error occurred."
-msgstr "خطایی رخ داد"
+msgstr ""
 
-#, fuzzy
 msgid "Successfully logged in!"
-msgstr "با موفقیت وارد شدید"
+msgstr ""
 
-#, fuzzy
 msgid "A network error occurred."
-msgstr "خطایی رخ داد"
+msgstr ""
 
 msgid "News & Updates"
 msgstr ""
@@ -918,40 +834,32 @@ msgid ""
 "system alerts."
 msgstr ""
 
-#, fuzzy
 msgid "Filter by Type"
-msgstr "نوع صدا"
+msgstr ""
 
-#, fuzzy
 msgid "All Types"
-msgstr "اعمال فیلترها"
+msgstr ""
 
-#, fuzzy
 msgid "Likes on Sounds"
-msgstr "لیست پخش یافت نشد"
+msgstr ""
 
-#, fuzzy
 msgid "Likes on Comments"
-msgstr "در حال بارگذاری نظرات..."
+msgstr ""
 
-#, fuzzy
 msgid "New Comments & Replies"
-msgstr "هنوز نظری وجود ندارد."
+msgstr ""
 
-#, fuzzy
 msgid "Mentions in Comments"
-msgstr "در حال بارگذاری نظرات..."
+msgstr ""
 
 msgid "Processing Errors"
 msgstr ""
 
-#, fuzzy
 msgid "Admin Actions"
-msgstr "مدت زمان"
+msgstr ""
 
-#, fuzzy
 msgid "Filter by Status"
-msgstr "فیلترها"
+msgstr ""
 
 msgid "All"
 msgstr ""
@@ -959,13 +867,11 @@ msgstr ""
 msgid "Unread"
 msgstr ""
 
-#, fuzzy
 msgid "Read"
-msgstr " و "
+msgstr ""
 
-#, fuzzy
 msgid "No notifications found"
-msgstr "هیچ صدایی یافت نشد"
+msgstr ""
 
 msgid "Try adjusting your filters or check back later."
 msgstr ""
@@ -973,9 +879,8 @@ msgstr ""
 msgid "Something went wrong"
 msgstr ""
 
-#, fuzzy
 msgid "We couldn't load your notifications. Please try again."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
 msgid "Playlist not found"
 msgstr "لیست پخش یافت نشد"
@@ -997,9 +902,8 @@ msgid ""
 "%(author)s."
 msgstr ""
 
-#, fuzzy
 msgid "Edit Playlist"
-msgstr "انتخاب لیست پخش"
+msgstr ""
 
 msgid "Title"
 msgstr "عنوان"
@@ -1007,21 +911,17 @@ msgstr "عنوان"
 msgid "Preview Image"
 msgstr "تصویر پیش‌نمایش"
 
-#, fuzzy
 msgid "Choose a file…"
-msgstr "انتخاب فایل"
+msgstr ""
 
-#, fuzzy
 msgid "No file selected"
-msgstr "نظر حذف شد."
+msgstr ""
 
-#, fuzzy
 msgid "Recommended 16:9. GIF only for VIP users."
-msgstr "GIF فقط برای کاربران VIP"
+msgstr ""
 
-#, fuzzy
 msgid "Public Playlist"
-msgstr "انتخاب لیست پخش"
+msgstr ""
 
 msgid "Save Changes"
 msgstr ""
@@ -1032,9 +932,8 @@ msgstr "لیست پخش"
 msgid "Edit"
 msgstr "ویرایش"
 
-#, fuzzy
 msgid "Download Playlists"
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
 msgid ""
 "Downloading entire playlists as a .zip archive is a VIP feature. Upgrade now"
@@ -1053,9 +952,8 @@ msgstr "لیست‌های پخش"
 msgid "Search playlists"
 msgstr "جستجوی لیست‌های پخش"
 
-#, fuzzy
 msgid "Sounds Inside"
-msgstr "تعداد صداها"
+msgstr ""
 
 msgid "Mini (<5)"
 msgstr "کوچک (کمتر از ۵)"
@@ -1069,73 +967,59 @@ msgstr "متوسط (۱۵-۳۰)"
 msgid "Large (30-60)"
 msgstr "زیاد (۳۰-۶۰)"
 
-#, fuzzy
 msgid "Very Large (>60)"
-msgstr "بسیار زیاد (بیشتر از ۶۰)"
+msgstr ""
 
 msgid "Unpopular (<10 views)"
 msgstr "غیرمحبوب (کمتر از ۱۰ بازدید)"
 
-#, fuzzy
 msgid "Not Popular (10-50 views)"
-msgstr "نه چندان محبوب (۱۰-۵۰ بازدید)"
+msgstr ""
 
 msgid "Popular (50-100 views)"
 msgstr "محبوب (۵۰-۱۰۰ بازدید)"
 
-#, fuzzy
 msgid "Very Popular (100-500 views)"
-msgstr "نه چندان محبوب (۱۰-۵۰ بازدید)"
+msgstr ""
 
-#, fuzzy
 msgid "Extremely Popular (>500 views)"
-msgstr "فوق‌العاده لایک شده (بیشتر از ۵۰۰ لایک)"
+msgstr ""
 
 msgid "Sort by"
 msgstr ""
 
-#, fuzzy
 msgid "Sort: Newest"
-msgstr "جدیدترین"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Most Viewed"
-msgstr "بیشترین بازدید"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Most Sounds"
-msgstr "تعداد کل صداها"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Oldest"
-msgstr "جدیدترین"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Name (A-Z)"
-msgstr "نام کاربری"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Name (Z-A)"
-msgstr "نام کاربری"
+msgstr ""
 
-#, fuzzy
 msgid "Download Playlist"
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
-#, fuzzy
 msgid "No playlists found."
-msgstr "لیست پخش یافت نشد."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load playlists."
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
 msgid "Poll Results"
 msgstr ""
 
-#, fuzzy
 msgid "votes"
-msgstr "نقش"
+msgstr ""
 
 msgid "Total Votes:"
 msgstr ""
@@ -1154,13 +1038,11 @@ msgstr ""
 msgid "Check out the sounds and playlists uploaded by %(username)s on UwUpad."
 msgstr ""
 
-#, fuzzy
 msgid "Linked as"
-msgstr "لایک شده"
+msgstr ""
 
-#, fuzzy
 msgid "Link your Discord account"
-msgstr "قبلاً حساب کاربری داشته‌اید؟"
+msgstr ""
 
 msgid "Edit profile"
 msgstr "ویرایش پروفایل"
@@ -1171,28 +1053,23 @@ msgstr "خروج"
 msgid "Edit role"
 msgstr "ویرایش نقش"
 
-#, fuzzy
 msgid "Admin Edit"
-msgstr "مدت زمان"
+msgstr ""
 
 msgid "Add to blacklist"
 msgstr "افزودن به لیست سیاه"
 
-#, fuzzy
 msgid "Total Views"
-msgstr "تعداد کل صداها"
+msgstr ""
 
-#, fuzzy
 msgid "Total Uploads"
-msgstr "تعداد کل صداها"
+msgstr ""
 
-#, fuzzy
 msgid "Total Likes"
-msgstr "بیشترین لایک"
+msgstr ""
 
-#, fuzzy
 msgid "Comments Made"
-msgstr "نظرات"
+msgstr ""
 
 msgid "Uploaded"
 msgstr "آپلود شده"
@@ -1203,9 +1080,8 @@ msgstr "لایک شده"
 msgid "Blacklist"
 msgstr "لیست سیاه"
 
-#, fuzzy
 msgid "Edit Your Profile"
-msgstr "ویرایش پروفایل"
+msgstr ""
 
 msgid "Username"
 msgstr "نام کاربری"
@@ -1231,9 +1107,8 @@ msgstr ""
 msgid "Upgrade to VIP!"
 msgstr ""
 
-#, fuzzy
 msgid "Save Profile Info"
-msgstr "مشاهده پروفایل"
+msgstr ""
 
 msgid "Nickname Style"
 msgstr ""
@@ -1250,18 +1125,16 @@ msgstr ""
 msgid "Add Color"
 msgstr ""
 
-#, fuzzy
 msgid "Angle"
-msgstr "زبان"
+msgstr ""
 
 msgid ""
 "Forbidden red/black colors similar to staff, or unsafe code (e.g. url()) "
 "will be rejected."
 msgstr ""
 
-#, fuzzy
 msgid "Apply Style"
-msgstr "اعمال فیلترها"
+msgstr ""
 
 msgid "Each style change costs 100 PAW. VIP users get unlimited changes."
 msgstr ""
@@ -1272,13 +1145,11 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#, fuzzy
 msgid "Edit Role for"
-msgstr "ویرایش نقش"
+msgstr ""
 
-#, fuzzy
 msgid "Role"
-msgstr "نقش"
+msgstr ""
 
 msgid "Role expires on (optional)"
 msgstr ""
@@ -1295,9 +1166,8 @@ msgstr ""
 msgid "Balance (PAW)"
 msgstr ""
 
-#, fuzzy
 msgid "Account Status"
-msgstr "تماس با ما"
+msgstr ""
 
 msgid "Is Active (user can log in)"
 msgstr ""
@@ -1339,9 +1209,8 @@ msgstr ""
 msgid "Top Up Balance"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Deposit"
-msgstr "گزارش"
+msgstr ""
 
 msgid "Add PAW to your account."
 msgstr ""
@@ -1361,51 +1230,41 @@ msgstr ""
 msgid "This user has not posted any comments yet."
 msgstr ""
 
-#, fuzzy
 msgid "Failed to load comments."
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
-#, fuzzy
 msgid "Remove from blacklist"
-msgstr "کاربر از لیست سیاه حذف شد."
+msgstr ""
 
-#, fuzzy
 msgid "Are you sure you want to assign admin role? This grants full access."
-msgstr "آیا مطمئن هستید که می‌خواهید این کاربر را مسدود کنید؟"
+msgstr ""
 
-#, fuzzy
 msgid "Are you sure you want to unlink your Discord account?"
-msgstr "آیا مطمئن هستید که می‌خواهید این کاربر را مسدود کنید؟"
+msgstr ""
 
-#, fuzzy
 msgid "Could not load user data."
-msgstr "صدا در لیست پخش نیست."
+msgstr ""
 
-#, fuzzy
 msgid "User updated successfully. Page will reload."
-msgstr "نام کاربری با موفقیت به‌روز شد."
+msgstr ""
 
-#, fuzzy
 msgid "An unknown error occurred."
-msgstr "خطایی رخ داد"
+msgstr ""
 
 msgid "Register on UwUpad"
 msgstr ""
 
-#, fuzzy
 msgid "Create Account"
-msgstr "قبلاً حساب کاربری داشته‌اید؟"
+msgstr ""
 
 msgid "Already have an account?"
 msgstr "قبلاً حساب کاربری داشته‌اید؟"
 
-#, fuzzy
 msgid "Account created!"
-msgstr "تماس با ما"
+msgstr ""
 
-#, fuzzy
 msgid "Reset Your Password"
-msgstr "بازنشانی رمز عبور"
+msgstr ""
 
 msgid ""
 "Forgot your password? Enter your email to receive instructions on how to "
@@ -1430,9 +1289,9 @@ msgstr "صدا یافت نشد"
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "صدا با این شناسه یافت نشد. لطفاً داده‌های وارد شده را بررسی کنید."
 
-#, fuzzy, python-format
+#, python-format
 msgid "Download \"%(sound_name)s\" Sound"
-msgstr "دانلود Soundpad"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1443,17 +1302,14 @@ msgstr ""
 msgid "Add to Soundpad"
 msgstr "افزودن به Soundpad"
 
-#, fuzzy
 msgid "Download"
-msgstr "دانلودها"
+msgstr ""
 
-#, fuzzy
 msgid "Like"
-msgstr "لایک‌ها"
+msgstr ""
 
-#, fuzzy
 msgid "Share"
-msgstr "ذخیره"
+msgstr ""
 
 msgid "LOUD"
 msgstr "بلند"
@@ -1461,23 +1317,20 @@ msgstr "بلند"
 msgid "EXPLICIT"
 msgstr "صریح"
 
-#, fuzzy
 msgid "Edit sound"
-msgstr "صدا"
+msgstr ""
 
 msgid "Add a comment..."
 msgstr "افزودن نظر..."
 
-#, fuzzy
 msgid "Remove image"
-msgstr "تصویر پیش‌نمایش"
+msgstr ""
 
 msgid "Attach image"
 msgstr ""
 
-#, fuzzy
 msgid "Post"
-msgstr "گزارش"
+msgstr ""
 
 msgid "You must be"
 msgstr "شما باید "
@@ -1491,13 +1344,11 @@ msgstr " تا بتوانید نظر بدهید."
 msgid "Close (Esc)"
 msgstr ""
 
-#, fuzzy
 msgid "Zoom In"
-msgstr "ورود"
+msgstr ""
 
-#, fuzzy
 msgid "Zoom Out"
-msgstr "خروج"
+msgstr ""
 
 msgid "Rotate Left"
 msgstr ""
@@ -1508,13 +1359,11 @@ msgstr ""
 msgid "Lightbox Image"
 msgstr ""
 
-#, fuzzy
 msgid "You must be logged in to like sounds."
-msgstr "برای نظر دادن باید وارد شوید."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to update like. Please try again."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
 msgid "The best sound sharing service for Soundpad"
 msgstr "بهترین سرویس اشتراک‌گذاری صدا برای Soundpad"
@@ -1525,13 +1374,11 @@ msgstr "صدا"
 msgid "Listen"
 msgstr "گوش دادن"
 
-#, fuzzy
 msgid "Edit Sound"
-msgstr "صدا"
+msgstr ""
 
-#, fuzzy
 msgid "Description"
-msgstr "مدت زمان"
+msgstr ""
 
 msgid "Add a brief description..."
 msgstr ""
@@ -1542,9 +1389,8 @@ msgstr ""
 msgid "Cover Image (Optional)"
 msgstr ""
 
-#, fuzzy
 msgid "Language (Admin)"
-msgstr "تنظیمات زبان"
+msgstr ""
 
 msgid "Mark as Music (Admin)"
 msgstr ""
@@ -1552,20 +1398,17 @@ msgstr ""
 msgid "This will make the sound appear in the /music section."
 msgstr ""
 
-#, fuzzy
 msgid "Sound updated successfully!"
-msgstr "نظر با موفقیت ارسال شد!"
+msgstr ""
 
-#, fuzzy
 msgid "Write a reply..."
-msgstr "ایجاد لیست پخش جدید"
+msgstr ""
 
 msgid "Reply"
 msgstr ""
 
-#, fuzzy
 msgid "Loading..."
-msgstr "در حال بارگذاری نظرات..."
+msgstr ""
 
 #, python-format
 msgid "View %(count)s more replies"
@@ -1574,9 +1417,8 @@ msgstr ""
 msgid "Hide"
 msgstr ""
 
-#, fuzzy
 msgid "Error loading replies."
-msgstr "خطا در بارگذاری نظرات."
+msgstr ""
 
 msgid "Comment attachment"
 msgstr ""
@@ -1588,9 +1430,8 @@ msgstr ""
 msgid "No comments yet."
 msgstr "هنوز نظری وجود ندارد."
 
-#, fuzzy
 msgid "Comment or attachment cannot be empty."
-msgstr "نام لیست پخش نمی‌تواند خالی باشد."
+msgstr ""
 
 msgid "Failed to post comment."
 msgstr "ارسال نظر ناموفق بود."
@@ -1602,9 +1443,8 @@ msgstr ""
 msgid "Hide %(count)s replies"
 msgstr ""
 
-#, fuzzy
 msgid "You must be logged in to like comments."
-msgstr "برای نظر دادن باید وارد شوید."
+msgstr ""
 
 msgid "Comment deleted."
 msgstr "نظر حذف شد."
@@ -1622,9 +1462,8 @@ msgid ""
 "UwUpad."
 msgstr ""
 
-#, fuzzy
 msgid "Terms of Service"
-msgstr "شرایط استفاده"
+msgstr ""
 
 msgid "Read the Terms of Service for using the UwUpad platform."
 msgstr ""
@@ -1648,20 +1487,17 @@ msgid ""
 "Loading audio... Click and drag on the waveform to select a region to keep."
 msgstr ""
 
-#, fuzzy
 msgid "Loading waveform..."
-msgstr "در حال بارگذاری نظرات..."
+msgstr ""
 
-#, fuzzy
 msgid "Preview Selected"
-msgstr "تصویر پیش‌نمایش"
+msgstr ""
 
 msgid "Use Trimmed Audio"
 msgstr ""
 
-#, fuzzy
 msgid "Upload a Sound"
-msgstr "آپلود صدا"
+msgstr ""
 
 msgid "Creator Challenge: Free VIP"
 msgstr ""
@@ -1669,13 +1505,11 @@ msgstr ""
 msgid "Upload sounds that get into recommendations to unlock 1 week of VIP!"
 msgstr ""
 
-#, fuzzy
 msgid "Progress:"
-msgstr "نقش"
+msgstr ""
 
-#, fuzzy
 msgid "sounds"
-msgstr "صدا"
+msgstr ""
 
 msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
 msgstr ""
@@ -1707,9 +1541,8 @@ msgstr ""
 msgid "Add a brief description for your sound..."
 msgstr ""
 
-#, fuzzy
 msgid "Sound Language"
-msgstr "زبان"
+msgstr ""
 
 msgid "Music / SFX (No language)"
 msgstr ""
@@ -1729,16 +1562,14 @@ msgstr "انتخاب فایل"
 msgid "Import from URL"
 msgstr "وارد کردن از URL"
 
-#, fuzzy
 msgid "Supports only audio files"
-msgstr "فقط از فایل‌های صوتی پشتیبانی می‌کند"
+msgstr ""
 
 msgid "Supported formats: mp3, wav, ogg"
 msgstr "فرمت‌های پشتیبانی شده: mp3, wav, ogg"
 
-#, fuzzy
 msgid "Max file size:"
-msgstr "حداکثر حجم فایل: ۵ مگابایت"
+msgstr ""
 
 msgid "I agree to the"
 msgstr "من با "
@@ -1757,13 +1588,11 @@ msgid ""
 "meets our community guidelines."
 msgstr ""
 
-#, fuzzy
 msgid "Custom Cover"
-msgstr "صدا گزارش شد."
+msgstr ""
 
-#, fuzzy
 msgid "Choose a cover image"
-msgstr "انتخاب فایل"
+msgstr ""
 
 msgid "Add a background to your sound card (max 2MB)."
 msgstr ""
@@ -1777,17 +1606,15 @@ msgstr ""
 msgid "Trim your audio before uploading (VIP exclusive)."
 msgstr ""
 
-#, fuzzy
 msgid "Sound Utilities"
-msgstr "لایک صدا برداشته شد."
+msgstr ""
 
 msgid ""
 "Need to trim your audio? Our built-in Sound Trimmer is a VIP exclusive tool."
 msgstr ""
 
-#, fuzzy
 msgid "Remove tag:"
-msgstr "حذف تبلیغات"
+msgstr ""
 
 msgid "Maximum"
 msgstr ""
@@ -1795,61 +1622,50 @@ msgstr ""
 msgid "tags allowed."
 msgstr ""
 
-#, fuzzy
 msgid "File too big (Max:"
-msgstr "فایل خیلی بزرگ است"
+msgstr ""
 
-#, fuzzy
 msgid "Already uploading..."
-msgstr "در حال آپلود است"
+msgstr ""
 
-#, fuzzy
 msgid "Please agree to the terms and policy."
-msgstr "شما باید با شرایط استفاده و سیاست حفظ حریم خصوصی موافقت کنید."
+msgstr ""
 
-#, fuzzy
 msgid "Please add at least one tag."
-msgstr "لطفاً دلیل معتبری وارد کنید."
+msgstr ""
 
-#, fuzzy
 msgid "Trimmed file is too large."
-msgstr "فایل خیلی بزرگ است"
+msgstr ""
 
 msgid "No file selected or imported for upload."
 msgstr ""
 
-#, fuzzy
 msgid "An error occurred ("
-msgstr "خطایی رخ داد"
+msgstr ""
 
 msgid ")."
 msgstr ""
 
-#, fuzzy
 msgid "Sound uploaded successfully!"
-msgstr "نظر با موفقیت ارسال شد!"
+msgstr ""
 
 msgid "Network error or server issue:"
 msgstr ""
 
-#, fuzzy
 msgid "Please enter a URL."
-msgstr "لطفاً ایمیل معتبری وارد کنید."
+msgstr ""
 
-#, fuzzy
 msgid "Import error ("
-msgstr "وارد کردن از URL"
+msgstr ""
 
 msgid "URL ready for import:"
 msgstr ""
 
-#, fuzzy
 msgid "Importing:"
-msgstr "وارد کردن"
+msgstr ""
 
-#, fuzzy
 msgid "Import failed:"
-msgstr "بیشترین صدا"
+msgstr ""
 
 msgid "Web Audio API not supported. Cannot use audio utilities."
 msgstr ""
@@ -1857,13 +1673,11 @@ msgstr ""
 msgid "Please select an audio file first before using utilities."
 msgstr ""
 
-#, fuzzy
 msgid "Error loading waveform:"
-msgstr "خطا در بارگذاری نظرات."
+msgstr ""
 
-#, fuzzy
 msgid "Selected:"
-msgstr "حذف شده"
+msgstr ""
 
 msgid "Selected region is too short or invalid."
 msgstr ""
@@ -1877,9 +1691,8 @@ msgstr ""
 msgid "Error trimming audio:"
 msgstr ""
 
-#, fuzzy
 msgid "Trim operation cancelled."
-msgstr "پرداخت لغو شد"
+msgstr ""
 
 msgid "Cover image is too large (max 2MB)."
 msgstr ""
@@ -1887,13 +1700,11 @@ msgstr ""
 msgid "This is a VIP-exclusive feature."
 msgstr ""
 
-#, fuzzy
 msgid "sounds recommended"
-msgstr "صدا گزارش شد."
+msgstr ""
 
-#, fuzzy
 msgid "Challenge Completed!"
-msgstr "وارد کردن از URL"
+msgstr ""
 
 msgid "You have unlocked VIP status! Check your profile."
 msgstr ""
@@ -1904,17 +1715,14 @@ msgstr "کاربر یافت نشد"
 msgid "User with this ID not found. Please check the entered data."
 msgstr "کاربر با این شناسه یافت نشد. لطفاً داده‌های وارد شده را بررسی کنید."
 
-#, fuzzy
 msgid "Users"
-msgstr "نام کاربری"
+msgstr ""
 
-#, fuzzy
 msgid "Search users..."
-msgstr "جستجو بر اساس عبارت "
+msgstr ""
 
-#, fuzzy
 msgid "Roles"
-msgstr "نقش"
+msgstr ""
 
 msgid "Admin"
 msgstr ""
@@ -1925,17 +1733,14 @@ msgstr ""
 msgid "VIP"
 msgstr ""
 
-#, fuzzy
 msgid "User"
-msgstr "نام کاربری"
+msgstr ""
 
-#, fuzzy
 msgid "Banned"
-msgstr " و "
+msgstr ""
 
-#, fuzzy
 msgid "Clear Roles"
-msgstr "اعطای نقش"
+msgstr ""
 
 msgid "Sort users by"
 msgstr ""
@@ -1946,20 +1751,17 @@ msgstr ""
 msgid "Joined: Oldest First"
 msgstr ""
 
-#, fuzzy
 msgid "Username: A-Z"
-msgstr "نام کاربری"
+msgstr ""
 
-#, fuzzy
 msgid "Username: Z-A"
-msgstr "نام کاربری"
+msgstr ""
 
 msgid "#ID"
 msgstr ""
 
-#, fuzzy
 msgid "Error loading users. Please try again."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
 msgid "Unban User"
 msgstr ""
@@ -1973,31 +1775,26 @@ msgstr ""
 msgid "View Profile"
 msgstr "مشاهده پروفایل"
 
-#, fuzzy
 msgid "Edit User"
-msgstr "ویرایش تگ‌ها"
+msgstr ""
 
 msgid "No users found matching your criteria."
 msgstr ""
 
-#, fuzzy
 msgid "User banned successfully."
-msgstr "نام کاربری با موفقیت به‌روز شد."
+msgstr ""
 
-#, fuzzy
 msgid "User unbanned successfully."
-msgstr "نام کاربری با موفقیت به‌روز شد."
+msgstr ""
 
 msgid "UwUpad VIP"
 msgstr ""
 
-#, fuzzy
 msgid "Back to main"
-msgstr "بازگشت به صفحه اصلی"
+msgstr ""
 
-#, fuzzy
 msgid "Welcome, Patron!"
-msgstr "نظرات"
+msgstr ""
 
 msgid "Thank you for supporting UwUpad. Enjoy your exclusive features."
 msgstr ""
@@ -2039,89 +1836,71 @@ msgstr ""
 msgid "Save 20% - 2 months free!"
 msgstr ""
 
-#, fuzzy
 msgid "Choose Yearly"
-msgstr "انتخاب فایل"
+msgstr ""
 
-#, fuzzy
 msgid "Feature"
-msgstr "قبلاً حساب کاربری داشته‌اید؟"
+msgstr ""
 
-#, fuzzy
 msgid "Standard"
-msgstr "ویرایش پروفایل"
+msgstr ""
 
-#, fuzzy
 msgid "VIP Patron"
-msgstr "ناوبری"
+msgstr ""
 
-#, fuzzy
 msgid "Ad-Free Experience"
-msgstr "سرویس‌های پشتیبانی شده"
+msgstr ""
 
-#, fuzzy
 msgid "Playlists Creation"
-msgstr "لیست‌های پخش"
+msgstr ""
 
-#, fuzzy
 msgid "Unlimited"
-msgstr "ایجاد لیست پخش جدید"
+msgstr ""
 
-#, fuzzy
 msgid "Sounds per Playlist"
-msgstr "جستجوی لیست‌های پخش"
+msgstr ""
 
-#, fuzzy
 msgid "Private Playlists"
-msgstr "ایجاد لیست پخش جدید"
+msgstr ""
 
-#, fuzzy
 msgid "Bulk Playlist Download (.zip)"
-msgstr "دانلودها"
+msgstr ""
 
 msgid "Animated GIF Avatars"
 msgstr ""
 
-#, fuzzy
 msgid "Custom Sound Covers"
-msgstr "صدا گزارش شد."
+msgstr ""
 
-#, fuzzy
 msgid "File Upload Size"
-msgstr "بیشترین دانلود"
+msgstr ""
 
-#, fuzzy
 msgid "Tags per Sound"
-msgstr "تعداد کل صداها"
+msgstr ""
 
 msgid "Nickname Styling"
 msgstr ""
 
-#, fuzzy
 msgid "Paid"
-msgstr "آپلود"
+msgstr ""
 
 msgid "Unlimited & Free"
 msgstr ""
 
-#, fuzzy
 msgid "Sound Boosts"
-msgstr "صدا قبلاً در لیست پخش وجود دارد."
+msgstr ""
 
 msgid "1 Free Daily"
 msgstr ""
 
-#, fuzzy
 msgid "VIP Profile Badge"
-msgstr "مشاهده پروفایل"
+msgstr ""
 
-#, fuzzy
 msgid "Become a Patron"
-msgstr "نظرات"
+msgstr ""
 
-#, fuzzy
 msgid "Extend Subscription"
-msgstr "مدت زمان"
+msgstr ""
 
 msgid "Choose your preferred payment method"
 msgstr ""
@@ -2141,20 +1920,17 @@ msgstr ""
 msgid "Banner Preview"
 msgstr ""
 
-#, fuzzy
 msgid "Contact"
-msgstr "تماس با ما"
+msgstr ""
 
 msgid "Submitted At"
 msgstr ""
 
-#, fuzzy
 msgid "Loading requests..."
-msgstr "در حال بارگذاری نظرات..."
+msgstr ""
 
-#, fuzzy
 msgid "Error loading requests."
-msgstr "خطا در بارگذاری نظرات."
+msgstr ""
 
 msgid "No pending requests."
 msgstr ""
@@ -2174,13 +1950,11 @@ msgstr "برای شما"
 msgid "News"
 msgstr "اخبار"
 
-#, fuzzy
 msgid "Report a bug"
-msgstr "گزارش یک صدا"
+msgstr ""
 
-#, fuzzy
 msgid "Request a sound"
-msgstr "گزارش یک صدا"
+msgstr ""
 
 msgid "Contacts"
 msgstr "تماس با ما"
@@ -2200,9 +1974,8 @@ msgstr "گروه استیم"
 msgid "Total sounds"
 msgstr "تعداد کل صداها"
 
-#, fuzzy
 msgid "Notifications"
-msgstr "ناوبری"
+msgstr ""
 
 msgid "Mark all as read"
 msgstr ""
@@ -2224,13 +1997,11 @@ msgstr ""
 msgid "Your ideas here..."
 msgstr ""
 
-#, fuzzy
 msgid "Later"
-msgstr "جدول امتیازات"
+msgstr ""
 
-#, fuzzy
 msgid "Send"
-msgstr "صدا"
+msgstr ""
 
 msgid "Sent!"
 msgstr ""
@@ -2238,9 +2009,8 @@ msgstr ""
 msgid "You can remove sounds you don't want from the list below."
 msgstr ""
 
-#, fuzzy
 msgid "Download .zip"
-msgstr "دانلودها"
+msgstr ""
 
 msgid "Preparing download for"
 msgstr ""
@@ -2288,9 +2058,8 @@ msgstr "تنظیمات زبان"
 msgid "Appearance"
 msgstr ""
 
-#, fuzzy
 msgid "Show Sound Covers"
-msgstr "صدا گزارش شد."
+msgstr ""
 
 msgid "Display custom background images on sound cards."
 msgstr ""
@@ -2304,9 +2073,8 @@ msgstr ""
 msgid "Interface Language"
 msgstr "زبان رابط کاربری"
 
-#, fuzzy
 msgid "Content Languages"
-msgstr "فیلترهای زبان محتوا"
+msgstr ""
 
 msgid ""
 "Select languages you want to see. Leave all unchecked to use automatic "
@@ -2349,38 +2117,32 @@ msgstr ""
 msgid "Search"
 msgstr "جستجو"
 
-#, fuzzy
 msgid "Profile"
-msgstr "مشاهده پروفایل"
+msgstr ""
 
-#, fuzzy
 msgid "Settings"
-msgstr "تنظیمات زبان"
+msgstr ""
 
 msgid "Log in"
 msgstr "ورود"
 
-#, fuzzy
 msgid "Download Top 50 Packs:"
-msgstr "دانلود Soundpad"
+msgstr ""
 
-#, fuzzy
 msgid "Daily"
-msgstr "ایمیل"
+msgstr ""
 
 msgid "Weekly"
 msgstr ""
 
-#, fuzzy
 msgid "Download Top 50 Sounds"
-msgstr "دانلود Soundpad"
+msgstr ""
 
 msgid "This pack contains the 50 most popular sounds of the"
 msgstr ""
 
-#, fuzzy
 msgid "ready for Soundpad."
-msgstr "افزودن به Soundpad"
+msgstr ""
 
 msgid "Best Value / Fast"
 msgstr ""
@@ -2388,39 +2150,32 @@ msgstr ""
 msgid "Support us with a small donation and get 3 Days of VIP instantly."
 msgstr ""
 
-#, fuzzy
 msgid "Say Thanks & Download"
-msgstr "فایل دانلود نشد."
+msgstr ""
 
-#, fuzzy
 msgid "Get Monthly VIP Subscription"
-msgstr "مدت زمان"
+msgstr ""
 
 msgid "Unlocks all packs, playlists and removes ads."
 msgstr ""
 
-#, fuzzy
 msgid "Downloading..."
-msgstr "دانلودها"
+msgstr ""
 
-#, fuzzy
 msgid "Complete!"
-msgstr "وارد کردن از URL"
+msgstr ""
 
-#, fuzzy
 msgid "Download failed"
-msgstr "بیشترین دانلود"
+msgstr ""
 
-#, fuzzy
 msgid "Access Restricted"
-msgstr "دسترسی رد شد"
+msgstr ""
 
 msgid "To continue listening, please subscribe to our Telegram channel."
 msgstr ""
 
-#, fuzzy
 msgid "Important:"
-msgstr "وارد کردن"
+msgstr ""
 
 msgid ""
 "Do not unsubscribe! If you leave the channel, you will need to verify again."
@@ -2432,25 +2187,22 @@ msgstr ""
 msgid "Subscribe to unlock"
 msgstr ""
 
-#, fuzzy
 msgid "Verifying subscription..."
-msgstr "مدت زمان"
+msgstr ""
 
 msgid "Continue"
 msgstr ""
 
-#, fuzzy
 msgid "This track is already downloading."
-msgstr "صدا قبلاً در لیست پخش وجود دارد."
+msgstr ""
 
 msgid ""
 "Please wait for the previous download to finish. VIPs can download multiple "
 "files at once!"
 msgstr ""
 
-#, fuzzy
 msgid "Adding to Soundpad:"
-msgstr "افزودن به Soundpad"
+msgstr ""
 
 msgid "DELETED"
 msgstr "حذف شده"
@@ -2458,40 +2210,32 @@ msgstr "حذف شده"
 msgid "Unlock This Feature"
 msgstr ""
 
-#, fuzzy
 msgid "Log In or Create Account"
-msgstr "قبلاً حساب کاربری داشته‌اید؟"
+msgstr ""
 
-#, fuzzy
 msgid "This sound is boosted!"
-msgstr "صدا قبلاً در لیست پخش وجود دارد."
+msgstr ""
 
-#, fuzzy
 msgid "Boost Sound"
-msgstr "تعداد کل صداها"
+msgstr ""
 
-#, fuzzy
 msgid "Views"
-msgstr "تصویر پیش‌نمایش"
+msgstr ""
 
-#, fuzzy
 msgid "Add to playlist"
-msgstr "افزودن به لیست سیاه"
+msgstr ""
 
 msgid "Report"
 msgstr "گزارش"
 
-#, fuzzy
 msgid "Original Sound"
-msgstr "تعداد کل صداها"
+msgstr ""
 
-#, fuzzy
 msgid "Go to original sound"
-msgstr "تعداد کل صداها"
+msgstr ""
 
-#, fuzzy
 msgid "Additional Tags"
-msgstr "گزینه‌های اضافی"
+msgstr ""
 
 msgid "This sound is too loud. Are you sure you want to play it back?"
 msgstr "این صدا خیلی بلند است. آیا مطمئن هستید که می‌خواهید آن را پخش کنید؟"
@@ -2515,13 +2259,11 @@ msgstr ""
 msgid "Show more"
 msgstr "نمایش بیشتر"
 
-#, fuzzy
 msgid "No sounds to add."
-msgstr "هیچ صدایی یافت نشد"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Playlist"
-msgstr "افزودن به لیست سیاه"
+msgstr ""
 
 #, python-format
 msgid "Choose a playlist for %(count)s sounds or create a new one."
@@ -2531,80 +2273,64 @@ msgstr ""
 msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
 msgstr ""
 
-#, fuzzy
 msgid "Create New"
-msgstr "قبلاً حساب کاربری داشته‌اید؟"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Existing"
-msgstr "افزودن به لیست سیاه"
+msgstr ""
 
-#, fuzzy
 msgid "New Playlist Name"
-msgstr "نام لیست پخش"
+msgstr ""
 
 msgid "My Awesome Mix"
 msgstr ""
 
-#, fuzzy
 msgid "Choose cover…"
-msgstr "انتخاب فایل"
+msgstr ""
 
-#, fuzzy
 msgid "Make playlist public"
-msgstr "جستجوی لیست‌های پخش"
+msgstr ""
 
-#, fuzzy
 msgid "Search your playlists..."
-msgstr "جستجوی لیست‌های پخش"
+msgstr ""
 
 msgid "Save"
 msgstr "ذخیره"
 
-#, fuzzy
 msgid "You don't have any playlists yet."
-msgstr "شما اجازه دسترسی ندارید."
+msgstr ""
 
-#, fuzzy
 msgid "Could not load your playlists."
-msgstr "صدا در لیست پخش نیست."
+msgstr ""
 
-#, fuzzy
 msgid "Searching..."
-msgstr "جستجو بر اساس عبارت "
+msgstr ""
 
-#, fuzzy
 msgid "Search failed."
-msgstr "جستجو بر اساس عبارت "
+msgstr ""
 
-#, fuzzy
 msgid "Please select a playlist."
-msgstr "انتخاب لیست پخش"
+msgstr ""
 
-#, fuzzy
 msgid "Please enter a name for the new playlist."
-msgstr "ایجاد لیست پخش جدید"
+msgstr ""
 
-#, fuzzy
 msgid "Image uploaded."
-msgstr "آپلود شده"
+msgstr ""
 
-#, fuzzy
 msgid "Image upload failed."
-msgstr "بیشترین دانلود"
+msgstr ""
 
-#, fuzzy
 msgid "Playlist Limit Reached"
-msgstr "لیست پخش حذف شد."
+msgstr ""
 
 msgid ""
 "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited "
 "playlists!"
 msgstr ""
 
-#, fuzzy
 msgid "Playlist is Full"
-msgstr "لیست‌های پخش"
+msgstr ""
 
 msgid ""
 "Standard users can add up to 20 sounds per playlist. Get VIP to create "
@@ -2617,9 +2343,8 @@ msgstr ""
 msgid "Keep your collections to yourself by upgrading to VIP."
 msgstr ""
 
-#, fuzzy
 msgid "An unexpected error occurred."
-msgstr "خطایی رخ داد"
+msgstr ""
 
 msgid "Hey, check out this playlist on Uwupad!"
 msgstr ""
@@ -2627,9 +2352,8 @@ msgstr ""
 msgid "No sounds found"
 msgstr "هیچ صدایی یافت نشد"
 
-#, fuzzy
 msgid "Sound is already in the queue"
-msgstr "صدا قبلاً در لیست پخش وجود دارد."
+msgstr ""
 
 msgid "added to queue"
 msgstr ""
@@ -2720,9 +2444,8 @@ msgstr ""
 msgid "Select your browser, extension, or antivirus from the list below"
 msgstr ""
 
-#, fuzzy
 msgid "Google Chrome"
-msgstr "بازگشت به خانه"
+msgstr ""
 
 msgid ""
 "Click the extension icon (puzzle piece) in the top right corner of the "
@@ -2738,9 +2461,8 @@ msgstr ""
 msgid "Click on the extension and press"
 msgstr ""
 
-#, fuzzy
 msgid "Disable on this site"
-msgstr "اعمال فیلترها"
+msgstr ""
 
 msgid "or the big power button."
 msgstr ""
@@ -2769,9 +2491,8 @@ msgstr ""
 msgid "Enhanced Tracking Protection"
 msgstr ""
 
-#, fuzzy
 msgid "to position"
-msgstr "گزارش"
+msgstr ""
 
 msgid "OFF"
 msgstr ""
@@ -2829,9 +2550,8 @@ msgstr ""
 msgid "If there is no extension, open the main Kaspersky app"
 msgstr ""
 
-#, fuzzy
 msgid "Security settings"
-msgstr "تنظیمات زبان"
+msgstr ""
 
 msgid "Disable"
 msgstr ""
@@ -2845,24 +2565,20 @@ msgstr ""
 msgid "Log in to your account at windscribe.com."
 msgstr ""
 
-#, fuzzy
 msgid "Go to the tab"
-msgstr "گزارش"
+msgstr ""
 
-#, fuzzy
 msgid "Select"
-msgstr "حذف شده"
+msgstr ""
 
-#, fuzzy
 msgid "Custom Rules"
-msgstr "صدا گزارش شد."
+msgstr ""
 
 msgid "Enter our site domain and select the option"
 msgstr ""
 
-#, fuzzy
 msgid "Whitelist"
-msgstr "اعمال فیلترها"
+msgstr ""
 
 msgid ""
 "Since R.O.B.E.R.T. works at the DNS level, changes may take a few minutes to"
@@ -2889,9 +2605,8 @@ msgstr ""
 msgid "Wait for the page to automatically refresh."
 msgstr ""
 
-#, fuzzy
 msgid "Brave Browser"
-msgstr "نقش"
+msgstr ""
 
 msgid "Click the lion icon (Brave Shields) to the right of the address bar."
 msgstr ""
@@ -2904,24 +2619,20 @@ msgid ""
 " site is the most reliable method."
 msgstr ""
 
-#, fuzzy
 msgid "Yandex Browser"
-msgstr "نقش"
+msgstr ""
 
 msgid "Click the lock icon 🔒 or shield in the left part of the SmartBox."
 msgstr ""
 
-#, fuzzy
 msgid "Click"
-msgstr "لینک‌ها"
+msgstr ""
 
-#, fuzzy
 msgid "More details"
-msgstr "ایمیل"
+msgstr ""
 
-#, fuzzy
 msgid "if required"
-msgstr "ایمیل الزامی است."
+msgstr ""
 
 msgid "Block ads on this site"
 msgstr ""
@@ -2938,9 +2649,8 @@ msgstr ""
 msgid "If that doesn't help: Menu"
 msgstr ""
 
-#, fuzzy
 msgid "Extensions"
-msgstr "ترجمه‌ها"
+msgstr ""
 
 msgid "Disable third-party blockers."
 msgstr ""
@@ -2954,13 +2664,11 @@ msgstr ""
 msgid "Menu"
 msgstr ""
 
-#, fuzzy
 msgid "Section"
-msgstr "مدت زمان"
+msgstr ""
 
-#, fuzzy
 msgid "Protection"
-msgstr "ناوبری"
+msgstr ""
 
 msgid "Web Shield"
 msgstr ""
@@ -2968,9 +2676,8 @@ msgstr ""
 msgid "Find the tab"
 msgstr ""
 
-#, fuzzy
 msgid "Exceptions"
-msgstr "مدت زمان"
+msgstr ""
 
 msgid "and add our website address."
 msgstr ""
@@ -2986,20 +2693,17 @@ msgid ""
 "another browser or contact"
 msgstr ""
 
-#, fuzzy
 msgid "support"
-msgstr "تماس با پشتیبانی"
+msgstr ""
 
 msgid "Return to site"
 msgstr ""
 
-#, fuzzy
 msgid "Very popular (100-500 downloads)"
-msgstr "نه چندان محبوب (۱۰-۵۰ دانلود)"
+msgstr ""
 
-#, fuzzy
 msgid "Extremely popular (>500 downloads)"
-msgstr "محبوب (۵۰-۱۰۰ دانلود)"
+msgstr ""
 
 msgid "Language"
 msgstr "زبان"
@@ -3015,9 +2719,8 @@ msgstr ""
 msgid "Listen to and discover new music on UwUpad."
 msgstr ""
 
-#, fuzzy
 msgid "Browse"
-msgstr "نقش"
+msgstr ""
 
 msgid "My Library"
 msgstr ""
@@ -3028,88 +2731,71 @@ msgstr ""
 msgid "Sounds / Memes"
 msgstr ""
 
-#, fuzzy
 msgid "Sorting"
-msgstr "وارد کردن"
+msgstr ""
 
 msgid "Hot"
 msgstr ""
 
-#, fuzzy
 msgid "Period"
-msgstr "ادامه"
+msgstr ""
 
-#, fuzzy
 msgid "All time"
-msgstr "اعمال فیلترها"
+msgstr ""
 
-#, fuzzy
 msgid "Year"
-msgstr "جستجو"
+msgstr ""
 
-#, fuzzy
 msgid "Month"
-msgstr "دیگر"
+msgstr ""
 
 msgid "Week"
 msgstr ""
 
-#, fuzzy
 msgid "Day"
-msgstr "ایمیل"
+msgstr ""
 
-#, fuzzy
 msgid "Now"
-msgstr "خیر"
+msgstr ""
 
-#, fuzzy
 msgid "Search by title..."
-msgstr "جستجو بر اساس عبارت "
+msgstr ""
 
 msgid "What do you want to listen to?"
 msgstr ""
 
-#, fuzzy
 msgid "Liked Songs"
-msgstr "لایک شده"
+msgstr ""
 
-#, fuzzy
 msgid "tracks"
-msgstr "صفحه بعد"
+msgstr ""
 
-#, fuzzy
 msgid "Create Playlist"
-msgstr "ایجاد لیست پخش جدید"
+msgstr ""
 
-#, fuzzy
 msgid "My Playlists"
-msgstr "لیست‌های پخش"
+msgstr ""
 
-#, fuzzy
 msgid "Play"
-msgstr "لیست پخش"
+msgstr ""
 
-#, fuzzy
 msgid "Now Playing"
-msgstr "نام لیست پخش"
+msgstr ""
 
 msgid "Track Cover"
 msgstr ""
 
-#, fuzzy
 msgid "Track Title"
-msgstr "عنوان"
+msgstr ""
 
-#, fuzzy
 msgid "Artist"
-msgstr "مدت زمان"
+msgstr ""
 
 msgid "Next in Queue"
 msgstr ""
 
-#, fuzzy
 msgid "Cover"
-msgstr "دیگر"
+msgstr ""
 
 msgid "Select a track"
 msgstr ""
@@ -3120,17 +2806,14 @@ msgstr ""
 msgid "Previous Track"
 msgstr ""
 
-#, fuzzy
 msgid "Play/Pause"
-msgstr "نام کاربری"
+msgstr ""
 
-#, fuzzy
 msgid "Next Track"
-msgstr "صفحه بعد"
+msgstr ""
 
-#, fuzzy
 msgid "Repeat"
-msgstr "گزارش"
+msgstr ""
 
 msgid "Fullscreen Mode"
 msgstr ""
@@ -3141,59 +2824,47 @@ msgstr ""
 msgid "Mute/Unmute"
 msgstr ""
 
-#, fuzzy
 msgid "Add to Queue"
-msgstr "احراز هویت نشده است."
+msgstr ""
 
-#, fuzzy
 msgid "New Playlist"
-msgstr "نام لیست پخش"
+msgstr ""
 
-#, fuzzy
 msgid "Playlist is empty"
-msgstr "نام لیست پخش نمی‌تواند خالی باشد."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load music."
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
-#, fuzzy
 msgid "Unlike"
-msgstr "لینک‌ها"
+msgstr ""
 
-#, fuzzy
 msgid "Your personal favorites"
-msgstr "آدرس ایمیل شما"
+msgstr ""
 
-#, fuzzy
 msgid "Enter playlist name:"
-msgstr "نام لیست پخش"
+msgstr ""
 
-#, fuzzy
 msgid "Are you sure you want to delete this playlist?"
-msgstr "آیا مطمئن هستید که می‌خواهید این کاربر را مسدود کنید؟"
+msgstr ""
 
-#, fuzzy
 msgid "This track is downloading."
-msgstr "صدا قبلاً در لیست پخش وجود دارد."
+msgstr ""
 
 msgid "Please wait for the current download to finish."
 msgstr ""
 
-#, fuzzy
 msgid "Downloading error"
-msgstr "دانلودها"
+msgstr ""
 
 msgid "Finished!"
 msgstr ""
 
-#, fuzzy
 msgid "Upload Music"
-msgstr "آپلود"
+msgstr ""
 
-#, fuzzy
 msgid "To Home"
-msgstr "بازگشت به خانه"
+msgstr ""
 
 msgid "Drag & Drop Cover"
 msgstr ""
@@ -3201,13 +2872,11 @@ msgstr ""
 msgid "or click to select"
 msgstr ""
 
-#, fuzzy
 msgid "Cover Preview"
-msgstr "تصویر پیش‌نمایش"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Cover"
-msgstr "تصویر پیش‌نمایش"
+msgstr ""
 
 msgid "Title of your track"
 msgstr ""
@@ -3224,13 +2893,11 @@ msgstr ""
 msgid "Up to 5 tags. Enter a tag and press Enter."
 msgstr ""
 
-#, fuzzy
 msgid "Audio File"
-msgstr "ویرایش پروفایل"
+msgstr ""
 
-#, fuzzy
 msgid "Select file (MP3, WAV, OGG)"
-msgstr "فرمت‌های پشتیبانی شده: mp3, wav, ogg"
+msgstr ""
 
 msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
 msgstr ""
@@ -3238,21 +2905,17 @@ msgstr ""
 msgid "Please use the Standard Uploader for short sounds."
 msgstr ""
 
-#, fuzzy
 msgid "Go to Standard Uploader"
-msgstr "تعداد کل صداها"
+msgstr ""
 
-#, fuzzy
 msgid "I agree with the"
-msgstr "من با "
+msgstr ""
 
-#, fuzzy
 msgid "terms"
-msgstr "فیلترها"
+msgstr ""
 
-#, fuzzy
 msgid "policy"
-msgstr "محبوبیت"
+msgstr ""
 
 msgid "Cover image is too large (max. 5 MB)"
 msgstr ""
@@ -3261,20 +2924,18 @@ msgstr ""
 msgid "You can add no more than ${MAX_TAGS} tags."
 msgstr ""
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
-msgstr "ایمیل باید بیشتر از ۵ کاراکتر باشد."
+msgstr ""
 
-#, fuzzy
 msgid "Audio file is too large (max. 20 MB)"
-msgstr "فایل خیلی بزرگ است"
+msgstr ""
 
 msgid "Server error:"
 msgstr ""
 
-#, fuzzy
 msgid "Music uploaded successfully!"
-msgstr "نظر با موفقیت ارسال شد!"
+msgstr ""
 
 msgid "Payment Cancelled"
 msgstr "پرداخت لغو شد"
@@ -3337,9 +2998,8 @@ msgstr "نام کاربری باید کمتر از ۱۶ کاراکتر باشد.
 msgid "Username already exists."
 msgstr "نام کاربری قبلاً وجود داشته است."
 
-#, fuzzy
 msgid "Bio is too long. Max 250 characters."
-msgstr "نام لیست پخش خیلی طولانی است. حداکثر ۳۲ کاراکتر."
+msgstr ""
 
 msgid "Invalid image."
 msgstr "تصویر نامعتبر است."
@@ -3389,9 +3049,8 @@ msgstr "لطفاً بررسی reCAPTCHA را انجام دهید (۲)."
 msgid "Could not verify reCAPTCHA."
 msgstr "نمی‌توان reCAPTCHA را تأیید کرد."
 
-#, fuzzy
 msgid "Account with this username does not exist."
-msgstr "حسابی با این نام کاربری/ایمیل وجود ندارد."
+msgstr ""
 
 msgid "Account with this email does not exist."
 msgstr "حسابی با این ایمیل وجود ندارد."
@@ -3411,13 +3070,12 @@ msgstr "داده‌های نامعتبر."
 msgid "You already have a playlist with this name."
 msgstr ""
 
-#, fuzzy
 msgid "Could not find or create playlist."
-msgstr "صدا در لیست پخش نیست."
+msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
-msgstr "صدا به لیست پخش {} اضافه شد."
+msgstr ""
 
 #, python-format
 msgid "%(count)s sounds were already in the playlist and were skipped."
@@ -3426,20 +3084,17 @@ msgstr ""
 msgid "No new sounds were added. They might already be in the playlist."
 msgstr ""
 
-#, fuzzy
 msgid "Sound removed from playlist."
-msgstr "صدا از لیست پخش {} حذف شد."
+msgstr ""
 
-#, fuzzy
 msgid "Sound not found in this playlist."
-msgstr "صدا در لیست پخش نیست."
+msgstr ""
 
 msgid "Playlist deleted."
 msgstr "لیست پخش حذف شد."
 
-#, fuzzy
 msgid "Sound ID is required."
-msgstr "ایمیل الزامی است."
+msgstr ""
 
 msgid "Sound not found."
 msgstr "صدا یافت نشد."
@@ -3447,44 +3102,36 @@ msgstr "صدا یافت نشد."
 msgid "Sound deleted."
 msgstr "صدا حذف شد."
 
-#, fuzzy
 msgid "An error occurred while deleting the sound."
-msgstr "هنگام حذف نظر خطایی رخ داد."
+msgstr ""
 
-#, fuzzy
 msgid "Authentication required"
-msgstr "احراز هویت نشده است."
+msgstr ""
 
-#, fuzzy
 msgid "Upload in progress. Please wait."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
 msgid "Cover file must be an image."
 msgstr ""
 
-#, fuzzy
 msgid "Failed to upload cover to CDN."
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
-#, fuzzy
 msgid "Invalid URL format"
-msgstr "فرمت فایل نامعتبر است."
+msgstr ""
 
-#, fuzzy
 msgid "Cannot access URL"
-msgstr "پرداخت موفقیت‌آمیز بود"
+msgstr ""
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Failed to download file: {}"
-msgstr "فایل دانلود نشد."
+msgstr ""
 
-#, fuzzy
 msgid "File too large"
-msgstr "فایل خیلی بزرگ است"
+msgstr ""
 
-#, fuzzy
 msgid "File too small"
-msgstr "فایل خیلی بزرگ است"
+msgstr ""
 
 msgid "No file or URL provided"
 msgstr ""
@@ -3492,13 +3139,11 @@ msgstr ""
 msgid "Sound was queued for upload"
 msgstr ""
 
-#, fuzzy
 msgid "Upload timeout. Please try again."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
-#, fuzzy
 msgid "Upload failed. Please try again."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
 msgid "Sound liked."
 msgstr "صدا لایک شد."
@@ -3509,17 +3154,14 @@ msgstr "لایک صدا برداشته شد."
 msgid "You can only boost your own sounds."
 msgstr ""
 
-#, fuzzy
 msgid "This sound is already boosted."
-msgstr "صدا قبلاً در لیست پخش وجود دارد."
+msgstr ""
 
-#, fuzzy
 msgid "Authenticated user not found."
-msgstr "کاربر یافت نشد"
+msgstr ""
 
-#, fuzzy
 msgid "Free boosts are for VIP users only."
-msgstr "GIF فقط برای کاربران VIP"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -3556,20 +3198,17 @@ msgstr "دلیل باید کمتر از ۱۰۲۴ کاراکتر باشد."
 msgid "Sound reported."
 msgstr "صدا گزارش شد."
 
-#, fuzzy
 msgid "Failed to upload cover image to CDN."
-msgstr "بارگذاری نظرات بیشتر ناموفق بود."
+msgstr ""
 
 msgid "Sound disappeared during edit."
 msgstr ""
 
-#, fuzzy
 msgid "Sound updated successfully."
-msgstr "نظر با موفقیت ارسال شد!"
+msgstr ""
 
-#, fuzzy
 msgid "An internal error occurred."
-msgstr "خطایی رخ داد"
+msgstr ""
 
 msgid "Invalid date."
 msgstr "تاریخ نامعتبر است."
@@ -3583,16 +3222,14 @@ msgstr "نقش به‌روز شد."
 msgid "You cannot block yourself."
 msgstr "شما نمی‌توانید خودتان را مسدود کنید."
 
-#, fuzzy
 msgid "User not found."
-msgstr "کاربر یافت نشد"
+msgstr ""
 
 msgid "User blocked."
 msgstr "کاربر مسدود شد."
 
-#, fuzzy
 msgid "An internal error occurred while blocking the user."
-msgstr "هنگام حذف نظر خطایی رخ داد."
+msgstr ""
 
 msgid "Passwords do not match."
 msgstr "رمزهای عبور مطابقت ندارند."
@@ -3618,9 +3255,8 @@ msgstr "ایمیل ارسال شد. صندوق ورودی خود را بررسی
 msgid "Invalid user ID."
 msgstr "شناسه کاربری نامعتبر است."
 
-#, fuzzy
 msgid "Password cannot be empty."
-msgstr "نام کاربری نمی‌تواند خالی باشد."
+msgstr ""
 
 msgid "Not an admin."
 msgstr "مدیر نیست."
@@ -3628,35 +3264,30 @@ msgstr "مدیر نیست."
 msgid "Cover image is too large (max 5MB)."
 msgstr ""
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Audio file is too large (max {size}MB)."
-msgstr "فایل خیلی بزرگ است"
+msgstr ""
 
 msgid "Music track was queued for processing."
 msgstr ""
 
-#, fuzzy
 msgid "Upload failed due to an internal error."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
-#, fuzzy
 msgid "Name required"
-msgstr "احراز هویت نشده است."
+msgstr ""
 
-#, fuzzy
 msgid "Style is too long."
-msgstr "فایل خیلی بزرگ است"
+msgstr ""
 
-#, fuzzy
 msgid "Invalid or unsafe CSS."
-msgstr "نقش نامعتبر است."
+msgstr ""
 
 msgid "This color is reserved for staff members."
 msgstr ""
 
-#, fuzzy
 msgid "Nickname style updated successfully!"
-msgstr "نظر با موفقیت ارسال شد!"
+msgstr ""
 
 #, python-format
 msgid "Not enough PAW. You need %(cost)s PAW to change your nickname style."
@@ -3702,10 +3333,9 @@ msgstr ""
 msgid "Your sound [entity] has been successfully processed!"
 msgstr ""
 
-#, fuzzy
 msgid ""
 "We couldn't process your sound [entity]. Please try uploading it again."
-msgstr "بارگذاری نظرات ناموفق بود. لطفاً بعداً دوباره امتحان کنید."
+msgstr ""
 
 msgid "An administrator removed your sound: [entity]."
 msgstr ""

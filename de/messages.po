@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:22+0000\n"
+"POT-Creation-Date: 2026-02-23 08:34+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: de <LL@li.org>\n"
@@ -514,9 +514,8 @@ msgstr ""
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
 
-#, fuzzy
 msgid "Play Now"
-msgstr "Abspielen"
+msgstr ""
 
 msgid "Change Password"
 msgstr "Passwort ändern"
@@ -627,9 +626,8 @@ msgstr "Unterstütze UwUpad"
 msgid "Back"
 msgstr "Zurück"
 
-#, fuzzy
 msgid "Top Supporters 💖"
-msgstr "Große Unterstützung 💖"
+msgstr ""
 
 msgid "Support Our Project"
 msgstr "Unterstütze unser Projekt"
@@ -667,9 +665,8 @@ msgstr "Sichere Zahlung via Telegram Stars oder Krypto."
 msgid "PAW tokens are added automatically as a thank you."
 msgstr "PAW-Token werden automatisch als Dankeschön gutgeschrieben."
 
-#, fuzzy
 msgid "Other ways to support"
-msgstr "Support kontaktieren"
+msgstr ""
 
 msgid "Card, SBP, and more — via donation platform"
 msgstr ""
@@ -683,16 +680,14 @@ msgstr ""
 msgid "Direct Crypto Transfer"
 msgstr ""
 
-#, fuzzy
 msgid "and more"
-msgstr "Mehr erfahren"
+msgstr ""
 
 msgid "Choose Cryptocurrency"
 msgstr ""
 
-#, fuzzy
 msgid "Back to list"
-msgstr "Blacklist"
+msgstr ""
 
 msgid "Please enter a valid amount."
 msgstr "Bitte gib einen gültigen Betrag ein."
@@ -779,9 +774,8 @@ msgstr "Kommentare"
 msgid "Comment Likes"
 msgstr "Kommentar-Likes"
 
-#, fuzzy
 msgid "Donations"
-msgstr "Aktionen"
+msgstr ""
 
 msgid "Prev."
 msgstr "Zur."
@@ -1276,9 +1270,8 @@ msgstr "Nutzer aktualisiert. Seite wird neu geladen."
 msgid "An unknown error occurred."
 msgstr "Unbekannter Fehler aufgetreten."
 
-#, fuzzy
 msgid "Register on UwUpad"
-msgstr "Werben auf UwUpad"
+msgstr ""
 
 msgid "Create Account"
 msgstr "Konto erstellen"
@@ -1286,9 +1279,8 @@ msgstr "Konto erstellen"
 msgid "Already have an account?"
 msgstr "Schon ein Konto?"
 
-#, fuzzy
 msgid "Account created!"
-msgstr "Kontostatus"
+msgstr ""
 
 msgid "Reset Your Password"
 msgstr "Passwort zurücksetzen"
@@ -3082,9 +3074,8 @@ msgstr "Bitte reCAPTCHA-Prüfung bestehen (2)."
 msgid "Could not verify reCAPTCHA."
 msgstr "reCAPTCHA-Verifizierung fehlgeschlagen."
 
-#, fuzzy
 msgid "Account with this username does not exist."
-msgstr "Konto mit diesem Namen/E-Mail existiert nicht."
+msgstr ""
 
 msgid "Account with this email does not exist."
 msgstr "Konto mit dieser E-Mail existiert nicht."
@@ -3148,9 +3139,8 @@ msgstr "Upload läuft. Bitte warten."
 msgid "Cover file must be an image."
 msgstr "Cover-Datei muss ein Bild sein."
 
-#, fuzzy
 msgid "Failed to upload cover to CDN."
-msgstr "Kommentare konnten nicht geladen werden."
+msgstr ""
 
 msgid "Invalid URL format"
 msgstr "Ungültiges URL-Format"
@@ -3235,9 +3225,8 @@ msgstr "Grund darf nicht länger als 1024 Zeichen sein."
 msgid "Sound reported."
 msgstr "Sound gemeldet."
 
-#, fuzzy
 msgid "Failed to upload cover image to CDN."
-msgstr "Kommentare konnten nicht geladen werden."
+msgstr ""
 
 msgid "Sound disappeared during edit."
 msgstr "Sound ist beim Bearbeiten verschwunden."

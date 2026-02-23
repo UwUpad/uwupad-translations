@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:22+0000\n"
+"POT-Creation-Date: 2026-02-23 08:34+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: uk <LL@li.org>\n"
@@ -115,24 +115,20 @@ msgstr ""
 msgid "Add / Link Player"
 msgstr ""
 
-#, fuzzy
 msgid "UwUpad User (ID or Username)"
-msgstr "Email або ім'я користувача"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft Username"
-msgstr "Email або ім'я користувача"
+msgstr ""
 
 msgid "Link"
 msgstr "Прив'язати"
 
-#, fuzzy
 msgid "Linked Accounts"
-msgstr "Прив'язано як"
+msgstr ""
 
-#, fuzzy
 msgid "UwUpad User"
-msgstr "UwUpad VIP"
+msgstr ""
 
 msgid "Minecraft UUID"
 msgstr ""
@@ -140,32 +136,26 @@ msgstr ""
 msgid "Actions"
 msgstr "Дії"
 
-#, fuzzy
 msgid "Confirm"
-msgstr "Підтвердити та оплатити"
+msgstr ""
 
 msgid "Cancel"
 msgstr "Скасувати"
 
-#, fuzzy
 msgid "Submit"
-msgstr "Надіслано"
+msgstr ""
 
-#, fuzzy
 msgid "No linked users found."
-msgstr "Плейлистів не знайдено."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load user list."
-msgstr "Не вдалося завантажити музику."
+msgstr ""
 
-#, fuzzy
 msgid "Failed to link user."
-msgstr "Не вдалося завантажити музику."
+msgstr ""
 
-#, fuzzy
 msgid "User Linked Successfully"
-msgstr "Користувача успішно забанено."
+msgstr ""
 
 msgid "OK"
 msgstr ""
@@ -173,9 +163,8 @@ msgstr ""
 msgid "Error"
 msgstr "Помилка"
 
-#, fuzzy
 msgid "Unlink Account?"
-msgstr "Прив'язати Discord"
+msgstr ""
 
 #, python-brace-format
 msgid ""
@@ -186,17 +175,14 @@ msgstr ""
 msgid "Unlink"
 msgstr "Відв'язати"
 
-#, fuzzy
 msgid "Failed to unlink user."
-msgstr "Не вдалося завантажити музику."
+msgstr ""
 
-#, fuzzy
 msgid "User Unlinked"
-msgstr "Користувача заблоковано."
+msgstr ""
 
-#, fuzzy
 msgid "Successfully unlinked"
-msgstr "Успішний вхід!"
+msgstr ""
 
 msgid "Advertise on UwUpad"
 msgstr "Реклама на UwUpad"
@@ -528,9 +514,8 @@ msgstr ""
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
 
-#, fuzzy
 msgid "Play Now"
-msgstr "Грати"
+msgstr ""
 
 msgid "Change Password"
 msgstr "Змінити пароль"
@@ -645,9 +630,8 @@ msgstr "Назад"
 msgid "Top Supporters 💖"
 msgstr "Велика подяка 💖"
 
-#, fuzzy
 msgid "Support Our Project"
-msgstr "Підтримати UwUpad"
+msgstr ""
 
 msgid ""
 "UwUpad is free and lives on your support. Donations keep servers running!"
@@ -2224,9 +2208,8 @@ msgstr "Завершено!"
 msgid "Download failed"
 msgstr "Завантаження не вдалося"
 
-#, fuzzy
 msgid "Access Restricted"
-msgstr "Доступ заборонено"
+msgstr ""
 
 msgid "To continue listening, please subscribe to our Telegram channel."
 msgstr ""
@@ -2243,13 +2226,11 @@ msgstr ""
 msgid "Subscribe"
 msgstr "Підписатися"
 
-#, fuzzy
 msgid "Subscribe to unlock"
-msgstr "Підписатися"
+msgstr ""
 
-#, fuzzy
 msgid "Verifying subscription..."
-msgstr "Продовжити підписку"
+msgstr ""
 
 msgid "Continue"
 msgstr ""
@@ -2802,9 +2783,8 @@ msgstr "До звуків / мемів"
 msgid "Sounds / Memes"
 msgstr "Звуки / Меми"
 
-#, fuzzy
 msgid "Sorting"
-msgstr "Сортуванння"
+msgstr ""
 
 msgid "Hot"
 msgstr "Тренди"
@@ -2812,25 +2792,20 @@ msgstr "Тренди"
 msgid "Period"
 msgstr "Період"
 
-#, fuzzy
 msgid "All time"
-msgstr "За весь час"
+msgstr ""
 
-#, fuzzy
 msgid "Year"
-msgstr "Щорічно"
+msgstr ""
 
-#, fuzzy
 msgid "Month"
-msgstr "Щомісячно"
+msgstr ""
 
-#, fuzzy
 msgid "Week"
-msgstr "на тиждень"
+msgstr ""
 
-#, fuzzy
 msgid "Day"
-msgstr "Сьогодні"
+msgstr ""
 
 msgid "Now"
 msgstr "Зараз"
@@ -2925,19 +2900,14 @@ msgstr "Введіть назву плейлиста:"
 msgid "Are you sure you want to delete this playlist?"
 msgstr "Ви впевнені, що хочете видалити цей плейлист?"
 
-#, fuzzy
 msgid "This track is downloading."
-msgstr "Цей трек вже завантажується."
+msgstr ""
 
-#, fuzzy
 msgid "Please wait for the current download to finish."
 msgstr ""
-"Будь ласка, зачекайте завершення попереднього завантаження. VIP можуть "
-"завантажувати кілька файлів одночасно!"
 
-#, fuzzy
 msgid "Downloading error"
-msgstr "Завантаження"
+msgstr ""
 
 msgid "Finished!"
 msgstr ""
@@ -3132,9 +3102,8 @@ msgstr "Будь ласка, пройдіть перевірку reCAPTCHA (2)."
 msgid "Could not verify reCAPTCHA."
 msgstr "Не вдалося перевірити reCAPTCHA."
 
-#, fuzzy
 msgid "Account with this username does not exist."
-msgstr "Акаунт з таким нікнеймом або email не існує."
+msgstr ""
 
 msgid "Account with this email does not exist."
 msgstr "Акаунт з таким email не існує."
@@ -3198,9 +3167,8 @@ msgstr "Завантаження триває. Будь ласка, зачека
 msgid "Cover file must be an image."
 msgstr "Файл обкладинки має бути зображенням."
 
-#, fuzzy
 msgid "Failed to upload cover to CDN."
-msgstr "Не вдалося завантажити коментарі."
+msgstr ""
 
 msgid "Invalid URL format"
 msgstr "Невірний формат URL"
@@ -3284,9 +3252,8 @@ msgstr "Причина має бути коротшою за 1024 символи
 msgid "Sound reported."
 msgstr "Скаргу на звук надіслано."
 
-#, fuzzy
 msgid "Failed to upload cover image to CDN."
-msgstr "Не вдалося завантажити коментарі."
+msgstr ""
 
 msgid "Sound disappeared during edit."
 msgstr "Звук зник під час редагування."

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:22+0000\n"
+"POT-Creation-Date: 2026-02-23 08:34+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -110,13 +110,11 @@ msgstr "フィルターを適用"
 msgid "About us"
 msgstr "私たちについて"
 
-#, fuzzy
 msgid "Admin: Minecraft Management"
-msgstr "UwU Pad Minecraftサーバーがライブ！"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft Server Management"
-msgstr "UwU Pad Minecraftサーバーがライブ！"
+msgstr ""
 
 msgid "Whitelist and link user accounts."
 msgstr ""
@@ -124,33 +122,26 @@ msgstr ""
 msgid "Add / Link Player"
 msgstr ""
 
-#, fuzzy
 msgid "UwUpad User (ID or Username)"
-msgstr "メールアドレス/ユーザー名"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft Username"
-msgstr "UwU Pad Minecraftサーバーがライブ！"
+msgstr ""
 
-#, fuzzy
 msgid "Link"
-msgstr "リンク"
+msgstr ""
 
-#, fuzzy
 msgid "Linked Accounts"
-msgstr "すでにアカウントをお持ちですか？"
+msgstr ""
 
-#, fuzzy
 msgid "UwUpad User"
-msgstr "タグを編集"
+msgstr ""
 
-#, fuzzy
 msgid "Minecraft UUID"
-msgstr "UwU Pad Minecraftサーバーがライブ！"
+msgstr ""
 
-#, fuzzy
 msgid "Actions"
-msgstr "長さ"
+msgstr ""
 
 msgid "Confirm"
 msgstr ""
@@ -158,25 +149,20 @@ msgstr ""
 msgid "Cancel"
 msgstr "キャンセル"
 
-#, fuzzy
 msgid "Submit"
-msgstr "パスワードをリセット"
+msgstr ""
 
-#, fuzzy
 msgid "No linked users found."
-msgstr "プレイリストが見つかりません。"
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load user list."
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
-#, fuzzy
 msgid "Failed to link user."
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
-#, fuzzy
 msgid "User Linked Successfully"
-msgstr "ユーザー名が正常に更新されました。"
+msgstr ""
 
 msgid "OK"
 msgstr ""
@@ -184,9 +170,8 @@ msgstr ""
 msgid "Error"
 msgstr ""
 
-#, fuzzy
 msgid "Unlink Account?"
-msgstr "すでにアカウントをお持ちですか？"
+msgstr ""
 
 #, python-brace-format
 msgid ""
@@ -194,21 +179,17 @@ msgid ""
 "whitelist."
 msgstr ""
 
-#, fuzzy
 msgid "Unlink"
-msgstr "リンク"
+msgstr ""
 
-#, fuzzy
 msgid "Failed to unlink user."
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
-#, fuzzy
 msgid "User Unlinked"
-msgstr "ユーザーがブロックされました。"
+msgstr ""
 
-#, fuzzy
 msgid "Successfully unlinked"
-msgstr "ログインに成功しました"
+msgstr ""
 
 msgid "Advertise on UwUpad"
 msgstr ""
@@ -261,9 +242,8 @@ msgstr ""
 msgid "Pricing & How to Buy"
 msgstr ""
 
-#, fuzzy
 msgid "Price:"
-msgstr "続行"
+msgstr ""
 
 msgid "per week."
 msgstr ""
@@ -271,9 +251,8 @@ msgstr ""
 msgid "How it works:"
 msgstr ""
 
-#, fuzzy
 msgid "Click the button below to pay with Telegram Stars."
-msgstr "下のボタンをクリックしてパスワードを変更してください。"
+msgstr ""
 
 msgid "In the payment comment, you MUST include two links:"
 msgstr ""
@@ -294,9 +273,8 @@ msgstr ""
 msgid "per week"
 msgstr ""
 
-#, fuzzy
 msgid "Submit Your Ad"
-msgstr "パスワードをリセット"
+msgstr ""
 
 msgid "Step 1: Provide Ad Details"
 msgstr ""
@@ -309,34 +287,29 @@ msgstr ""
 msgid "Direct Link to your Banner Image"
 msgstr ""
 
-#, fuzzy
 msgid "Target URL"
-msgstr "URLが空です"
+msgstr ""
 
 msgid "where users will be sent"
 msgstr ""
 
-#, fuzzy
 msgid "Your Contact"
-msgstr "連絡先"
+msgstr ""
 
 msgid "We will use this to contact you if there are issues with your ad."
 msgstr ""
 
-#, fuzzy
 msgid "Step 2: Proceed to Payment"
-msgstr "支払いに進む"
+msgstr ""
 
-#, fuzzy
 msgid "All fields are required."
-msgstr "メールアドレスは必須です。"
+msgstr ""
 
 msgid "Server error."
 msgstr ""
 
-#, fuzzy
 msgid "Payment link not received."
-msgstr "支払いがキャンセルされました"
+msgstr ""
 
 msgid "Access denied"
 msgstr "アクセス拒否"
@@ -347,9 +320,8 @@ msgstr "あなたのアカウントは禁止されました"
 msgid "Contact us for more information"
 msgstr "詳細についてはお問い合わせください"
 
-#, fuzzy
 msgid "The best sounds for your Soundpad and ringtones"
-msgstr "Soundpadのための最高のサウンド共有サービス"
+msgstr ""
 
 msgid ""
 "Find that meme sound from TikTok or a scream from your favorite game in 5 "
@@ -360,9 +332,8 @@ msgstr ""
 msgid "Welcome back,"
 msgstr ""
 
-#, fuzzy
 msgid "Available for VIP users only"
-msgstr "GIFはVIPユーザーのみ"
+msgstr ""
 
 msgid "Bulk Download is a VIP Feature"
 msgstr ""
@@ -370,40 +341,32 @@ msgstr ""
 msgid "Upgrade to VIP to download entire playlists as a .zip file!"
 msgstr ""
 
-#, fuzzy
 msgid "Pause"
-msgstr "ユーザー名"
+msgstr ""
 
-#, fuzzy
 msgid "This playlist is empty."
-msgstr "プレイリスト名は空にできません。"
+msgstr ""
 
-#, fuzzy
 msgid "Remove from download"
-msgstr "最多ダウンロード"
+msgstr ""
 
-#, fuzzy
 msgid "Could not load playlist."
-msgstr "サウンドはプレイリストにありません。"
+msgstr ""
 
-#, fuzzy
 msgid "Download cancelled."
-msgstr "最多ダウンロード"
+msgstr ""
 
-#, fuzzy
 msgid "Downloading"
-msgstr "ダウンロード数"
+msgstr ""
 
-#, fuzzy
 msgid "Creating ZIP file... Please wait."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
 msgid "Compressing..."
 msgstr ""
 
-#, fuzzy
 msgid "Resume"
-msgstr "すでにアカウントをお持ちですか？"
+msgstr ""
 
 msgid "Paused..."
 msgstr ""
@@ -411,25 +374,20 @@ msgstr ""
 msgid "Resuming..."
 msgstr ""
 
-#, fuzzy
 msgid "Import cancelled."
-msgstr "支払いがキャンセルされました"
+msgstr ""
 
-#, fuzzy
 msgid "Importing"
-msgstr "インポート"
+msgstr ""
 
-#, fuzzy
 msgid "Import complete!"
-msgstr "URLからインポート"
+msgstr ""
 
-#, fuzzy
 msgid "Sound data not loaded yet."
-msgstr "サウンドが見つかりません。"
+msgstr ""
 
-#, fuzzy
 msgid "Error: Sound data not found."
-msgstr "サウンドが見つかりません。"
+msgstr ""
 
 msgid "Choose Boost Option"
 msgstr ""
@@ -453,9 +411,8 @@ msgstr ""
 msgid "PAY-TO-BOOST"
 msgstr ""
 
-#, fuzzy
 msgid "Pay with PAW"
-msgstr "報告する"
+msgstr ""
 
 #, python-format
 msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
@@ -480,9 +437,8 @@ msgstr ""
 msgid "Get free boosts and more with VIP!"
 msgstr ""
 
-#, fuzzy
 msgid "Learn More"
-msgstr "もっと読み込む"
+msgstr ""
 
 msgid "Confirm & Boost"
 msgstr ""
@@ -499,9 +455,8 @@ msgstr ""
 msgid "Oops!"
 msgstr ""
 
-#, fuzzy
 msgid "Could not load notifications. Please try again later."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
 msgid "Just now"
 msgstr ""
@@ -526,9 +481,8 @@ msgid ""
 " disabling AdBlock or"
 msgstr ""
 
-#, fuzzy
 msgid "getting VIP"
-msgstr "言語設定"
+msgstr ""
 
 msgid "I disabled it, Refresh"
 msgstr ""
@@ -536,9 +490,8 @@ msgstr ""
 msgid "Please wait"
 msgstr ""
 
-#, fuzzy
 msgid "How to disable?"
-msgstr "もっと見る"
+msgstr ""
 
 msgid "Continue to site (AdBlocker active)"
 msgstr ""
@@ -552,9 +505,8 @@ msgstr ""
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
 
-#, fuzzy
 msgid "Play Now"
-msgstr "プレイリスト"
+msgstr ""
 
 msgid "Change Password"
 msgstr "パスワードを変更"
@@ -594,9 +546,8 @@ msgstr "支払い方法："
 msgid "Proceed to Payment"
 msgstr "支払いに進む"
 
-#, fuzzy
 msgid "Contact Us"
-msgstr "連絡先"
+msgstr ""
 
 msgid "Have a question or suggestion? Get in touch with the UwUpad team."
 msgstr ""
@@ -604,29 +555,25 @@ msgstr ""
 msgid "Back to Home"
 msgstr "ホームに戻る"
 
-#, fuzzy
 msgid "Get in Touch"
-msgstr "コメントするにはログインする必要があります。"
+msgstr ""
 
 msgid ""
 "We are always open for communication. Choose a convenient way to contact us "
 "or leave a message through the form below."
 msgstr ""
 
-#, fuzzy
 msgid "Direct Contacts"
-msgstr "連絡先"
+msgstr ""
 
-#, fuzzy
 msgid "Telegram (Owner)"
-msgstr "Telegramボット"
+msgstr ""
 
 msgid "@daisov - for urgent matters"
 msgstr ""
 
-#, fuzzy
 msgid "Discord Server"
-msgstr "Discord"
+msgstr ""
 
 msgid "Join our community"
 msgstr ""
@@ -637,27 +584,23 @@ msgstr "メールアドレス"
 msgid "admin@uwupad.me - for suggestions"
 msgstr ""
 
-#, fuzzy
 msgid "Telegram Bot"
-msgstr "Telegramボット"
+msgstr ""
 
 msgid "@uwupad_bot - for support"
 msgstr ""
 
-#, fuzzy
 msgid "An error occurred. Please try again later."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
 msgid "Feedback Form"
 msgstr ""
 
-#, fuzzy
 msgid "Your Name"
-msgstr "ユーザー名"
+msgstr ""
 
-#, fuzzy
 msgid "Your Email (for a reply)"
-msgstr "あなたのメールアドレス"
+msgstr ""
 
 msgid "Your Message..."
 msgstr ""
@@ -668,13 +611,11 @@ msgstr ""
 msgid "Support UwUpad"
 msgstr ""
 
-#, fuzzy
 msgid "Back"
-msgstr "ブラックリスト"
+msgstr ""
 
-#, fuzzy
 msgid "Top Supporters 💖"
-msgstr "サポートに連絡"
+msgstr ""
 
 msgid "Support Our Project"
 msgstr ""
@@ -695,9 +636,8 @@ msgstr ""
 msgid "Server costs"
 msgstr ""
 
-#, fuzzy
 msgid "Big support 💖"
-msgstr "サポートに連絡"
+msgstr ""
 
 msgid "Or enter custom amount"
 msgstr ""
@@ -711,9 +651,8 @@ msgstr ""
 msgid "PAW tokens are added automatically as a thank you."
 msgstr ""
 
-#, fuzzy
 msgid "Other ways to support"
-msgstr "サポートに連絡"
+msgstr ""
 
 msgid "Card, SBP, and more — via donation platform"
 msgstr ""
@@ -727,24 +666,20 @@ msgstr ""
 msgid "Direct Crypto Transfer"
 msgstr ""
 
-#, fuzzy
 msgid "and more"
-msgstr "もっと読み込む"
+msgstr ""
 
 msgid "Choose Cryptocurrency"
 msgstr ""
 
-#, fuzzy
 msgid "Back to list"
-msgstr "ブラックリスト"
+msgstr ""
 
-#, fuzzy
 msgid "Please enter a valid amount."
-msgstr "有効な理由を入力してください。"
+msgstr ""
 
-#, fuzzy
 msgid "Failed to create payment link."
-msgstr "コメントの削除に失敗しました。"
+msgstr ""
 
 msgid "DMCA Takedown Policy"
 msgstr ""
@@ -772,9 +707,8 @@ msgstr ""
 msgid "Please enter an amount between 1 and 2500 Stars."
 msgstr ""
 
-#, fuzzy
 msgid "Recommendations"
-msgstr "コメント"
+msgstr ""
 
 msgid "All Time"
 msgstr ""
@@ -788,9 +722,8 @@ msgstr ""
 msgid "Today"
 msgstr ""
 
-#, fuzzy
 msgid "Failed to load sounds."
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
 msgid "Popular"
 msgstr "人気"
@@ -801,9 +734,8 @@ msgstr ""
 msgid "Next page"
 msgstr "次のページ"
 
-#, fuzzy
 msgid "Top Sound Creators"
-msgstr "サウンドが報告されました。"
+msgstr ""
 
 msgid ""
 "Check out the leaderboard of the most popular and active sound creators on "
@@ -816,40 +748,32 @@ msgstr "ランキング"
 msgid "Influence"
 msgstr ""
 
-#, fuzzy
 msgid "Uploads"
-msgstr "アップロード"
+msgstr ""
 
-#, fuzzy
 msgid "Downloads"
-msgstr "ダウンロード数"
+msgstr ""
 
 msgid "Comments"
 msgstr "コメント"
 
-#, fuzzy
 msgid "Comment Likes"
-msgstr "コメント"
+msgstr ""
 
-#, fuzzy
 msgid "Donations"
-msgstr "長さ"
+msgstr ""
 
-#, fuzzy
 msgid "Prev."
-msgstr "前のページ"
+msgstr ""
 
-#, fuzzy
 msgid "Next"
-msgstr "次のページ"
+msgstr ""
 
-#, fuzzy
 msgid "Updating leaderboard..."
-msgstr "ランキング"
+msgstr ""
 
-#, fuzzy
 msgid "Next update in:"
-msgstr "次のページ"
+msgstr ""
 
 msgid "Updated in real-time"
 msgstr ""
@@ -857,34 +781,29 @@ msgstr ""
 msgid "No users found for this period."
 msgstr ""
 
-#, fuzzy
 msgid "Error loading data:"
-msgstr "コメントの読み込み中にエラーが発生しました。"
+msgstr ""
 
 msgid "Login to UwUpad"
 msgstr ""
 
-#, fuzzy
 msgid "Back to UwUpad"
-msgstr "メインページに戻る"
+msgstr ""
 
 msgid "Welcome Back"
 msgstr ""
 
-#, fuzzy
 msgid "Email or Username"
-msgstr "メールアドレス/ユーザー名"
+msgstr ""
 
-#, fuzzy
 msgid "Log In"
-msgstr "ログイン"
+msgstr ""
 
 msgid "OR"
 msgstr ""
 
-#, fuzzy
 msgid "Continue with Discord"
-msgstr "Discordに参加"
+msgstr ""
 
 msgid "Don't have an account?"
 msgstr "アカウントをお持ちではありませんか？"
@@ -892,17 +811,14 @@ msgstr "アカウントをお持ちではありませんか？"
 msgid "Forgot password?"
 msgstr "パスワードをお忘れですか？"
 
-#, fuzzy
 msgid "An error occurred."
-msgstr "エラーが発生しました"
+msgstr ""
 
-#, fuzzy
 msgid "Successfully logged in!"
-msgstr "ログインに成功しました"
+msgstr ""
 
-#, fuzzy
 msgid "A network error occurred."
-msgstr "エラーが発生しました"
+msgstr ""
 
 msgid "News & Updates"
 msgstr ""
@@ -918,40 +834,32 @@ msgid ""
 "system alerts."
 msgstr ""
 
-#, fuzzy
 msgid "Filter by Type"
-msgstr "サウンドタイプ"
+msgstr ""
 
-#, fuzzy
 msgid "All Types"
-msgstr "フィルターを適用"
+msgstr ""
 
-#, fuzzy
 msgid "Likes on Sounds"
-msgstr "プレイリストが見つかりません"
+msgstr ""
 
-#, fuzzy
 msgid "Likes on Comments"
-msgstr "コメントを読み込み中..."
+msgstr ""
 
-#, fuzzy
 msgid "New Comments & Replies"
-msgstr "まだコメントはありません。"
+msgstr ""
 
-#, fuzzy
 msgid "Mentions in Comments"
-msgstr "コメントを読み込み中..."
+msgstr ""
 
 msgid "Processing Errors"
 msgstr ""
 
-#, fuzzy
 msgid "Admin Actions"
-msgstr "長さ"
+msgstr ""
 
-#, fuzzy
 msgid "Filter by Status"
-msgstr "フィルター"
+msgstr ""
 
 msgid "All"
 msgstr ""
@@ -959,13 +867,11 @@ msgstr ""
 msgid "Unread"
 msgstr ""
 
-#, fuzzy
 msgid "Read"
-msgstr "および"
+msgstr ""
 
-#, fuzzy
 msgid "No notifications found"
-msgstr "サウンドが見つかりません"
+msgstr ""
 
 msgid "Try adjusting your filters or check back later."
 msgstr ""
@@ -973,9 +879,8 @@ msgstr ""
 msgid "Something went wrong"
 msgstr ""
 
-#, fuzzy
 msgid "We couldn't load your notifications. Please try again."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
 msgid "Playlist not found"
 msgstr "プレイリストが見つかりません"
@@ -996,9 +901,8 @@ msgid ""
 "%(author)s."
 msgstr ""
 
-#, fuzzy
 msgid "Edit Playlist"
-msgstr "プレイリストを選択"
+msgstr ""
 
 msgid "Title"
 msgstr "タイトル"
@@ -1006,21 +910,17 @@ msgstr "タイトル"
 msgid "Preview Image"
 msgstr "プレビュー画像"
 
-#, fuzzy
 msgid "Choose a file…"
-msgstr "ファイルを選択"
+msgstr ""
 
-#, fuzzy
 msgid "No file selected"
-msgstr "コメントが削除されました。"
+msgstr ""
 
-#, fuzzy
 msgid "Recommended 16:9. GIF only for VIP users."
-msgstr "GIFはVIPユーザーのみ"
+msgstr ""
 
-#, fuzzy
 msgid "Public Playlist"
-msgstr "プレイリストを選択"
+msgstr ""
 
 msgid "Save Changes"
 msgstr ""
@@ -1031,9 +931,8 @@ msgstr "プレイリスト"
 msgid "Edit"
 msgstr "編集"
 
-#, fuzzy
 msgid "Download Playlists"
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
 msgid ""
 "Downloading entire playlists as a .zip archive is a VIP feature. Upgrade now"
@@ -1052,9 +951,8 @@ msgstr "プレイリスト"
 msgid "Search playlists"
 msgstr "プレイリストを検索"
 
-#, fuzzy
 msgid "Sounds Inside"
-msgstr "サウンド数"
+msgstr ""
 
 msgid "Mini (<5)"
 msgstr "ミニ (<5)"
@@ -1068,73 +966,59 @@ msgstr "中 (15-30)"
 msgid "Large (30-60)"
 msgstr "大 (30-60)"
 
-#, fuzzy
 msgid "Very Large (>60)"
-msgstr "特大 (>60)"
+msgstr ""
 
 msgid "Unpopular (<10 views)"
 msgstr "人気がない (<10表示)"
 
-#, fuzzy
 msgid "Not Popular (10-50 views)"
-msgstr "あまり人気がない (10-50表示)"
+msgstr ""
 
 msgid "Popular (50-100 views)"
 msgstr "人気 (50-100表示)"
 
-#, fuzzy
 msgid "Very Popular (100-500 views)"
-msgstr "あまり人気がない (10-50表示)"
+msgstr ""
 
-#, fuzzy
 msgid "Extremely Popular (>500 views)"
-msgstr "極めてたくさんのいいね (>500いいね)"
+msgstr ""
 
 msgid "Sort by"
 msgstr ""
 
-#, fuzzy
 msgid "Sort: Newest"
-msgstr "最新"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Most Viewed"
-msgstr "最多表示"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Most Sounds"
-msgstr "総サウンド数"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Oldest"
-msgstr "最新"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Name (A-Z)"
-msgstr "ユーザー名"
+msgstr ""
 
-#, fuzzy
 msgid "Sort: Name (Z-A)"
-msgstr "ユーザー名"
+msgstr ""
 
-#, fuzzy
 msgid "Download Playlist"
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
-#, fuzzy
 msgid "No playlists found."
-msgstr "プレイリストが見つかりません。"
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load playlists."
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
 msgid "Poll Results"
 msgstr ""
 
-#, fuzzy
 msgid "votes"
-msgstr "役割"
+msgstr ""
 
 msgid "Total Votes:"
 msgstr ""
@@ -1153,13 +1037,11 @@ msgstr ""
 msgid "Check out the sounds and playlists uploaded by %(username)s on UwUpad."
 msgstr ""
 
-#, fuzzy
 msgid "Linked as"
-msgstr "いいねした"
+msgstr ""
 
-#, fuzzy
 msgid "Link your Discord account"
-msgstr "すでにアカウントをお持ちですか？"
+msgstr ""
 
 msgid "Edit profile"
 msgstr "プロフィールを編集"
@@ -1170,28 +1052,23 @@ msgstr "ログアウト"
 msgid "Edit role"
 msgstr "役割を編集"
 
-#, fuzzy
 msgid "Admin Edit"
-msgstr "長さ"
+msgstr ""
 
 msgid "Add to blacklist"
 msgstr "ブラックリストに追加"
 
-#, fuzzy
 msgid "Total Views"
-msgstr "総サウンド数"
+msgstr ""
 
-#, fuzzy
 msgid "Total Uploads"
-msgstr "総サウンド数"
+msgstr ""
 
-#, fuzzy
 msgid "Total Likes"
-msgstr "最多いいね"
+msgstr ""
 
-#, fuzzy
 msgid "Comments Made"
-msgstr "コメント"
+msgstr ""
 
 msgid "Uploaded"
 msgstr "アップロード済み"
@@ -1202,9 +1079,8 @@ msgstr "いいねした"
 msgid "Blacklist"
 msgstr "ブラックリスト"
 
-#, fuzzy
 msgid "Edit Your Profile"
-msgstr "プロフィールを編集"
+msgstr ""
 
 msgid "Username"
 msgstr "ユーザー名"
@@ -1230,9 +1106,8 @@ msgstr ""
 msgid "Upgrade to VIP!"
 msgstr ""
 
-#, fuzzy
 msgid "Save Profile Info"
-msgstr "プロフィールを表示"
+msgstr ""
 
 msgid "Nickname Style"
 msgstr ""
@@ -1249,18 +1124,16 @@ msgstr ""
 msgid "Add Color"
 msgstr ""
 
-#, fuzzy
 msgid "Angle"
-msgstr "言語"
+msgstr ""
 
 msgid ""
 "Forbidden red/black colors similar to staff, or unsafe code (e.g. url()) "
 "will be rejected."
 msgstr ""
 
-#, fuzzy
 msgid "Apply Style"
-msgstr "フィルターを適用"
+msgstr ""
 
 msgid "Each style change costs 100 PAW. VIP users get unlimited changes."
 msgstr ""
@@ -1271,13 +1144,11 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#, fuzzy
 msgid "Edit Role for"
-msgstr "役割を編集"
+msgstr ""
 
-#, fuzzy
 msgid "Role"
-msgstr "役割"
+msgstr ""
 
 msgid "Role expires on (optional)"
 msgstr ""
@@ -1294,9 +1165,8 @@ msgstr ""
 msgid "Balance (PAW)"
 msgstr ""
 
-#, fuzzy
 msgid "Account Status"
-msgstr "連絡先"
+msgstr ""
 
 msgid "Is Active (user can log in)"
 msgstr ""
@@ -1338,9 +1208,8 @@ msgstr ""
 msgid "Top Up Balance"
 msgstr ""
 
-#, fuzzy
 msgid "Go to Deposit"
-msgstr "報告する"
+msgstr ""
 
 msgid "Add PAW to your account."
 msgstr ""
@@ -1360,51 +1229,41 @@ msgstr ""
 msgid "This user has not posted any comments yet."
 msgstr ""
 
-#, fuzzy
 msgid "Failed to load comments."
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
-#, fuzzy
 msgid "Remove from blacklist"
-msgstr "ユーザーがブラックリストから削除されました。"
+msgstr ""
 
-#, fuzzy
 msgid "Are you sure you want to assign admin role? This grants full access."
-msgstr "このユーザーをブロックしてもよろしいですか？"
+msgstr ""
 
-#, fuzzy
 msgid "Are you sure you want to unlink your Discord account?"
-msgstr "このユーザーをブロックしてもよろしいですか？"
+msgstr ""
 
-#, fuzzy
 msgid "Could not load user data."
-msgstr "サウンドはプレイリストにありません。"
+msgstr ""
 
-#, fuzzy
 msgid "User updated successfully. Page will reload."
-msgstr "ユーザー名が正常に更新されました。"
+msgstr ""
 
-#, fuzzy
 msgid "An unknown error occurred."
-msgstr "エラーが発生しました"
+msgstr ""
 
 msgid "Register on UwUpad"
 msgstr ""
 
-#, fuzzy
 msgid "Create Account"
-msgstr "すでにアカウントをお持ちですか？"
+msgstr ""
 
 msgid "Already have an account?"
 msgstr "すでにアカウントをお持ちですか？"
 
-#, fuzzy
 msgid "Account created!"
-msgstr "連絡先"
+msgstr ""
 
-#, fuzzy
 msgid "Reset Your Password"
-msgstr "パスワードをリセット"
+msgstr ""
 
 msgid ""
 "Forgot your password? Enter your email to receive instructions on how to "
@@ -1429,9 +1288,9 @@ msgstr "サウンドが見つかりません"
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "このIDのサウンドが見つかりません。入力データを確認してください。"
 
-#, fuzzy, python-format
+#, python-format
 msgid "Download \"%(sound_name)s\" Sound"
-msgstr "Soundpadをダウンロード"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -1442,17 +1301,14 @@ msgstr ""
 msgid "Add to Soundpad"
 msgstr "Soundpadに追加"
 
-#, fuzzy
 msgid "Download"
-msgstr "ダウンロード数"
+msgstr ""
 
-#, fuzzy
 msgid "Like"
-msgstr "いいね"
+msgstr ""
 
-#, fuzzy
 msgid "Share"
-msgstr "保存"
+msgstr ""
 
 msgid "LOUD"
 msgstr "大音量"
@@ -1460,23 +1316,20 @@ msgstr "大音量"
 msgid "EXPLICIT"
 msgstr "露骨な表現"
 
-#, fuzzy
 msgid "Edit sound"
-msgstr "サウンド"
+msgstr ""
 
 msgid "Add a comment..."
 msgstr "コメントを追加..."
 
-#, fuzzy
 msgid "Remove image"
-msgstr "プレビュー画像"
+msgstr ""
 
 msgid "Attach image"
 msgstr ""
 
-#, fuzzy
 msgid "Post"
-msgstr "報告する"
+msgstr ""
 
 msgid "You must be"
 msgstr "コメントするには"
@@ -1490,13 +1343,11 @@ msgstr "する必要があります。"
 msgid "Close (Esc)"
 msgstr ""
 
-#, fuzzy
 msgid "Zoom In"
-msgstr "ログイン"
+msgstr ""
 
-#, fuzzy
 msgid "Zoom Out"
-msgstr "ログアウト"
+msgstr ""
 
 msgid "Rotate Left"
 msgstr ""
@@ -1507,13 +1358,11 @@ msgstr ""
 msgid "Lightbox Image"
 msgstr ""
 
-#, fuzzy
 msgid "You must be logged in to like sounds."
-msgstr "コメントするにはログインする必要があります。"
+msgstr ""
 
-#, fuzzy
 msgid "Failed to update like. Please try again."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
 msgid "The best sound sharing service for Soundpad"
 msgstr "Soundpadのための最高のサウンド共有サービス"
@@ -1524,13 +1373,11 @@ msgstr "サウンド"
 msgid "Listen"
 msgstr "聞く"
 
-#, fuzzy
 msgid "Edit Sound"
-msgstr "サウンド"
+msgstr ""
 
-#, fuzzy
 msgid "Description"
-msgstr "長さ"
+msgstr ""
 
 msgid "Add a brief description..."
 msgstr ""
@@ -1541,9 +1388,8 @@ msgstr ""
 msgid "Cover Image (Optional)"
 msgstr ""
 
-#, fuzzy
 msgid "Language (Admin)"
-msgstr "言語設定"
+msgstr ""
 
 msgid "Mark as Music (Admin)"
 msgstr ""
@@ -1551,20 +1397,17 @@ msgstr ""
 msgid "This will make the sound appear in the /music section."
 msgstr ""
 
-#, fuzzy
 msgid "Sound updated successfully!"
-msgstr "コメントが正常に投稿されました！"
+msgstr ""
 
-#, fuzzy
 msgid "Write a reply..."
-msgstr "新しいプレイリストを作成"
+msgstr ""
 
 msgid "Reply"
 msgstr ""
 
-#, fuzzy
 msgid "Loading..."
-msgstr "コメントを読み込み中..."
+msgstr ""
 
 #, python-format
 msgid "View %(count)s more replies"
@@ -1573,9 +1416,8 @@ msgstr ""
 msgid "Hide"
 msgstr ""
 
-#, fuzzy
 msgid "Error loading replies."
-msgstr "コメントの読み込み中にエラーが発生しました。"
+msgstr ""
 
 msgid "Comment attachment"
 msgstr ""
@@ -1587,9 +1429,8 @@ msgstr ""
 msgid "No comments yet."
 msgstr "まだコメントはありません。"
 
-#, fuzzy
 msgid "Comment or attachment cannot be empty."
-msgstr "プレイリスト名は空にできません。"
+msgstr ""
 
 msgid "Failed to post comment."
 msgstr "コメントの投稿に失敗しました。"
@@ -1601,9 +1442,8 @@ msgstr ""
 msgid "Hide %(count)s replies"
 msgstr ""
 
-#, fuzzy
 msgid "You must be logged in to like comments."
-msgstr "コメントするにはログインする必要があります。"
+msgstr ""
 
 msgid "Comment deleted."
 msgstr "コメントが削除されました。"
@@ -1621,9 +1461,8 @@ msgid ""
 "UwUpad."
 msgstr ""
 
-#, fuzzy
 msgid "Terms of Service"
-msgstr "利用規約"
+msgstr ""
 
 msgid "Read the Terms of Service for using the UwUpad platform."
 msgstr ""
@@ -1647,20 +1486,17 @@ msgid ""
 "Loading audio... Click and drag on the waveform to select a region to keep."
 msgstr ""
 
-#, fuzzy
 msgid "Loading waveform..."
-msgstr "コメントを読み込み中..."
+msgstr ""
 
-#, fuzzy
 msgid "Preview Selected"
-msgstr "プレビュー画像"
+msgstr ""
 
 msgid "Use Trimmed Audio"
 msgstr ""
 
-#, fuzzy
 msgid "Upload a Sound"
-msgstr "サウンドをアップロード"
+msgstr ""
 
 msgid "Creator Challenge: Free VIP"
 msgstr ""
@@ -1668,13 +1504,11 @@ msgstr ""
 msgid "Upload sounds that get into recommendations to unlock 1 week of VIP!"
 msgstr ""
 
-#, fuzzy
 msgid "Progress:"
-msgstr "役割"
+msgstr ""
 
-#, fuzzy
 msgid "sounds"
-msgstr "サウンド"
+msgstr ""
 
 msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
 msgstr ""
@@ -1706,9 +1540,8 @@ msgstr ""
 msgid "Add a brief description for your sound..."
 msgstr ""
 
-#, fuzzy
 msgid "Sound Language"
-msgstr "言語"
+msgstr ""
 
 msgid "Music / SFX (No language)"
 msgstr ""
@@ -1728,16 +1561,14 @@ msgstr "ファイルを選択"
 msgid "Import from URL"
 msgstr "URLからインポート"
 
-#, fuzzy
 msgid "Supports only audio files"
-msgstr "オーディオファイルのみ対応"
+msgstr ""
 
 msgid "Supported formats: mp3, wav, ogg"
 msgstr "対応フォーマット: mp3, wav, ogg"
 
-#, fuzzy
 msgid "Max file size:"
-msgstr "最大ファイルサイズ: 5MB"
+msgstr ""
 
 msgid "I agree to the"
 msgstr ""
@@ -1756,13 +1587,11 @@ msgid ""
 "meets our community guidelines."
 msgstr ""
 
-#, fuzzy
 msgid "Custom Cover"
-msgstr "サウンドが報告されました。"
+msgstr ""
 
-#, fuzzy
 msgid "Choose a cover image"
-msgstr "ファイルを選択"
+msgstr ""
 
 msgid "Add a background to your sound card (max 2MB)."
 msgstr ""
@@ -1776,17 +1605,15 @@ msgstr ""
 msgid "Trim your audio before uploading (VIP exclusive)."
 msgstr ""
 
-#, fuzzy
 msgid "Sound Utilities"
-msgstr "サウンドのいいねを取り消しました。"
+msgstr ""
 
 msgid ""
 "Need to trim your audio? Our built-in Sound Trimmer is a VIP exclusive tool."
 msgstr ""
 
-#, fuzzy
 msgid "Remove tag:"
-msgstr "広告を削除"
+msgstr ""
 
 msgid "Maximum"
 msgstr ""
@@ -1794,61 +1621,50 @@ msgstr ""
 msgid "tags allowed."
 msgstr ""
 
-#, fuzzy
 msgid "File too big (Max:"
-msgstr "ファイルが大きすぎます"
+msgstr ""
 
-#, fuzzy
 msgid "Already uploading..."
-msgstr "すでにアップロード中です"
+msgstr ""
 
-#, fuzzy
 msgid "Please agree to the terms and policy."
-msgstr "利用規約とプライバシーポリシーに同意する必要があります。"
+msgstr ""
 
-#, fuzzy
 msgid "Please add at least one tag."
-msgstr "有効な理由を入力してください。"
+msgstr ""
 
-#, fuzzy
 msgid "Trimmed file is too large."
-msgstr "ファイルが大きすぎます"
+msgstr ""
 
 msgid "No file selected or imported for upload."
 msgstr ""
 
-#, fuzzy
 msgid "An error occurred ("
-msgstr "エラーが発生しました"
+msgstr ""
 
 msgid ")."
 msgstr ""
 
-#, fuzzy
 msgid "Sound uploaded successfully!"
-msgstr "コメントが正常に投稿されました！"
+msgstr ""
 
 msgid "Network error or server issue:"
 msgstr ""
 
-#, fuzzy
 msgid "Please enter a URL."
-msgstr "有効なメールアドレスを入力してください。"
+msgstr ""
 
-#, fuzzy
 msgid "Import error ("
-msgstr "URLからインポート"
+msgstr ""
 
 msgid "URL ready for import:"
 msgstr ""
 
-#, fuzzy
 msgid "Importing:"
-msgstr "インポート"
+msgstr ""
 
-#, fuzzy
 msgid "Import failed:"
-msgstr "最多サウンド数"
+msgstr ""
 
 msgid "Web Audio API not supported. Cannot use audio utilities."
 msgstr ""
@@ -1856,13 +1672,11 @@ msgstr ""
 msgid "Please select an audio file first before using utilities."
 msgstr ""
 
-#, fuzzy
 msgid "Error loading waveform:"
-msgstr "コメントの読み込み中にエラーが発生しました。"
+msgstr ""
 
-#, fuzzy
 msgid "Selected:"
-msgstr "削除済み"
+msgstr ""
 
 msgid "Selected region is too short or invalid."
 msgstr ""
@@ -1876,9 +1690,8 @@ msgstr ""
 msgid "Error trimming audio:"
 msgstr ""
 
-#, fuzzy
 msgid "Trim operation cancelled."
-msgstr "支払いがキャンセルされました"
+msgstr ""
 
 msgid "Cover image is too large (max 2MB)."
 msgstr ""
@@ -1886,13 +1699,11 @@ msgstr ""
 msgid "This is a VIP-exclusive feature."
 msgstr ""
 
-#, fuzzy
 msgid "sounds recommended"
-msgstr "サウンドが報告されました。"
+msgstr ""
 
-#, fuzzy
 msgid "Challenge Completed!"
-msgstr "URLからインポート"
+msgstr ""
 
 msgid "You have unlocked VIP status! Check your profile."
 msgstr ""
@@ -1903,17 +1714,14 @@ msgstr "ユーザーが見つかりません"
 msgid "User with this ID not found. Please check the entered data."
 msgstr "このIDのユーザーが見つかりません。入力データを確認してください。"
 
-#, fuzzy
 msgid "Users"
-msgstr "ユーザー名"
+msgstr ""
 
-#, fuzzy
 msgid "Search users..."
-msgstr "クエリで検索 "
+msgstr ""
 
-#, fuzzy
 msgid "Roles"
-msgstr "役割"
+msgstr ""
 
 msgid "Admin"
 msgstr ""
@@ -1924,17 +1732,14 @@ msgstr ""
 msgid "VIP"
 msgstr ""
 
-#, fuzzy
 msgid "User"
-msgstr "ユーザー名"
+msgstr ""
 
-#, fuzzy
 msgid "Banned"
-msgstr "および"
+msgstr ""
 
-#, fuzzy
 msgid "Clear Roles"
-msgstr "役割を与える"
+msgstr ""
 
 msgid "Sort users by"
 msgstr ""
@@ -1945,20 +1750,17 @@ msgstr ""
 msgid "Joined: Oldest First"
 msgstr ""
 
-#, fuzzy
 msgid "Username: A-Z"
-msgstr "ユーザー名"
+msgstr ""
 
-#, fuzzy
 msgid "Username: Z-A"
-msgstr "ユーザー名"
+msgstr ""
 
 msgid "#ID"
 msgstr ""
 
-#, fuzzy
 msgid "Error loading users. Please try again."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
 msgid "Unban User"
 msgstr ""
@@ -1972,31 +1774,26 @@ msgstr ""
 msgid "View Profile"
 msgstr "プロフィールを表示"
 
-#, fuzzy
 msgid "Edit User"
-msgstr "タグを編集"
+msgstr ""
 
 msgid "No users found matching your criteria."
 msgstr ""
 
-#, fuzzy
 msgid "User banned successfully."
-msgstr "ユーザー名が正常に更新されました。"
+msgstr ""
 
-#, fuzzy
 msgid "User unbanned successfully."
-msgstr "ユーザー名が正常に更新されました。"
+msgstr ""
 
 msgid "UwUpad VIP"
 msgstr ""
 
-#, fuzzy
 msgid "Back to main"
-msgstr "メインページに戻る"
+msgstr ""
 
-#, fuzzy
 msgid "Welcome, Patron!"
-msgstr "コメント"
+msgstr ""
 
 msgid "Thank you for supporting UwUpad. Enjoy your exclusive features."
 msgstr ""
@@ -2038,89 +1835,71 @@ msgstr ""
 msgid "Save 20% - 2 months free!"
 msgstr ""
 
-#, fuzzy
 msgid "Choose Yearly"
-msgstr "ファイルを選択"
+msgstr ""
 
-#, fuzzy
 msgid "Feature"
-msgstr "すでにアカウントをお持ちですか？"
+msgstr ""
 
-#, fuzzy
 msgid "Standard"
-msgstr "プロフィールを編集"
+msgstr ""
 
-#, fuzzy
 msgid "VIP Patron"
-msgstr "ナビゲーション"
+msgstr ""
 
-#, fuzzy
 msgid "Ad-Free Experience"
-msgstr "対応サービス"
+msgstr ""
 
-#, fuzzy
 msgid "Playlists Creation"
-msgstr "プレイリスト"
+msgstr ""
 
-#, fuzzy
 msgid "Unlimited"
-msgstr "新しいプレイリストを作成"
+msgstr ""
 
-#, fuzzy
 msgid "Sounds per Playlist"
-msgstr "プレイリストを検索"
+msgstr ""
 
-#, fuzzy
 msgid "Private Playlists"
-msgstr "新しいプレイリストを作成"
+msgstr ""
 
-#, fuzzy
 msgid "Bulk Playlist Download (.zip)"
-msgstr "ダウンロード数"
+msgstr ""
 
 msgid "Animated GIF Avatars"
 msgstr ""
 
-#, fuzzy
 msgid "Custom Sound Covers"
-msgstr "サウンドが報告されました。"
+msgstr ""
 
-#, fuzzy
 msgid "File Upload Size"
-msgstr "最多ダウンロード"
+msgstr ""
 
-#, fuzzy
 msgid "Tags per Sound"
-msgstr "総サウンド数"
+msgstr ""
 
 msgid "Nickname Styling"
 msgstr ""
 
-#, fuzzy
 msgid "Paid"
-msgstr "アップロード"
+msgstr ""
 
 msgid "Unlimited & Free"
 msgstr ""
 
-#, fuzzy
 msgid "Sound Boosts"
-msgstr "サウンドはすでにプレイリストにあります。"
+msgstr ""
 
 msgid "1 Free Daily"
 msgstr ""
 
-#, fuzzy
 msgid "VIP Profile Badge"
-msgstr "プロフィールを表示"
+msgstr ""
 
-#, fuzzy
 msgid "Become a Patron"
-msgstr "コメント"
+msgstr ""
 
-#, fuzzy
 msgid "Extend Subscription"
-msgstr "長さ"
+msgstr ""
 
 msgid "Choose your preferred payment method"
 msgstr ""
@@ -2140,20 +1919,17 @@ msgstr ""
 msgid "Banner Preview"
 msgstr ""
 
-#, fuzzy
 msgid "Contact"
-msgstr "連絡先"
+msgstr ""
 
 msgid "Submitted At"
 msgstr ""
 
-#, fuzzy
 msgid "Loading requests..."
-msgstr "コメントを読み込み中..."
+msgstr ""
 
-#, fuzzy
 msgid "Error loading requests."
-msgstr "コメントの読み込み中にエラーが発生しました。"
+msgstr ""
 
 msgid "No pending requests."
 msgstr ""
@@ -2173,13 +1949,11 @@ msgstr "あなたへ"
 msgid "News"
 msgstr "ニュース"
 
-#, fuzzy
 msgid "Report a bug"
-msgstr "サウンドを報告"
+msgstr ""
 
-#, fuzzy
 msgid "Request a sound"
-msgstr "サウンドを報告"
+msgstr ""
 
 msgid "Contacts"
 msgstr "連絡先"
@@ -2199,9 +1973,8 @@ msgstr "Steamグループ"
 msgid "Total sounds"
 msgstr "総サウンド数"
 
-#, fuzzy
 msgid "Notifications"
-msgstr "ナビゲーション"
+msgstr ""
 
 msgid "Mark all as read"
 msgstr ""
@@ -2223,13 +1996,11 @@ msgstr ""
 msgid "Your ideas here..."
 msgstr ""
 
-#, fuzzy
 msgid "Later"
-msgstr "ランキング"
+msgstr ""
 
-#, fuzzy
 msgid "Send"
-msgstr "サウンド"
+msgstr ""
 
 msgid "Sent!"
 msgstr ""
@@ -2237,9 +2008,8 @@ msgstr ""
 msgid "You can remove sounds you don't want from the list below."
 msgstr ""
 
-#, fuzzy
 msgid "Download .zip"
-msgstr "ダウンロード数"
+msgstr ""
 
 msgid "Preparing download for"
 msgstr ""
@@ -2285,9 +2055,8 @@ msgstr "言語設定"
 msgid "Appearance"
 msgstr ""
 
-#, fuzzy
 msgid "Show Sound Covers"
-msgstr "サウンドが報告されました。"
+msgstr ""
 
 msgid "Display custom background images on sound cards."
 msgstr ""
@@ -2301,9 +2070,8 @@ msgstr ""
 msgid "Interface Language"
 msgstr "インターフェース言語"
 
-#, fuzzy
 msgid "Content Languages"
-msgstr "コンテンツ言語フィルター"
+msgstr ""
 
 msgid ""
 "Select languages you want to see. Leave all unchecked to use automatic "
@@ -2346,38 +2114,32 @@ msgstr ""
 msgid "Search"
 msgstr "検索"
 
-#, fuzzy
 msgid "Profile"
-msgstr "プロフィールを表示"
+msgstr ""
 
-#, fuzzy
 msgid "Settings"
-msgstr "言語設定"
+msgstr ""
 
 msgid "Log in"
 msgstr "ログイン"
 
-#, fuzzy
 msgid "Download Top 50 Packs:"
-msgstr "Soundpadをダウンロード"
+msgstr ""
 
-#, fuzzy
 msgid "Daily"
-msgstr "メールアドレス"
+msgstr ""
 
 msgid "Weekly"
 msgstr ""
 
-#, fuzzy
 msgid "Download Top 50 Sounds"
-msgstr "Soundpadをダウンロード"
+msgstr ""
 
 msgid "This pack contains the 50 most popular sounds of the"
 msgstr ""
 
-#, fuzzy
 msgid "ready for Soundpad."
-msgstr "Soundpadに追加"
+msgstr ""
 
 msgid "Best Value / Fast"
 msgstr ""
@@ -2385,39 +2147,32 @@ msgstr ""
 msgid "Support us with a small donation and get 3 Days of VIP instantly."
 msgstr ""
 
-#, fuzzy
 msgid "Say Thanks & Download"
-msgstr "ファイルをダウンロードできませんでした。"
+msgstr ""
 
-#, fuzzy
 msgid "Get Monthly VIP Subscription"
-msgstr "長さ"
+msgstr ""
 
 msgid "Unlocks all packs, playlists and removes ads."
 msgstr ""
 
-#, fuzzy
 msgid "Downloading..."
-msgstr "ダウンロード数"
+msgstr ""
 
-#, fuzzy
 msgid "Complete!"
-msgstr "URLからインポート"
+msgstr ""
 
-#, fuzzy
 msgid "Download failed"
-msgstr "最多ダウンロード"
+msgstr ""
 
-#, fuzzy
 msgid "Access Restricted"
-msgstr "アクセス拒否"
+msgstr ""
 
 msgid "To continue listening, please subscribe to our Telegram channel."
 msgstr ""
 
-#, fuzzy
 msgid "Important:"
-msgstr "インポート"
+msgstr ""
 
 msgid ""
 "Do not unsubscribe! If you leave the channel, you will need to verify again."
@@ -2429,25 +2184,22 @@ msgstr ""
 msgid "Subscribe to unlock"
 msgstr ""
 
-#, fuzzy
 msgid "Verifying subscription..."
-msgstr "長さ"
+msgstr ""
 
 msgid "Continue"
 msgstr ""
 
-#, fuzzy
 msgid "This track is already downloading."
-msgstr "サウンドはすでにプレイリストにあります。"
+msgstr ""
 
 msgid ""
 "Please wait for the previous download to finish. VIPs can download multiple "
 "files at once!"
 msgstr ""
 
-#, fuzzy
 msgid "Adding to Soundpad:"
-msgstr "Soundpadに追加"
+msgstr ""
 
 msgid "DELETED"
 msgstr "削除済み"
@@ -2455,40 +2207,32 @@ msgstr "削除済み"
 msgid "Unlock This Feature"
 msgstr ""
 
-#, fuzzy
 msgid "Log In or Create Account"
-msgstr "すでにアカウントをお持ちですか？"
+msgstr ""
 
-#, fuzzy
 msgid "This sound is boosted!"
-msgstr "サウンドはすでにプレイリストにあります。"
+msgstr ""
 
-#, fuzzy
 msgid "Boost Sound"
-msgstr "総サウンド数"
+msgstr ""
 
-#, fuzzy
 msgid "Views"
-msgstr "プレビュー画像"
+msgstr ""
 
-#, fuzzy
 msgid "Add to playlist"
-msgstr "ブラックリストに追加"
+msgstr ""
 
 msgid "Report"
 msgstr "報告する"
 
-#, fuzzy
 msgid "Original Sound"
-msgstr "総サウンド数"
+msgstr ""
 
-#, fuzzy
 msgid "Go to original sound"
-msgstr "総サウンド数"
+msgstr ""
 
-#, fuzzy
 msgid "Additional Tags"
-msgstr "追加オプション"
+msgstr ""
 
 msgid "This sound is too loud. Are you sure you want to play it back?"
 msgstr "このサウンドは音量が大きすぎます。再生してもよろしいですか？"
@@ -2510,13 +2254,11 @@ msgstr "このサウンドにはデリケートなコンテンツが含まれて
 msgid "Show more"
 msgstr "もっと見る"
 
-#, fuzzy
 msgid "No sounds to add."
-msgstr "サウンドが見つかりません"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Playlist"
-msgstr "ブラックリストに追加"
+msgstr ""
 
 #, python-format
 msgid "Choose a playlist for %(count)s sounds or create a new one."
@@ -2526,80 +2268,64 @@ msgstr ""
 msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
 msgstr ""
 
-#, fuzzy
 msgid "Create New"
-msgstr "すでにアカウントをお持ちですか？"
+msgstr ""
 
-#, fuzzy
 msgid "Add to Existing"
-msgstr "ブラックリストに追加"
+msgstr ""
 
-#, fuzzy
 msgid "New Playlist Name"
-msgstr "プレイリスト名"
+msgstr ""
 
 msgid "My Awesome Mix"
 msgstr ""
 
-#, fuzzy
 msgid "Choose cover…"
-msgstr "ファイルを選択"
+msgstr ""
 
-#, fuzzy
 msgid "Make playlist public"
-msgstr "プレイリストを検索"
+msgstr ""
 
-#, fuzzy
 msgid "Search your playlists..."
-msgstr "プレイリストを検索"
+msgstr ""
 
 msgid "Save"
 msgstr "保存"
 
-#, fuzzy
 msgid "You don't have any playlists yet."
-msgstr "権限がありません。"
+msgstr ""
 
-#, fuzzy
 msgid "Could not load your playlists."
-msgstr "サウンドはプレイリストにありません。"
+msgstr ""
 
-#, fuzzy
 msgid "Searching..."
-msgstr "クエリで検索 "
+msgstr ""
 
-#, fuzzy
 msgid "Search failed."
-msgstr "クエリで検索 "
+msgstr ""
 
-#, fuzzy
 msgid "Please select a playlist."
-msgstr "プレイリストを選択"
+msgstr ""
 
-#, fuzzy
 msgid "Please enter a name for the new playlist."
-msgstr "新しいプレイリストを作成"
+msgstr ""
 
-#, fuzzy
 msgid "Image uploaded."
-msgstr "アップロード済み"
+msgstr ""
 
-#, fuzzy
 msgid "Image upload failed."
-msgstr "最多ダウンロード"
+msgstr ""
 
-#, fuzzy
 msgid "Playlist Limit Reached"
-msgstr "プレイリストが削除されました。"
+msgstr ""
 
 msgid ""
 "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited "
 "playlists!"
 msgstr ""
 
-#, fuzzy
 msgid "Playlist is Full"
-msgstr "プレイリスト"
+msgstr ""
 
 msgid ""
 "Standard users can add up to 20 sounds per playlist. Get VIP to create "
@@ -2612,9 +2338,8 @@ msgstr ""
 msgid "Keep your collections to yourself by upgrading to VIP."
 msgstr ""
 
-#, fuzzy
 msgid "An unexpected error occurred."
-msgstr "エラーが発生しました"
+msgstr ""
 
 msgid "Hey, check out this playlist on Uwupad!"
 msgstr ""
@@ -2622,9 +2347,8 @@ msgstr ""
 msgid "No sounds found"
 msgstr "サウンドが見つかりません"
 
-#, fuzzy
 msgid "Sound is already in the queue"
-msgstr "サウンドはすでにプレイリストにあります。"
+msgstr ""
 
 msgid "added to queue"
 msgstr ""
@@ -2708,9 +2432,8 @@ msgstr ""
 msgid "Select your browser, extension, or antivirus from the list below"
 msgstr ""
 
-#, fuzzy
 msgid "Google Chrome"
-msgstr "ホームに戻る"
+msgstr ""
 
 msgid ""
 "Click the extension icon (puzzle piece) in the top right corner of the "
@@ -2726,9 +2449,8 @@ msgstr ""
 msgid "Click on the extension and press"
 msgstr ""
 
-#, fuzzy
 msgid "Disable on this site"
-msgstr "フィルターを適用"
+msgstr ""
 
 msgid "or the big power button."
 msgstr ""
@@ -2757,9 +2479,8 @@ msgstr ""
 msgid "Enhanced Tracking Protection"
 msgstr ""
 
-#, fuzzy
 msgid "to position"
-msgstr "報告する"
+msgstr ""
 
 msgid "OFF"
 msgstr ""
@@ -2817,9 +2538,8 @@ msgstr ""
 msgid "If there is no extension, open the main Kaspersky app"
 msgstr ""
 
-#, fuzzy
 msgid "Security settings"
-msgstr "言語設定"
+msgstr ""
 
 msgid "Disable"
 msgstr ""
@@ -2833,24 +2553,20 @@ msgstr ""
 msgid "Log in to your account at windscribe.com."
 msgstr ""
 
-#, fuzzy
 msgid "Go to the tab"
-msgstr "報告する"
+msgstr ""
 
-#, fuzzy
 msgid "Select"
-msgstr "削除済み"
+msgstr ""
 
-#, fuzzy
 msgid "Custom Rules"
-msgstr "サウンドが報告されました。"
+msgstr ""
 
 msgid "Enter our site domain and select the option"
 msgstr ""
 
-#, fuzzy
 msgid "Whitelist"
-msgstr "フィルターを適用"
+msgstr ""
 
 msgid ""
 "Since R.O.B.E.R.T. works at the DNS level, changes may take a few minutes to"
@@ -2877,9 +2593,8 @@ msgstr ""
 msgid "Wait for the page to automatically refresh."
 msgstr ""
 
-#, fuzzy
 msgid "Brave Browser"
-msgstr "役割"
+msgstr ""
 
 msgid "Click the lion icon (Brave Shields) to the right of the address bar."
 msgstr ""
@@ -2892,24 +2607,20 @@ msgid ""
 " site is the most reliable method."
 msgstr ""
 
-#, fuzzy
 msgid "Yandex Browser"
-msgstr "役割"
+msgstr ""
 
 msgid "Click the lock icon 🔒 or shield in the left part of the SmartBox."
 msgstr ""
 
-#, fuzzy
 msgid "Click"
-msgstr "リンク"
+msgstr ""
 
-#, fuzzy
 msgid "More details"
-msgstr "メールアドレス"
+msgstr ""
 
-#, fuzzy
 msgid "if required"
-msgstr "メールアドレスは必須です。"
+msgstr ""
 
 msgid "Block ads on this site"
 msgstr ""
@@ -2926,9 +2637,8 @@ msgstr ""
 msgid "If that doesn't help: Menu"
 msgstr ""
 
-#, fuzzy
 msgid "Extensions"
-msgstr "翻訳"
+msgstr ""
 
 msgid "Disable third-party blockers."
 msgstr ""
@@ -2942,13 +2652,11 @@ msgstr ""
 msgid "Menu"
 msgstr ""
 
-#, fuzzy
 msgid "Section"
-msgstr "長さ"
+msgstr ""
 
-#, fuzzy
 msgid "Protection"
-msgstr "ナビゲーション"
+msgstr ""
 
 msgid "Web Shield"
 msgstr ""
@@ -2956,9 +2664,8 @@ msgstr ""
 msgid "Find the tab"
 msgstr ""
 
-#, fuzzy
 msgid "Exceptions"
-msgstr "長さ"
+msgstr ""
 
 msgid "and add our website address."
 msgstr ""
@@ -2974,20 +2681,17 @@ msgid ""
 "another browser or contact"
 msgstr ""
 
-#, fuzzy
 msgid "support"
-msgstr "サポートに連絡"
+msgstr ""
 
 msgid "Return to site"
 msgstr ""
 
-#, fuzzy
 msgid "Very popular (100-500 downloads)"
-msgstr "あまり人気がない (10-50ダウンロード)"
+msgstr ""
 
-#, fuzzy
 msgid "Extremely popular (>500 downloads)"
-msgstr "人気 (50-100ダウンロード)"
+msgstr ""
 
 msgid "Language"
 msgstr "言語"
@@ -3003,9 +2707,8 @@ msgstr ""
 msgid "Listen to and discover new music on UwUpad."
 msgstr ""
 
-#, fuzzy
 msgid "Browse"
-msgstr "役割"
+msgstr ""
 
 msgid "My Library"
 msgstr ""
@@ -3016,88 +2719,71 @@ msgstr ""
 msgid "Sounds / Memes"
 msgstr ""
 
-#, fuzzy
 msgid "Sorting"
-msgstr "インポート"
+msgstr ""
 
 msgid "Hot"
 msgstr ""
 
-#, fuzzy
 msgid "Period"
-msgstr "続行"
+msgstr ""
 
-#, fuzzy
 msgid "All time"
-msgstr "フィルターを適用"
+msgstr ""
 
-#, fuzzy
 msgid "Year"
-msgstr "検索"
+msgstr ""
 
-#, fuzzy
 msgid "Month"
-msgstr "その他"
+msgstr ""
 
 msgid "Week"
 msgstr ""
 
-#, fuzzy
 msgid "Day"
-msgstr "メールアドレス"
+msgstr ""
 
-#, fuzzy
 msgid "Now"
-msgstr "いいえ"
+msgstr ""
 
-#, fuzzy
 msgid "Search by title..."
-msgstr "クエリで検索 "
+msgstr ""
 
 msgid "What do you want to listen to?"
 msgstr ""
 
-#, fuzzy
 msgid "Liked Songs"
-msgstr "いいねした"
+msgstr ""
 
-#, fuzzy
 msgid "tracks"
-msgstr "次のページ"
+msgstr ""
 
-#, fuzzy
 msgid "Create Playlist"
-msgstr "新しいプレイリストを作成"
+msgstr ""
 
-#, fuzzy
 msgid "My Playlists"
-msgstr "プレイリスト"
+msgstr ""
 
-#, fuzzy
 msgid "Play"
-msgstr "プレイリスト"
+msgstr ""
 
-#, fuzzy
 msgid "Now Playing"
-msgstr "プレイリスト名"
+msgstr ""
 
 msgid "Track Cover"
 msgstr ""
 
-#, fuzzy
 msgid "Track Title"
-msgstr "タイトル"
+msgstr ""
 
-#, fuzzy
 msgid "Artist"
-msgstr "長さ"
+msgstr ""
 
 msgid "Next in Queue"
 msgstr ""
 
-#, fuzzy
 msgid "Cover"
-msgstr "その他"
+msgstr ""
 
 msgid "Select a track"
 msgstr ""
@@ -3108,17 +2794,14 @@ msgstr ""
 msgid "Previous Track"
 msgstr ""
 
-#, fuzzy
 msgid "Play/Pause"
-msgstr "ユーザー名"
+msgstr ""
 
-#, fuzzy
 msgid "Next Track"
-msgstr "次のページ"
+msgstr ""
 
-#, fuzzy
 msgid "Repeat"
-msgstr "報告する"
+msgstr ""
 
 msgid "Fullscreen Mode"
 msgstr ""
@@ -3129,59 +2812,47 @@ msgstr ""
 msgid "Mute/Unmute"
 msgstr ""
 
-#, fuzzy
 msgid "Add to Queue"
-msgstr "認証されていません。"
+msgstr ""
 
-#, fuzzy
 msgid "New Playlist"
-msgstr "プレイリスト名"
+msgstr ""
 
-#, fuzzy
 msgid "Playlist is empty"
-msgstr "プレイリスト名は空にできません。"
+msgstr ""
 
-#, fuzzy
 msgid "Failed to load music."
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
-#, fuzzy
 msgid "Unlike"
-msgstr "リンク"
+msgstr ""
 
-#, fuzzy
 msgid "Your personal favorites"
-msgstr "あなたのメールアドレス"
+msgstr ""
 
-#, fuzzy
 msgid "Enter playlist name:"
-msgstr "プレイリスト名"
+msgstr ""
 
-#, fuzzy
 msgid "Are you sure you want to delete this playlist?"
-msgstr "このユーザーをブロックしてもよろしいですか？"
+msgstr ""
 
-#, fuzzy
 msgid "This track is downloading."
-msgstr "サウンドはすでにプレイリストにあります。"
+msgstr ""
 
 msgid "Please wait for the current download to finish."
 msgstr ""
 
-#, fuzzy
 msgid "Downloading error"
-msgstr "ダウンロード数"
+msgstr ""
 
 msgid "Finished!"
 msgstr ""
 
-#, fuzzy
 msgid "Upload Music"
-msgstr "アップロード"
+msgstr ""
 
-#, fuzzy
 msgid "To Home"
-msgstr "ホームに戻る"
+msgstr ""
 
 msgid "Drag & Drop Cover"
 msgstr ""
@@ -3189,13 +2860,11 @@ msgstr ""
 msgid "or click to select"
 msgstr ""
 
-#, fuzzy
 msgid "Cover Preview"
-msgstr "プレビュー画像"
+msgstr ""
 
-#, fuzzy
 msgid "Remove Cover"
-msgstr "プレビュー画像"
+msgstr ""
 
 msgid "Title of your track"
 msgstr ""
@@ -3212,13 +2881,11 @@ msgstr ""
 msgid "Up to 5 tags. Enter a tag and press Enter."
 msgstr ""
 
-#, fuzzy
 msgid "Audio File"
-msgstr "プロフィールを編集"
+msgstr ""
 
-#, fuzzy
 msgid "Select file (MP3, WAV, OGG)"
-msgstr "対応フォーマット: mp3, wav, ogg"
+msgstr ""
 
 msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
 msgstr ""
@@ -3226,20 +2893,17 @@ msgstr ""
 msgid "Please use the Standard Uploader for short sounds."
 msgstr ""
 
-#, fuzzy
 msgid "Go to Standard Uploader"
-msgstr "総サウンド数"
+msgstr ""
 
 msgid "I agree with the"
 msgstr ""
 
-#, fuzzy
 msgid "terms"
-msgstr "フィルター"
+msgstr ""
 
-#, fuzzy
 msgid "policy"
-msgstr "人気度"
+msgstr ""
 
 msgid "Cover image is too large (max. 5 MB)"
 msgstr ""
@@ -3248,20 +2912,18 @@ msgstr ""
 msgid "You can add no more than ${MAX_TAGS} tags."
 msgstr ""
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
-msgstr "メールアドレスは5文字より長くする必要があります。"
+msgstr ""
 
-#, fuzzy
 msgid "Audio file is too large (max. 20 MB)"
-msgstr "ファイルが大きすぎます"
+msgstr ""
 
 msgid "Server error:"
 msgstr ""
 
-#, fuzzy
 msgid "Music uploaded successfully!"
-msgstr "コメントが正常に投稿されました！"
+msgstr ""
 
 msgid "Payment Cancelled"
 msgstr "支払いがキャンセルされました"
@@ -3324,9 +2986,8 @@ msgstr "ユーザー名は16文字未満にする必要があります。"
 msgid "Username already exists."
 msgstr "ユーザー名はすでに存在します。"
 
-#, fuzzy
 msgid "Bio is too long. Max 250 characters."
-msgstr "プレイリスト名が長すぎます。最大32文字です。"
+msgstr ""
 
 msgid "Invalid image."
 msgstr "無効な画像です。"
@@ -3376,9 +3037,8 @@ msgstr "reCAPTCHAチェックをパスしてください (2)。"
 msgid "Could not verify reCAPTCHA."
 msgstr "reCAPTCHAを検証できませんでした。"
 
-#, fuzzy
 msgid "Account with this username does not exist."
-msgstr "このユーザー名/メールアドレスのアカウントは存在しません。"
+msgstr ""
 
 msgid "Account with this email does not exist."
 msgstr "このメールアドレスのアカウントは存在しません。"
@@ -3398,13 +3058,12 @@ msgstr "無効なデータです。"
 msgid "You already have a playlist with this name."
 msgstr ""
 
-#, fuzzy
 msgid "Could not find or create playlist."
-msgstr "サウンドはプレイリストにありません。"
+msgstr ""
 
-#, fuzzy, python-format
+#, python-format
 msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
-msgstr "サウンドがプレイリスト {} に追加されました。"
+msgstr ""
 
 #, python-format
 msgid "%(count)s sounds were already in the playlist and were skipped."
@@ -3413,20 +3072,17 @@ msgstr ""
 msgid "No new sounds were added. They might already be in the playlist."
 msgstr ""
 
-#, fuzzy
 msgid "Sound removed from playlist."
-msgstr "サウンドがプレイリスト {} から削除されました。"
+msgstr ""
 
-#, fuzzy
 msgid "Sound not found in this playlist."
-msgstr "サウンドはプレイリストにありません。"
+msgstr ""
 
 msgid "Playlist deleted."
 msgstr "プレイリストが削除されました。"
 
-#, fuzzy
 msgid "Sound ID is required."
-msgstr "メールアドレスは必須です。"
+msgstr ""
 
 msgid "Sound not found."
 msgstr "サウンドが見つかりません。"
@@ -3434,44 +3090,36 @@ msgstr "サウンドが見つかりません。"
 msgid "Sound deleted."
 msgstr "サウンドが削除されました。"
 
-#, fuzzy
 msgid "An error occurred while deleting the sound."
-msgstr "コメントの削除中にエラーが発生しました。"
+msgstr ""
 
-#, fuzzy
 msgid "Authentication required"
-msgstr "認証されていません。"
+msgstr ""
 
-#, fuzzy
 msgid "Upload in progress. Please wait."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
 msgid "Cover file must be an image."
 msgstr ""
 
-#, fuzzy
 msgid "Failed to upload cover to CDN."
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
-#, fuzzy
 msgid "Invalid URL format"
-msgstr "無効なファイル形式です。"
+msgstr ""
 
-#, fuzzy
 msgid "Cannot access URL"
-msgstr "支払いが成功しました"
+msgstr ""
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Failed to download file: {}"
-msgstr "ファイルをダウンロードできませんでした。"
+msgstr ""
 
-#, fuzzy
 msgid "File too large"
-msgstr "ファイルが大きすぎます"
+msgstr ""
 
-#, fuzzy
 msgid "File too small"
-msgstr "ファイルが大きすぎます"
+msgstr ""
 
 msgid "No file or URL provided"
 msgstr ""
@@ -3479,13 +3127,11 @@ msgstr ""
 msgid "Sound was queued for upload"
 msgstr ""
 
-#, fuzzy
 msgid "Upload timeout. Please try again."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
-#, fuzzy
 msgid "Upload failed. Please try again."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
 msgid "Sound liked."
 msgstr "サウンドにいいねしました。"
@@ -3496,17 +3142,14 @@ msgstr "サウンドのいいねを取り消しました。"
 msgid "You can only boost your own sounds."
 msgstr ""
 
-#, fuzzy
 msgid "This sound is already boosted."
-msgstr "サウンドはすでにプレイリストにあります。"
+msgstr ""
 
-#, fuzzy
 msgid "Authenticated user not found."
-msgstr "ユーザーが見つかりません"
+msgstr ""
 
-#, fuzzy
 msgid "Free boosts are for VIP users only."
-msgstr "GIFはVIPユーザーのみ"
+msgstr ""
 
 #, python-format
 msgid ""
@@ -3543,20 +3186,17 @@ msgstr "理由は1024文字未満にする必要があります。"
 msgid "Sound reported."
 msgstr "サウンドが報告されました。"
 
-#, fuzzy
 msgid "Failed to upload cover image to CDN."
-msgstr "さらにコメントの読み込みに失敗しました。"
+msgstr ""
 
 msgid "Sound disappeared during edit."
 msgstr ""
 
-#, fuzzy
 msgid "Sound updated successfully."
-msgstr "コメントが正常に投稿されました！"
+msgstr ""
 
-#, fuzzy
 msgid "An internal error occurred."
-msgstr "エラーが発生しました"
+msgstr ""
 
 msgid "Invalid date."
 msgstr "無効な日付です。"
@@ -3570,16 +3210,14 @@ msgstr "役割が更新されました。"
 msgid "You cannot block yourself."
 msgstr "自分自身をブロックすることはできません。"
 
-#, fuzzy
 msgid "User not found."
-msgstr "ユーザーが見つかりません"
+msgstr ""
 
 msgid "User blocked."
 msgstr "ユーザーがブロックされました。"
 
-#, fuzzy
 msgid "An internal error occurred while blocking the user."
-msgstr "コメントの削除中にエラーが発生しました。"
+msgstr ""
 
 msgid "Passwords do not match."
 msgstr "パスワードが一致しません。"
@@ -3605,9 +3243,8 @@ msgstr "メールが送信されました。受信トレイを確認してくだ
 msgid "Invalid user ID."
 msgstr "無効なユーザーIDです。"
 
-#, fuzzy
 msgid "Password cannot be empty."
-msgstr "ユーザー名は空にできません。"
+msgstr ""
 
 msgid "Not an admin."
 msgstr "管理者ではありません。"
@@ -3615,35 +3252,30 @@ msgstr "管理者ではありません。"
 msgid "Cover image is too large (max 5MB)."
 msgstr ""
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Audio file is too large (max {size}MB)."
-msgstr "ファイルが大きすぎます"
+msgstr ""
 
 msgid "Music track was queued for processing."
 msgstr ""
 
-#, fuzzy
 msgid "Upload failed due to an internal error."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
-#, fuzzy
 msgid "Name required"
-msgstr "認証されていません。"
+msgstr ""
 
-#, fuzzy
 msgid "Style is too long."
-msgstr "ファイルが大きすぎます"
+msgstr ""
 
-#, fuzzy
 msgid "Invalid or unsafe CSS."
-msgstr "無効な役割です。"
+msgstr ""
 
 msgid "This color is reserved for staff members."
 msgstr ""
 
-#, fuzzy
 msgid "Nickname style updated successfully!"
-msgstr "コメントが正常に投稿されました！"
+msgstr ""
 
 #, python-format
 msgid "Not enough PAW. You need %(cost)s PAW to change your nickname style."
@@ -3689,10 +3321,9 @@ msgstr ""
 msgid "Your sound [entity] has been successfully processed!"
 msgstr ""
 
-#, fuzzy
 msgid ""
 "We couldn't process your sound [entity]. Please try uploading it again."
-msgstr "コメントの読み込みに失敗しました。後でもう一度お試しください。"
+msgstr ""
 
 msgid "An administrator removed your sound: [entity]."
 msgstr ""
