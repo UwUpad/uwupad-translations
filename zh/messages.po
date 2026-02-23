@@ -1,0 +1,3375 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Blocker Instructions\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-02-23 08:22+0000\n"
+"PO-Revision-Date: 2026-01-23 00:00+0000\n"
+"Last-Translator: AI Translator\n"
+"Language-Team: zh <LL@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.18.0\n"
+
+msgid "Filters"
+msgstr "过滤器"
+
+msgid "Sound Type"
+msgstr "声音类型"
+
+msgid "Loud"
+msgstr "高能/刺耳"
+
+msgid "Explicit"
+msgstr "脏话/不雅"
+
+msgid "Duration"
+msgstr "时长"
+
+msgid "Very short (<5s)"
+msgstr "极短 (<5秒)"
+
+msgid "Short (5-15s)"
+msgstr "短 (5-15秒)"
+
+msgid "Medium (15-30s)"
+msgstr "中等 (15-30秒)"
+
+msgid "Long (30-60s)"
+msgstr "长 (30-60秒)"
+
+msgid "Very long (>60s)"
+msgstr "极长 (>60秒)"
+
+msgid "Popularity"
+msgstr "热度"
+
+msgid "Unpopular (<10 downloads)"
+msgstr "冷门 (<10 次下载)"
+
+msgid "Not popular (10-50 downloads)"
+msgstr "普通 (10-50 次下载)"
+
+msgid "Popular (50-100 downloads)"
+msgstr "热门 (50-100 次下载)"
+
+msgid ""
+"Very popular (100-500\n"
+"                                downloads)"
+msgstr ""
+"非常热门 (100-500\n"
+"                                次下载)"
+
+msgid ""
+"Extremely popular (>500\n"
+"                                downloads)"
+msgstr ""
+"极度火爆 (>500\n"
+"                                次下载)"
+
+msgid "Likes"
+msgstr "点赞"
+
+msgid "Unliked (<10 likes)"
+msgstr "少有人赞 (<10 点赞)"
+
+msgid "Not liked (10-50 likes)"
+msgstr "一般 (10-50 点赞)"
+
+msgid "Liked (50-100 likes)"
+msgstr "受喜爱 (50-100 点赞)"
+
+msgid "Very liked (100-500 likes)"
+msgstr "非常受喜爱 (100-500 点赞)"
+
+msgid "Extremely liked (>500 likes)"
+msgstr "备受推崇 (>500 点赞)"
+
+msgid "Newest"
+msgstr "最新"
+
+msgid "Most Downloaded"
+msgstr "最多下载"
+
+msgid "Most Liked"
+msgstr "最多点赞"
+
+msgid "Apply Filters"
+msgstr "应用过滤器"
+
+msgid "About us"
+msgstr "关于我们"
+
+msgid "Admin: Minecraft Management"
+msgstr "管理员：Minecraft 管理"
+
+msgid "Minecraft Server Management"
+msgstr "Minecraft 服务器管理"
+
+msgid "Whitelist and link user accounts."
+msgstr "白名单和关联用户账号。"
+
+msgid "Add / Link Player"
+msgstr "添加 / 关联玩家"
+
+msgid "UwUpad User (ID or Username)"
+msgstr "UwUpad 用户 (ID 或用户名)"
+
+msgid "Minecraft Username"
+msgstr "Minecraft 游戏名"
+
+msgid "Link"
+msgstr "关联"
+
+msgid "Linked Accounts"
+msgstr "已关联账号"
+
+msgid "UwUpad User"
+msgstr "UwUpad 用户"
+
+msgid "Minecraft UUID"
+msgstr "Minecraft UUID"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "No linked users found."
+msgstr "未找到关联用户。"
+
+msgid "Failed to load user list."
+msgstr "加载用户列表失败。"
+
+msgid "Failed to link user."
+msgstr "关联用户失败。"
+
+msgid "User Linked Successfully"
+msgstr "用户关联成功"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Unlink Account?"
+msgstr "解除账号关联？"
+
+#, python-brace-format
+msgid ""
+"Are you sure you want to unlink ${username}? This will remove them from the "
+"whitelist."
+msgstr "你确定要解除 ${username} 的关联吗？这将把他们从白名单中移除。"
+
+msgid "Unlink"
+msgstr "解除关联"
+
+msgid "Failed to unlink user."
+msgstr "解除用户关联失败。"
+
+msgid "User Unlinked"
+msgstr "用户已解除关联"
+
+msgid "Successfully unlinked"
+msgstr "成功解除关联"
+
+msgid "Advertise on UwUpad"
+msgstr "在 UwUpad 上投放广告"
+
+msgid "Place Your Banner on UwUpad!"
+msgstr "在 UwUpad 上展示你的横幅！"
+
+msgid "Reach thousands of gamers and active internet users every day."
+msgstr "每天触达数千名游戏玩家和活跃互联网用户。"
+
+msgid "What You Get"
+msgstr "你将获得"
+
+msgid "Impressions / week"
+msgstr "展示量 / 每周"
+
+msgid "Clicks / week"
+msgstr "点击量 / 每周"
+
+msgid "Rules & Guidelines"
+msgstr "规则与指南"
+
+msgid "Allowed:"
+msgstr "允许的内容："
+
+msgid "Gaming projects, Discord servers, social media, SFW content."
+msgstr "游戏项目、Discord 服务器、社交媒体、全年龄内容 (SFW)。"
+
+msgid "Forbidden:"
+msgstr "禁止的内容："
+
+msgid "NSFW, gambling, scams, malware, or any illegal content."
+msgstr "成人内容 (NSFW)、赌博、诈骗、恶意软件或任何非法内容。"
+
+msgid "Format:"
+msgstr "格式要求："
+
+msgid ""
+"Your banner should be a PNG, JPG, or GIF file (e.g., 728x90 or similar)."
+msgstr "横幅应为 PNG、JPG 或 GIF 文件（例如：728x90 或类似尺寸）。"
+
+msgid "Disclaimer:"
+msgstr "免责声明："
+
+msgid ""
+"We reserve the right to refuse any advertisement that does not align with "
+"our community standards."
+msgstr "我们保留拒绝任何不符合社区标准的广告的权利。"
+
+msgid "Pricing & How to Buy"
+msgstr "定价与购买方式"
+
+msgid "Price:"
+msgstr "价格："
+
+msgid "per week."
+msgstr "/ 每周。"
+
+msgid "How it works:"
+msgstr "运作流程："
+
+msgid "Click the button below to pay with Telegram Stars."
+msgstr "点击下方按钮，使用 Telegram Stars 支付。"
+
+msgid "In the payment comment, you MUST include two links:"
+msgstr "在支付备注中，你**必须**包含两个链接："
+
+msgid "A direct link to your banner image (e.g., from Imgur)."
+msgstr "横幅图片的直接链接（例如：来自 Imgur）。"
+
+msgid "The link where your banner should lead."
+msgstr "横幅点击后跳转的目标链接。"
+
+msgid ""
+"After successful payment, we will manually place your ad within 24 hours."
+msgstr "支付成功后，我们将在 24 小时内人工上架你的广告。"
+
+msgid "Submit Your Ad for Review"
+msgstr "提交广告审核"
+
+msgid "per week"
+msgstr "每周"
+
+msgid "Submit Your Ad"
+msgstr "提交广告"
+
+msgid "Step 1: Provide Ad Details"
+msgstr "第 1 步：提供广告详情"
+
+msgid ""
+"Fill out the form below. After submission, you will be redirected to "
+"Telegram for payment."
+msgstr "填写下方表单。提交后，你将被重定向至 Telegram 进行支付。"
+
+msgid "Direct Link to your Banner Image"
+msgstr "横幅图片直链"
+
+msgid "Target URL"
+msgstr "目标链接"
+
+msgid "where users will be sent"
+msgstr "用户点击后跳转的地址"
+
+msgid "Your Contact"
+msgstr "你的联系方式"
+
+msgid "We will use this to contact you if there are issues with your ad."
+msgstr "如果你的广告出现问题，我们将通过此方式联系你。"
+
+msgid "Step 2: Proceed to Payment"
+msgstr "第 2 步：继续支付"
+
+msgid "All fields are required."
+msgstr "所有字段均为必填。"
+
+msgid "Server error."
+msgstr "服务器错误。"
+
+msgid "Payment link not received."
+msgstr "未收到支付链接。"
+
+msgid "Access denied"
+msgstr "访问被拒绝"
+
+msgid "Your account has been banned"
+msgstr "你的账号已被封禁"
+
+msgid "Contact us for more information"
+msgstr "联系我们以获取更多信息"
+
+msgid "The best sounds for your Soundpad and ringtones"
+msgstr "为你的 Soundpad 和铃声提供的最佳声音"
+
+msgid ""
+"Find that meme sound from TikTok or a scream from your favorite game in 5 "
+"seconds. Download for free for your Soundpad or set it as a ringtone. Our "
+"collection is updated daily!"
+msgstr ""
+"在 5 秒内找到 TikTok 上的热门神曲或你最喜欢游戏中的尖叫声。免费下载并用于你的 Soundpad 或设置为铃声。我们的库每日更新！"
+
+msgid "Welcome back,"
+msgstr "欢迎回来，"
+
+msgid "Available for VIP users only"
+msgstr "仅限 VIP 用户使用"
+
+msgid "Bulk Download is a VIP Feature"
+msgstr "批量下载是 VIP 功能"
+
+msgid "Upgrade to VIP to download entire playlists as a .zip file!"
+msgstr "升级至 VIP 即可将整个播放列表下载为 .zip 文件！"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "This playlist is empty."
+msgstr "播放列表为空。"
+
+msgid "Remove from download"
+msgstr "从下载中移除"
+
+msgid "Could not load playlist."
+msgstr "无法加载播放列表。"
+
+msgid "Download cancelled."
+msgstr "下载已取消。"
+
+msgid "Downloading"
+msgstr "正在下载"
+
+msgid "Creating ZIP file... Please wait."
+msgstr "正在创建 ZIP 文件... 请稍候。"
+
+msgid "Compressing..."
+msgstr "正在压缩..."
+
+msgid "Resume"
+msgstr "继续"
+
+msgid "Paused..."
+msgstr "已暂停..."
+
+msgid "Resuming..."
+msgstr "正在恢复..."
+
+msgid "Import cancelled."
+msgstr "导入已取消。"
+
+msgid "Importing"
+msgstr "正在导入"
+
+msgid "Import complete!"
+msgstr "导入完成！"
+
+msgid "Sound data not loaded yet."
+msgstr "声音数据尚未加载。请稍候。"
+
+msgid "Error: Sound data not found."
+msgstr "错误：未找到声音数据。"
+
+msgid "Choose Boost Option"
+msgstr "选择推广方案"
+
+msgid "Promote your sound to reach a wider audience."
+msgstr "推广你的声音以触达更多受众。"
+
+msgid "VIP BENEFIT"
+msgstr "VIP 特权"
+
+msgid "Free Boost"
+msgstr "免费推广"
+
+#, python-format
+msgid "1 free boost every %(hours)s hours."
+msgstr "每 %(hours)s 小时获得 1 次免费推广。"
+
+msgid "Use Free Boost"
+msgstr "使用免费推广"
+
+msgid "PAY-TO-BOOST"
+msgstr "付费推广"
+
+msgid "Pay with PAW"
+msgstr "使用 PAW 支付"
+
+#, python-format
+msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
+msgstr "花费：%(cost)s PAW。你的余额：%(balance)s PAW。"
+
+#, python-format
+msgid "Pay %(cost)s PAW"
+msgstr "支付 %(cost)s PAW"
+
+msgid "Confirm Sound Boost"
+msgstr "确认声音推广"
+
+#, python-format
+msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
+msgstr "推广此声音将花费 <strong>%(cost)s PAW</strong>。"
+
+msgid ""
+"This will place your sound at the top of the 'For You' page for a limited "
+"time."
+msgstr "这将在有限的时间内将你的声音置于“为你推荐”页面的顶部。"
+
+msgid "Get free boosts and more with VIP!"
+msgstr "开通 VIP，获得免费推广及更多特权！"
+
+msgid "Learn More"
+msgstr "了解更多"
+
+msgid "Confirm & Boost"
+msgstr "确认并推广"
+
+msgid "An error occurred"
+msgstr "发生了一个错误"
+
+msgid "All caught up!"
+msgstr "已读完所有内容！"
+
+msgid "You have no new notifications."
+msgstr "你没有新通知。"
+
+msgid "Oops!"
+msgstr "哎呀！"
+
+msgid "Could not load notifications. Please try again later."
+msgstr "无法加载通知。请稍后再试。"
+
+msgid "Just now"
+msgstr "刚刚"
+
+#, python-format
+msgid "%(minutes)s m ago"
+msgstr "%(minutes)s 分钟前"
+
+#, python-format
+msgid "%(hours)s h ago"
+msgstr "%(hours)s 小时前"
+
+#, python-format
+msgid "%(days)s d ago"
+msgstr "%(days)s 天前"
+
+msgid "AdBlock detected"
+msgstr "检测到广告拦截器"
+
+msgid ""
+"We rely on ads to keep our servers running. Please consider supporting us by"
+" disabling AdBlock or"
+msgstr "我们依靠广告维持服务器运行。请考虑通过禁用广告拦截器来支持我们，或者"
+
+msgid "getting VIP"
+msgstr "开通 VIP"
+
+msgid "I disabled it, Refresh"
+msgstr "我已禁用，请刷新"
+
+msgid "Please wait"
+msgstr "请稍候"
+
+msgid "How to disable?"
+msgstr "如何禁用？"
+
+msgid "Continue to site (AdBlocker active)"
+msgstr "继续访问网站 (广告拦截器仍开启)"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Join Millions of Players Worldwide"
+msgstr ""
+
+msgid "Experience epic tank battles. Download now and get a free tank!"
+msgstr ""
+
+#, fuzzy
+msgid "Play Now"
+msgstr "播放"
+
+msgid "Change Password"
+msgstr "更改密码"
+
+msgid "Secure your UwUpad account by changing your password."
+msgstr "通过更改密码来保护你的 UwUpad 账号。"
+
+msgid "New password"
+msgstr "新密码"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Repeat new password"
+msgstr "重复新密码"
+
+msgid "Change password"
+msgstr "更改密码"
+
+msgid "Password changed"
+msgstr "密码已更改"
+
+msgid "VIP Checkout"
+msgstr "VIP 结账"
+
+msgid ""
+"Help keep UwUpad running! Every donation helps us store more sounds and stay"
+" fast."
+msgstr "帮助 UwUpad 继续运行！每一份捐赠都能帮助我们存储更多声音并保持快速运行。"
+
+msgid "VIP Membership Checkout"
+msgstr "VIP 会员结账"
+
+msgid "Payment Method:"
+msgstr "支付方式："
+
+msgid "Proceed to Payment"
+msgstr "前往支付"
+
+msgid "Contact Us"
+msgstr "联系我们"
+
+msgid "Have a question or suggestion? Get in touch with the UwUpad team."
+msgstr "有疑问或建议？请与 UwUpad 团队联系。"
+
+msgid "Back to Home"
+msgstr "回到首页"
+
+msgid "Get in Touch"
+msgstr "联系我们"
+
+msgid ""
+"We are always open for communication. Choose a convenient way to contact us "
+"or leave a message through the form below."
+msgstr "我们随时欢迎沟通。选择一种方便的方式联系我们，或通过下方表单留言。"
+
+msgid "Direct Contacts"
+msgstr "直接联系方式"
+
+msgid "Telegram (Owner)"
+msgstr "Telegram (站长)"
+
+msgid "@daisov - for urgent matters"
+msgstr "@daisov - 紧急事项"
+
+msgid "Discord Server"
+msgstr "Discord 服务器"
+
+msgid "Join our community"
+msgstr "加入我们的社区"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "admin@uwupad.me - for suggestions"
+msgstr "admin@uwupad.me - 意见建议"
+
+msgid "Telegram Bot"
+msgstr "Telegram 机器人"
+
+msgid "@uwupad_bot - for support"
+msgstr "@uwupad_bot - 获取支持"
+
+msgid "An error occurred. Please try again later."
+msgstr "发生错误。请稍后再试。"
+
+msgid "Feedback Form"
+msgstr "反馈表单"
+
+msgid "Your Name"
+msgstr "你的名字"
+
+msgid "Your Email (for a reply)"
+msgstr "你的邮箱 (用于回复)"
+
+msgid "Your Message..."
+msgstr "你的留言..."
+
+msgid "Send Message"
+msgstr "发送留言"
+
+msgid "Support UwUpad"
+msgstr "支持 UwUpad"
+
+msgid "Back"
+msgstr "返回"
+
+#, fuzzy
+msgid "Top Supporters 💖"
+msgstr "巨大支持 💖"
+
+msgid "Support Our Project"
+msgstr "支持我们的项目"
+
+msgid ""
+"UwUpad is free and lives on your support. Donations keep servers running!"
+msgstr "UwUpad 是免费的，且依赖于你的支持。捐赠能维持服务器的运行！"
+
+msgid "Exchange Rate"
+msgstr "汇率"
+
+msgid "Small help"
+msgstr "小额赞助"
+
+msgid "Coffee treat ☕"
+msgstr "请喝杯咖啡 ☕"
+
+msgid "Server costs"
+msgstr "分担服务器成本"
+
+msgid "Big support 💖"
+msgstr "巨大支持 💖"
+
+msgid "Or enter custom amount"
+msgstr "或输入自定义金额"
+
+msgid "Donate"
+msgstr "捐赠"
+
+msgid "Secure payment via Telegram Stars or Crypto."
+msgstr "通过 Telegram Stars 或加密货币进行安全支付。"
+
+msgid "PAW tokens are added automatically as a thank you."
+msgstr "作为感谢，PAW 代币将自动发放。"
+
+#, fuzzy
+msgid "Other ways to support"
+msgstr "联系支持"
+
+msgid "Card, SBP, and more — via donation platform"
+msgstr ""
+
+msgid "Crypto via Telegram"
+msgstr ""
+
+msgid "Send crypto through @wallet bot — fast and easy"
+msgstr ""
+
+msgid "Direct Crypto Transfer"
+msgstr ""
+
+#, fuzzy
+msgid "and more"
+msgstr "了解更多"
+
+msgid "Choose Cryptocurrency"
+msgstr ""
+
+#, fuzzy
+msgid "Back to list"
+msgstr "黑名单"
+
+msgid "Please enter a valid amount."
+msgstr "请输入有效的金额。"
+
+msgid "Failed to create payment link."
+msgstr "创建支付链接失败。"
+
+msgid "DMCA Takedown Policy"
+msgstr "DMCA 移除政策"
+
+msgid "Information about our policy regarding copyright infringement notices."
+msgstr "关于我们处理侵权通知政策的信息。"
+
+msgid "Support UwUpad with Stars"
+msgstr "使用星星支持 UwUpad"
+
+msgid ""
+"Your support helps us cover server costs and build a better platform for "
+"everyone."
+msgstr "你的支持能帮助我们支付服务器成本，并为每个人打造更好的平台。"
+
+msgid "Donate with Telegram Stars"
+msgstr "使用 Telegram Stars 捐赠"
+
+msgid "Choose a preset amount or enter a custom one:"
+msgstr "选择预设金额或输入自定义金额："
+
+msgid "Custom Amount (e.g., 77)"
+msgstr "自定义金额 (例如：77)"
+
+msgid "Please enter an amount between 1 and 2500 Stars."
+msgstr "请输入 1 到 2500 之间的星星数量。"
+
+msgid "Recommendations"
+msgstr "推荐"
+
+msgid "All Time"
+msgstr "所有时间"
+
+msgid "This Month"
+msgstr "本月"
+
+msgid "This Week"
+msgstr "本周"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Failed to load sounds."
+msgstr "加载声音失败。"
+
+msgid "Popular"
+msgstr "热门"
+
+msgid "Previous"
+msgstr "上一页"
+
+msgid "Next page"
+msgstr "下一页"
+
+msgid "Top Sound Creators"
+msgstr "顶尖声音创作者"
+
+msgid ""
+"Check out the leaderboard of the most popular and active sound creators on "
+"UwUpad."
+msgstr "查看 UwUpad 上最受欢迎和最活跃的创作者排行榜。"
+
+msgid "Leaderboard"
+msgstr "排行榜"
+
+msgid "Influence"
+msgstr "影响力"
+
+msgid "Uploads"
+msgstr "上传数"
+
+msgid "Downloads"
+msgstr "下载数"
+
+msgid "Comments"
+msgstr "评论数"
+
+msgid "Comment Likes"
+msgstr "评论获赞"
+
+#, fuzzy
+msgid "Donations"
+msgstr "操作"
+
+msgid "Prev."
+msgstr "上一页"
+
+msgid "Next"
+msgstr "下一页"
+
+msgid "Updating leaderboard..."
+msgstr "正在更新排行榜..."
+
+msgid "Next update in:"
+msgstr "下次更新于："
+
+msgid "Updated in real-time"
+msgstr "实时更新"
+
+msgid "No users found for this period."
+msgstr "在此期间未找到用户。"
+
+msgid "Error loading data:"
+msgstr "加载数据出错："
+
+msgid "Login to UwUpad"
+msgstr "登录 UwUpad"
+
+msgid "Back to UwUpad"
+msgstr "返回 UwUpad"
+
+msgid "Welcome Back"
+msgstr "欢迎回来"
+
+msgid "Email or Username"
+msgstr "邮箱或用户名"
+
+msgid "Log In"
+msgstr "登录"
+
+msgid "OR"
+msgstr "或"
+
+msgid "Continue with Discord"
+msgstr "使用 Discord 继续"
+
+msgid "Don't have an account?"
+msgstr "没有账号？"
+
+msgid "Forgot password?"
+msgstr "忘记密码？"
+
+msgid "An error occurred."
+msgstr "发生错误。"
+
+msgid "Successfully logged in!"
+msgstr "登录成功！"
+
+msgid "A network error occurred."
+msgstr "发生网络错误。"
+
+msgid "News & Updates"
+msgstr "新闻与更新"
+
+msgid "The latest news and announcements from the UwUpad platform."
+msgstr "UwUpad 平台的最新动态和公告。"
+
+msgid "Notification History"
+msgstr "通知历史"
+
+msgid ""
+"View all your past notifications on UwUpad, including likes, comments, and "
+"system alerts."
+msgstr "查看你在 UwUpad 上的所有历史通知，包括点赞、评论和系统警报。"
+
+msgid "Filter by Type"
+msgstr "按类型过滤"
+
+msgid "All Types"
+msgstr "所有类型"
+
+msgid "Likes on Sounds"
+msgstr "声音获得点赞"
+
+msgid "Likes on Comments"
+msgstr "评论获得点赞"
+
+msgid "New Comments & Replies"
+msgstr "新评论与回复"
+
+msgid "Mentions in Comments"
+msgstr "评论中提到你"
+
+msgid "Processing Errors"
+msgstr "处理错误"
+
+msgid "Admin Actions"
+msgstr "管理员操作"
+
+msgid "Filter by Status"
+msgstr "按状态过滤"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Unread"
+msgstr "未读"
+
+msgid "Read"
+msgstr "已读"
+
+msgid "No notifications found"
+msgstr "未找到通知"
+
+msgid "Try adjusting your filters or check back later."
+msgstr "请尝试调整过滤器或稍后再查看。"
+
+msgid "Something went wrong"
+msgstr "出错了"
+
+msgid "We couldn't load your notifications. Please try again."
+msgstr "我们无法加载你的通知。请重试。"
+
+msgid "Playlist not found"
+msgstr "未找到播放列表"
+
+msgid "Playlist with this ID not found. Please check the entered data."
+msgstr "未找到该 ID 的播放列表。请检查输入的数据。"
+
+msgid "Back to main page"
+msgstr "返回首页"
+
+#, python-format
+msgid "%(playlist_name)s - Sound Playlist"
+msgstr "%(playlist_name)s - 声音播放列表"
+
+#, python-format
+msgid ""
+"Listen to the \"%(playlist_name)s\" playlist on UwUpad, created by "
+"%(author)s."
+msgstr "在 UwUpad 上收听由 %(author)s 创建的“%(playlist_name)s”播放列表。"
+
+msgid "Edit Playlist"
+msgstr "编辑播放列表"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Preview Image"
+msgstr "预览图"
+
+msgid "Choose a file…"
+msgstr "选择文件…"
+
+msgid "No file selected"
+msgstr "未选择文件"
+
+msgid "Recommended 16:9. GIF only for VIP users."
+msgstr "推荐 16:9 比例。GIF 仅限 VIP 用户。"
+
+msgid "Public Playlist"
+msgstr "公开播放列表"
+
+msgid "Save Changes"
+msgstr "保存更改"
+
+msgid "Playlist"
+msgstr "播放列表"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Download Playlists"
+msgstr "下载播放列表"
+
+msgid ""
+"Downloading entire playlists as a .zip archive is a VIP feature. Upgrade now"
+" for instant access!"
+msgstr "将整个播放列表下载为 .zip 压缩包是 VIP 功能。立即升级以获取访问权限！"
+
+msgid "Download Playlist (VIP only)"
+msgstr "下载播放列表 (仅限 VIP)"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Playlists"
+msgstr "播放列表"
+
+msgid "Search playlists"
+msgstr "搜索播放列表"
+
+msgid "Sounds Inside"
+msgstr "包含声音"
+
+msgid "Mini (<5)"
+msgstr "迷你 (<5)"
+
+msgid "Small (5-15)"
+msgstr "小型 (5-15)"
+
+msgid "Medium (15-30)"
+msgstr "中型 (15-30)"
+
+msgid "Large (30-60)"
+msgstr "大型 (30-60)"
+
+msgid "Very Large (>60)"
+msgstr "超大型 (>60)"
+
+msgid "Unpopular (<10 views)"
+msgstr "冷门 (<10 浏览)"
+
+msgid "Not Popular (10-50 views)"
+msgstr "低热度 (10-50 浏览)"
+
+msgid "Popular (50-100 views)"
+msgstr "热门 (50-100 浏览)"
+
+msgid "Very Popular (100-500 views)"
+msgstr "非常热门 (100-500 浏览)"
+
+msgid "Extremely Popular (>500 views)"
+msgstr "极度火爆 (>500 浏览)"
+
+msgid "Sort by"
+msgstr "排序方式"
+
+msgid "Sort: Newest"
+msgstr "排序：最新"
+
+msgid "Sort: Most Viewed"
+msgstr "排序：最多浏览"
+
+msgid "Sort: Most Sounds"
+msgstr "排序：最多声音"
+
+msgid "Sort: Oldest"
+msgstr "排序：最早"
+
+msgid "Sort: Name (A-Z)"
+msgstr "排序：名称 (A-Z)"
+
+msgid "Sort: Name (Z-A)"
+msgstr "排序：名称 (Z-A)"
+
+msgid "Download Playlist"
+msgstr "下载播放列表"
+
+msgid "No playlists found."
+msgstr "未找到播放列表。"
+
+msgid "Failed to load playlists."
+msgstr "加载播放列表失败。"
+
+msgid "Poll Results"
+msgstr "投票结果"
+
+msgid "votes"
+msgstr "票"
+
+msgid "Total Votes:"
+msgstr "总票数："
+
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid "Your privacy is important to us. Read our privacy policy."
+msgstr "你的隐私对我们非常重要。请阅读我们的隐私政策。"
+
+#, python-format
+msgid "%(username)s's Profile"
+msgstr "%(username)s 的个人资料"
+
+#, python-format
+msgid "Check out the sounds and playlists uploaded by %(username)s on UwUpad."
+msgstr "查看 %(username)s 在 UwUpad 上上传的声音和播放列表。"
+
+msgid "Linked as"
+msgstr "已关联为"
+
+msgid "Link your Discord account"
+msgstr "关联你的 Discord 账号"
+
+msgid "Edit profile"
+msgstr "编辑资料"
+
+msgid "Log out"
+msgstr "登出"
+
+msgid "Edit role"
+msgstr "编辑角色"
+
+msgid "Admin Edit"
+msgstr "管理员编辑"
+
+msgid "Add to blacklist"
+msgstr "加入黑名单"
+
+msgid "Total Views"
+msgstr "总浏览量"
+
+msgid "Total Uploads"
+msgstr "总上传数"
+
+msgid "Total Likes"
+msgstr "总获赞数"
+
+msgid "Comments Made"
+msgstr "评论次数"
+
+msgid "Uploaded"
+msgstr "已上传"
+
+msgid "Liked"
+msgstr "已点赞"
+
+msgid "Blacklist"
+msgstr "黑名单"
+
+msgid "Edit Your Profile"
+msgstr "编辑你的资料"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Bio"
+msgstr "个人简介"
+
+msgid "Tell us a bit about yourself (max 250 chars)..."
+msgstr "介绍一下你自己 (最多 250 字)..."
+
+msgid "Optional. Displayed on your profile."
+msgstr "选填。将显示在你的资料页。"
+
+msgid "Avatar"
+msgstr "头像"
+
+msgid "As a VIP, you can upload animated GIF avatars."
+msgstr "作为 VIP，你可以上传 GIF 动态头像。"
+
+msgid "Want animated GIF avatars?"
+msgstr "想要动态头像吗？"
+
+msgid "Upgrade to VIP!"
+msgstr "升级至 VIP！"
+
+msgid "Save Profile Info"
+msgstr "保存资料信息"
+
+msgid "Nickname Style"
+msgstr "昵称样式"
+
+msgid "Solid Fill"
+msgstr "纯色填充"
+
+msgid "Gradient"
+msgstr "渐变"
+
+msgid "Code"
+msgstr "代码"
+
+msgid "Add Color"
+msgstr "添加颜色"
+
+msgid "Angle"
+msgstr "角度"
+
+msgid ""
+"Forbidden red/black colors similar to staff, or unsafe code (e.g. url()) "
+"will be rejected."
+msgstr "禁止使用与工作人员类似的红/黑色，或不安全的代码 (例如 url())，否则将被拒绝。"
+
+msgid "Apply Style"
+msgstr "应用样式"
+
+msgid "Each style change costs 100 PAW. VIP users get unlimited changes."
+msgstr "每次样式更改花费 100 PAW。VIP 用户享有无限次更改。"
+
+msgid "As a VIP, you can change your style for free."
+msgstr "作为 VIP，你可以免费更改样式。"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Edit Role for"
+msgstr "编辑角色："
+
+msgid "Role"
+msgstr "角色"
+
+msgid "Role expires on (optional)"
+msgstr "角色过期时间 (选填)"
+
+msgid "Leave empty for a permanent role."
+msgstr "留空表示永久角色。"
+
+msgid "Save changes"
+msgstr "保存更改"
+
+msgid "Admin Panel: Edit User"
+msgstr "管理面板：编辑用户"
+
+msgid "Balance (PAW)"
+msgstr "余额 (PAW)"
+
+msgid "Account Status"
+msgstr "账号状态"
+
+msgid "Is Active (user can log in)"
+msgstr "激活状态 (用户可登录)"
+
+msgid ""
+"Unchecking this will prevent the user from logging in, but will not delete "
+"their content."
+msgstr "取消勾选将阻止用户登录，但不会删除其内容。"
+
+msgid "Confirm Style Change"
+msgstr "确认样式更改"
+
+#, python-format
+msgid "Applying this style will cost <strong>%(cost)s PAW</strong>."
+msgstr "应用此样式将花费 <strong>%(cost)s PAW</strong>。"
+
+#, python-format
+msgid "Your current balance: %(balance)s PAW."
+msgstr "你当前的余额：%(balance)s PAW。"
+
+msgid "Confirm & Pay"
+msgstr "确认并支付"
+
+msgid "Get unlimited style changes and more with VIP!"
+msgstr "开通 VIP，获得无限次样式更改及更多特权！"
+
+msgid "Insufficient Funds"
+msgstr "余额不足"
+
+#, python-format
+msgid ""
+"You need <strong>%(cost)s PAW</strong> to change your style, but you only "
+"have <strong>%(balance)s PAW</strong>."
+msgstr ""
+"你需要 <strong>%(cost)s PAW</strong> 来更改样式，但你只有 <strong>%(balance)s "
+"PAW</strong>。"
+
+msgid "OPTION 1"
+msgstr "选项 1"
+
+msgid "Top Up Balance"
+msgstr "充值余额"
+
+msgid "Go to Deposit"
+msgstr "前往充值"
+
+msgid "Add PAW to your account."
+msgstr "为你的账号添加 PAW。"
+
+msgid "BEST VALUE"
+msgstr "最划算"
+
+msgid "Upgrade to VIP"
+msgstr "升级至 VIP"
+
+msgid "Unlock VIP"
+msgstr "解锁 VIP"
+
+msgid "Get <strong>unlimited</strong> style changes & more!"
+msgstr "获得 <strong>无限次</strong> 样式更改及更多！"
+
+msgid "This user has not posted any comments yet."
+msgstr "该用户尚未发表过任何评论。"
+
+msgid "Failed to load comments."
+msgstr "加载评论失败。"
+
+msgid "Remove from blacklist"
+msgstr "移出黑名单"
+
+msgid "Are you sure you want to assign admin role? This grants full access."
+msgstr "你确定要授予管理员角色吗？这将开启所有权限。"
+
+msgid "Are you sure you want to unlink your Discord account?"
+msgstr "你确定要解除 Discord 账号关联吗？"
+
+msgid "Could not load user data."
+msgstr "无法加载用户数据。"
+
+msgid "User updated successfully. Page will reload."
+msgstr "用户更新成功。页面即将刷新。"
+
+msgid "An unknown error occurred."
+msgstr "发生了未知错误。"
+
+#, fuzzy
+msgid "Register on UwUpad"
+msgstr "在 UwUpad 上投放广告"
+
+msgid "Create Account"
+msgstr "注册账号"
+
+msgid "Already have an account?"
+msgstr "已有账号？"
+
+#, fuzzy
+msgid "Account created!"
+msgstr "账号状态"
+
+msgid "Reset Your Password"
+msgstr "重置密码"
+
+msgid ""
+"Forgot your password? Enter your email to receive instructions on how to "
+"reset it."
+msgstr "忘记密码？输入你的电子邮箱以接收重置指令。"
+
+msgid "Reset password"
+msgstr "重置密码"
+
+msgid "Mail with password recovery instructions has been sent"
+msgstr "已发送包含密码重置说明的邮件"
+
+msgid "Click the button below to change your password."
+msgstr "点击下方按钮以更改你的密码。"
+
+msgid "Search by query "
+msgstr "按关键词搜索 "
+
+msgid "Sound not found"
+msgstr "未找到声音"
+
+msgid "Sound with this ID not found. Please check the entered data."
+msgstr "未找到该 ID 的声音。请检查输入的数据。"
+
+#, python-format
+msgid "Download \"%(sound_name)s\" Sound"
+msgstr "下载声音“%(sound_name)s”"
+
+#, python-format
+msgid ""
+"Listen to and download the \"%(sound_name)s\" sound effect for free. Perfect"
+" for Soundpad, ringtones, and streams."
+msgstr "免费收听并下载“%(sound_name)s”音效。非常适合 Soundpad、铃声和直播。"
+
+msgid "Add to Soundpad"
+msgstr "添加到 Soundpad"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Like"
+msgstr "点赞"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "LOUD"
+msgstr "高能/刺耳"
+
+msgid "EXPLICIT"
+msgstr "脏话/不雅"
+
+msgid "Edit sound"
+msgstr "编辑声音"
+
+msgid "Add a comment..."
+msgstr "添加评论..."
+
+msgid "Remove image"
+msgstr "移除图片"
+
+msgid "Attach image"
+msgstr "附件图片"
+
+msgid "Post"
+msgstr "发布"
+
+msgid "You must be"
+msgstr "你必须先"
+
+msgid "logged in"
+msgstr "登录"
+
+msgid "to comment."
+msgstr "才能发表评论。"
+
+msgid "Close (Esc)"
+msgstr "关闭 (Esc)"
+
+msgid "Zoom In"
+msgstr "放大"
+
+msgid "Zoom Out"
+msgstr "缩小"
+
+msgid "Rotate Left"
+msgstr "向左旋转"
+
+msgid "Rotate Right"
+msgstr "向右旋转"
+
+msgid "Lightbox Image"
+msgstr "图片预览"
+
+msgid "You must be logged in to like sounds."
+msgstr "你必须登录后才能给声音点赞。"
+
+msgid "Failed to update like. Please try again."
+msgstr "更新点赞失败。请重试。"
+
+msgid "The best sound sharing service for Soundpad"
+msgstr "最适合 Soundpad 的声音分享服务"
+
+msgid "Sound"
+msgstr "声音"
+
+msgid "Listen"
+msgstr "收听"
+
+msgid "Edit Sound"
+msgstr "编辑声音"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Add a brief description..."
+msgstr "添加简短描述..."
+
+msgid "Tags (comma separated)"
+msgstr "标签 (用逗号分隔)"
+
+msgid "Cover Image (Optional)"
+msgstr "封面图 (选填)"
+
+msgid "Language (Admin)"
+msgstr "语言 (管理)"
+
+msgid "Mark as Music (Admin)"
+msgstr "标记为音乐 (管理)"
+
+msgid "This will make the sound appear in the /music section."
+msgstr "这将使该声音显示在 /music 栏目中。"
+
+msgid "Sound updated successfully!"
+msgstr "声音更新成功！"
+
+msgid "Write a reply..."
+msgstr "写下你的回复..."
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Loading..."
+msgstr "加载中..."
+
+#, python-format
+msgid "View %(count)s more replies"
+msgstr "查看另外 %(count)s 条回复"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Error loading replies."
+msgstr "加载回复出错。"
+
+msgid "Comment attachment"
+msgstr "评论附件"
+
+#, python-format
+msgid "View %(count)s replies"
+msgstr "查看 %(count)s 条回复"
+
+msgid "No comments yet."
+msgstr "暂无评论。"
+
+msgid "Comment or attachment cannot be empty."
+msgstr "评论或附件不能为空。"
+
+msgid "Failed to post comment."
+msgstr "发布评论失败。"
+
+msgid "Hide reply"
+msgstr "隐藏回复"
+
+#, python-format
+msgid "Hide %(count)s replies"
+msgstr "隐藏 %(count)s 条回复"
+
+msgid "You must be logged in to like comments."
+msgstr "你必须登录后才能给评论点赞。"
+
+msgid "Comment deleted."
+msgstr "评论已删除。"
+
+msgid "Failed to delete comment."
+msgstr "删除评论失败。"
+
+#, python-format
+msgid "Sounds tagged with #%(tag_name)s"
+msgstr "带标签 #%(tag_name)s 的声音"
+
+#, python-format
+msgid ""
+"Browse all sounds, audio memes, and ringtones tagged with #%(tag_name)s on "
+"UwUpad."
+msgstr "在 UwUpad 上浏览所有带 #%(tag_name)s 标签的声音、语音模因和铃声。"
+
+msgid "Terms of Service"
+msgstr "服务条款"
+
+msgid "Read the Terms of Service for using the UwUpad platform."
+msgstr "阅读使用 UwUpad 平台的服务条款。"
+
+msgid "Home"
+msgstr "首页"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Drop file here"
+msgstr "拖放文件到此处"
+
+msgid "Sound Utilities (VIP)"
+msgstr "声音工具箱 (VIP)"
+
+msgid "Trim Audio"
+msgstr "修剪音频"
+
+msgid ""
+"Loading audio... Click and drag on the waveform to select a region to keep."
+msgstr "正在加载音频... 在波形图上点击并拖动，选择要保留的区域。"
+
+msgid "Loading waveform..."
+msgstr "正在加载波形图..."
+
+msgid "Preview Selected"
+msgstr "预览选中部分"
+
+msgid "Use Trimmed Audio"
+msgstr "使用修剪后的音频"
+
+msgid "Upload a Sound"
+msgstr "上传声音"
+
+msgid "Creator Challenge: Free VIP"
+msgstr "创作者挑战：免费 VIP"
+
+msgid "Upload sounds that get into recommendations to unlock 1 week of VIP!"
+msgstr "上传进入推荐的声音，即可解锁 1 周 VIP！"
+
+msgid "Progress:"
+msgstr "进度："
+
+msgid "sounds"
+msgstr "声音"
+
+msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
+msgstr "你正在上传音乐/歌曲吗（例如流行、Phonk、说唱等）？"
+
+msgid "Use our dedicated music uploader for better discovery and features."
+msgstr "使用我们专门的音乐上传器，以获得更好的曝光度和功能。"
+
+msgid "Go to Music Uploader"
+msgstr "前往音乐上传器"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "rust, loud, funny"
+msgstr "rust, 高能, 搞笑"
+
+msgid "Add up to"
+msgstr "最多添加"
+
+msgid "tags. Each tag up to"
+msgstr "个标签。每个标签最多"
+
+msgid "characters."
+msgstr "个字符。"
+
+msgid "Description (Optional)"
+msgstr "描述 (选填)"
+
+msgid "Add a brief description for your sound..."
+msgstr "为你的声音添加简短描述..."
+
+msgid "Sound Language"
+msgstr "声音语言"
+
+msgid "Music / SFX (No language)"
+msgstr "音乐 / 音效 (无语言)"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Helps us recommend your sound to the right audience."
+msgstr "帮助我们将你的声音推荐给合适的受众。"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Choose a file"
+msgstr "选择文件"
+
+msgid "Import from URL"
+msgstr "从 URL 导入"
+
+msgid "Supports only audio files"
+msgstr "仅支持音频文件"
+
+msgid "Supported formats: mp3, wav, ogg"
+msgstr "支持格式：mp3, wav, ogg"
+
+msgid "Max file size:"
+msgstr "最大文件限制："
+
+msgid "I agree to the"
+msgstr "我同意"
+
+msgid "terms and conditions"
+msgstr "条款与条件"
+
+msgid "and"
+msgstr "以及"
+
+msgid "privacy policy"
+msgstr "隐私政策"
+
+msgid ""
+"By uploading, you confirm that your content does not violate copyright and "
+"meets our community guidelines."
+msgstr "通过上传，你确认你的内容不侵犯版权，且符合我们的社区准则。"
+
+msgid "Custom Cover"
+msgstr "自定义封面"
+
+msgid "Choose a cover image"
+msgstr "选择封面图片"
+
+msgid "Add a background to your sound card (max 2MB)."
+msgstr "为你的声音卡片添加背景图 (最大 2MB)。"
+
+msgid "VIP Power-Ups"
+msgstr "VIP 特权增强"
+
+msgid "Sound Utilities (Trim)"
+msgstr "声音工具 (修剪)"
+
+msgid "Trim your audio before uploading (VIP exclusive)."
+msgstr "上传前修剪音频 (VIP 专属)。"
+
+msgid "Sound Utilities"
+msgstr "声音工具箱"
+
+msgid ""
+"Need to trim your audio? Our built-in Sound Trimmer is a VIP exclusive tool."
+msgstr "需要修剪音频吗？我们的内置剪辑器是 VIP 专属工具。"
+
+msgid "Remove tag:"
+msgstr "移除标签："
+
+msgid "Maximum"
+msgstr "最大"
+
+msgid "tags allowed."
+msgstr "个标签。"
+
+msgid "File too big (Max:"
+msgstr "文件过大 (上限："
+
+msgid "Already uploading..."
+msgstr "正在上传..."
+
+msgid "Please agree to the terms and policy."
+msgstr "请同意条款与政策。"
+
+msgid "Please add at least one tag."
+msgstr "请至少添加一个标签。"
+
+msgid "Trimmed file is too large."
+msgstr "修剪后的文件过大。"
+
+msgid "No file selected or imported for upload."
+msgstr "未选择或未导入文件以供上传。"
+
+msgid "An error occurred ("
+msgstr "发生错误 ("
+
+msgid ")."
+msgstr ")。"
+
+msgid "Sound uploaded successfully!"
+msgstr "声音上传成功！"
+
+msgid "Network error or server issue:"
+msgstr "网络错误或服务器问题："
+
+msgid "Please enter a URL."
+msgstr "请输入 URL。"
+
+msgid "Import error ("
+msgstr "导入错误 ("
+
+msgid "URL ready for import:"
+msgstr "URL 已准备好导入："
+
+msgid "Importing:"
+msgstr "正在导入："
+
+msgid "Import failed:"
+msgstr "导入失败："
+
+msgid "Web Audio API not supported. Cannot use audio utilities."
+msgstr "不支持 Web Audio API。无法使用音频工具。"
+
+msgid "Please select an audio file first before using utilities."
+msgstr "使用工具前请先选择一个音频文件。"
+
+msgid "Error loading waveform:"
+msgstr "加载波形图错误："
+
+msgid "Selected:"
+msgstr "已选择："
+
+msgid "Selected region is too short or invalid."
+msgstr "选中的区域太短或无效。"
+
+msgid "Audio trimmed. The trimmed version will be uploaded."
+msgstr "音频已修剪。修剪后的版本将被上传。"
+
+msgid "Trimmed:"
+msgstr "修剪结果："
+
+msgid "Error trimming audio:"
+msgstr "修剪音频出错："
+
+msgid "Trim operation cancelled."
+msgstr "修剪操作已取消。"
+
+msgid "Cover image is too large (max 2MB)."
+msgstr "封面图片过大 (最大 2MB)。"
+
+msgid "This is a VIP-exclusive feature."
+msgstr "这是 VIP 专属功能。"
+
+msgid "sounds recommended"
+msgstr "个声音被推荐"
+
+msgid "Challenge Completed!"
+msgstr "挑战完成！"
+
+msgid "You have unlocked VIP status! Check your profile."
+msgstr "你已解锁 VIP 身份！请查看你的资料。"
+
+msgid "User not found"
+msgstr "未找到用户"
+
+msgid "User with this ID not found. Please check the entered data."
+msgstr "未找到该 ID 的用户。请检查输入的数据。"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Search users..."
+msgstr "搜索用户..."
+
+msgid "Roles"
+msgstr "角色"
+
+msgid "Admin"
+msgstr "管理员"
+
+msgid "Moderator"
+msgstr "版主"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Banned"
+msgstr "已封禁"
+
+msgid "Clear Roles"
+msgstr "清除角色"
+
+msgid "Sort users by"
+msgstr "用户排序方式"
+
+msgid "Joined: Newest First"
+msgstr "加入时间：从晚到早"
+
+msgid "Joined: Oldest First"
+msgstr "加入时间：从早到晚"
+
+msgid "Username: A-Z"
+msgstr "用户名：A-Z"
+
+msgid "Username: Z-A"
+msgstr "用户名：Z-A"
+
+msgid "#ID"
+msgstr "#ID"
+
+msgid "Error loading users. Please try again."
+msgstr "加载用户失败。请重试。"
+
+msgid "Unban User"
+msgstr "解封用户"
+
+msgid "Ban User"
+msgstr "封禁用户"
+
+msgid "Mod"
+msgstr "版主"
+
+msgid "View Profile"
+msgstr "查看资料"
+
+msgid "Edit User"
+msgstr "编辑用户"
+
+msgid "No users found matching your criteria."
+msgstr "没有找到符合条件的用户。"
+
+msgid "User banned successfully."
+msgstr "成功封禁用户。"
+
+msgid "User unbanned successfully."
+msgstr "成功解封用户。"
+
+msgid "UwUpad VIP"
+msgstr "UwUpad VIP"
+
+msgid "Back to main"
+msgstr "返回主页"
+
+msgid "Welcome, Patron!"
+msgstr "欢迎，赞助者！"
+
+msgid "Thank you for supporting UwUpad. Enjoy your exclusive features."
+msgstr "感谢你支持 UwUpad。请尽情享受专属特权。"
+
+msgid "Unlock the Full Experience"
+msgstr "解锁完整体验"
+
+msgid ""
+"Elevate your presence and support the platform that powers your creativity."
+msgstr "提升你的影响力，并支持这个激发你创造力的平台。"
+
+msgid "Your VIP Status is Active"
+msgstr "你的 VIP 身份已激活"
+
+msgid "Subscription renews on:"
+msgstr "订阅续订日期："
+
+msgid "You have a lifetime subscription."
+msgstr "你拥有永久订阅。"
+
+msgid "Extend for one month"
+msgstr "续订一个月"
+
+msgid "Monthly"
+msgstr "按月订阅"
+
+msgid "Per month"
+msgstr "/ 每月"
+
+msgid "Choose Monthly"
+msgstr "选择月度"
+
+msgid "Best Value"
+msgstr "最划算"
+
+msgid "Yearly"
+msgstr "按年订阅"
+
+msgid "Save 20% - 2 months free!"
+msgstr "节省 20% - 相当于 2 个月免费！"
+
+msgid "Choose Yearly"
+msgstr "选择年度"
+
+msgid "Feature"
+msgstr "功能"
+
+msgid "Standard"
+msgstr "普通"
+
+msgid "VIP Patron"
+msgstr "VIP 赞助者"
+
+msgid "Ad-Free Experience"
+msgstr "无广告体验"
+
+msgid "Playlists Creation"
+msgstr "创建播放列表"
+
+msgid "Unlimited"
+msgstr "无限次"
+
+msgid "Sounds per Playlist"
+msgstr "播放列表包含声音数"
+
+msgid "Private Playlists"
+msgstr "私人播放列表"
+
+msgid "Bulk Playlist Download (.zip)"
+msgstr "播放列表批量下载 (.zip)"
+
+msgid "Animated GIF Avatars"
+msgstr "GIF 动态头像"
+
+msgid "Custom Sound Covers"
+msgstr "自定义声音封面"
+
+msgid "File Upload Size"
+msgstr "文件上传大小上限"
+
+msgid "Tags per Sound"
+msgstr "单条声音标签上限"
+
+msgid "Nickname Styling"
+msgstr "昵称样式美化"
+
+msgid "Paid"
+msgstr "付费"
+
+msgid "Unlimited & Free"
+msgstr "无限次且免费"
+
+msgid "Sound Boosts"
+msgstr "声音推广"
+
+msgid "1 Free Daily"
+msgstr "每日 1 次免费"
+
+msgid "VIP Profile Badge"
+msgstr "VIP 专属徽章"
+
+msgid "Become a Patron"
+msgstr "成为赞助者"
+
+msgid "Extend Subscription"
+msgstr "延长订阅"
+
+msgid "Choose your preferred payment method"
+msgstr "选择你首选的支付方式"
+
+msgid "Your VIP subscription has expired."
+msgstr "你的 VIP 订阅已过期。"
+
+msgid "Time left:"
+msgstr "剩余时间："
+
+msgid "Pending Ad Requests"
+msgstr "待处理广告请求"
+
+msgid "Review and approve/reject new ad submissions."
+msgstr "审核并批准/拒绝新的广告提交。"
+
+msgid "Banner Preview"
+msgstr "横幅预览"
+
+msgid "Contact"
+msgstr "联系方式"
+
+msgid "Submitted At"
+msgstr "提交于"
+
+msgid "Loading requests..."
+msgstr "正在加载请求..."
+
+msgid "Error loading requests."
+msgstr "加载请求出错。"
+
+msgid "No pending requests."
+msgstr "没有待处理的请求。"
+
+msgid "Approve"
+msgstr "批准"
+
+msgid "Reject"
+msgstr "拒绝"
+
+msgid "Music"
+msgstr "音乐"
+
+msgid "For You"
+msgstr "推荐"
+
+msgid "News"
+msgstr "新闻"
+
+msgid "Report a bug"
+msgstr "报告 Bug"
+
+msgid "Request a sound"
+msgstr "请求声音"
+
+msgid "Contacts"
+msgstr "联系我们"
+
+msgid "DMCA"
+msgstr "DMCA 版权"
+
+msgid "Download Soundpad"
+msgstr "下载 Soundpad"
+
+msgid "Telegram bot"
+msgstr "Telegram 机器人"
+
+msgid "Steam group"
+msgstr "Steam 组"
+
+msgid "Total sounds"
+msgstr "声音总数"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Mark all as read"
+msgstr "全部标记为已读"
+
+msgid "View all history"
+msgstr "查看所有历史"
+
+msgid "Have a minute?"
+msgstr "有空聊聊吗？"
+
+msgid "Help us make uwupad.me better!"
+msgstr "帮助我们让 uwupad.me 变得更好！"
+
+msgid ""
+"Tell us what to improve, what you don't like, or what features you're "
+"missing. All ideas are welcome!"
+msgstr "告诉我们哪些地方需要改进，你不喜欢什么，或者你缺什么功能。欢迎提出任何想法！"
+
+msgid "Your ideas here..."
+msgstr "在此输入你的想法..."
+
+msgid "Later"
+msgstr "以后再说"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Sent!"
+msgstr "已发送！"
+
+msgid "You can remove sounds you don't want from the list below."
+msgstr "你可以从下方列表中移除你不想要的声音。"
+
+msgid "Download .zip"
+msgstr "下载 .zip"
+
+msgid "Preparing download for"
+msgstr "正在准备下载："
+
+msgid "Wait a few seconds or"
+msgstr "请等待几秒，或者"
+
+msgid "get VIP for instant downloads"
+msgstr "开通 VIP 获取即时下载"
+
+msgid ""
+"service for searching and downloading sounds for soundboards such as "
+"Soundpad or mobile devices."
+msgstr "用于为 Soundpad 等声音控制台或移动设备搜索和下载声音的服务。"
+
+msgid "Find sounds and effects from TV, games, memes, and more."
+msgstr "发现来自电视、游戏、模因等的声音和效果。"
+
+msgid "Navigation"
+msgstr "导航"
+
+msgid "Upload sound"
+msgstr "上传声音"
+
+msgid "Privacy policy"
+msgstr "隐私政策"
+
+msgid "Terms of use"
+msgstr "使用条款"
+
+msgid "Links"
+msgstr "链接"
+
+msgid "Discord"
+msgstr "Discord"
+
+msgid "Translations"
+msgstr "翻译"
+
+msgid "Language Settings"
+msgstr "语言设置"
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Show Sound Covers"
+msgstr "显示声音封面"
+
+msgid "Display custom background images on sound cards."
+msgstr "在声音卡片上显示自定义背景图片。"
+
+msgid "Cover Blur Intensity"
+msgstr "封面模糊强度"
+
+msgid "Controls the blur effect on sound card backgrounds."
+msgstr "控制声音卡片背景的模糊效果。"
+
+msgid "Interface Language"
+msgstr "界面语言"
+
+msgid "Content Languages"
+msgstr "内容语言"
+
+msgid ""
+"Select languages you want to see. Leave all unchecked to use automatic "
+"detection."
+msgstr "选择你想看到的内容语言。如果不勾选，将使用自动检测。"
+
+msgid "Additional Options"
+msgstr "额外选项"
+
+msgid "Prioritize sounds with translations"
+msgstr "优先显示有翻译的声音"
+
+msgid "Prioritize popular sounds regardless of language"
+msgstr "无视语言优先显示热门声音"
+
+msgid "Show loud warning"
+msgstr "显示高能/刺耳预警"
+
+msgid "Save & Apply"
+msgstr "保存并应用"
+
+msgid "Donate small amount to get 3 days VIP"
+msgstr "捐赠少量金额即可获得 3 天 VIP"
+
+msgid "Say Thanks"
+msgstr "表示感谢"
+
+msgid "Get +3 days VIP access"
+msgstr "获取 3 天 VIP 访问权限"
+
+msgid "VIP Activated"
+msgstr "VIP 已激活"
+
+msgid "Telegram"
+msgstr "Telegram"
+
+msgid "Say Thanks (+3 Days VIP)"
+msgstr "表示感谢 (+3 天 VIP)"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Profile"
+msgstr "个人资料"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Log in"
+msgstr "登录"
+
+msgid "Download Top 50 Packs:"
+msgstr "下载 Top 50 资源包："
+
+msgid "Daily"
+msgstr "每日"
+
+msgid "Weekly"
+msgstr "每周"
+
+msgid "Download Top 50 Sounds"
+msgstr "下载 Top 50 声音"
+
+msgid "This pack contains the 50 most popular sounds of the"
+msgstr "该资源包包含了本阶段最热门的 50 个声音"
+
+msgid "ready for Soundpad."
+msgstr "已为 Soundpad 准备就绪。"
+
+msgid "Best Value / Fast"
+msgstr "最实惠 / 快速"
+
+msgid "Support us with a small donation and get 3 Days of VIP instantly."
+msgstr "通过小额捐赠支持我们，即可立即获得 3 天 VIP。"
+
+msgid "Say Thanks & Download"
+msgstr "致谢并下载"
+
+msgid "Get Monthly VIP Subscription"
+msgstr "获取月度 VIP 订阅"
+
+msgid "Unlocks all packs, playlists and removes ads."
+msgstr "解锁所有资源包、播放列表并移除广告。"
+
+msgid "Downloading..."
+msgstr "正在下载..."
+
+msgid "Complete!"
+msgstr "已完成！"
+
+msgid "Download failed"
+msgstr "下载失败"
+
+msgid "Access Restricted"
+msgstr "访问受限"
+
+msgid "To continue listening, please subscribe to our Telegram channel."
+msgstr "要继续收听，请订阅我们的 Telegram 频道。"
+
+msgid "Important:"
+msgstr "重要提示："
+
+msgid ""
+"Do not unsubscribe! If you leave the channel, you will need to verify again."
+msgstr "请勿退订！如果你离开频道，将需要重新验证。"
+
+msgid "Subscribe"
+msgstr "订阅"
+
+msgid "Subscribe to unlock"
+msgstr "订阅以解锁"
+
+msgid "Verifying subscription..."
+msgstr "正在验证订阅..."
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "This track is already downloading."
+msgstr "该曲目已在下载中。"
+
+msgid ""
+"Please wait for the previous download to finish. VIPs can download multiple "
+"files at once!"
+msgstr "请等待上一个下载完成。VIP 可以同时下载多个文件！"
+
+msgid "Adding to Soundpad:"
+msgstr "添加到 Soundpad："
+
+msgid "DELETED"
+msgstr "已删除"
+
+msgid "Unlock This Feature"
+msgstr "解锁此功能"
+
+msgid "Log In or Create Account"
+msgstr "登录或创建账号"
+
+msgid "This sound is boosted!"
+msgstr "此声音正在推广中！"
+
+msgid "Boost Sound"
+msgstr "推广声音"
+
+msgid "Views"
+msgstr "浏览量"
+
+msgid "Add to playlist"
+msgstr "添加到播放列表"
+
+msgid "Report"
+msgstr "举报"
+
+msgid "Original Sound"
+msgstr "原始声音"
+
+msgid "Go to original sound"
+msgstr "前往原始声音"
+
+msgid "Additional Tags"
+msgstr "附加标签"
+
+msgid "This sound is too loud. Are you sure you want to play it back?"
+msgstr "此声音音量过大。你确定要播放吗？"
+
+msgid "Don't show this message again"
+msgstr "不再显示此消息"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid ""
+"This sound includes sensitive content and it may be inappropriate to listen "
+"to. Are you sure you want to play it back?"
+msgstr "此声音包含敏感内容，可能不适合收听。你确定要播放吗？"
+
+msgid "Show more"
+msgstr "显示更多"
+
+msgid "No sounds to add."
+msgstr "没有可添加的声音。"
+
+msgid "Add to Playlist"
+msgstr "添加到播放列表"
+
+#, python-format
+msgid "Choose a playlist for %(count)s sounds or create a new one."
+msgstr "为这 %(count)s 条声音选择播放列表或创建新列表。"
+
+#, python-format
+msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
+msgstr "为“%(sound_name)s”选择播放列表或创建新列表。"
+
+msgid "Create New"
+msgstr "新建"
+
+msgid "Add to Existing"
+msgstr "添加到现有列表"
+
+msgid "New Playlist Name"
+msgstr "新播放列表名称"
+
+msgid "My Awesome Mix"
+msgstr "我的精彩混音"
+
+msgid "Choose cover…"
+msgstr "选择封面…"
+
+msgid "Make playlist public"
+msgstr "设为公开播放列表"
+
+msgid "Search your playlists..."
+msgstr "搜索你的播放列表..."
+
+msgid "Save"
+msgstr "保存"
+
+msgid "You don't have any playlists yet."
+msgstr "你还没有任何播放列表。"
+
+msgid "Could not load your playlists."
+msgstr "无法加载你的播放列表。"
+
+msgid "Searching..."
+msgstr "正在搜索..."
+
+msgid "Search failed."
+msgstr "搜索失败。"
+
+msgid "Please select a playlist."
+msgstr "请选择一个播放列表。"
+
+msgid "Please enter a name for the new playlist."
+msgstr "请输入新播放列表的名称。"
+
+msgid "Image uploaded."
+msgstr "图片已上传。"
+
+msgid "Image upload failed."
+msgstr "图片上传失败。"
+
+msgid "Playlist Limit Reached"
+msgstr "达到播放列表上限"
+
+msgid ""
+"Standard users can create up to 2 playlists. Upgrade to VIP for unlimited "
+"playlists!"
+msgstr "普通用户最多可创建 2 个播放列表。升级至 VIP 以享受无限播放列表！"
+
+msgid "Playlist is Full"
+msgstr "播放列表已满"
+
+msgid ""
+"Standard users can add up to 20 sounds per playlist. Get VIP to create "
+"massive collections!"
+msgstr "普通用户每个播放列表最多添加 20 条声音。开通 VIP 即可创建海量收藏！"
+
+msgid "Private Playlists are a VIP Feature"
+msgstr "私人播放列表是 VIP 功能"
+
+msgid "Keep your collections to yourself by upgrading to VIP."
+msgstr "升级至 VIP，让你的收藏仅供自己查看。"
+
+msgid "An unexpected error occurred."
+msgstr "发生了意外错误。"
+
+msgid "Hey, check out this playlist on Uwupad!"
+msgstr "嘿，快来看看 Uwupad 上的这个播放列表！"
+
+msgid "No sounds found"
+msgstr "未找到声音"
+
+msgid "Sound is already in the queue"
+msgstr "声音已在队列中"
+
+msgid "added to queue"
+msgstr "已添加到队列"
+
+msgid "Edit tags"
+msgstr "编辑标签"
+
+msgid "Is loud"
+msgstr "音量大"
+
+msgid "Is explicit"
+msgstr "有不雅内容"
+
+msgid "Report a sound"
+msgstr "举报声音"
+
+msgid ""
+"We are strictly against any violations of our terms of use. Users have the "
+"ability to complain about content that is considered “spam,” “illegal "
+"activity,” or contains “copyrighted material without authorization.” If "
+"violations are found, the content will be removed immediately and this "
+"removal will be permanent."
+msgstr ""
+"我们严格禁止任何违反使用条款的行为。用户有权对被视为“垃圾信息”、“非法活动”或包含“未经授权的版权材料”的内容进行投诉。如果发现违规，内容将被立即永久删除。"
+
+msgid ""
+"Please state your request in English or Russian only. We cannot process "
+"requests in other languages."
+msgstr "请仅使用英语或俄语提交你的请求。我们无法处理其他语言的请求。"
+
+msgid "Comment, questions, reason for post."
+msgstr "评论、问题、举报原因。"
+
+msgid "Your e-mail address"
+msgstr "你的电子邮箱"
+
+msgid "You have already sent a report."
+msgstr "你已经发送过举报了。"
+
+msgid "Please enter a valid reason."
+msgstr "请输入有效的原因。"
+
+msgid "Please enter a valid email."
+msgstr "请输入有效的邮箱。"
+
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+msgid "External Link Warning"
+msgstr "外部链接预警"
+
+msgid ""
+"You are about to leave uwupad.me. We do not take responsibility for the "
+"content on external sites."
+msgstr "你即将离开 uwupad.me。我们对外部网站的内容不承担责任。"
+
+msgid "Proceed"
+msgstr "继续"
+
+msgid "Copied to clipboard"
+msgstr "已复制到剪贴板"
+
+msgid "just now"
+msgstr "刚刚"
+
+msgid "min ago"
+msgstr "分钟前"
+
+msgid "h ago"
+msgstr "小时前"
+
+msgid "d ago"
+msgstr "天前"
+
+msgid "w ago"
+msgstr "周前"
+
+msgid "How to disable content blocking"
+msgstr "如何关闭内容过滤/拦截"
+
+msgid "Select your browser, extension, or antivirus from the list below"
+msgstr "从下方列表中选择你的浏览器、扩展程序或杀毒软件"
+
+msgid "Google Chrome"
+msgstr "Google Chrome"
+
+msgid ""
+"Click the extension icon (puzzle piece) in the top right corner of the "
+"browser."
+msgstr "点击浏览器右上角的扩展图标（拼图形状）。"
+
+msgid "Find in the list"
+msgstr "在列表中找到"
+
+msgid "or"
+msgstr "或"
+
+msgid "Click on the extension and press"
+msgstr "点击该扩展并按下"
+
+msgid "Disable on this site"
+msgstr "在此网站上禁用"
+
+msgid "or the big power button."
+msgstr "或巨大的电源按钮。"
+
+msgid "Refresh the page"
+msgstr "刷新页面"
+
+msgid "Built-in blocking:"
+msgstr "内置拦截："
+
+msgid "If there are no extensions, go to"
+msgstr "如果没有安装扩展，请前往"
+
+msgid "and allow ads for the site."
+msgstr "并允许该网站显示广告。"
+
+msgid "Mozilla Firefox"
+msgstr "Mozilla Firefox"
+
+msgid "Click on the shield icon to the left of the address bar."
+msgstr "点击地址栏左侧的盾牌图标。"
+
+msgid "Toggle the switch"
+msgstr "切换开关"
+
+msgid "Enhanced Tracking Protection"
+msgstr "增强型跟踪保护"
+
+msgid "to position"
+msgstr "到位置"
+
+msgid "OFF"
+msgstr "关闭"
+
+msgid ""
+"If extensions (uBlock, etc.) are installed, disable them via the puzzle icon"
+" in the top right."
+msgstr "如果安装了扩展（如 uBlock 等），请通过右上角的拼图图标将其禁用。"
+
+msgid "The page will reload automatically."
+msgstr "页面将自动重新加载。"
+
+msgid "Apple Safari (macOS / iOS)"
+msgstr "Apple Safari (macOS / iOS)"
+
+msgid "Right-click the address bar"
+msgstr "右键点击地址栏"
+
+msgid "Settings for This Website"
+msgstr "此网站的设置"
+
+msgid "Uncheck"
+msgstr "取消勾选"
+
+msgid "Enable Content Blockers"
+msgstr "启用内容拦截器"
+
+msgid "Tap the icon"
+msgstr "轻触图标"
+
+msgid "in the address bar"
+msgstr "在地址栏中"
+
+msgid "Turn Off Content Blockers"
+msgstr "关闭内容拦截器"
+
+msgid "Kaspersky Protection (Anti-Banner)"
+msgstr "卡巴斯基安全保护 (反横幅广告)"
+
+msgid "Find the green hexagonal Kaspersky icon in the browser extension bar."
+msgstr "在浏览器扩展栏中找到绿色的六角形卡巴斯基图标。"
+
+msgid "In the menu that opens, find the section"
+msgstr "在打开的菜单中，找到以下区域"
+
+msgid "Anti-Banner"
+msgstr "反横幅广告"
+
+msgid "Click the button"
+msgstr "点击按钮"
+
+msgid "Allow on this website"
+msgstr "在此网站上允许"
+
+msgid "If there is no extension, open the main Kaspersky app"
+msgstr "如果没有安装扩展，请打开卡巴斯基主程序"
+
+msgid "Security settings"
+msgstr "安全设置"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "or add the site to exclusions."
+msgstr "或将该网站添加到排除项。"
+
+msgid "Windscribe VPN (R.O.B.E.R.T.)"
+msgstr "Windscribe VPN (R.O.B.E.R.T.)"
+
+msgid "Log in to your account at windscribe.com."
+msgstr "登录 windscribe.com 的账号。"
+
+msgid "Go to the tab"
+msgstr "前往标签页"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Custom Rules"
+msgstr "自定义规则"
+
+msgid "Enter our site domain and select the option"
+msgstr "输入我们的网站域名并选择选项"
+
+msgid "Whitelist"
+msgstr "白名单"
+
+msgid ""
+"Since R.O.B.E.R.T. works at the DNS level, changes may take a few minutes to"
+" take effect. Try disconnecting and reconnecting the VPN."
+msgstr "由于 R.O.B.E.R.T. 在 DNS 级别工作，更改可能需要几分钟才能生效。请尝试断开并重新连接 VPN。"
+
+msgid "AdGuard (App or Extension)"
+msgstr "AdGuard (应用或扩展)"
+
+msgid ""
+"Click the AdGuard icon (green shield) in the browser or in the Windows/Mac "
+"system tray."
+msgstr "点击浏览器中或 Windows/Mac 系统托盘中的 AdGuard 图标（绿色盾牌）。"
+
+msgid "Click the large toggle"
+msgstr "点击巨大的开关"
+
+msgid "Filtering on this website"
+msgstr "在此网站上进行过滤"
+
+msgid "so it turns gray (off)."
+msgstr "使其变为灰色（关闭状态）。"
+
+msgid "Wait for the page to automatically refresh."
+msgstr "等待页面自动刷新。"
+
+msgid "Brave Browser"
+msgstr "Brave 浏览器"
+
+msgid "Click the lion icon (Brave Shields) to the right of the address bar."
+msgstr "点击地址栏右侧的狮子图标 (Brave Shields)。"
+
+msgid "Toggle the top slider"
+msgstr "切换顶部的滑块"
+
+msgid ""
+"Brave blocks scripts very aggressively. Completely disabling shields for the"
+" site is the most reliable method."
+msgstr "Brave 的脚本拦截非常激进。为该站彻底关闭 Shields 是最可靠的方法。"
+
+msgid "Yandex Browser"
+msgstr "Yandex 浏览器"
+
+msgid "Click the lock icon 🔒 or shield in the left part of the SmartBox."
+msgstr "点击地址栏左侧的锁 🔒 或盾牌图标。"
+
+msgid "Click"
+msgstr "点击"
+
+msgid "More details"
+msgstr "更多详情"
+
+msgid "if required"
+msgstr "如果需要"
+
+msgid "Block ads on this site"
+msgstr "在此网站上拦截广告"
+
+msgid "Opera / Opera GX"
+msgstr "Opera / Opera GX"
+
+msgid "Click the blue shield icon in the right part of the address bar."
+msgstr "点击地址栏右侧的蓝色盾牌图标。"
+
+msgid "Turn off for this site"
+msgstr "为此网站关闭"
+
+msgid "If that doesn't help: Menu"
+msgstr "如果无效：菜单"
+
+msgid "Extensions"
+msgstr "扩展程序"
+
+msgid "Disable third-party blockers."
+msgstr "禁用第三方拦截器。"
+
+msgid "Avast / AVG Antivirus"
+msgstr "Avast / AVG 杀毒软件"
+
+msgid "Open the antivirus, go to"
+msgstr "打开杀毒软件，前往"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Section"
+msgstr "区域"
+
+msgid "Protection"
+msgstr "保护"
+
+msgid "Web Shield"
+msgstr "Web 防护"
+
+msgid "Find the tab"
+msgstr "找到标签页"
+
+msgid "Exceptions"
+msgstr "异常项/排除项"
+
+msgid "and add our website address."
+msgstr "并添加我们的网站地址。"
+
+msgid "Check browser extensions: Avast often installs"
+msgstr "检查浏览器扩展：Avast 经常安装"
+
+msgid "which needs to be disabled separately."
+msgstr "这需要单独禁用。"
+
+msgid ""
+"If the problem is not resolved after following the instructions — try "
+"another browser or contact"
+msgstr "如果按照指令操作后问题仍未解决，请尝试其他浏览器或联系"
+
+msgid "support"
+msgstr "支持团队"
+
+msgid "Return to site"
+msgstr "返回网站"
+
+msgid "Very popular (100-500 downloads)"
+msgstr "非常热门 (100-500 次下载)"
+
+msgid "Extremely popular (>500 downloads)"
+msgstr "极度火爆 (>500 次下载)"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Toggle BETA personalization"
+msgstr "切换 BETA 个性化设置"
+
+msgid ""
+"Listen to and discover new music on UwUpad. Thousands of tracks from "
+"independent artists."
+msgstr "在 UwUpad 上收听并发现新音乐。来自独立艺术家的数千首曲目。"
+
+msgid "Listen to and discover new music on UwUpad."
+msgstr "在 UwUpad 上收听并发现新音乐。"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "My Library"
+msgstr "我的媒体库"
+
+msgid "Return to Sounds / Memes"
+msgstr "返回声音 / 语音模因"
+
+msgid "Sounds / Memes"
+msgstr "声音 / 语音模因"
+
+msgid "Sorting"
+msgstr "排序"
+
+msgid "Hot"
+msgstr "最热"
+
+msgid "Period"
+msgstr "期间"
+
+msgid "All time"
+msgstr "所有时间"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Week"
+msgstr "周"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Now"
+msgstr "当前"
+
+msgid "Search by title..."
+msgstr "按标题搜索..."
+
+msgid "What do you want to listen to?"
+msgstr "你想听什么？"
+
+msgid "Liked Songs"
+msgstr "喜欢的歌曲"
+
+msgid "tracks"
+msgstr "曲目"
+
+msgid "Create Playlist"
+msgstr "创建播放列表"
+
+msgid "My Playlists"
+msgstr "我的播放列表"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Now Playing"
+msgstr "正在播放"
+
+msgid "Track Cover"
+msgstr "歌曲封面"
+
+msgid "Track Title"
+msgstr "歌曲标题"
+
+msgid "Artist"
+msgstr "艺术家"
+
+msgid "Next in Queue"
+msgstr "下一首队列"
+
+msgid "Cover"
+msgstr "封面"
+
+msgid "Select a track"
+msgstr "选择曲目"
+
+msgid "Shuffle"
+msgstr "随机播放"
+
+msgid "Previous Track"
+msgstr "上一首"
+
+msgid "Play/Pause"
+msgstr "播放/暂停"
+
+msgid "Next Track"
+msgstr "下一首"
+
+msgid "Repeat"
+msgstr "循环"
+
+msgid "Fullscreen Mode"
+msgstr "全屏模式"
+
+msgid "Show Track Details"
+msgstr "显示曲目详情"
+
+msgid "Mute/Unmute"
+msgstr "静音/取消静音"
+
+msgid "Add to Queue"
+msgstr "添加到队列"
+
+msgid "New Playlist"
+msgstr "新播放列表"
+
+msgid "Playlist is empty"
+msgstr "播放列表为空"
+
+msgid "Failed to load music."
+msgstr "加载音乐失败。"
+
+msgid "Unlike"
+msgstr "取消点赞"
+
+msgid "Your personal favorites"
+msgstr "你的个人收藏"
+
+msgid "Enter playlist name:"
+msgstr "输入播放列表名称："
+
+msgid "Are you sure you want to delete this playlist?"
+msgstr "你确定要删除这个播放列表吗？"
+
+msgid "This track is downloading."
+msgstr "此曲目正在下载中。"
+
+msgid "Please wait for the current download to finish."
+msgstr "请等待当前下载完成。"
+
+msgid "Downloading error"
+msgstr "下载出错"
+
+msgid "Finished!"
+msgstr "已完成！"
+
+msgid "Upload Music"
+msgstr "上传音乐"
+
+msgid "To Home"
+msgstr "回到主页"
+
+msgid "Drag & Drop Cover"
+msgstr "拖放封面图片"
+
+msgid "or click to select"
+msgstr "或点击进行选择"
+
+msgid "Cover Preview"
+msgstr "封面预览"
+
+msgid "Remove Cover"
+msgstr "移除封面"
+
+msgid "Title of your track"
+msgstr "曲目标题"
+
+msgid "Genre"
+msgstr "流派"
+
+msgid "Start typing to search for a genre..."
+msgstr "开始输入以搜索流派..."
+
+msgid "E.g.: chill, summer, vibe"
+msgstr "例如：chill, summer, vibe"
+
+msgid "Up to 5 tags. Enter a tag and press Enter."
+msgstr "最多 5 个标签。输入一个标签后按回车。"
+
+msgid "Audio File"
+msgstr "音频文件"
+
+msgid "Select file (MP3, WAV, OGG)"
+msgstr "选择文件 (MP3, WAV, OGG)"
+
+msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
+msgstr "这段音频很短 (< 30秒)。它是一个模因还是音效？"
+
+msgid "Please use the Standard Uploader for short sounds."
+msgstr "短音频请使用标准上传器。"
+
+msgid "Go to Standard Uploader"
+msgstr "前往标准上传器"
+
+msgid "I agree with the"
+msgstr "我同意"
+
+msgid "terms"
+msgstr "条款"
+
+msgid "policy"
+msgstr "政策"
+
+msgid "Cover image is too large (max. 5 MB)"
+msgstr "封面图片过大 (最大 5 MB)"
+
+#, python-brace-format
+msgid "You can add no more than ${MAX_TAGS} tags."
+msgstr "你最多只能添加 ${MAX_TAGS} 个标签。"
+
+#, python-brace-format
+msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
+msgstr "标签长度不能超过 ${MAX_TAG_LENGTH} 个字符。"
+
+msgid "Audio file is too large (max. 20 MB)"
+msgstr "音频文件过大 (最大 20 MB)"
+
+msgid "Server error:"
+msgstr "服务器错误："
+
+msgid "Music uploaded successfully!"
+msgstr "音乐上传成功！"
+
+msgid "Payment Cancelled"
+msgstr "支付已取消"
+
+msgid ""
+"Your payment was not completed. You can try again or contact support if you "
+"face any issues."
+msgstr "你的支付未完成。你可以重试，如果遇到任何问题，请联系支持。"
+
+msgid "Try Again"
+msgstr "重试"
+
+msgid "Contact Support"
+msgstr "联系支持"
+
+msgid "Payment Successful"
+msgstr "支付成功"
+
+msgid "Thank you for your support! It means a lot to us."
+msgstr "感谢你的支持！这对我们意义重大。"
+
+msgid "Your Order ID is:"
+msgstr "你的订单 ID 是："
+
+msgid "Empty URL"
+msgstr "空 URL"
+
+msgid "Invalid response from processing service."
+msgstr "来自处理服务的响应无效。"
+
+msgid "Error from processing service:"
+msgstr "来自处理服务的错误："
+
+msgid "Failed to communicate with the media processing service."
+msgstr "无法与媒体处理服务通信。"
+
+msgid "Processing service returned success but no sound link."
+msgstr "处理服务返回成功，但没有提供声音链接。"
+
+msgid ""
+"Multiple items found, but no direct audio link provided by processing "
+"service."
+msgstr "找到多个项目，但处理服务未提供直接音频链接。"
+
+msgid "Processing service returned local processing but no sound link."
+msgstr "处理服务返回了本地处理，但没有提供声音链接。"
+
+msgid "Invalid email."
+msgstr "无效的电子邮件。"
+
+msgid "Username cannot be empty."
+msgstr "用户名不能为空。"
+
+msgid "Username should be longer than 3 characters."
+msgstr "用户名应长于 3 个字符。"
+
+msgid "Username should be shorter than 16 characters."
+msgstr "用户名应短于 16 个字符。"
+
+msgid "Username already exists."
+msgstr "用户名已存在。"
+
+msgid "Bio is too long. Max 250 characters."
+msgstr "个人简介过长。上限 250 个字符。"
+
+msgid "Invalid image."
+msgstr "无效图片。"
+
+msgid "Profile updated successfully"
+msgstr "个人资料更新成功"
+
+msgid "Not authenticated."
+msgstr "未认证。"
+
+msgid "Playlist name cannot be empty."
+msgstr "播放列表名称不能为空。"
+
+msgid "Playlist name is too long. Max 32 chars."
+msgstr "播放列表名称过长。上限 32 个字符。"
+
+msgid "Playlist name is too short. Min 4 chars."
+msgstr "播放列表名称过短。至少 4 个字符。"
+
+msgid "Playlist not found."
+msgstr "未找到播放列表。"
+
+msgid "You don't have permission."
+msgstr "你没有权限。"
+
+msgid "Playlist updated successfully."
+msgstr "播放列表更新成功。"
+
+msgid "Please fill all fields."
+msgstr "请填写所有字段。"
+
+msgid "Email should be longer than 3 characters."
+msgstr "电子邮件应长于 3 个字符。"
+
+msgid "Password should be longer than 8 characters."
+msgstr "密码应长于 8 个字符。"
+
+msgid "Please pass reCAPTCHA check (1)."
+msgstr "请通过 reCAPTCHA 验证 (1)。"
+
+msgid "Could not get your IP."
+msgstr "无法获取你的 IP。"
+
+msgid "Please pass reCAPTCHA check (2)."
+msgstr "请通过 reCAPTCHA 验证 (2)。"
+
+msgid "Could not verify reCAPTCHA."
+msgstr "无法验证 reCAPTCHA。"
+
+#, fuzzy
+msgid "Account with this username does not exist."
+msgstr "该用户名/电子邮箱对应的账号不存在。"
+
+msgid "Account with this email does not exist."
+msgstr "使用该电子邮箱的账号不存在。"
+
+msgid "Invalid password."
+msgstr "无效密码。"
+
+msgid "Email should be longer than 5 characters."
+msgstr "电子邮件应长于 5 个字符。"
+
+msgid "Account with this email already exists."
+msgstr "该电子邮箱已被注册。"
+
+msgid "Invalid data."
+msgstr "无效数据。"
+
+msgid "You already have a playlist with this name."
+msgstr "你已经有一个同名的播放列表。"
+
+msgid "Could not find or create playlist."
+msgstr "无法找到或创建播放列表。"
+
+#, python-format
+msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
+msgstr "%(count)s 条声音已添加到播放列表“%(playlist_name)s”。"
+
+#, python-format
+msgid "%(count)s sounds were already in the playlist and were skipped."
+msgstr "%(count)s 条声音已在播放列表中，已跳过。"
+
+msgid "No new sounds were added. They might already be in the playlist."
+msgstr "没有添加新声音。它们可能已经存在于播放列表中。"
+
+msgid "Sound removed from playlist."
+msgstr "声音已从播放列表中移除。"
+
+msgid "Sound not found in this playlist."
+msgstr "播放列表中未找到该声音。"
+
+msgid "Playlist deleted."
+msgstr "播放列表已删除。"
+
+msgid "Sound ID is required."
+msgstr "需要声音 ID。"
+
+msgid "Sound not found."
+msgstr "未找到声音。"
+
+msgid "Sound deleted."
+msgstr "声音已删除。"
+
+msgid "An error occurred while deleting the sound."
+msgstr "删除声音时出错。"
+
+msgid "Authentication required"
+msgstr "需要认证"
+
+msgid "Upload in progress. Please wait."
+msgstr "上传正在进行中。请稍候。"
+
+msgid "Cover file must be an image."
+msgstr "封面文件必须是图片。"
+
+#, fuzzy
+msgid "Failed to upload cover to CDN."
+msgstr "加载评论失败。"
+
+msgid "Invalid URL format"
+msgstr "无效的 URL 格式"
+
+msgid "Cannot access URL"
+msgstr "无法访问 URL"
+
+#, python-brace-format
+msgid "Failed to download file: {}"
+msgstr "下载文件失败：{}"
+
+msgid "File too large"
+msgstr "文件过大"
+
+msgid "File too small"
+msgstr "文件过小"
+
+msgid "No file or URL provided"
+msgstr "未提供文件或 URL"
+
+msgid "Sound was queued for upload"
+msgstr "声音已加入上传队列"
+
+msgid "Upload timeout. Please try again."
+msgstr "上传超时。请重试。"
+
+msgid "Upload failed. Please try again."
+msgstr "上传失败。请重试。"
+
+msgid "Sound liked."
+msgstr "已点赞声音。"
+
+msgid "Sound unliked."
+msgstr "已取消点赞声音。"
+
+msgid "You can only boost your own sounds."
+msgstr "你只能推广你自己的声音。"
+
+msgid "This sound is already boosted."
+msgstr "此声音已经在推广中。"
+
+msgid "Authenticated user not found."
+msgstr "未找到已认证用户。"
+
+msgid "Free boosts are for VIP users only."
+msgstr "免费推广仅限 VIP 用户。"
+
+#, python-format
+msgid ""
+"Your next free boost will be available in %(hours)d hours and %(minutes)d "
+"minutes."
+msgstr "你的下一次免费推广将在 %(hours)d 小时 %(minutes)d 分钟后可用。"
+
+#, python-format
+msgid "Insufficient PAW. You need %(cost)s PAW to boost."
+msgstr "PAW 不足。你需要 %(cost)s PAW 来推广。"
+
+#, python-format
+msgid "Your sound has been boosted for %(hours)d hours!"
+msgstr "你的声音已成功推广，持续 %(hours)d 小时！"
+
+msgid "You cannot blacklist yourself."
+msgstr "你不能将自己加入黑名单。"
+
+msgid "User removed from blacklist."
+msgstr "用户已从黑名单中移除。"
+
+msgid "User added to blacklist."
+msgstr "用户已加入黑名单。"
+
+msgid "Please specify a reason. (min 5 chars)"
+msgstr "请注明原因。(至少 5 个字符)"
+
+msgid "Please specify an email."
+msgstr "请注明电子邮箱。"
+
+msgid "Reason should be shorter than 1024 characters."
+msgstr "原因长度应短于 1024 个字符。"
+
+msgid "Sound reported."
+msgstr "声音已举报。"
+
+#, fuzzy
+msgid "Failed to upload cover image to CDN."
+msgstr "加载评论失败。"
+
+msgid "Sound disappeared during edit."
+msgstr "编辑期间声音消失。"
+
+msgid "Sound updated successfully."
+msgstr "声音更新成功。"
+
+msgid "An internal error occurred."
+msgstr "发生内部错误。"
+
+msgid "Invalid date."
+msgstr "日期无效。"
+
+msgid "Invalid role."
+msgstr "角色无效。"
+
+msgid "Role updated."
+msgstr "角色已更新。"
+
+msgid "You cannot block yourself."
+msgstr "你不能屏蔽自己。"
+
+msgid "User not found."
+msgstr "未找到用户。"
+
+msgid "User blocked."
+msgstr "用户已封禁。"
+
+msgid "An internal error occurred while blocking the user."
+msgstr "封禁用户时发生内部错误。"
+
+msgid "Passwords do not match."
+msgstr "密码不匹配。"
+
+msgid "Invalid key."
+msgstr "无效密钥。"
+
+msgid "User with this email not found."
+msgstr "未找到使用该电子邮箱的用户。"
+
+msgid "Password changed."
+msgstr "密码已更改。"
+
+msgid "Email is required."
+msgstr "电子邮箱为必填项。"
+
+msgid "An email has already been sent to this address."
+msgstr "邮件已发送至该地址。"
+
+msgid "Email sent. Check your inbox."
+msgstr "邮件已发送。请检查你的收件箱。"
+
+msgid "Invalid user ID."
+msgstr "无效的用户 ID。"
+
+msgid "Password cannot be empty."
+msgstr "密码不能为空。"
+
+msgid "Not an admin."
+msgstr "非管理员。"
+
+msgid "Cover image is too large (max 5MB)."
+msgstr "封面图片过大 (最大 5MB)。"
+
+#, python-brace-format
+msgid "Audio file is too large (max {size}MB)."
+msgstr "音频文件过大 (最大 {size}MB)。"
+
+msgid "Music track was queued for processing."
+msgstr "曲目已加入处理队列。"
+
+msgid "Upload failed due to an internal error."
+msgstr "由于内部错误，上传失败。"
+
+msgid "Name required"
+msgstr "需要名称"
+
+msgid "Style is too long."
+msgstr "样式内容过长。"
+
+msgid "Invalid or unsafe CSS."
+msgstr "CSS 无效或不安全。"
+
+msgid "This color is reserved for staff members."
+msgstr "此颜色为工作人员预留。"
+
+msgid "Nickname style updated successfully!"
+msgstr "昵称样式更新成功！"
+
+#, python-format
+msgid "Not enough PAW. You need %(cost)s PAW to change your nickname style."
+msgstr "PAW 不足。你需要 %(cost)s PAW 来更改昵称样式。"
+
+msgid "Nickname style purchased and updated for 100 PAW!"
+msgstr "花费 100 PAW 购买并更新了昵称样式！"
+
+#, python-brace-format
+msgid "{actor1} and {actor2}"
+msgstr "{actor1} 和 {actor2}"
+
+#, python-format
+msgid "and %d other"
+msgstr "以及另外 %d 人"
+
+#, python-format
+msgid "and %d others"
+msgstr "以及另外 %d 人"
+
+#, python-brace-format
+msgid "{actor1}, {actor2} {others}"
+msgstr "{actor1}、{actor2} {others}"
+
+msgid "[actor] liked your sound [entity]."
+msgstr "[actor] 点赞了你的声音 [entity]。"
+
+msgid "[actor] liked your comment on [entity]."
+msgstr "[actor] 点赞了你在 [entity] 下的评论。"
+
+msgid "[actor] mentioned you in a comment on [entity]."
+msgstr "[actor] 在 [entity] 下的评论中提到了你。"
+
+msgid "[actor] downloaded your sound [entity]."
+msgstr "[actor] 下载了你的声音 [entity]。"
+
+msgid "[actor] left a comment on your sound [entity]."
+msgstr "[actor] 在你的声音 [entity] 下发表了评论。"
+
+msgid "[actor] replied to your comment on [entity]."
+msgstr "[actor] 回复了你在 [entity] 下的评论。"
+
+msgid "Your sound [entity] has been successfully processed!"
+msgstr "你的声音 [entity] 已成功处理！"
+
+msgid ""
+"We couldn't process your sound [entity]. Please try uploading it again."
+msgstr "我们无法处理你的声音 [entity]。请尝试重新上传。"
+
+msgid "An administrator removed your sound: [entity]."
+msgstr "管理员移除了你的声音：[entity]。"
+
+msgid "An administrator removed your comment on [entity]."
+msgstr "管理员移除了你在 [entity] 下的评论。"
+
+msgid "Anonymous"
+msgstr "匿名"
+
+#~ msgid "Create an Account"
+#~ msgstr "创建账号"
+
+#~ msgid "5-16 characters, a-z, 0-9"
+#~ msgstr "5-16 个字符，包含 a-z, 0-9"
+
+#~ msgid "At least 8 characters"
+#~ msgstr "至少 8 个字符"
+
+#~ msgid "Terms"
+#~ msgstr "条款"
+
+#~ msgid "Policy"
+#~ msgstr "政策"
+
+#~ msgid "You must agree to the Terms and Policy."
+#~ msgstr "你必须同意条款与政策。"
+
+#~ msgid "Registration successful!"
+#~ msgstr "注册成功！"
+
+#~ msgid "Minecraft"
+#~ msgstr "Minecraft"
+
+#~ msgid "Receive a premium tank and status for 7 days."
+#~ msgstr "获得 7 天高级坦克和会员身份。"
+
+#~ msgid "Password does not meet security requirements."
+#~ msgstr "密码不符合安全要求。"
+
+#~ msgid "Unlock VIP features!"
+#~ msgstr "解锁 VIP 功能！"
