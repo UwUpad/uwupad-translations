@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:34+0000\n"
+"POT-Creation-Date: 2026-02-23 08:37+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -3401,36 +3401,3 @@ msgstr "Un admin a supprimé votre commentaire sur [entity]."
 
 msgid "Anonymous"
 msgstr "Anonyme"
-
-#~ msgid "Create an Account"
-#~ msgstr "Créer un compte"
-
-#~ msgid "5-16 characters, a-z, 0-9"
-#~ msgstr "5-16 caractères, a-z, 0-9"
-
-#~ msgid "At least 8 characters"
-#~ msgstr "Au moins 8 caractères"
-
-#~ msgid "Terms"
-#~ msgstr "Conditions"
-
-#~ msgid "Policy"
-#~ msgstr "Politique"
-
-#~ msgid "You must agree to the Terms and Policy."
-#~ msgstr "Vous devez accepter les Conditions et la Politique."
-
-#~ msgid "Registration successful!"
-#~ msgstr "Inscription réussie !"
-
-#~ msgid "Minecraft"
-#~ msgstr "Minecraft"
-
-#~ msgid "Receive a premium tank and status for 7 days."
-#~ msgstr "Recevez un tank premium et un statut pour 7 jours."
-
-#~ msgid "Password does not meet security requirements."
-#~ msgstr "Mot de passe non sécurisé."
-
-#~ msgid "Unlock VIP features!"
-#~ msgstr "Débloquez les fonctions VIP !"
