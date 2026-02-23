@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 12:00+0000\n"
+"POT-Creation-Date: 2026-02-23 13:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: uk <LL@li.org>\n"
@@ -3147,14 +3147,17 @@ msgstr "Email має бути довшим за 5 символів."
 msgid "Account with this email already exists."
 msgstr "Акаунт з таким email вже існує."
 
+msgid "Invalid sound ID."
+msgstr "Неправильний ID звуку."
+
 msgid "Invalid data."
 msgstr "Некоректні дані."
 
 msgid "You already have a playlist with this name."
 msgstr "У вас вже є плейлист з такою назвою."
 
-msgid "Could not find or create playlist."
-msgstr "Не вдалося знайти або створити плейлист."
+msgid "No valid sounds found."
+msgstr "Не знайдено дійсних звуків."
 
 #, python-format
 msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
@@ -3358,9 +3361,6 @@ msgstr "Музичний трек додано до черги на обробк
 msgid "Upload failed due to an internal error."
 msgstr "Помилка завантаження через внутрішню помилку."
 
-msgid "Name required"
-msgstr "Потрібна назва"
-
 msgid "Style is too long."
 msgstr "Стиль занадто довгий."
 
@@ -3448,3 +3448,9 @@ msgstr "Анонім"
 
 #~ msgid "Go to Standard Uploader"
 #~ msgstr "До стандартного завантажувача"
+
+#~ msgid "Could not find or create playlist."
+#~ msgstr "Не вдалося знайти або створити плейлист."
+
+#~ msgid "Name required"
+#~ msgstr "Потрібна назва"

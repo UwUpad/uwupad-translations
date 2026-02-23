@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 12:00+0000\n"
+"POT-Creation-Date: 2026-02-23 13:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
@@ -3193,14 +3193,17 @@ msgstr "Электрондық пошта 5 таңбадан ұзағырақ б
 msgid "Account with this email already exists."
 msgstr "Бұл электрондық поштамен аккаунт қазірдің өзінде бар."
 
+msgid "Invalid sound ID."
+msgstr "Қате дыбыс идентификаторы."
+
 msgid "Invalid data."
 msgstr "Жарамсыз деректер."
 
 msgid "You already have a playlist with this name."
 msgstr "Сізде осындай атаудағы плейлист бар."
 
-msgid "Could not find or create playlist."
-msgstr "Ойнату тізімін табу немесе жасау мүмкін болмады."
+msgid "No valid sounds found."
+msgstr "Жарамды дыбыстар табылмады."
 
 #, python-format
 msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
@@ -3407,9 +3410,6 @@ msgstr "Музыкалық трек өңдеуге кезекке қойылды
 msgid "Upload failed due to an internal error."
 msgstr "Ішкі қате себепті жүктеу сәтсіз аяқталды."
 
-msgid "Name required"
-msgstr "Аты енгізу қажет."
-
 msgid "Style is too long."
 msgstr "Стиль тым ұзақ."
 
@@ -3501,3 +3501,9 @@ msgstr "Аноним"
 
 #~ msgid "Go to Standard Uploader"
 #~ msgstr "Стандартты жүктеушіге өту"
+
+#~ msgid "Could not find or create playlist."
+#~ msgstr "Ойнату тізімін табу немесе жасау мүмкін болмады."
+
+#~ msgid "Name required"
+#~ msgstr "Аты енгізу қажет."

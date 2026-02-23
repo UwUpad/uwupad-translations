@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 12:00+0000\n"
+"POT-Creation-Date: 2026-02-23 13:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -3161,14 +3161,17 @@ msgstr "ایمیل باید بیشتر از ۵ کاراکتر باشد."
 msgid "Account with this email already exists."
 msgstr "حسابی با این ایمیل قبلاً وجود داشته است."
 
+msgid "Invalid sound ID."
+msgstr "شناسه صدای نامعتبر است."
+
 msgid "Invalid data."
 msgstr "داده‌های نامعتبر."
 
 msgid "You already have a playlist with this name."
 msgstr "قبلاً یک لیست پخش با این نام دارید."
 
-msgid "Could not find or create playlist."
-msgstr "نمی‌توان لیست پخش را پیدا کرد یا ایجاد کرد."
+msgid "No valid sounds found."
+msgstr "هیچ صدای معتبر پیدا نشد."
 
 #, python-format
 msgid "%(count)s sounds added to playlist '%(playlist_name)s'."
@@ -3374,9 +3377,6 @@ msgstr "قطعه موسیقی برای پردازش در صف قرار گرفت.
 msgid "Upload failed due to an internal error."
 msgstr "آپلود به دلیل خطای داخلی ناموفق بود."
 
-msgid "Name required"
-msgstr "نام لازم است."
-
 msgid "Style is too long."
 msgstr "سبک خیلی طولانی است."
 
@@ -3465,3 +3465,9 @@ msgstr "ناشناس"
 
 #~ msgid "Go to Standard Uploader"
 #~ msgstr "برو به آپلودر استاندارد"
+
+#~ msgid "Could not find or create playlist."
+#~ msgstr "نمی‌توان لیست پخش را پیدا کرد یا ایجاد کرد."
+
+#~ msgid "Name required"
+#~ msgstr "نام لازم است."
