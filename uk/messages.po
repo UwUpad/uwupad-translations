@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:42+0000\n"
+"POT-Creation-Date: 2026-02-23 09:14+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: uk <LL@li.org>\n"
@@ -104,85 +104,87 @@ msgid "About us"
 msgstr "Про нас"
 
 msgid "Admin: Minecraft Management"
-msgstr ""
+msgstr "Адмін: Управління Minecraft"
 
 msgid "Minecraft Server Management"
-msgstr ""
+msgstr "Управління сервером Minecraft"
 
 msgid "Whitelist and link user accounts."
-msgstr ""
+msgstr "Білий список та прив’язати облікові записи користувачів."
 
 msgid "Add / Link Player"
-msgstr ""
+msgstr "Додати / Прив’язати гравця"
 
 msgid "UwUpad User (ID or Username)"
-msgstr ""
+msgstr "Користувач UwUpad (ID або ім'я користувача)"
 
 msgid "Minecraft Username"
-msgstr ""
+msgstr "Ім'я користувача Minecraft"
 
 msgid "Link"
 msgstr "Прив'язати"
 
 msgid "Linked Accounts"
-msgstr ""
+msgstr "Прив’язані акаунти"
 
 msgid "UwUpad User"
-msgstr ""
+msgstr "Користувач UwUpad"
 
 msgid "Minecraft UUID"
-msgstr ""
+msgstr "UUID Minecraft"
 
 msgid "Actions"
 msgstr "Дії"
 
 msgid "Confirm"
-msgstr ""
+msgstr "Підтвердити"
 
 msgid "Cancel"
 msgstr "Скасувати"
 
 msgid "Submit"
-msgstr ""
+msgstr "Надіслати"
 
 msgid "No linked users found."
-msgstr ""
+msgstr "Не знайдено прив’язаних акаунтів."
 
 msgid "Failed to load user list."
-msgstr ""
+msgstr "Не вдалося завантажити список користувачів."
 
 msgid "Failed to link user."
-msgstr ""
+msgstr "Не вдалося прив’язати користувача."
 
 msgid "User Linked Successfully"
-msgstr ""
+msgstr "Користувача успішно прив’язано"
 
 msgid "OK"
-msgstr ""
+msgstr "ОК"
 
 msgid "Error"
 msgstr "Помилка"
 
 msgid "Unlink Account?"
-msgstr ""
+msgstr "Від’єднати акаунт?"
 
 #, python-brace-format
 msgid ""
 "Are you sure you want to unlink ${username}? This will remove them from the "
 "whitelist."
 msgstr ""
+"Ви впевнені, що хочете від’єднати ${username}? Це видалить його з білого "
+"списку."
 
 msgid "Unlink"
 msgstr "Відв'язати"
 
 msgid "Failed to unlink user."
-msgstr ""
+msgstr "Не вдалося від’єднати користувача."
 
 msgid "User Unlinked"
-msgstr ""
+msgstr "Користувача від’єднано."
 
 msgid "Successfully unlinked"
-msgstr ""
+msgstr "Уssпішно від’єднано"
 
 msgid "Advertise on UwUpad"
 msgstr "Реклама на UwUpad"
@@ -497,25 +499,27 @@ msgid "I disabled it, Refresh"
 msgstr "Я вимкнув, оновити"
 
 msgid "Please wait"
-msgstr ""
+msgstr "Будь ласка, зачекайте"
 
 msgid "How to disable?"
 msgstr "Як вимкнути?"
 
 msgid "Continue to site (AdBlocker active)"
-msgstr ""
+msgstr "Продовжити до сайту (AdBlocker увімкено)"
 
 msgid "Open"
-msgstr ""
+msgstr "Відкрити"
 
 msgid "Join Millions of Players Worldwide"
-msgstr ""
+msgstr "Приєднуйтесь до мільйонів гравців по всьому світу"
 
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
+"Відчуйте епічні танкові битви. Завантажуйте зараз і отримайте безкоштовний "
+"танк!"
 
 msgid "Play Now"
-msgstr ""
+msgstr "Грай зараз"
 
 msgid "Change Password"
 msgstr "Змінити пароль"
@@ -631,7 +635,7 @@ msgid "Top Supporters 💖"
 msgstr "Велика подяка 💖"
 
 msgid "Support Our Project"
-msgstr ""
+msgstr "Підтримай наш проєкт"
 
 msgid ""
 "UwUpad is free and lives on your support. Donations keep servers running!"
@@ -1533,10 +1537,12 @@ msgid "Upload a Sound"
 msgstr "Завантажити звук"
 
 msgid "Creator Challenge: Free VIP"
-msgstr ""
+msgstr "Челендж творців: Безкоштовний VIP"
 
 msgid "Upload sounds that get into recommendations to unlock 1 week of VIP!"
 msgstr ""
+"Завантажуй звуки, які потрапляють у рекомендації, щоб розблокувати 1 тиждень"
+" VIP!"
 
 msgid "Progress:"
 msgstr "Прогрес:"
@@ -2137,7 +2143,7 @@ msgid "Save & Apply"
 msgstr "Зберегти та застосувати"
 
 msgid "Donate small amount to get 3 days VIP"
-msgstr ""
+msgstr "Пожертвуй невелику суму, щоб отримати 3 дні VIP"
 
 msgid "Say Thanks"
 msgstr "Скажіть дякую"
@@ -2152,7 +2158,7 @@ msgid "Telegram"
 msgstr "Телеграм"
 
 msgid "Say Thanks (+3 Days VIP)"
-msgstr ""
+msgstr "Скажи дякуємо (+3 дні VIP)"
 
 msgid "Search"
 msgstr "Пошук"
@@ -2179,7 +2185,7 @@ msgid "Download Top 50 Sounds"
 msgstr "Завантажити топ 50 звуків"
 
 msgid "This pack contains the 50 most popular sounds of the"
-msgstr ""
+msgstr "Цей пакет містить 50 найпопулярніших звуків з"
 
 msgid "ready for Soundpad."
 msgstr "готово для Soundpad."
@@ -2209,7 +2215,7 @@ msgid "Download failed"
 msgstr "Завантаження не вдалося"
 
 msgid "Access Restricted"
-msgstr ""
+msgstr "Доступ обмежено"
 
 msgid "To continue listening, please subscribe to our Telegram channel."
 msgstr ""
@@ -2221,19 +2227,19 @@ msgstr "Важливо:"
 
 msgid ""
 "Do not unsubscribe! If you leave the channel, you will need to verify again."
-msgstr ""
+msgstr "Не відписуйся! Якщо залишиш канал, доведеться пройти перевірку знову."
 
 msgid "Subscribe"
 msgstr "Підписатися"
 
 msgid "Subscribe to unlock"
-msgstr ""
+msgstr "Підпишись, щоб розблокувати"
 
 msgid "Verifying subscription..."
-msgstr ""
+msgstr "Перевіряємо підписку..."
 
 msgid "Continue"
-msgstr ""
+msgstr "Продовжити"
 
 msgid "This track is already downloading."
 msgstr "Цей трек вже завантажується."
@@ -2784,7 +2790,7 @@ msgid "Sounds / Memes"
 msgstr "Звуки / Меми"
 
 msgid "Sorting"
-msgstr ""
+msgstr "Сортування"
 
 msgid "Hot"
 msgstr "Тренди"
@@ -2793,19 +2799,19 @@ msgid "Period"
 msgstr "Період"
 
 msgid "All time"
-msgstr ""
+msgstr "За весь час"
 
 msgid "Year"
-msgstr ""
+msgstr "Рік"
 
 msgid "Month"
-msgstr ""
+msgstr "Місяць"
 
 msgid "Week"
-msgstr ""
+msgstr "Тиждень"
 
 msgid "Day"
-msgstr ""
+msgstr "День"
 
 msgid "Now"
 msgstr "Зараз"
@@ -2901,16 +2907,16 @@ msgid "Are you sure you want to delete this playlist?"
 msgstr "Ви впевнені, що хочете видалити цей плейлист?"
 
 msgid "This track is downloading."
-msgstr ""
+msgstr "Цей трек завантажується."
 
 msgid "Please wait for the current download to finish."
-msgstr ""
+msgstr "Зачекай, поки завершиться поточне завантаження."
 
 msgid "Downloading error"
-msgstr ""
+msgstr "Помилка завантаження"
 
 msgid "Finished!"
-msgstr ""
+msgstr "Готово!"
 
 msgid "Upload Music"
 msgstr "Завантажити музику"
@@ -3103,7 +3109,7 @@ msgid "Could not verify reCAPTCHA."
 msgstr "Не вдалося перевірити reCAPTCHA."
 
 msgid "Account with this username does not exist."
-msgstr ""
+msgstr "Обліковий запис з таким ім'ям користувача не існує."
 
 msgid "Account with this email does not exist."
 msgstr "Акаунт з таким email не існує."
@@ -3168,7 +3174,7 @@ msgid "Cover file must be an image."
 msgstr "Файл обкладинки має бути зображенням."
 
 msgid "Failed to upload cover to CDN."
-msgstr ""
+msgstr "Не вдалося завантажити обкладинку на CDN."
 
 msgid "Invalid URL format"
 msgstr "Невірний формат URL"
@@ -3253,7 +3259,7 @@ msgid "Sound reported."
 msgstr "Скаргу на звук надіслано."
 
 msgid "Failed to upload cover image to CDN."
-msgstr ""
+msgstr "Не вдалося завантажити зображення обкладинки на CDN."
 
 msgid "Sound disappeared during edit."
 msgstr "Звук зник під час редагування."

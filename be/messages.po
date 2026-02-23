@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 08:42+0000\n"
+"POT-Creation-Date: 2026-02-23 09:14+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: be <LL@li.org>\n"
@@ -347,58 +347,58 @@ msgid "Welcome back,"
 msgstr "Сардэчна запрашаем,"
 
 msgid "Available for VIP users only"
-msgstr ""
+msgstr "Даступна толькі для VIP-карыстальнікаў"
 
 msgid "Bulk Download is a VIP Feature"
-msgstr ""
+msgstr "Масавае спампоўванне — VIP-функцыя"
 
 msgid "Upgrade to VIP to download entire playlists as a .zip file!"
-msgstr ""
+msgstr "Абнавіце да VIP, каб загружаць цэлыя плэйлісты ў выглядзе файла .zip!"
 
 msgid "Pause"
-msgstr ""
+msgstr "Паўза"
 
 msgid "This playlist is empty."
-msgstr ""
+msgstr "Гэты плэйліст пусты."
 
 msgid "Remove from download"
-msgstr ""
+msgstr "Выдаліць з загрузкі"
 
 msgid "Could not load playlist."
-msgstr ""
+msgstr "Не атрымалася загрузіць плэйліст."
 
 msgid "Download cancelled."
-msgstr ""
+msgstr "Загрузка скасавана."
 
 msgid "Downloading"
-msgstr ""
+msgstr "Ідзе загрузка"
 
 msgid "Creating ZIP file... Please wait."
-msgstr ""
+msgstr "Ствараецца ZIP-файл... Калі ласка, пачакайце."
 
 msgid "Compressing..."
-msgstr ""
+msgstr "Сціскаецца..."
 
 msgid "Resume"
-msgstr ""
+msgstr "Працягнуць"
 
 msgid "Paused..."
-msgstr ""
+msgstr "Паўза..."
 
 msgid "Resuming..."
-msgstr ""
+msgstr "Працягваецца..."
 
 msgid "Import cancelled."
-msgstr ""
+msgstr "Імпарт скасаваны."
 
 msgid "Importing"
-msgstr ""
+msgstr "Імпартую..."
 
 msgid "Import complete!"
-msgstr ""
+msgstr "Імпарт завершаны!"
 
 msgid "Sound data not loaded yet."
-msgstr ""
+msgstr "Звуковыя дадзеныя яшчэ не загружаныя."
 
 msgid "Error: Sound data not found."
 msgstr "Памылка: Дадзеныя гуку не знойдзены."
@@ -489,39 +489,42 @@ msgid "%(days)s d ago"
 msgstr "%(days)s дзён таму"
 
 msgid "AdBlock detected"
-msgstr ""
+msgstr "Выяўлены AdBlock."
 
 msgid ""
 "We rely on ads to keep our servers running. Please consider supporting us by"
 " disabling AdBlock or"
 msgstr ""
+"Мы залежым ад рэкламы, каб трымаць нашы серверы ў працоўным стане. "
+"Разгледзьце падтрымку, адключыўшы AdBlock або"
 
 msgid "getting VIP"
-msgstr ""
+msgstr "атрымаць VIP"
 
 msgid "I disabled it, Refresh"
-msgstr ""
+msgstr "Я адключыў гэта, абнавіце"
 
 msgid "Please wait"
-msgstr ""
+msgstr "Калі ласка, пачакайце"
 
 msgid "How to disable?"
-msgstr ""
+msgstr "Як адключыць?"
 
 msgid "Continue to site (AdBlocker active)"
-msgstr ""
+msgstr "Працягнуць на сайт (AdBlocker уключаны)"
 
 msgid "Open"
-msgstr ""
+msgstr "Адкрыць"
 
 msgid "Join Millions of Players Worldwide"
-msgstr ""
+msgstr "Далучайцеся да мільёнаў гульцоў па ўсім свеце"
 
 msgid "Experience epic tank battles. Download now and get a free tank!"
 msgstr ""
+"Спазнайце эпічныя танкавыя баі. Загрузіце зараз і атрымаеце бясплатны танк!"
 
 msgid "Play Now"
-msgstr ""
+msgstr "Гуляць зараз"
 
 msgid "Change Password"
 msgstr "Змяніць пароль"
@@ -573,88 +576,92 @@ msgid "Back to Home"
 msgstr "Вярнуцца на галоўную"
 
 msgid "Get in Touch"
-msgstr ""
+msgstr "Звязацца з намі"
 
 msgid ""
 "We are always open for communication. Choose a convenient way to contact us "
 "or leave a message through the form below."
 msgstr ""
+"Мы заўсёды адкрыты да камунікацыі. Выбірайце зручны спосаб кантактаваць з "
+"намі або пакіньце паведамленне праз форму ніжэй."
 
 msgid "Direct Contacts"
-msgstr ""
+msgstr "Прамыя кантакты"
 
 msgid "Telegram (Owner)"
-msgstr ""
+msgstr "Telegram (Уладальнік)"
 
 msgid "@daisov - for urgent matters"
-msgstr ""
+msgstr "@daisov - для тэрміновых пытанняў"
 
 msgid "Discord Server"
-msgstr ""
+msgstr "Сервер Discord"
 
 msgid "Join our community"
-msgstr ""
+msgstr "Далучайцеся да нашай супольнасці"
 
 msgid "Email"
 msgstr "Пошта"
 
 msgid "admin@uwupad.me - for suggestions"
-msgstr ""
+msgstr "admin@uwupad.me - для прапаноў"
 
 msgid "Telegram Bot"
-msgstr ""
+msgstr "Телеграм-бот"
 
 msgid "@uwupad_bot - for support"
-msgstr ""
+msgstr "@uwupad_bot - для падтрымкі"
 
 msgid "An error occurred. Please try again later."
-msgstr ""
+msgstr "Адбылася памылка. Калі ласка, паспрабуйце пазней."
 
 msgid "Feedback Form"
-msgstr ""
+msgstr "Форма зваротнай сувязі"
 
 msgid "Your Name"
-msgstr ""
+msgstr "Вашае імя"
 
 msgid "Your Email (for a reply)"
-msgstr ""
+msgstr "Ваш электронны адрас (для адказу)"
 
 msgid "Your Message..."
-msgstr ""
+msgstr "Ваш тэкст..."
 
 msgid "Send Message"
-msgstr ""
+msgstr "Адправіць паведамленне"
 
 msgid "Support UwUpad"
 msgstr "Падтрымаць UwUpad"
 
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgid "Top Supporters 💖"
-msgstr ""
+msgstr "Топ падтрымальнікаў 💖"
 
 msgid "Support Our Project"
-msgstr ""
+msgstr "Падтрымай наш праект"
 
 msgid ""
 "UwUpad is free and lives on your support. Donations keep servers running!"
 msgstr ""
+"UwUpad бясплатны і існуе за вашую падтрымку. Ахвяраванні трымаюць серверы ў "
+"працы!"
 
 msgid "Exchange Rate"
-msgstr ""
+msgstr "Курс валюты"
 
 msgid "Small help"
-msgstr ""
+msgstr "Невялікая дапамога"
 
 msgid "Coffee treat ☕"
-msgstr ""
+msgstr "Кававы падарунак ☕"
 
 msgid "Server costs"
-msgstr ""
+msgstr "Выдаткі на серверы"
 
 msgid "Big support 💖"
-msgstr ""
+msgstr "Вялікая падтрымка 💖"
 
 msgid "Or enter custom amount"
 msgstr "Або ўвядзіце сваю суму"
@@ -663,37 +670,37 @@ msgid "Donate"
 msgstr "Ахвяраваць"
 
 msgid "Secure payment via Telegram Stars or Crypto."
-msgstr ""
+msgstr "Бяспечны плацёж праз Telegram Stars або крыптавалюты."
 
 msgid "PAW tokens are added automatically as a thank you."
-msgstr ""
+msgstr "Токены PAW аўтаматычна дадаюцца як падзяка."
 
 msgid "Other ways to support"
-msgstr ""
+msgstr "Іншыя спосабы падтрымкі"
 
 msgid "Card, SBP, and more — via donation platform"
-msgstr ""
+msgstr "Карта, SBP і іншае — праз платформу ахвяраванняў"
 
 msgid "Crypto via Telegram"
-msgstr ""
+msgstr "Крыпта праз Telegram"
 
 msgid "Send crypto through @wallet bot — fast and easy"
-msgstr ""
+msgstr "Адпраўляйце крыптавалюту праз бота @wallet — хутка і проста"
 
 msgid "Direct Crypto Transfer"
-msgstr ""
+msgstr "Непасрэдная перадача крыпта"
 
 msgid "and more"
-msgstr ""
+msgstr "і іншае"
 
 msgid "Choose Cryptocurrency"
-msgstr ""
+msgstr "Выбірай крыптавалюту"
 
 msgid "Back to list"
-msgstr ""
+msgstr "Вярнуцца да спісу"
 
 msgid "Please enter a valid amount."
-msgstr ""
+msgstr "Калі ласка, увядзіце правільную суму."
 
 msgid "Failed to create payment link."
 msgstr "Не атрымалася стварыць спасылку для аплаты."
@@ -781,10 +788,10 @@ msgid "Comments"
 msgstr "Каментарыі"
 
 msgid "Comment Likes"
-msgstr ""
+msgstr "Лайкі ў каментарыях"
 
 msgid "Donations"
-msgstr ""
+msgstr "Ахвяраванні"
 
 msgid "Prev."
 msgstr "Папярэд."
@@ -805,7 +812,7 @@ msgid "No users found for this period."
 msgstr "Карыстальнікі за гэты перыяд не знойдзены."
 
 msgid "Error loading data:"
-msgstr ""
+msgstr "Памылка загрузкі дадзеных:"
 
 msgid "Login to UwUpad"
 msgstr "Уваход у UwUpad"
@@ -875,10 +882,10 @@ msgid "New Comments & Replies"
 msgstr "Новыя каментарыі і адказы"
 
 msgid "Mentions in Comments"
-msgstr ""
+msgstr "Згадкі ў каментарыях"
 
 msgid "Processing Errors"
-msgstr ""
+msgstr "Памылкі апрацоўкі"
 
 msgid "Admin Actions"
 msgstr "Дзеянні адміністратара"
@@ -961,15 +968,17 @@ msgid "Edit"
 msgstr "Рэдагаваць"
 
 msgid "Download Playlists"
-msgstr ""
+msgstr "Спампаваць плэйлісты"
 
 msgid ""
 "Downloading entire playlists as a .zip archive is a VIP feature. Upgrade now"
 " for instant access!"
 msgstr ""
+"Спампоўка ўсіх плэйлістаў у архіве .zip — гэта VIP-функцыя. Абнавіце зараз, "
+"каб атрымаць імгненны доступ!"
 
 msgid "Download Playlist (VIP only)"
-msgstr ""
+msgstr "Спампаваць плэйліст (толькі VIP)"
 
 msgid "Delete"
 msgstr "Выдаліць"
@@ -1026,16 +1035,16 @@ msgid "Sort: Most Sounds"
 msgstr "Сартаваць: Больш за ўсё гукаў"
 
 msgid "Sort: Oldest"
-msgstr ""
+msgstr "Сартаванне: Самыя старыя"
 
 msgid "Sort: Name (A-Z)"
-msgstr ""
+msgstr "Сартаванне: Імя (A-Z)"
 
 msgid "Sort: Name (Z-A)"
-msgstr ""
+msgstr "Сартаванне: Імя (Z-A)"
 
 msgid "Download Playlist"
-msgstr ""
+msgstr "Спампаваць плэйліст"
 
 msgid "No playlists found."
 msgstr "Плэйлісты не знойдзены."
@@ -1085,7 +1094,7 @@ msgid "Edit role"
 msgstr "Рэдагаваць ролю"
 
 msgid "Admin Edit"
-msgstr ""
+msgstr "Рэдагаванне адміністратара"
 
 msgid "Add to blacklist"
 msgstr "Дадаць у чорны спіс"
@@ -1100,7 +1109,7 @@ msgid "Total Likes"
 msgstr "Усяго падабаек"
 
 msgid "Comments Made"
-msgstr ""
+msgstr "Створаныя каментарыі"
 
 msgid "Uploaded"
 msgstr "Загружана"
@@ -1130,13 +1139,13 @@ msgid "Avatar"
 msgstr "Аватар"
 
 msgid "As a VIP, you can upload animated GIF avatars."
-msgstr ""
+msgstr "Як VIP, вы можаце загружаць анімаваныя GIF-аватары."
 
 msgid "Want animated GIF avatars?"
-msgstr ""
+msgstr "Хочаце анімаваныя GIF-аватары?"
 
 msgid "Upgrade to VIP!"
-msgstr ""
+msgstr "Перайдзіце на VIP!"
 
 msgid "Save Profile Info"
 msgstr "Захаваць інфармацыю профілю"
@@ -1181,36 +1190,38 @@ msgid "Close"
 msgstr "Закрыць"
 
 msgid "Edit Role for"
-msgstr ""
+msgstr "Рэдагаваць ролю для"
 
 msgid "Role"
-msgstr ""
+msgstr "Роля"
 
 msgid "Role expires on (optional)"
-msgstr ""
+msgstr "Тэрмін дзеяння ролі заканчваецца на дату (не абавязкова)"
 
 msgid "Leave empty for a permanent role."
-msgstr ""
+msgstr "Заставіць пустым — для пастаяннай ролі."
 
 msgid "Save changes"
-msgstr ""
+msgstr "Захаваць змены"
 
 msgid "Admin Panel: Edit User"
-msgstr ""
+msgstr "Панэль адміністратара: Рэдагаванне карыстальніка"
 
 msgid "Balance (PAW)"
-msgstr ""
+msgstr "Баланс (PAW)"
 
 msgid "Account Status"
-msgstr ""
+msgstr "Статус акаўнта"
 
 msgid "Is Active (user can log in)"
-msgstr ""
+msgstr "Ці актыўны (карыстальнік можа ўвайсці)"
 
 msgid ""
 "Unchecking this will prevent the user from logging in, but will not delete "
 "their content."
 msgstr ""
+"Калі зніміце гэты пункт, карыстальнік не зможа ўвайсці, але яго кантэнт не "
+"будзе выдалены."
 
 msgid "Confirm Style Change"
 msgstr "Пацвердзіць змену стылю"
@@ -1267,31 +1278,33 @@ msgstr ""
 "Атрымайце <strong>неабмежаваныя</strong> змены стылю і шмат чаго іншага!"
 
 msgid "This user has not posted any comments yet."
-msgstr ""
+msgstr "У гэтага карыстальніка пакуль няма каментарыяў."
 
 msgid "Failed to load comments."
 msgstr "Не атрымалася загрузіць каментарыі."
 
 msgid "Remove from blacklist"
-msgstr ""
+msgstr "Выдаліць з чорнага спісу"
 
 msgid "Are you sure you want to assign admin role? This grants full access."
 msgstr ""
+"Ці ўпэўнены вы, што хочаце прызначыць ролю адміністратара? Гэта дае поўны "
+"доступ."
 
 msgid "Are you sure you want to unlink your Discord account?"
 msgstr "Вы ўпэўнены, што хочаце адвязаць свой уліковы запіс Discord?"
 
 msgid "Could not load user data."
-msgstr ""
+msgstr "Немагчыма загрузіць дадзеныя карыстальніка."
 
 msgid "User updated successfully. Page will reload."
-msgstr ""
+msgstr "Карыстальнік паспяхова абноўлены. Старонка перазагрузіцца."
 
 msgid "An unknown error occurred."
 msgstr "Адбылася невядомая памылка."
 
 msgid "Register on UwUpad"
-msgstr ""
+msgstr "Зарэгіструйцеся на UwUpad"
 
 msgid "Create Account"
 msgstr "Стварыць уліковы запіс"
@@ -1300,7 +1313,7 @@ msgid "Already have an account?"
 msgstr "Ужо ёсць уліковы запіс?"
 
 msgid "Account created!"
-msgstr ""
+msgstr "Акаўнт створаны!"
 
 msgid "Reset Your Password"
 msgstr "Скінуць пароль"
@@ -1359,16 +1372,16 @@ msgid "EXPLICIT"
 msgstr "НЕЦЭНЗУРНА"
 
 msgid "Edit sound"
-msgstr ""
+msgstr "Рэдагаваць гук"
 
 msgid "Add a comment..."
 msgstr "Дадаць каментарый..."
 
 msgid "Remove image"
-msgstr ""
+msgstr "Выдаліць выяву"
 
 msgid "Attach image"
-msgstr ""
+msgstr "Дадаць выяву"
 
 msgid "Post"
 msgstr "Апублікаваць"
@@ -1383,22 +1396,22 @@ msgid "to comment."
 msgstr "каб каментаваць."
 
 msgid "Close (Esc)"
-msgstr ""
+msgstr "Зачыніць (Esc)"
 
 msgid "Zoom In"
-msgstr ""
+msgstr "Павялічыць"
 
 msgid "Zoom Out"
-msgstr ""
+msgstr "Зменшыць"
 
 msgid "Rotate Left"
-msgstr ""
+msgstr "Пакруціць налева"
 
 msgid "Rotate Right"
-msgstr ""
+msgstr "Пакруціць направа"
 
 msgid "Lightbox Image"
-msgstr ""
+msgstr "Выява ў лайтбоксе"
 
 msgid "You must be logged in to like sounds."
 msgstr "Вы павінны быць аўтарызаваны, каб ставіць падабайкі гукам."
@@ -1416,31 +1429,31 @@ msgid "Listen"
 msgstr "Слухаць"
 
 msgid "Edit Sound"
-msgstr ""
+msgstr "Рэдагаваць гук"
 
 msgid "Description"
-msgstr ""
+msgstr "Апісанне"
 
 msgid "Add a brief description..."
-msgstr ""
+msgstr "Дадайце кароткае апісанне..."
 
 msgid "Tags (comma separated)"
-msgstr ""
+msgstr "Тэгі (па косках)"
 
 msgid "Cover Image (Optional)"
-msgstr ""
+msgstr "Выява-абкладка (апцыянальна)"
 
 msgid "Language (Admin)"
-msgstr ""
+msgstr "Мова (адміністратар)"
 
 msgid "Mark as Music (Admin)"
-msgstr ""
+msgstr "Адзначыць як музыку (Admin)"
 
 msgid "This will make the sound appear in the /music section."
-msgstr ""
+msgstr "Гэты гук з'явіцца ў раздзеле /music."
 
 msgid "Sound updated successfully!"
-msgstr ""
+msgstr "Гук паспяхова абноўлены!"
 
 msgid "Write a reply..."
 msgstr "Напісаць адказ..."
@@ -1462,7 +1475,7 @@ msgid "Error loading replies."
 msgstr "Памылка загрузкі адказаў."
 
 msgid "Comment attachment"
-msgstr ""
+msgstr "Дадатак да каментара"
 
 #, python-format
 msgid "View %(count)s replies"
@@ -1472,7 +1485,7 @@ msgid "No comments yet."
 msgstr "Пакуль няма каментарыяў."
 
 msgid "Comment or attachment cannot be empty."
-msgstr ""
+msgstr "Каментар або дадатак не могуць быць пустымі."
 
 msgid "Failed to post comment."
 msgstr "Не атрымалася пакінуць каментарый."
@@ -1544,25 +1557,28 @@ msgid "Upload a Sound"
 msgstr "Загрузіць гук"
 
 msgid "Creator Challenge: Free VIP"
-msgstr ""
+msgstr "Выклік стваральніка: Бясплатны VIP"
 
 msgid "Upload sounds that get into recommendations to unlock 1 week of VIP!"
 msgstr ""
+"Загрузіце гукі, якія трапляюць у рэкамендацыі, каб атрымаць 1 тыдзень VIP!"
 
 msgid "Progress:"
-msgstr ""
+msgstr "Прагрэс:"
 
 msgid "sounds"
-msgstr ""
+msgstr "гукі"
 
 msgid "Are you uploading music/song (e.g., pop, phonk, rap, etc.)?"
-msgstr ""
+msgstr "Ці загружаеце музыку/песню (напрыклад, поп, phonk, рап і г.д.)?"
 
 msgid "Use our dedicated music uploader for better discovery and features."
 msgstr ""
+"Выкарыстоўвайце наш спецыяльны загрузчык музыкі для лепшай даступнасці "
+"(discover) і дадатковых функцый."
 
 msgid "Go to Music Uploader"
-msgstr ""
+msgstr "Перайдзіце да загрузчыка музыкі"
 
 msgid "Tags"
 msgstr "Тэгі"
@@ -1580,22 +1596,22 @@ msgid "characters."
 msgstr "сімвалаў."
 
 msgid "Description (Optional)"
-msgstr ""
+msgstr "Апісанне (па жаданні)"
 
 msgid "Add a brief description for your sound..."
-msgstr ""
+msgstr "Дадайце кароткае апісанне для вашага гуку..."
 
 msgid "Sound Language"
-msgstr ""
+msgstr "Мова гуку"
 
 msgid "Music / SFX (No language)"
-msgstr ""
+msgstr "Музыка / SFX (without мовы)"
 
 msgid "Other"
 msgstr "Іншае"
 
 msgid "Helps us recommend your sound to the right audience."
-msgstr ""
+msgstr "Дапамагае нам рэкамендаваць ваш гук правільнай аўдыторыі."
 
 msgid "Upload"
 msgstr "Загрузіць"
@@ -1631,15 +1647,17 @@ msgid ""
 "By uploading, you confirm that your content does not violate copyright and "
 "meets our community guidelines."
 msgstr ""
+"Загружаючы, вы пацвярджаеце, што ваш кантэнт не парушае аўтарскія правы і "
+"адпавядае нашым правілам супольнасці."
 
 msgid "Custom Cover"
-msgstr ""
+msgstr "Карыстацкая вокладка"
 
 msgid "Choose a cover image"
-msgstr ""
+msgstr "Выберыце вокладку"
 
 msgid "Add a background to your sound card (max 2MB)."
-msgstr ""
+msgstr "Дадайце фон да вашай гукавой карты (макс 2 МБ)."
 
 msgid "VIP Power-Ups"
 msgstr "VIP паляпшэнні"
@@ -1651,11 +1669,13 @@ msgid "Trim your audio before uploading (VIP exclusive)."
 msgstr "Абрэжце аўдыё перад загрузкай (толькі для VIP)."
 
 msgid "Sound Utilities"
-msgstr ""
+msgstr "Гукавыя утыліты"
 
 msgid ""
 "Need to trim your audio? Our built-in Sound Trimmer is a VIP exclusive tool."
 msgstr ""
+"Патрэбна абрэзаць аўдыё? Наш убудаваны інструмент абразання гуку — VIP-"
+"эксклюзіўны інструмент."
 
 msgid "Remove tag:"
 msgstr "Выдаліць тэг:"
@@ -1740,19 +1760,19 @@ msgid "Trim operation cancelled."
 msgstr "Аперацыя абразання адменена."
 
 msgid "Cover image is too large (max 2MB)."
-msgstr ""
+msgstr "Выява вокладкі занадта вялікая (макс 2 МБ)."
 
 msgid "This is a VIP-exclusive feature."
 msgstr "Гэта функцыя даступная толькі для VIP-карыстальнікаў."
 
 msgid "sounds recommended"
-msgstr ""
+msgstr "гукі рэкамендаваныя"
 
 msgid "Challenge Completed!"
-msgstr ""
+msgstr "Выклік завершаны!"
 
 msgid "You have unlocked VIP status! Check your profile."
-msgstr ""
+msgstr "Вы разблакавалі статус VIP! Праверце свой профіль."
 
 msgid "User not found"
 msgstr "Карыстальнік не знойдзены"
@@ -1841,10 +1861,12 @@ msgid "Back to main"
 msgstr "Вярнуцца на галоўную"
 
 msgid "Welcome, Patron!"
-msgstr ""
+msgstr "Вітаем, патрон!"
 
 msgid "Thank you for supporting UwUpad. Enjoy your exclusive features."
 msgstr ""
+"Дзякуй за падтрымку UwUpad. Насалоджвайцеся вашымі эксклюзіўнымі "
+"магчымасцямі."
 
 msgid "Unlock the Full Experience"
 msgstr "Разблакуйце поўны досвед"
@@ -1856,40 +1878,40 @@ msgstr ""
 "творчасць."
 
 msgid "Your VIP Status is Active"
-msgstr ""
+msgstr "Ваш статус VIP актыўны"
 
 msgid "Subscription renews on:"
-msgstr ""
+msgstr "Падпіска абнаўляецца на:"
 
 msgid "You have a lifetime subscription."
-msgstr ""
+msgstr "У вас падпіска на ўсё жыццё."
 
 msgid "Extend for one month"
-msgstr ""
+msgstr "Прадоўжыце на адзін месяц"
 
 msgid "Monthly"
-msgstr ""
+msgstr "Штомесяц"
 
 msgid "Per month"
-msgstr ""
+msgstr "За месяц"
 
 msgid "Choose Monthly"
-msgstr ""
+msgstr "Абярыце штомесяц"
 
 msgid "Best Value"
-msgstr ""
+msgstr "Лепшая выгода"
 
 msgid "Yearly"
-msgstr ""
+msgstr "Гадавая"
 
 msgid "Save 20% - 2 months free!"
-msgstr ""
+msgstr "Зэканомце 20% — 2 месяцы бясплатна!"
 
 msgid "Choose Yearly"
-msgstr ""
+msgstr "Абярыце штогадовую"
 
 msgid "Feature"
-msgstr ""
+msgstr "Функцыя"
 
 msgid "Standard"
 msgstr "Стандарт"
@@ -1898,67 +1920,67 @@ msgid "VIP Patron"
 msgstr "VIP-Мецэнат"
 
 msgid "Ad-Free Experience"
-msgstr ""
+msgstr "Досвед без рэкламы"
 
 msgid "Playlists Creation"
-msgstr ""
+msgstr "Стварэнне плэйлістаў"
 
 msgid "Unlimited"
-msgstr ""
+msgstr "Без абмежаванняў"
 
 msgid "Sounds per Playlist"
-msgstr ""
+msgstr "Звукі на плэйліст"
 
 msgid "Private Playlists"
-msgstr ""
+msgstr "Прыватныя плэйлісты"
 
 msgid "Bulk Playlist Download (.zip)"
-msgstr ""
+msgstr "Масавая загрузка плэйлістоў (.zip)"
 
 msgid "Animated GIF Avatars"
 msgstr "Анімаваныя GIF-аватары"
 
 msgid "Custom Sound Covers"
-msgstr ""
+msgstr "Кастомныя вокладкі гукаў"
 
 msgid "File Upload Size"
-msgstr ""
+msgstr "Памер загружаемага файла"
 
 msgid "Tags per Sound"
-msgstr ""
+msgstr "Тэгі для кожнага гуку"
 
 msgid "Nickname Styling"
-msgstr ""
+msgstr "Стыль ніка"
 
 msgid "Paid"
-msgstr ""
+msgstr "Аплачана"
 
 msgid "Unlimited & Free"
-msgstr ""
+msgstr "Безлімітны і бясплатны"
 
 msgid "Sound Boosts"
-msgstr ""
+msgstr "Падвышэнні гучнасці"
 
 msgid "1 Free Daily"
-msgstr ""
+msgstr "1 бясплатна на дзень"
 
 msgid "VIP Profile Badge"
-msgstr ""
+msgstr "VIP-пазнака профіля"
 
 msgid "Become a Patron"
 msgstr "Стаць Мецэнатам"
 
 msgid "Extend Subscription"
-msgstr ""
+msgstr "Працягнуць падпіску"
 
 msgid "Choose your preferred payment method"
 msgstr "Выберыце пераважны спосаб аплаты"
 
 msgid "Your VIP subscription has expired."
-msgstr ""
+msgstr "VIP-падпіска скончылася."
 
 msgid "Time left:"
-msgstr ""
+msgstr "Засталося часу:"
 
 msgid "Pending Ad Requests"
 msgstr "Запыты на рэкламу ў чаканні"
@@ -1991,7 +2013,7 @@ msgid "Reject"
 msgstr "Адхіліць"
 
 msgid "Music"
-msgstr ""
+msgstr "Музыка"
 
 msgid "For You"
 msgstr "Рэкамендацыі"
@@ -2033,42 +2055,44 @@ msgid "View all history"
 msgstr "Паглядзець усю гісторыю"
 
 msgid "Have a minute?"
-msgstr ""
+msgstr "Ці ёсць хвілінка?"
 
 msgid "Help us make uwupad.me better!"
-msgstr ""
+msgstr "Дапамажыце нам зрабіць uwupad.me лепшым!"
 
 msgid ""
 "Tell us what to improve, what you don't like, or what features you're "
 "missing. All ideas are welcome!"
 msgstr ""
+"Раскажыце, што палепшыць, што вам не падабаецца або якіх функцый вам не "
+"хапае. Усе ідэі вітаюцца!"
 
 msgid "Your ideas here..."
-msgstr ""
+msgstr "Вашы ідэі тут..."
 
 msgid "Later"
-msgstr ""
+msgstr "Пазней"
 
 msgid "Send"
-msgstr ""
+msgstr "Адправіць"
 
 msgid "Sent!"
-msgstr ""
+msgstr "Адправлена!"
 
 msgid "You can remove sounds you don't want from the list below."
-msgstr ""
+msgstr "Вы можаце выдаліць гукі, якія вам не патрэбныя, са спісу ніжэй."
 
 msgid "Download .zip"
-msgstr ""
+msgstr "Загрузіць .zip"
 
 msgid "Preparing download for"
-msgstr ""
+msgstr "Падрыхтоўка запампоўкі для"
 
 msgid "Wait a few seconds or"
-msgstr ""
+msgstr "Пачакайце некалькі секунд або"
 
 msgid "get VIP for instant downloads"
-msgstr ""
+msgstr "атрымаць VIP для імгнённых загрузак"
 
 msgid ""
 "service for searching and downloading sounds for soundboards such as "
@@ -2106,30 +2130,32 @@ msgid "Language Settings"
 msgstr "Налады мовы"
 
 msgid "Appearance"
-msgstr ""
+msgstr "Знешні выгляд"
 
 msgid "Show Sound Covers"
-msgstr ""
+msgstr "Паказваць вокладкі гукаў"
 
 msgid "Display custom background images on sound cards."
-msgstr ""
+msgstr "Адлюстроўваць карыстальніцкія фонавыя выявы на вокладках гукаў."
 
 msgid "Cover Blur Intensity"
-msgstr ""
+msgstr "Інтэнсіўнасць размыцця вокладак"
 
 msgid "Controls the blur effect on sound card backgrounds."
-msgstr ""
+msgstr "Кіраваць эфект размытасці фонаў вокладак гукаў."
 
 msgid "Interface Language"
 msgstr "Мова інтэрфейсу"
 
 msgid "Content Languages"
-msgstr ""
+msgstr "Мовы кантэнту"
 
 msgid ""
 "Select languages you want to see. Leave all unchecked to use automatic "
 "detection."
 msgstr ""
+"Выберыце мовы, якія хочаце бачыць. Калі нічога не адзначыць, будзе "
+"выкарыстоўвацца аўтаматычнае вызначэнне."
 
 msgid "Additional Options"
 msgstr "Дадатковыя параметры"
@@ -2147,13 +2173,13 @@ msgid "Save & Apply"
 msgstr "Захаваць і прымяніць"
 
 msgid "Donate small amount to get 3 days VIP"
-msgstr ""
+msgstr "Падарыце невялікую суму, каб атрымаць 3 дні VIP"
 
 msgid "Say Thanks"
-msgstr ""
+msgstr "Скажы дзякуй"
 
 msgid "Get +3 days VIP access"
-msgstr ""
+msgstr "Атрымай доступ на +3 дні VIP"
 
 msgid "VIP Activated"
 msgstr "VIP актываваны"
@@ -2162,7 +2188,7 @@ msgid "Telegram"
 msgstr "Тэлеграм"
 
 msgid "Say Thanks (+3 Days VIP)"
-msgstr ""
+msgstr "Скажы дзякуй (+3 дні VIP)"
 
 msgid "Search"
 msgstr "Пошук"
@@ -2177,52 +2203,53 @@ msgid "Log in"
 msgstr "Увайсці"
 
 msgid "Download Top 50 Packs:"
-msgstr ""
+msgstr "Спампуйце Top 50 пакетаў:"
 
 msgid "Daily"
-msgstr ""
+msgstr "Штодзённа"
 
 msgid "Weekly"
-msgstr ""
+msgstr "Штотыдзень"
 
 msgid "Download Top 50 Sounds"
-msgstr ""
+msgstr "Спампаваць 50 лепшых гукаў"
 
 msgid "This pack contains the 50 most popular sounds of the"
-msgstr ""
+msgstr "Гэты пакет утрымлівае 50 самых папулярных гукаў."
 
 msgid "ready for Soundpad."
-msgstr ""
+msgstr "Гатовы для Soundpad."
 
 msgid "Best Value / Fast"
-msgstr ""
+msgstr "Лепшая вартасць / Хутка"
 
 msgid "Support us with a small donation and get 3 Days of VIP instantly."
 msgstr ""
+"Падтрымайце нас невялікім ахвяраваннем і атрымайце 3 дні VIP імгненна."
 
 msgid "Say Thanks & Download"
-msgstr ""
+msgstr "Скажы дзякуй і загрузі."
 
 msgid "Get Monthly VIP Subscription"
-msgstr ""
+msgstr "Атрымайце месячную VIP-падпіску."
 
 msgid "Unlocks all packs, playlists and removes ads."
-msgstr ""
+msgstr "Адкрывае ўсе наборы, плэйлісты і прыбірае рэкламу."
 
 msgid "Downloading..."
-msgstr ""
+msgstr "Загружаецца..."
 
 msgid "Complete!"
-msgstr ""
+msgstr "Завершана!"
 
 msgid "Download failed"
-msgstr ""
+msgstr "Не атрымалася загрузіць."
 
 msgid "Access Restricted"
-msgstr ""
+msgstr "Доступ абмежаваны"
 
 msgid "To continue listening, please subscribe to our Telegram channel."
-msgstr ""
+msgstr "Каб працягнуць праслухванне, падпішыцеся на наш Telegram-канал."
 
 msgid "Important:"
 msgstr "Важна:"
@@ -2230,29 +2257,33 @@ msgstr "Важна:"
 msgid ""
 "Do not unsubscribe! If you leave the channel, you will need to verify again."
 msgstr ""
+"Не адпісвайцеся! Калі вы выйдзеце з канала, вам трэба будзе зноў пацвердзіць"
+" падпіску."
 
 msgid "Subscribe"
-msgstr ""
+msgstr "Падпісацца"
 
 msgid "Subscribe to unlock"
-msgstr ""
+msgstr "Падпішыся, каб разблакаваць."
 
 msgid "Verifying subscription..."
-msgstr ""
+msgstr "Правяраю падпіску..."
 
 msgid "Continue"
-msgstr ""
+msgstr "Працягнуць"
 
 msgid "This track is already downloading."
-msgstr ""
+msgstr "Гэты трэк ужо загружаецца."
 
 msgid ""
 "Please wait for the previous download to finish. VIPs can download multiple "
 "files at once!"
 msgstr ""
+"Калі ласка, пачакайце завяршэння папярэдняй загрузкі. VIP-карыстальнікі "
+"могуць загружаць некалькі файлаў адразу!"
 
 msgid "Adding to Soundpad:"
-msgstr ""
+msgstr "Дадаецца ў Soundpad:"
 
 msgid "DELETED"
 msgstr "ВЫДАЛЕНА"
@@ -2285,7 +2316,7 @@ msgid "Go to original sound"
 msgstr "Перайсці да арыгінальнага гуку"
 
 msgid "Additional Tags"
-msgstr ""
+msgstr "Дадатковыя тэгі"
 
 msgid "This sound is too loud. Are you sure you want to play it back?"
 msgstr "Гэты гук занадта гучны. Вы ўпэўнены, што хочаце яго прайграць?"
@@ -2310,24 +2341,24 @@ msgid "Show more"
 msgstr "Паказаць больш"
 
 msgid "No sounds to add."
-msgstr ""
+msgstr "Няма гукаў для дадання."
 
 msgid "Add to Playlist"
 msgstr "Дадаць у плэйліст"
 
 #, python-format
 msgid "Choose a playlist for %(count)s sounds or create a new one."
-msgstr ""
+msgstr "Выберыце плэйліст для %(count)s гукаў або стварыце новы."
 
 #, python-format
 msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
-msgstr ""
+msgstr "Выберыце плэйліст для \"%(sound_name)s\" або стварыце новы."
 
 msgid "Create New"
-msgstr ""
+msgstr "Стварыць новы"
 
 msgid "Add to Existing"
-msgstr ""
+msgstr "Дадаць да існуючага"
 
 msgid "New Playlist Name"
 msgstr "Назва новага плэйліста"
@@ -2336,62 +2367,66 @@ msgid "My Awesome Mix"
 msgstr "Мой цудоўны мікс"
 
 msgid "Choose cover…"
-msgstr ""
+msgstr "Выберыце абложку…"
 
 msgid "Make playlist public"
-msgstr ""
+msgstr "Зрабіце плэйліст адкрытым"
 
 msgid "Search your playlists..."
-msgstr ""
+msgstr "Шукайце ў вашых плэйлістах..."
 
 msgid "Save"
 msgstr "Захаваць"
 
 msgid "You don't have any playlists yet."
-msgstr ""
+msgstr "У вас пакуль няма ні аднаго плэйліста."
 
 msgid "Could not load your playlists."
-msgstr ""
+msgstr "Не атрымалася загрузіць вашы плэйлісты."
 
 msgid "Searching..."
-msgstr ""
+msgstr "Шукаецца..."
 
 msgid "Search failed."
-msgstr ""
+msgstr "Пошук не атрымаўся."
 
 msgid "Please select a playlist."
-msgstr ""
+msgstr "Калі ласка, выберыце плэйліст."
 
 msgid "Please enter a name for the new playlist."
-msgstr ""
+msgstr "Увядзіце імя для новага плэйліста."
 
 msgid "Image uploaded."
-msgstr ""
+msgstr "Выява загружана."
 
 msgid "Image upload failed."
-msgstr ""
+msgstr "Не атрымалася загрузіць выяву."
 
 msgid "Playlist Limit Reached"
-msgstr ""
+msgstr "Дасягнуты ліміт плэйлістоў."
 
 msgid ""
 "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited "
 "playlists!"
 msgstr ""
+"Стандартныя карыстальнікі могуць стварыць да 2 плэйлісты. Абнавіце да VIP, "
+"каб мець неабмежаваную колькасць плэйлістаў!"
 
 msgid "Playlist is Full"
-msgstr ""
+msgstr "Плэйліст поўны"
 
 msgid ""
 "Standard users can add up to 20 sounds per playlist. Get VIP to create "
 "massive collections!"
 msgstr ""
+"Звычайныя карыстальнікі могуць дадаваць да 20 звукаў у кожны плэйліст. "
+"Атрымайце VIP, каб ствараць масіўныя калекцыі!"
 
 msgid "Private Playlists are a VIP Feature"
-msgstr ""
+msgstr "Прыватныя плэйлісты — гэта VIP-фішка."
 
 msgid "Keep your collections to yourself by upgrading to VIP."
-msgstr ""
+msgstr "Трымайце свае калекцыі пры сабе, апгрейдзіўшыся да VIP."
 
 msgid "An unexpected error occurred."
 msgstr "Адбылася нечаканая памылка."
@@ -2490,265 +2525,275 @@ msgid "w ago"
 msgstr "тыдзень таму"
 
 msgid "How to disable content blocking"
-msgstr ""
+msgstr "Як адключыць блакаванне кантэнту"
 
 msgid "Select your browser, extension, or antivirus from the list below"
-msgstr ""
+msgstr "Выберыце ваш браўзер, пашырэнне або антывірус са спісу ніжэй."
 
 msgid "Google Chrome"
-msgstr ""
+msgstr "Google Chrome"
 
 msgid ""
 "Click the extension icon (puzzle piece) in the top right corner of the "
 "browser."
-msgstr ""
+msgstr "Націсніце на значок пашырэння (пазл) у правым верхнім куце браўзера."
 
 msgid "Find in the list"
-msgstr ""
+msgstr "Знайдзіце ў спісе"
 
 msgid "or"
 msgstr "або"
 
 msgid "Click on the extension and press"
-msgstr ""
+msgstr "Націсніце на пашырэнне і націсніце"
 
 msgid "Disable on this site"
-msgstr ""
+msgstr "Адключыць на гэтым сайце"
 
 msgid "or the big power button."
-msgstr ""
+msgstr "ці вялікую кнопку ўключэння."
 
 msgid "Refresh the page"
-msgstr ""
+msgstr "Абновіце старонку."
 
 msgid "Built-in blocking:"
-msgstr ""
+msgstr "Убудаваная блакіроўка:"
 
 msgid "If there are no extensions, go to"
-msgstr ""
+msgstr "Калі пашырэнняў няма, перайдзіце да"
 
 msgid "and allow ads for the site."
-msgstr ""
+msgstr "і дазвольце рэкламу на гэтым сайце."
 
 msgid "Mozilla Firefox"
-msgstr ""
+msgstr "Mozilla Firefox"
 
 msgid "Click on the shield icon to the left of the address bar."
-msgstr ""
+msgstr "Націсніце на значок шчыта злева ад радка адраса."
 
 msgid "Toggle the switch"
-msgstr ""
+msgstr "Пераключыце пераключальнік."
 
 msgid "Enhanced Tracking Protection"
-msgstr ""
+msgstr "Пашыраная абарона адсочвання."
 
 msgid "to position"
-msgstr ""
+msgstr "для пазіцыянавання"
 
 msgid "OFF"
-msgstr ""
+msgstr "ВЫКЛ."
 
 msgid ""
 "If extensions (uBlock, etc.) are installed, disable them via the puzzle icon"
 " in the top right."
 msgstr ""
+"Калі ўсталяваныя пашырэнні (uBlock і г.д.), адключыце іх праз значок-загадка"
+" ў правым верхнім куце."
 
 msgid "The page will reload automatically."
-msgstr ""
+msgstr "Старонка перазагрузіцца аўтаматычна."
 
 msgid "Apple Safari (macOS / iOS)"
-msgstr ""
+msgstr "Apple Safari (macOS / iOS)"
 
 msgid "Right-click the address bar"
-msgstr ""
+msgstr "Націсніце правай кнопкай мышы па радку адраса."
 
 msgid "Settings for This Website"
-msgstr ""
+msgstr "Налады для гэтага сайта"
 
 msgid "Uncheck"
-msgstr ""
+msgstr "Зняць галочку"
 
 msgid "Enable Content Blockers"
-msgstr ""
+msgstr "Уключыць блакаванне кантэнту"
 
 msgid "Tap the icon"
-msgstr ""
+msgstr "Тапніце на значок"
 
 msgid "in the address bar"
-msgstr ""
+msgstr "у радку адраса"
 
 msgid "Turn Off Content Blockers"
-msgstr ""
+msgstr "Адключыць блакаванне кантэнту"
 
 msgid "Kaspersky Protection (Anti-Banner)"
-msgstr ""
+msgstr "Kaspersky Protection (Anti-Banner)"
 
 msgid "Find the green hexagonal Kaspersky icon in the browser extension bar."
-msgstr ""
+msgstr "Знайдзіце зялёны шасцікутнік Касперскага ў панэлі пашырэнняў."
 
 msgid "In the menu that opens, find the section"
-msgstr ""
+msgstr "У адкрыўшымся меню знайдзіце раздзел"
 
 msgid "Anti-Banner"
-msgstr ""
+msgstr "Анты-банер"
 
 msgid "Click the button"
-msgstr ""
+msgstr "Націсніце кнопку"
 
 msgid "Allow on this website"
-msgstr ""
+msgstr "Дазволіць на гэтым сайце"
 
 msgid "If there is no extension, open the main Kaspersky app"
-msgstr ""
+msgstr "Калі пашырэння няма, адкрыйце асноўнае прыкладанне Касперскага"
 
 msgid "Security settings"
-msgstr ""
+msgstr "Настройкі бяспекі"
 
 msgid "Disable"
-msgstr ""
+msgstr "Адключы"
 
 msgid "or add the site to exclusions."
-msgstr ""
+msgstr "ці дадай сайт у выключэнні."
 
 msgid "Windscribe VPN (R.O.B.E.R.T.)"
-msgstr ""
+msgstr "Windscribe VPN (R.O.B.E.R.T.)"
 
 msgid "Log in to your account at windscribe.com."
-msgstr ""
+msgstr "Увайдзі ў свой уліковы запіс на windscribe.com."
 
 msgid "Go to the tab"
-msgstr ""
+msgstr "Перайдзі да ўкладкі."
 
 msgid "Select"
-msgstr ""
+msgstr "Абяры"
 
 msgid "Custom Rules"
-msgstr ""
+msgstr "Карыстальніцкія правілы"
 
 msgid "Enter our site domain and select the option"
-msgstr ""
+msgstr "Увядзі домен нашага сайта і абяры опцыю."
 
 msgid "Whitelist"
-msgstr ""
+msgstr "Белы спіс"
 
 msgid ""
 "Since R.O.B.E.R.T. works at the DNS level, changes may take a few minutes to"
 " take effect. Try disconnecting and reconnecting the VPN."
 msgstr ""
+"Паколькі R.O.B.E.R.T. працуе на ўзроўні DNS, змены могуць заняць некалькі "
+"хвілін. Паспрабуй адключыцца і зноў падключыцца да VPN."
 
 msgid "AdGuard (App or Extension)"
-msgstr ""
+msgstr "AdGuard (прыкладанне ці пашырэнне)"
 
 msgid ""
 "Click the AdGuard icon (green shield) in the browser or in the Windows/Mac "
 "system tray."
 msgstr ""
+"Націсні на значок AdGuard (зялёны шчыт) у браўзеры ці ў сістэмным лотку "
+"Windows/Mac."
 
 msgid "Click the large toggle"
-msgstr ""
+msgstr "Клікні вялікі перамыкач"
 
 msgid "Filtering on this website"
-msgstr ""
+msgstr "Фільтраванне на гэтым сайце"
 
 msgid "so it turns gray (off)."
-msgstr ""
+msgstr "так ён стане шэрым (выключана)."
 
 msgid "Wait for the page to automatically refresh."
-msgstr ""
+msgstr "Пачакай, пакуль старонка аўтаматычна абновіцца."
 
 msgid "Brave Browser"
-msgstr ""
+msgstr "Brave Browser"
 
 msgid "Click the lion icon (Brave Shields) to the right of the address bar."
-msgstr ""
+msgstr "Націсні на значок льва (Brave Shields) справа ад радка з адрасам."
 
 msgid "Toggle the top slider"
-msgstr ""
+msgstr "Пераключы верхні слайдэр"
 
 msgid ""
 "Brave blocks scripts very aggressively. Completely disabling shields for the"
 " site is the most reliable method."
 msgstr ""
+"Brave вельмі агрэсіўна блакуе скрыпты. Поўнае адключэнне шчытоў для гэтага "
+"сайта — самы надзейны спосаб."
 
 msgid "Yandex Browser"
-msgstr ""
+msgstr "Яндэкс Браўзер"
 
 msgid "Click the lock icon 🔒 or shield in the left part of the SmartBox."
-msgstr ""
+msgstr "Націсніце на значок замка 🔒 або шчыт у левай частцы SmartBox."
 
 msgid "Click"
-msgstr ""
+msgstr "Клікні"
 
 msgid "More details"
-msgstr ""
+msgstr "Больш падрабязнасцей"
 
 msgid "if required"
-msgstr ""
+msgstr "калі патрабуецца"
 
 msgid "Block ads on this site"
-msgstr ""
+msgstr "Блакуй рэкламу на гэтым сайце."
 
 msgid "Opera / Opera GX"
-msgstr ""
+msgstr "Opera / Opera GX"
 
 msgid "Click the blue shield icon in the right part of the address bar."
-msgstr ""
+msgstr "Націсніце на сіні шчыт у правым баку радка з адрасам."
 
 msgid "Turn off for this site"
-msgstr ""
+msgstr "Выключы для гэтага сайта."
 
 msgid "If that doesn't help: Menu"
-msgstr ""
+msgstr "Калі гэта не дапаможа: Меню"
 
 msgid "Extensions"
-msgstr ""
+msgstr "Пашырэнні"
 
 msgid "Disable third-party blockers."
-msgstr ""
+msgstr "Адключы блакіроўшчыкі трэціх бакоў."
 
 msgid "Avast / AVG Antivirus"
-msgstr ""
+msgstr "Avast / AVG антывірус"
 
 msgid "Open the antivirus, go to"
-msgstr ""
+msgstr "Адкрый антывірус, перайдзі да"
 
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 msgid "Section"
-msgstr ""
+msgstr "Раздзел"
 
 msgid "Protection"
-msgstr ""
+msgstr "Абарона"
 
 msgid "Web Shield"
-msgstr ""
+msgstr "Веб-щит"
 
 msgid "Find the tab"
-msgstr ""
+msgstr "Знайдзі ўкладку"
 
 msgid "Exceptions"
-msgstr ""
+msgstr "Выключэнні"
 
 msgid "and add our website address."
-msgstr ""
+msgstr "і дадайце адрас нашага сайта."
 
 msgid "Check browser extensions: Avast often installs"
-msgstr ""
+msgstr "Праверце пашырэнні браўзера: Avast часта усталёўвае"
 
 msgid "which needs to be disabled separately."
-msgstr ""
+msgstr "якія трэба адключаць асобна."
 
 msgid ""
 "If the problem is not resolved after following the instructions — try "
 "another browser or contact"
 msgstr ""
+"Калі праблема не вырашыцца пасля выканання інструкцый — паспрабуйце іншы "
+"браўзер або звярніцеся да"
 
 msgid "support"
-msgstr ""
+msgstr "падтрымка"
 
 msgid "Return to site"
-msgstr ""
+msgstr "Вярнуцца на сайт"
 
 msgid "Very popular (100-500 downloads)"
 msgstr "Вельмі папулярны (100-500 спамповак)"
@@ -2766,227 +2811,229 @@ msgid ""
 "Listen to and discover new music on UwUpad. Thousands of tracks from "
 "independent artists."
 msgstr ""
+"Слухайце і адкрывайце новую музыку на UwUpad. Тысячы трэкаў ад незалежных "
+"выканаўцаў."
 
 msgid "Listen to and discover new music on UwUpad."
-msgstr ""
+msgstr "Слухайце і адкрывайце новую музыку на UwUpad."
 
 msgid "Browse"
-msgstr ""
+msgstr "Праглядзець"
 
 msgid "My Library"
-msgstr ""
+msgstr "Мая бібліятэка"
 
 msgid "Return to Sounds / Memes"
-msgstr ""
+msgstr "Вярнуцца да Звукаў / Мемы"
 
 msgid "Sounds / Memes"
-msgstr ""
+msgstr "Звукі / Мемы"
 
 msgid "Sorting"
-msgstr ""
+msgstr "Сартаванне"
 
 msgid "Hot"
-msgstr ""
+msgstr "Самыя гарачыя"
 
 msgid "Period"
-msgstr ""
+msgstr "Перыяд"
 
 msgid "All time"
-msgstr ""
+msgstr "Увесь час"
 
 msgid "Year"
-msgstr ""
+msgstr "Год"
 
 msgid "Month"
-msgstr ""
+msgstr "Месяц"
 
 msgid "Week"
-msgstr ""
+msgstr "Тыдзень"
 
 msgid "Day"
-msgstr ""
+msgstr "Дзень"
 
 msgid "Now"
-msgstr ""
+msgstr "Зараз"
 
 msgid "Search by title..."
-msgstr ""
+msgstr "Пошук па загалоўку..."
 
 msgid "What do you want to listen to?"
-msgstr ""
+msgstr "Што хочаш паслухаць?"
 
 msgid "Liked Songs"
-msgstr ""
+msgstr "Падабаўшыяся песні"
 
 msgid "tracks"
-msgstr ""
+msgstr "трэкі"
 
 msgid "Create Playlist"
-msgstr ""
+msgstr "Стварыць плэйліст"
 
 msgid "My Playlists"
-msgstr ""
+msgstr "Мае плэйлісты"
 
 msgid "Play"
-msgstr ""
+msgstr "Грай"
 
 msgid "Now Playing"
-msgstr ""
+msgstr "Цяпер прайгрываецца"
 
 msgid "Track Cover"
-msgstr ""
+msgstr "Пакрыццё трэка"
 
 msgid "Track Title"
-msgstr ""
+msgstr "Назва трэка"
 
 msgid "Artist"
-msgstr ""
+msgstr "Артыст"
 
 msgid "Next in Queue"
-msgstr ""
+msgstr "Наступны у чарзе"
 
 msgid "Cover"
-msgstr ""
+msgstr "Пакрыццё"
 
 msgid "Select a track"
-msgstr ""
+msgstr "Выберыце трэк"
 
 msgid "Shuffle"
-msgstr ""
+msgstr "Случайнае прайграванне"
 
 msgid "Previous Track"
-msgstr ""
+msgstr "Папярэдні трэк"
 
 msgid "Play/Pause"
-msgstr ""
+msgstr "Грай/Паўза"
 
 msgid "Next Track"
-msgstr ""
+msgstr "Наступны трэк"
 
 msgid "Repeat"
-msgstr ""
+msgstr "Паўтор"
 
 msgid "Fullscreen Mode"
-msgstr ""
+msgstr "Поўнаэкранны рэжым"
 
 msgid "Show Track Details"
-msgstr ""
+msgstr "Паказаць звесткі пра трэек"
 
 msgid "Mute/Unmute"
-msgstr ""
+msgstr "Заглушыць/Уключыць гук"
 
 msgid "Add to Queue"
-msgstr ""
+msgstr "Дадаць у чаргу"
 
 msgid "New Playlist"
-msgstr ""
+msgstr "Новы плэйліст"
 
 msgid "Playlist is empty"
-msgstr ""
+msgstr "Плэйліст пусты"
 
 msgid "Failed to load music."
-msgstr ""
+msgstr "Не ўдалося загрузіць музыку."
 
 msgid "Unlike"
-msgstr ""
+msgstr "Не падабаецца"
 
 msgid "Your personal favorites"
-msgstr ""
+msgstr "Вашы асабістыя фаварыты"
 
 msgid "Enter playlist name:"
-msgstr ""
+msgstr "Увядзіце назву плэйліста:"
 
 msgid "Are you sure you want to delete this playlist?"
-msgstr ""
+msgstr "Вы сапраўды хочаце выдаліць гэты плэйліст?"
 
 msgid "This track is downloading."
-msgstr ""
+msgstr "Гэты трэк загружаецца."
 
 msgid "Please wait for the current download to finish."
-msgstr ""
+msgstr "Калі ласка, пачакайце заканчэння бягучай загрузкі."
 
 msgid "Downloading error"
-msgstr ""
+msgstr "Памылка загрузкі."
 
 msgid "Finished!"
-msgstr ""
+msgstr "Гатова!"
 
 msgid "Upload Music"
-msgstr ""
+msgstr "Загрузіць музыку"
 
 msgid "To Home"
-msgstr ""
+msgstr "На галоўную"
 
 msgid "Drag & Drop Cover"
-msgstr ""
+msgstr "Перацягніце вокладку"
 
 msgid "or click to select"
-msgstr ""
+msgstr "ці клікніце, каб выбраць"
 
 msgid "Cover Preview"
-msgstr ""
+msgstr "Прагляд вокладкі"
 
 msgid "Remove Cover"
-msgstr ""
+msgstr "Выдаліць вокладку"
 
 msgid "Title of your track"
-msgstr ""
+msgstr "Назва вашага трэка"
 
 msgid "Genre"
-msgstr ""
+msgstr "Жанр"
 
 msgid "Start typing to search for a genre..."
-msgstr ""
+msgstr "Пачніце пісаць, каб шукаць жанр..."
 
 msgid "E.g.: chill, summer, vibe"
-msgstr ""
+msgstr "Напрыклад: chill, летні, настрой"
 
 msgid "Up to 5 tags. Enter a tag and press Enter."
-msgstr ""
+msgstr "Да 5 тэгаў. Увядзіце тэг і націсніце Enter."
 
 msgid "Audio File"
-msgstr ""
+msgstr "Аўдыё-файл"
 
 msgid "Select file (MP3, WAV, OGG)"
-msgstr ""
+msgstr "Абярыце файл (MP3, WAV, OGG)"
 
 msgid "This audio is quite short (< 30s). Is it a meme or sound effect?"
-msgstr ""
+msgstr "Гэта аўдыё даволі кароткае (< 30s). Гэта мем ці гукавы эфект?"
 
 msgid "Please use the Standard Uploader for short sounds."
-msgstr ""
+msgstr "Калі ласка, выкарыстоўвайце стандартны загрузчык для кароткіх гукаў."
 
 msgid "Go to Standard Uploader"
-msgstr ""
+msgstr "Перайсці да стандартнага загрузчыка"
 
 msgid "I agree with the"
-msgstr ""
+msgstr "Я згодзен з"
 
 msgid "terms"
-msgstr ""
+msgstr "умовы"
 
 msgid "policy"
-msgstr ""
+msgstr "палітыка"
 
 msgid "Cover image is too large (max. 5 MB)"
-msgstr ""
+msgstr "Вобраз вокладкі занадта вялікі (макс. 5 МБ)"
 
 #, python-brace-format
 msgid "You can add no more than ${MAX_TAGS} tags."
-msgstr ""
+msgstr "Вы можаце дадаць не больш за ${MAX_TAGS} тэгаў."
 
 #, python-brace-format
 msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
-msgstr ""
+msgstr "Тэг не можа быць даўжэй за ${MAX_TAG_LENGTH} знакаў."
 
 msgid "Audio file is too large (max. 20 MB)"
-msgstr ""
+msgstr "Аўдыё-файл занадта вялікі (макс. 20 МБ)"
 
 msgid "Server error:"
-msgstr ""
+msgstr "Памылка сервера:"
 
 msgid "Music uploaded successfully!"
-msgstr ""
+msgstr "Музыка паспяхова загружана!"
 
 msgid "Payment Cancelled"
 msgstr "Аплата адменена"
@@ -3106,7 +3153,7 @@ msgid "Could not verify reCAPTCHA."
 msgstr "Не атрымалася праверыць reCAPTCHA."
 
 msgid "Account with this username does not exist."
-msgstr ""
+msgstr "Уліковы запіс з гэтым імем карыстальніка не існуе."
 
 msgid "Account with this email does not exist."
 msgstr "Уліковы запіс з гэтым email не існуе."
@@ -3124,7 +3171,7 @@ msgid "Invalid data."
 msgstr "Несапраўдныя дадзеныя."
 
 msgid "You already have a playlist with this name."
-msgstr ""
+msgstr "У вас ужо ёсць плэйліст з такой назвай."
 
 msgid "Could not find or create playlist."
 msgstr "Не атрымалася знайсці або стварыць плэйліст."
@@ -3141,10 +3188,10 @@ msgid "No new sounds were added. They might already be in the playlist."
 msgstr "Новыя гукі не былі дададзены. Магчыма, яны ўжо ёсць у плэйлісце."
 
 msgid "Sound removed from playlist."
-msgstr ""
+msgstr "Гук выдалены з плэйліста."
 
 msgid "Sound not found in this playlist."
-msgstr ""
+msgstr "Гук не знойдзены ў гэтым плэйлісце."
 
 msgid "Playlist deleted."
 msgstr "Плэйліст выдалены."
@@ -3168,10 +3215,10 @@ msgid "Upload in progress. Please wait."
 msgstr "Загрузка ў працэсе. Калі ласка, пачакайце."
 
 msgid "Cover file must be an image."
-msgstr ""
+msgstr "Файл абкладкі павінен быць малюнкам."
 
 msgid "Failed to upload cover to CDN."
-msgstr ""
+msgstr "Не атрымалася загрузіць абкладку ў CDN."
 
 msgid "Invalid URL format"
 msgstr "Несапраўдны фармат URL"
@@ -3193,7 +3240,7 @@ msgid "No file or URL provided"
 msgstr "Не пададзены файл або URL"
 
 msgid "Sound was queued for upload"
-msgstr ""
+msgstr "Гук быў дададзены ў чаргу на загрузку"
 
 msgid "Upload timeout. Please try again."
 msgstr "Час загрузкі вычарпаны. Калі ласка, паспрабуйце зноў."
@@ -3214,7 +3261,7 @@ msgid "This sound is already boosted."
 msgstr "Гэты гук ужо павышаны."
 
 msgid "Authenticated user not found."
-msgstr ""
+msgstr "Аўтэнтыфікаваны карыстальнік не знойдзены."
 
 msgid "Free boosts are for VIP users only."
 msgstr "Бясплатныя павышэнні толькі для VIP карыстальнікаў."
@@ -3257,13 +3304,13 @@ msgid "Sound reported."
 msgstr "Паведамленне аб гуку адпраўлена."
 
 msgid "Failed to upload cover image to CDN."
-msgstr ""
+msgstr "Не атрымалася загрузіць малюнак абкладкі ў CDN."
 
 msgid "Sound disappeared during edit."
-msgstr ""
+msgstr "Гук знік падчас рэдагавання."
 
 msgid "Sound updated successfully."
-msgstr ""
+msgstr "Гук паспяхова абноўлены."
 
 msgid "An internal error occurred."
 msgstr "Адбылася ўнутраная памылка."
@@ -3320,20 +3367,20 @@ msgid "Not an admin."
 msgstr "Не адміністратар."
 
 msgid "Cover image is too large (max 5MB)."
-msgstr ""
+msgstr "Выява абкладкі занадта вялікая (максімум 5 МБ)."
 
 #, python-brace-format
 msgid "Audio file is too large (max {size}MB)."
-msgstr ""
+msgstr "Аўдыяфайл занадта вялікі (максімум {size} МБ)."
 
 msgid "Music track was queued for processing."
-msgstr ""
+msgstr "Музычны трэек дададзены ў чаргу на апрацоўку."
 
 msgid "Upload failed due to an internal error."
-msgstr ""
+msgstr "Загрузка не атрымалася з-за ўнутранай памылкі."
 
 msgid "Name required"
-msgstr ""
+msgstr "Імя патрабуецца"
 
 msgid "Style is too long."
 msgstr "Стыль занадта доўгі."
@@ -3356,19 +3403,19 @@ msgstr "Стыль нікнэйма набыты і абноўлены за 100 
 
 #, python-brace-format
 msgid "{actor1} and {actor2}"
-msgstr ""
+msgstr "{actor1} і {actor2}"
 
 #, python-format
 msgid "and %d other"
-msgstr ""
+msgstr "і яшчэ %d іншых"
 
 #, python-format
 msgid "and %d others"
-msgstr ""
+msgstr "і яшчэ %d іншых"
 
 #, python-brace-format
 msgid "{actor1}, {actor2} {others}"
-msgstr ""
+msgstr "{actor1}, {actor2} і {others}"
 
 msgid "[actor] liked your sound [entity]."
 msgstr "[actor] спадабаўся ваш гук [entity]."
@@ -3377,7 +3424,7 @@ msgid "[actor] liked your comment on [entity]."
 msgstr "[actor] спадабаўся ваш каментарый да [entity]."
 
 msgid "[actor] mentioned you in a comment on [entity]."
-msgstr ""
+msgstr "[actor] упомянуў(ла) вас у каментарыі на [entity]."
 
 msgid "[actor] downloaded your sound [entity]."
 msgstr "[actor] спампаваў ваш гук [entity]."
@@ -3394,6 +3441,8 @@ msgstr "Ваш гук [entity] быў паспяхова апрацаваны!"
 msgid ""
 "We couldn't process your sound [entity]. Please try uploading it again."
 msgstr ""
+"Мы не змаглі апрацаваць ваш гукавы файл [entity]. Калі ласка, паспрабуйце "
+"загрузіць яго зноў."
 
 msgid "An administrator removed your sound: [entity]."
 msgstr "Адміністратар выдаліў ваш гук: [entity]."
