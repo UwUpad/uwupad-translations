@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-23 23:00+0000\n"
+"POT-Creation-Date: 2026-02-24 05:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2100,16 +2100,7 @@ msgstr ""
 msgid "Say Thanks"
 msgstr ""
 
-msgid "Get +3 days VIP access"
-msgstr ""
-
 msgid "VIP Activated"
-msgstr ""
-
-msgid "Telegram"
-msgstr ""
-
-msgid "Say Thanks (+3 Days VIP)"
 msgstr ""
 
 msgid "Search"
@@ -2122,6 +2113,15 @@ msgid "Settings"
 msgstr ""
 
 msgid "Log in"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "About"
 msgstr ""
 
 msgid "Download Top 50 Packs:"
