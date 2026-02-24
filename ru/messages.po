@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-24 04:00+0000\n"
+"POT-Creation-Date: 2026-02-24 05:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
@@ -2176,17 +2176,8 @@ msgstr "Пожертвуй небольшую сумму, чтобы получ�
 msgid "Say Thanks"
 msgstr "Сказать спасибо"
 
-msgid "Get +3 days VIP access"
-msgstr "Получите +3 дня доступа VIP"
-
 msgid "VIP Activated"
 msgstr "VIP активирован"
-
-msgid "Telegram"
-msgstr "Телеграм"
-
-msgid "Say Thanks (+3 Days VIP)"
-msgstr "Сказать спасибо (+3 дня VIP)"
 
 msgid "Search"
 msgstr "Поиск"
@@ -2199,6 +2190,15 @@ msgstr "Настройки"
 
 msgid "Log in"
 msgstr "Войти"
+
+msgid "New"
+msgstr "Новый"
+
+msgid "More"
+msgstr "Еще"
+
+msgid "About"
+msgstr "О нас"
 
 msgid "Download Top 50 Packs:"
 msgstr "Скачать топ-50 паки:"
@@ -3490,3 +3490,12 @@ msgstr "Аноним"
 
 #~ msgid "Name required"
 #~ msgstr "Требуется имя"
+
+#~ msgid "Get +3 days VIP access"
+#~ msgstr "Получите +3 дня доступа VIP"
+
+#~ msgid "Telegram"
+#~ msgstr "Телеграм"
+
+#~ msgid "Say Thanks (+3 Days VIP)"
+#~ msgstr "Сказать спасибо (+3 дня VIP)"

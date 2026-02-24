@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-24 04:00+0000\n"
+"POT-Creation-Date: 2026-02-24 05:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -1545,19 +1545,22 @@ msgid "Use Trimmed Audio"
 msgstr "Utiliser l'audio coupé"
 
 msgid "Слишком длинный аудиофайл"
-msgstr ""
+msgstr "Fichier audio trop long"
 
 msgid ""
 "Этот файл длится больше 40 секунд. Если вы пытаетесь загрузить полноценную "
 "песню, ремикс или музыкальный микс — пожалуйста, используйте специальный "
 "загрузчик музыки для лучшего продвижения."
 msgstr ""
+"Ce fichier dure plus de 40 secondes. Si vous essayez de téléverser une "
+"chanson complète, un remix ou un mélange musical — veuillez utiliser le "
+"téléchargeur de musique dédié pour une meilleure promotion."
 
 msgid "Перейти к Музыке"
-msgstr ""
+msgstr "Accéder à la musique"
 
 msgid "Отмена"
-msgstr ""
+msgstr "Annuler"
 
 msgid "Upload a Sound"
 msgstr "Uploader un son"
@@ -2167,17 +2170,8 @@ msgstr "Petit don pour 3 jours de VIP"
 msgid "Say Thanks"
 msgstr "Remercier"
 
-msgid "Get +3 days VIP access"
-msgstr "Obtenir +3 jours VIP"
-
 msgid "VIP Activated"
 msgstr "VIP activé"
-
-msgid "Telegram"
-msgstr "Telegram"
-
-msgid "Say Thanks (+3 Days VIP)"
-msgstr "Remercier (+3 jours VIP)"
 
 msgid "Search"
 msgstr "Rechercher"
@@ -2190,6 +2184,15 @@ msgstr "Paramètres"
 
 msgid "Log in"
 msgstr "Connexion"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "More"
+msgstr "Plus"
+
+msgid "About"
+msgstr "À propos"
 
 msgid "Download Top 50 Packs:"
 msgstr "Télécharger Packs Top 50 :"
@@ -2979,15 +2982,18 @@ msgid "policy"
 msgstr "politique"
 
 msgid "Слишком коротко для музыки"
-msgstr ""
+msgstr "Trop court pour la musique"
 
 msgid ""
 "Этот аудиофайл длится менее 30 секунд. Если это мем, вырезка или SFX эффект "
 "— пожалуйста, загрузите его через стандартный загрузчик звуков."
 msgstr ""
+"Cette piste audio dure moins de 30 secondes. S'il s'agit d'un meme, d'un "
+"extrait ou d'un effet SFX — veuillez le téléverser via le téléchargeur de "
+"sons standard."
 
 msgid "Перейти к звукам"
-msgstr ""
+msgstr "Accéder aux sons"
 
 msgid "Cover image is too large (max. 5 MB)"
 msgstr "Pochette trop grosse (max 5 Mo)"
@@ -3001,7 +3007,7 @@ msgid "Tag cannot be longer than ${MAX_TAG_LENGTH} characters."
 msgstr "Tag limité à ${MAX_TAG_LENGTH} caractères."
 
 msgid "Проверка файла..."
-msgstr ""
+msgstr "Vérification du fichier..."
 
 msgid "Select file (MP3, WAV, OGG)"
 msgstr "Choisir fichier (MP3, WAV, OGG)"
@@ -3447,3 +3453,12 @@ msgstr "Anonyme"
 
 #~ msgid "Name required"
 #~ msgstr "Nom requis"
+
+#~ msgid "Get +3 days VIP access"
+#~ msgstr "Obtenir +3 jours VIP"
+
+#~ msgid "Telegram"
+#~ msgstr "Telegram"
+
+#~ msgid "Say Thanks (+3 Days VIP)"
+#~ msgstr "Remercier (+3 jours VIP)"
