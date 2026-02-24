@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-24 05:00+0000\n"
+"POT-Creation-Date: 2026-02-24 06:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -2106,6 +2106,9 @@ msgstr "表示感谢"
 
 msgid "VIP Activated"
 msgstr "VIP 已激活"
+
+msgid "V0 Website"
+msgstr "V0 官网"
 
 msgid "Search"
 msgstr "搜索"

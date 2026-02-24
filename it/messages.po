@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-24 05:00+0000\n"
+"POT-Creation-Date: 2026-02-24 06:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:25+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Italian <it@li.org>\n"
@@ -2188,6 +2188,9 @@ msgstr "Ringrazia"
 
 msgid "VIP Activated"
 msgstr "VIP Attivato"
+
+msgid "V0 Website"
+msgstr "Sito Web V0"
 
 msgid "Search"
 msgstr "Cerca"
