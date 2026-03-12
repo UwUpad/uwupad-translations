@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-12 20:00+0000\n"
+"POT-Creation-Date: 2026-03-12 21:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1275,16 +1275,6 @@ msgid "Sound not found"
 msgstr ""
 
 msgid "Sound with this ID not found. Please check the entered data."
-msgstr ""
-
-#, python-format
-msgid "Download \"%(sound_name)s\" Sound"
-msgstr ""
-
-#, python-format
-msgid ""
-"Listen to and download the \"%(sound_name)s\" sound effect for free. "
-"Perfect for Soundpad, ringtones, and streams."
 msgstr ""
 
 msgid "Add to Soundpad"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-12 20:00+0000\n"
+"POT-Creation-Date: 2026-03-12 21:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language: de\n"
@@ -1304,18 +1304,6 @@ msgstr "Sound nicht gefunden"
 
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "Sound mit dieser ID nicht gefunden. Bitte Daten prüfen."
-
-#, python-format
-msgid "Download \"%(sound_name)s\" Sound"
-msgstr "Sound \"%(sound_name)s\" herunterladen"
-
-#, python-format
-msgid ""
-"Listen to and download the \"%(sound_name)s\" sound effect for free. "
-"Perfect for Soundpad, ringtones, and streams."
-msgstr ""
-"Hör dir den Soundeffekt \"%(sound_name)s\" an und lade ihn kostenlos. "
-"Perfekt für Soundpad und Streams."
 
 msgid "Add to Soundpad"
 msgstr "Zu Soundpad hinzufügen"
@@ -3444,4 +3432,17 @@ msgstr "Anonym"
 
 #~ msgid "Failed to load music."
 #~ msgstr "Musik konnte nicht geladen werden."
+
+#~ msgid "Download \"%(sound_name)s\" Sound"
+#~ msgstr "Sound \"%(sound_name)s\" herunterladen"
+
+#~ msgid ""
+#~ "Listen to and download the "
+#~ "\"%(sound_name)s\" sound effect for free. "
+#~ "Perfect for Soundpad, ringtones, and "
+#~ "streams."
+#~ msgstr ""
+#~ "Hör dir den Soundeffekt \"%(sound_name)s\" "
+#~ "an und lade ihn kostenlos. Perfekt "
+#~ "für Soundpad und Streams."
 

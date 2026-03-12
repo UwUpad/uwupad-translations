@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-12 20:00+0000\n"
+"POT-Creation-Date: 2026-03-12 21:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language: kk\n"
@@ -1336,18 +1336,6 @@ msgstr "Дыбыс табылмады"
 
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "Бұл ID бар дыбыс табылмады. Енгізілген деректерді тексеріңіз."
-
-#, python-format
-msgid "Download \"%(sound_name)s\" Sound"
-msgstr "«%(sound_name)s» дыбысын жүктеу"
-
-#, python-format
-msgid ""
-"Listen to and download the \"%(sound_name)s\" sound effect for free. "
-"Perfect for Soundpad, ringtones, and streams."
-msgstr ""
-"«%(sound_name)s» дыбыс эффектісін тегін тыңдаңыз және жүктеп алыңыз. "
-"Soundpad, қоңырау үндері және стримдер үшін тамаша."
 
 msgid "Add to Soundpad"
 msgstr "Soundpad-қа қосу"
@@ -3527,4 +3515,18 @@ msgstr "Аноним"
 
 #~ msgid "Failed to load music."
 #~ msgstr "Музыка жүктелмеді."
+
+#~ msgid "Download \"%(sound_name)s\" Sound"
+#~ msgstr "«%(sound_name)s» дыбысын жүктеу"
+
+#~ msgid ""
+#~ "Listen to and download the "
+#~ "\"%(sound_name)s\" sound effect for free. "
+#~ "Perfect for Soundpad, ringtones, and "
+#~ "streams."
+#~ msgstr ""
+#~ "«%(sound_name)s» дыбыс эффектісін тегін "
+#~ "тыңдаңыз және жүктеп алыңыз. Soundpad, "
+#~ "қоңырау үндері және стримдер үшін "
+#~ "тамаша."
 

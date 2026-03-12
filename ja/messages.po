@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-12 20:00+0000\n"
+"POT-Creation-Date: 2026-03-12 21:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language: ja\n"
@@ -1288,16 +1288,6 @@ msgstr "サウンドが見つかりません"
 
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "このIDのサウンドが見つかりません。入力データを確認してください。"
-
-#, python-format
-msgid "Download \"%(sound_name)s\" Sound"
-msgstr "「%(sound_name)s」サウンドをダウンロード"
-
-#, python-format
-msgid ""
-"Listen to and download the \"%(sound_name)s\" sound effect for free. "
-"Perfect for Soundpad, ringtones, and streams."
-msgstr "無料で「%(sound_name)s」サウンドエフェクトを聴いてダウンロード。Soundpad、着信音、ストリームに最適です。"
 
 msgid "Add to Soundpad"
 msgstr "Soundpadに追加"
@@ -3401,4 +3391,14 @@ msgstr "匿名"
 
 #~ msgid "Failed to load music."
 #~ msgstr "音楽の読み込みに失敗しました。"
+
+#~ msgid "Download \"%(sound_name)s\" Sound"
+#~ msgstr "「%(sound_name)s」サウンドをダウンロード"
+
+#~ msgid ""
+#~ "Listen to and download the "
+#~ "\"%(sound_name)s\" sound effect for free. "
+#~ "Perfect for Soundpad, ringtones, and "
+#~ "streams."
+#~ msgstr "無料で「%(sound_name)s」サウンドエフェクトを聴いてダウンロード。Soundpad、着信音、ストリームに最適です。"
 

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-12 20:00+0000\n"
+"POT-Creation-Date: 2026-03-12 21:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language: fa\n"
@@ -1323,18 +1323,6 @@ msgstr "صدا یافت نشد"
 
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "صدا با این شناسه یافت نشد. لطفاً داده‌های وارد شده را بررسی کنید."
-
-#, python-format
-msgid "Download \"%(sound_name)s\" Sound"
-msgstr "دانلود صدای \\\"%(sound_name)s\\\""
-
-#, python-format
-msgid ""
-"Listen to and download the \"%(sound_name)s\" sound effect for free. "
-"Perfect for Soundpad, ringtones, and streams."
-msgstr ""
-"به صدای افکت \\\"%(sound_name)s\\\" گوش دهید و به‌صورت رایگان دانلود "
-"کنید. مناسب برای Soundpad، زنگ‌های گوشی و استریم‌ها."
 
 msgid "Add to Soundpad"
 msgstr "افزودن به Soundpad"
@@ -3485,4 +3473,18 @@ msgstr "ناشناس"
 
 #~ msgid "Failed to load music."
 #~ msgstr "بارگیری موسیقی ناموفق بود."
+
+#~ msgid "Download \"%(sound_name)s\" Sound"
+#~ msgstr "دانلود صدای \\\"%(sound_name)s\\\""
+
+#~ msgid ""
+#~ "Listen to and download the "
+#~ "\"%(sound_name)s\" sound effect for free. "
+#~ "Perfect for Soundpad, ringtones, and "
+#~ "streams."
+#~ msgstr ""
+#~ "به صدای افکت \\\"%(sound_name)s\\\" گوش "
+#~ "دهید و به‌صورت رایگان دانلود کنید. "
+#~ "مناسب برای Soundpad، زنگ‌های گوشی و "
+#~ "استریم‌ها."
 

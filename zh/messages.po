@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-12 20:00+0000\n"
+"POT-Creation-Date: 2026-03-12 21:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language: zh\n"
@@ -1279,16 +1279,6 @@ msgstr "未找到声音"
 
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "未找到该 ID 的声音。请检查输入的数据。"
-
-#, python-format
-msgid "Download \"%(sound_name)s\" Sound"
-msgstr "下载声音“%(sound_name)s”"
-
-#, python-format
-msgid ""
-"Listen to and download the \"%(sound_name)s\" sound effect for free. "
-"Perfect for Soundpad, ringtones, and streams."
-msgstr "免费收听并下载“%(sound_name)s”音效。非常适合 Soundpad、铃声和直播。"
 
 msgid "Add to Soundpad"
 msgstr "添加到 Soundpad"
@@ -3392,4 +3382,14 @@ msgstr "匿名"
 
 #~ msgid "Failed to load music."
 #~ msgstr "加载音乐失败。"
+
+#~ msgid "Download \"%(sound_name)s\" Sound"
+#~ msgstr "下载声音“%(sound_name)s”"
+
+#~ msgid ""
+#~ "Listen to and download the "
+#~ "\"%(sound_name)s\" sound effect for free. "
+#~ "Perfect for Soundpad, ringtones, and "
+#~ "streams."
+#~ msgstr "免费收听并下载“%(sound_name)s”音效。非常适合 Soundpad、铃声和直播。"
 
