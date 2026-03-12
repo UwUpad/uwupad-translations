@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-02-25 02:00+0000\n"
+"POT-Creation-Date: 2026-03-12 13:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
@@ -2831,38 +2831,11 @@ msgstr "Вернуться к Звукам / Мемам"
 msgid "Sounds / Memes"
 msgstr "Звуки / Мемы"
 
-msgid "Sorting"
-msgstr "Сортировка"
-
-msgid "FYP"
-msgstr "FYP"
-
-msgid "Hot"
-msgstr "Горячие"
-
-msgid "Period"
-msgstr "Период"
-
-msgid "All time"
-msgstr "За всё время"
-
-msgid "Year"
-msgstr "Ежегодно"
-
-msgid "Month"
-msgstr "Ежемесячно"
-
-msgid "Week"
-msgstr "За неделю"
-
-msgid "Day"
-msgstr "Сегодня"
-
-msgid "Now"
-msgstr "Сейчас"
-
 msgid "Search by title..."
 msgstr "Поиск по названию..."
+
+msgid "Charts"
+msgstr "Чарты"
 
 msgid "What do you want to listen to?"
 msgstr "Что вы хотите послушать?"
@@ -2881,6 +2854,9 @@ msgstr "Мои плейлисты"
 
 msgid "Play"
 msgstr "Воспроизвести"
+
+msgid "Added"
+msgstr "Добавлено"
 
 msgid "Now Playing"
 msgstr "Сейчас играет"
@@ -2933,11 +2909,11 @@ msgstr "Добавить в очередь"
 msgid "New Playlist"
 msgstr "Новый плейлист"
 
+msgid "Search Results"
+msgstr "Результаты поиска"
+
 msgid "Playlist is empty"
 msgstr "Этот плейлист пуст."
-
-msgid "Failed to load music."
-msgstr "Не удалось загрузить музыку."
 
 msgid "Unlike"
 msgstr "Не нравится"
@@ -3502,3 +3478,36 @@ msgstr "Аноним"
 
 #~ msgid "Say Thanks (+3 Days VIP)"
 #~ msgstr "Сказать спасибо (+3 дня VIP)"
+
+#~ msgid "Sorting"
+#~ msgstr "Сортировка"
+
+#~ msgid "FYP"
+#~ msgstr "FYP"
+
+#~ msgid "Hot"
+#~ msgstr "Горячие"
+
+#~ msgid "Period"
+#~ msgstr "Период"
+
+#~ msgid "All time"
+#~ msgstr "За всё время"
+
+#~ msgid "Year"
+#~ msgstr "Ежегодно"
+
+#~ msgid "Month"
+#~ msgstr "Ежемесячно"
+
+#~ msgid "Week"
+#~ msgstr "За неделю"
+
+#~ msgid "Day"
+#~ msgstr "Сегодня"
+
+#~ msgid "Now"
+#~ msgstr "Сейчас"
+
+#~ msgid "Failed to load music."
+#~ msgstr "Не удалось загрузить музыку."
