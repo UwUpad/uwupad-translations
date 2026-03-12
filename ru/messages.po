@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-12 14:00+0000\n"
+"POT-Creation-Date: 2026-03-12 21:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
@@ -1333,18 +1333,6 @@ msgstr "Звук не найден"
 
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "Звук с этим ID не найден. Пожалуйста, проверьте введенные данные."
-
-#, python-format
-msgid "Download \"%(sound_name)s\" Sound"
-msgstr "Скачать звук «%(sound_name)s»"
-
-#, python-format
-msgid ""
-"Listen to and download the \"%(sound_name)s\" sound effect for free. Perfect"
-" for Soundpad, ringtones, and streams."
-msgstr ""
-"Слушайте и скачивайте звуковой эффект «%(sound_name)s» бесплатно. Идеально "
-"для Soundpad, рингтонов и стримов."
 
 msgid "Add to Soundpad"
 msgstr "Добавить в Soundpad"
@@ -3511,3 +3499,13 @@ msgstr "Аноним"
 
 #~ msgid "Failed to load music."
 #~ msgstr "Не удалось загрузить музыку."
+
+#~ msgid "Download \"%(sound_name)s\" Sound"
+#~ msgstr "Скачать звук «%(sound_name)s»"
+
+#~ msgid ""
+#~ "Listen to and download the \"%(sound_name)s\" sound effect for free. Perfect"
+#~ " for Soundpad, ringtones, and streams."
+#~ msgstr ""
+#~ "Слушайте и скачивайте звуковой эффект «%(sound_name)s» бесплатно. Идеально "
+#~ "для Soundpad, рингтонов и стримов."
