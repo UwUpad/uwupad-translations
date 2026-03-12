@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-12 12:00+0000\n"
+"POT-Creation-Date: 2026-03-12 13:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2723,37 +2723,10 @@ msgstr ""
 msgid "Sounds / Memes"
 msgstr ""
 
-msgid "Sorting"
-msgstr ""
-
-msgid "FYP"
-msgstr ""
-
-msgid "Hot"
-msgstr ""
-
-msgid "Period"
-msgstr ""
-
-msgid "All time"
-msgstr ""
-
-msgid "Year"
-msgstr ""
-
-msgid "Month"
-msgstr ""
-
-msgid "Week"
-msgstr ""
-
-msgid "Day"
-msgstr ""
-
-msgid "Now"
-msgstr ""
-
 msgid "Search by title..."
+msgstr ""
+
+msgid "Charts"
 msgstr ""
 
 msgid "What do you want to listen to?"
@@ -2772,6 +2745,9 @@ msgid "My Playlists"
 msgstr ""
 
 msgid "Play"
+msgstr ""
+
+msgid "Added"
 msgstr ""
 
 msgid "Now Playing"
@@ -2825,10 +2801,10 @@ msgstr ""
 msgid "New Playlist"
 msgstr ""
 
-msgid "Playlist is empty"
+msgid "Search Results"
 msgstr ""
 
-msgid "Failed to load music."
+msgid "Playlist is empty"
 msgstr ""
 
 msgid "Unlike"
