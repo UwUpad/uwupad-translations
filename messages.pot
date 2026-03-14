@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-12 21:00+0000\n"
+"POT-Creation-Date: 2026-03-14 14:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -604,7 +604,16 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
-msgid "Top Supporters 💖"
+msgid "Top 5"
+msgstr ""
+
+msgid "Recent 5"
+msgstr ""
+
+msgid "Top Supporters"
+msgstr ""
+
+msgid "Live Donations"
 msgstr ""
 
 msgid "Support Our Project"
