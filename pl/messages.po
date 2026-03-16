@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 13:00+0000\n"
+"POT-Creation-Date: 2026-03-16 14:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:40+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Polish <pl@li.org>\n"
@@ -2733,17 +2733,23 @@ msgstr "Wyszukaj playlisty..."
 msgid "New Playlist"
 msgstr "Nowa playlista"
 
-msgid "Search Results"
-msgstr "Wyniki wyszukiwania"
-
-msgid "Playlist is empty"
-msgstr "Playlista jest pusta"
-
 msgid "Trending right now"
 msgstr "Na topie teraz"
 
 msgid "Freshest uploads"
 msgstr "Najświeższe uploady"
+
+msgid "Most popular tracks this week"
+msgstr "Najpopularniejsze tracki w tym tygodniu"
+
+msgid "Most popular tracks this month"
+msgstr "Najpopularniejsze tracki w tym miesiącu"
+
+msgid "Search Results"
+msgstr "Wyniki wyszukiwania"
+
+msgid "Playlist is empty"
+msgstr "Playlista jest pusta"
 
 msgid "plays"
 msgstr "Odtworzenia"

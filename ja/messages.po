@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 13:00+0000\n"
+"POT-Creation-Date: 2026-03-16 14:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -2733,17 +2733,23 @@ msgstr "プレイリストを検索..."
 msgid "New Playlist"
 msgstr "新しいプレイリスト"
 
-msgid "Search Results"
-msgstr "検索結果"
-
-msgid "Playlist is empty"
-msgstr "プレイリストは空です"
-
 msgid "Trending right now"
 msgstr "今のトレンド"
 
 msgid "Freshest uploads"
 msgstr "最新アップロード"
+
+msgid "Most popular tracks this week"
+msgstr "今週の人気楽曲"
+
+msgid "Most popular tracks this month"
+msgstr "今月の人気楽曲"
+
+msgid "Search Results"
+msgstr "検索結果"
+
+msgid "Playlist is empty"
+msgstr "プレイリストは空です"
 
 msgid "plays"
 msgstr "再生回数"

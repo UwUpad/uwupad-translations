@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 13:00+0000\n"
+"POT-Creation-Date: 2026-03-16 14:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -2726,17 +2726,23 @@ msgstr "Rechercher des playlists..."
 msgid "New Playlist"
 msgstr "Nouvelle playlist"
 
-msgid "Search Results"
-msgstr "Résultats de recherche"
-
-msgid "Playlist is empty"
-msgstr "La playlist est vide"
-
 msgid "Trending right now"
 msgstr "Tendances du moment"
 
 msgid "Freshest uploads"
 msgstr "Dernières mises en ligne"
+
+msgid "Most popular tracks this week"
+msgstr "Les morceaux les plus populaires cette semaine"
+
+msgid "Most popular tracks this month"
+msgstr "Les morceaux les plus populaires ce mois-ci"
+
+msgid "Search Results"
+msgstr "Résultats de recherche"
+
+msgid "Playlist is empty"
+msgstr "La playlist est vide"
 
 msgid "plays"
 msgstr "lectures"

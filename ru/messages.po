@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 13:00+0000\n"
+"POT-Creation-Date: 2026-03-16 14:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
@@ -2726,17 +2726,23 @@ msgstr "Поиск плейлистов..."
 msgid "New Playlist"
 msgstr "Новый плейлист"
 
-msgid "Search Results"
-msgstr "Результаты поиска"
-
-msgid "Playlist is empty"
-msgstr "Этот плейлист пуст."
-
 msgid "Trending right now"
 msgstr "Сейчас в тренде"
 
 msgid "Freshest uploads"
 msgstr "Самые свежие загрузки"
+
+msgid "Most popular tracks this week"
+msgstr "Самые топовые треки на этой неделе"
+
+msgid "Most popular tracks this month"
+msgstr "Самые топовые треки в этом месяце"
+
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+msgid "Playlist is empty"
+msgstr "Этот плейлист пуст."
 
 msgid "plays"
 msgstr "просмотры"
