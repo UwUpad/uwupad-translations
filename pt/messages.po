@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 15:00+0000\n"
+"POT-Creation-Date: 2026-03-16 20:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: pt\n"
 "Language-Team: pt <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2789,6 +2789,9 @@ msgstr "Arraste e Solte a Capa"
 msgid "or click to select"
 msgstr "ou clique para selecionar"
 
+msgid "Recommended: 500x500px, max. 5 MB"
+msgstr "Recomendado: 500x500px, máx. 5 MB"
+
 msgid "Cover Preview"
 msgstr "Pré-visualização da Capa"
 
@@ -3261,4 +3264,3 @@ msgstr "Um administrador removeu seu comentário em [entity]."
 
 msgid "Anonymous"
 msgstr "Anônimo"
-

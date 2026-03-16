@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 15:00+0000\n"
+"POT-Creation-Date: 2026-03-16 20:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:25+0200\n"
 "Last-Translator: AI Assistant <>\n"
-"Language: it\n"
 "Language-Team: Italian <it@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2796,6 +2796,9 @@ msgstr "Trascina e rilascia la copertina"
 msgid "or click to select"
 msgstr "o clicca per selezionare"
 
+msgid "Recommended: 500x500px, max. 5 MB"
+msgstr "Consigliato: 500x500px, max. 5 MB"
+
 msgid "Cover Preview"
 msgstr "Anteprima della copertina"
 
@@ -3268,4 +3271,3 @@ msgstr "Un amministratore ha rimosso il tuo commento su [entity]."
 
 msgid "Anonymous"
 msgstr "Anonimo"
-

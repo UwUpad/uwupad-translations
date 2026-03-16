@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 15:00+0000\n"
+"POT-Creation-Date: 2026-03-16 20:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2789,6 +2789,9 @@ msgstr "Glissez la pochette"
 msgid "or click to select"
 msgstr "ou cliquez pour choisir"
 
+msgid "Recommended: 500x500px, max. 5 MB"
+msgstr "Recommandé : 500x500px, max. 5 Mo"
+
 msgid "Cover Preview"
 msgstr "Aperçu pochette"
 
@@ -3261,4 +3264,3 @@ msgstr "Un admin a supprimé votre commentaire sur [entity]."
 
 msgid "Anonymous"
 msgstr "Anonyme"
-

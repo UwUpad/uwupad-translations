@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 15:00+0000\n"
+"POT-Creation-Date: 2026-03-16 20:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2786,6 +2786,9 @@ msgid "Drag & Drop Cover"
 msgstr ""
 
 msgid "or click to select"
+msgstr ""
+
+msgid "Recommended: 500x500px, max. 5 MB"
 msgstr ""
 
 msgid "Cover Preview"
