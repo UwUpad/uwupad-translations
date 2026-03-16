@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-14 15:00+0000\n"
+"POT-Creation-Date: 2026-03-16 06:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2731,6 +2731,9 @@ msgstr ""
 msgid "What do you want to listen to?"
 msgstr ""
 
+msgid "Tracks"
+msgstr ""
+
 msgid "Liked Songs"
 msgstr ""
 
@@ -2797,6 +2800,9 @@ msgstr ""
 msgid "Add to Queue"
 msgstr ""
 
+msgid "Search playlists..."
+msgstr ""
+
 msgid "New Playlist"
 msgstr ""
 
@@ -2816,6 +2822,9 @@ msgid "Enter playlist name:"
 msgstr ""
 
 msgid "Are you sure you want to delete this playlist?"
+msgstr ""
+
+msgid "No playlists found"
 msgstr ""
 
 msgid "This track is downloading."
