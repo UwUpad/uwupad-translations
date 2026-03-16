@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 11:51+0000\n"
+"POT-Creation-Date: 2026-03-16 13:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
-"Language: fa\n"
 "Language-Team: Persian <fa@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2670,6 +2670,9 @@ msgstr "لیست‌های پخش من"
 msgid "Play"
 msgstr "پخش"
 
+msgid "Plays"
+msgstr "پخش"
+
 msgid "Added"
 msgstr "اضافه شد"
 
@@ -2721,6 +2724,9 @@ msgstr "بی‌صدا/روشن کردن صدا"
 msgid "Add to Queue"
 msgstr "افزودن به صف پخش"
 
+msgid "Copy Link"
+msgstr "کپی لینک"
+
 msgid "Search playlists..."
 msgstr "جستجو در فهرست‌های پخش..."
 
@@ -2733,8 +2739,20 @@ msgstr "نتایج جستجو"
 msgid "Playlist is empty"
 msgstr "پلی‌لیست خالی است"
 
+msgid "Trending right now"
+msgstr "ترند این لحظه"
+
+msgid "Freshest uploads"
+msgstr "جدیدترین آپلودها"
+
+msgid "plays"
+msgstr "پخش‌ها"
+
 msgid "Unlike"
 msgstr "پسند نکردن"
+
+msgid "Link copied to clipboard"
+msgstr "لینک به کلیپ‌بورد کپی شد"
 
 msgid "Your personal favorites"
 msgstr "علاقه‌مندی‌های شخصی شما"
@@ -3244,4 +3262,3 @@ msgstr "یکی از مدیران نظر شما را در [entity] حذف کرد.
 
 msgid "Anonymous"
 msgstr "ناشناس"
-

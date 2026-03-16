@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 11:51+0000\n"
+"POT-Creation-Date: 2026-03-16 13:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2662,6 +2662,9 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
+msgid "Plays"
+msgstr ""
+
 msgid "Added"
 msgstr ""
 
@@ -2713,6 +2716,9 @@ msgstr ""
 msgid "Add to Queue"
 msgstr ""
 
+msgid "Copy Link"
+msgstr ""
+
 msgid "Search playlists..."
 msgstr ""
 
@@ -2725,7 +2731,19 @@ msgstr ""
 msgid "Playlist is empty"
 msgstr ""
 
+msgid "Trending right now"
+msgstr ""
+
+msgid "Freshest uploads"
+msgstr ""
+
+msgid "plays"
+msgstr ""
+
 msgid "Unlike"
+msgstr ""
+
+msgid "Link copied to clipboard"
 msgstr ""
 
 msgid "Your personal favorites"

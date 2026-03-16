@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 11:51+0000\n"
+"POT-Creation-Date: 2026-03-16 13:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
-"Language: kk\n"
 "Language-Team: kk <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2667,6 +2667,9 @@ msgstr "Менің плейлисттерім"
 msgid "Play"
 msgstr "Ойнату"
 
+msgid "Plays"
+msgstr "Ойналулар"
+
 msgid "Added"
 msgstr "Қосылды"
 
@@ -2718,6 +2721,9 @@ msgstr "Дыбыссыз ету/Дыбыс қосу"
 msgid "Add to Queue"
 msgstr "Кезекке қосу"
 
+msgid "Copy Link"
+msgstr "Сілтемені көшір"
+
 msgid "Search playlists..."
 msgstr "Плейлисттерді іздеу..."
 
@@ -2730,8 +2736,20 @@ msgstr "Іздеу нәтижелері"
 msgid "Playlist is empty"
 msgstr "Плейлист бос"
 
+msgid "Trending right now"
+msgstr "Қазір трендте"
+
+msgid "Freshest uploads"
+msgstr "Ең соңғы жүктептер"
+
+msgid "plays"
+msgstr "Ойналулар"
+
 msgid "Unlike"
 msgstr "Ұнатпау"
+
+msgid "Link copied to clipboard"
+msgstr "Сілтемені буферге көшірілді"
 
 msgid "Your personal favorites"
 msgstr "Сіздің жеке сүйіктілеріңіз"
@@ -3241,4 +3259,3 @@ msgstr "Әкімші сіздің [entity]-ге қалдырған пікірі�
 
 msgid "Anonymous"
 msgstr "Аноним"
-

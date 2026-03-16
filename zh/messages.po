@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 11:51+0000\n"
+"POT-Creation-Date: 2026-03-16 13:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: zh\n"
 "Language-Team: zh <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2663,6 +2663,9 @@ msgstr "我的播放列表"
 msgid "Play"
 msgstr "播放"
 
+msgid "Plays"
+msgstr "播放量"
+
 msgid "Added"
 msgstr "已添加"
 
@@ -2714,6 +2717,9 @@ msgstr "静音/取消静音"
 msgid "Add to Queue"
 msgstr "添加到队列"
 
+msgid "Copy Link"
+msgstr "复制链接"
+
 msgid "Search playlists..."
 msgstr "搜索播放列表..."
 
@@ -2726,8 +2732,20 @@ msgstr "搜索结果"
 msgid "Playlist is empty"
 msgstr "播放列表为空"
 
+msgid "Trending right now"
+msgstr "现在最火"
+
+msgid "Freshest uploads"
+msgstr "最新上传"
+
+msgid "plays"
+msgstr "播放量"
+
 msgid "Unlike"
 msgstr "取消点赞"
+
+msgid "Link copied to clipboard"
+msgstr "链接已复制到剪贴板"
 
 msgid "Your personal favorites"
 msgstr "你的个人收藏"
@@ -3237,4 +3255,3 @@ msgstr "管理员移除了你在 [entity] 下的评论。"
 
 msgid "Anonymous"
 msgstr "匿名"
-

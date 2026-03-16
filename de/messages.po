@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 11:51+0000\n"
+"POT-Creation-Date: 2026-03-16 13:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: de\n"
 "Language-Team: de <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2663,6 +2663,9 @@ msgstr "Meine Playlists"
 msgid "Play"
 msgstr "Abspielen"
 
+msgid "Plays"
+msgstr "Aufrufe"
+
 msgid "Added"
 msgstr "Hinzugefügt"
 
@@ -2714,6 +2717,9 @@ msgstr "Stumm/Ton an"
 msgid "Add to Queue"
 msgstr "Zur Warteschlange hinzufügen"
 
+msgid "Copy Link"
+msgstr "Link kopieren"
+
 msgid "Search playlists..."
 msgstr "Wiedergabelisten durchsuchen..."
 
@@ -2726,8 +2732,20 @@ msgstr "Suchergebnisse"
 msgid "Playlist is empty"
 msgstr "Playlist ist leer"
 
+msgid "Trending right now"
+msgstr "Jetzt voll im Trend"
+
+msgid "Freshest uploads"
+msgstr "Frischeste Uploads"
+
+msgid "plays"
+msgstr "Aufrufe"
+
 msgid "Unlike"
 msgstr "Gefällt mir nicht mehr"
+
+msgid "Link copied to clipboard"
+msgstr "Link in die Zwischenablage kopiert"
 
 msgid "Your personal favorites"
 msgstr "Deine persönlichen Favoriten"
@@ -3237,4 +3255,3 @@ msgstr "Ein Administrator hat deinen Kommentar zu [entity] entfernt."
 
 msgid "Anonymous"
 msgstr "Anonym"
-

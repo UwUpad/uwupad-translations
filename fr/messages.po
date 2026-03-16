@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-16 11:51+0000\n"
+"POT-Creation-Date: 2026-03-16 13:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2663,6 +2663,9 @@ msgstr "Mes playlists"
 msgid "Play"
 msgstr "Lire"
 
+msgid "Plays"
+msgstr "Lectures"
+
 msgid "Added"
 msgstr "Ajouté"
 
@@ -2714,6 +2717,9 @@ msgstr "Muet/Son"
 msgid "Add to Queue"
 msgstr "Ajouter à la file"
 
+msgid "Copy Link"
+msgstr "Copier le lien"
+
 msgid "Search playlists..."
 msgstr "Rechercher des playlists..."
 
@@ -2726,8 +2732,20 @@ msgstr "Résultats de recherche"
 msgid "Playlist is empty"
 msgstr "La playlist est vide"
 
+msgid "Trending right now"
+msgstr "Tendances du moment"
+
+msgid "Freshest uploads"
+msgstr "Dernières mises en ligne"
+
+msgid "plays"
+msgstr "lectures"
+
 msgid "Unlike"
 msgstr "Ne plus aimer"
+
+msgid "Link copied to clipboard"
+msgstr "Lien copié dans le presse-papiers"
 
 msgid "Your personal favorites"
 msgstr "Vos favoris personnels"
@@ -3237,4 +3255,3 @@ msgstr "Un admin a supprimé votre commentaire sur [entity]."
 
 msgid "Anonymous"
 msgstr "Anonyme"
-
