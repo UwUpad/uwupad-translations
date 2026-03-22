@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-22 06:00+0000\n"
+"POT-Creation-Date: 2026-03-22 12:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
-"Language: ru\n"
 "Language-Team: ru <LL@li.org>\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2639,6 +2639,12 @@ msgstr "Звуки / Мемы"
 msgid "Search by title..."
 msgstr "Поиск по названию..."
 
+msgid "Log in or register to get a personalized <b>For You</b> playlist, save your favorite tracks, create custom playlists, and upload your own music!"
+msgstr "Войдите или зарегистрируйтесь, чтобы получить персонализированный <b>For You</b> плейлист, сохранить любимые треки, создать собственные плейлисты и загрузить свою музыку!"
+
+msgid "Register"
+msgstr "Зарегистрироваться"
+
 msgid "Charts"
 msgstr "Чарты"
 
@@ -2726,8 +2732,8 @@ msgstr "Поиск плейлистов..."
 msgid "New Playlist"
 msgstr "Новый плейлист"
 
-msgid "Based on your likes"
-msgstr "На основе твоих лайков"
+msgid "Based on your taste"
+msgstr "По вашим вкусам"
 
 msgid "Trending right now"
 msgstr "Сейчас в тренде"
@@ -2746,6 +2752,12 @@ msgstr "Результаты поиска"
 
 msgid "Playlist is empty"
 msgstr "Этот плейлист пуст."
+
+msgid "Authentication Required"
+msgstr "Требуется аутентификация"
+
+msgid "Log in or register to get a personalized For You playlist based on your taste."
+msgstr "Войдите или зарегистрируйтесь, чтобы получить персонализированный плейлист For You, основанный на вашем вкусе."
 
 msgid "plays"
 msgstr "просмотры"
@@ -2768,8 +2780,14 @@ msgstr "Введите название плейлиста:"
 msgid "Are you sure you want to delete this playlist?"
 msgstr "Вы уверены, что хотите удалить этот плейлист?"
 
+msgid "Log in or register to create and manage your custom playlists."
+msgstr "Войдите или зарегистрируйтесь, чтобы создавать и управлять своими собственными плейлистами."
+
 msgid "No playlists found"
 msgstr "Плейлисты не найдены"
+
+msgid "Log in or register to like and save your favorite tracks."
+msgstr "Войдите или зарегистрируйтесь, чтобы ставить лайки и сохранять ваши любимые треки."
 
 msgid "This track is downloading."
 msgstr "Этот трек уже загружается."
@@ -3270,4 +3288,3 @@ msgstr "Администратор удалил ваш комментарий н
 
 msgid "Anonymous"
 msgstr "Аноним"
-

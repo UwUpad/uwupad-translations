@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-22 06:00+0000\n"
+"POT-Creation-Date: 2026-03-22 12:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2639,6 +2639,12 @@ msgstr "Sons / Memes"
 msgid "Search by title..."
 msgstr "Chercher par titre..."
 
+msgid "Log in or register to get a personalized <b>For You</b> playlist, save your favorite tracks, create custom playlists, and upload your own music!"
+msgstr "Connecte-toi ou inscris-toi pour obtenir une playlist personnalisée <b>Pour toi</b>, sauvegarde tes morceaux préférés, crée des playlists personnalisées et téléverse ta propre musique !"
+
+msgid "Register"
+msgstr "S'inscrire"
+
 msgid "Charts"
 msgstr "Graphiques"
 
@@ -2726,8 +2732,8 @@ msgstr "Rechercher des playlists..."
 msgid "New Playlist"
 msgstr "Nouvelle playlist"
 
-msgid "Based on your likes"
-msgstr "Basé sur ce que tu aimes"
+msgid "Based on your taste"
+msgstr "Selon tes goûts"
 
 msgid "Trending right now"
 msgstr "Tendances du moment"
@@ -2746,6 +2752,12 @@ msgstr "Résultats de recherche"
 
 msgid "Playlist is empty"
 msgstr "La playlist est vide"
+
+msgid "Authentication Required"
+msgstr "Authentification requise"
+
+msgid "Log in or register to get a personalized For You playlist based on your taste."
+msgstr "Connecte-toi ou inscris-toi pour obtenir une playlist personnalisée pour toi basée sur tes goûts."
 
 msgid "plays"
 msgstr "lectures"
@@ -2768,8 +2780,14 @@ msgstr "Nom de la playlist :"
 msgid "Are you sure you want to delete this playlist?"
 msgstr "Voulez-vous supprimer cette playlist ?"
 
+msgid "Log in or register to create and manage your custom playlists."
+msgstr "Connecte-toi ou inscris-toi pour créer et gérer tes playlists personnalisées."
+
 msgid "No playlists found"
 msgstr "Aucune playlist trouvée"
+
+msgid "Log in or register to like and save your favorite tracks."
+msgstr "Connecte-toi ou inscris-toi pour aimer et sauvegarder tes morceaux préférés."
 
 msgid "This track is downloading."
 msgstr "Piste en cours de téléchargement."
@@ -3270,4 +3288,3 @@ msgstr "Un admin a supprimé votre commentaire sur [entity]."
 
 msgid "Anonymous"
 msgstr "Anonyme"
-
