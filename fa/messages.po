@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-17 07:00+0000\n"
+"POT-Creation-Date: 2026-03-22 05:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
-"Language: fa\n"
 "Language-Team: Persian <fa@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2733,6 +2733,9 @@ msgstr "جستجو در فهرست‌های پخش..."
 msgid "New Playlist"
 msgstr "پلی‌لیست جدید"
 
+msgid "Based on your likes"
+msgstr "بر اساس لایک‌هاتون"
+
 msgid "Trending right now"
 msgstr "ترند این لحظه"
 
@@ -3274,4 +3277,3 @@ msgstr "یکی از مدیران نظر شما را در [entity] حذف کرد.
 
 msgid "Anonymous"
 msgstr "ناشناس"
-
