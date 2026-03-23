@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 11:00+0000\n"
+"POT-Creation-Date: 2026-03-23 12:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -2761,6 +2761,12 @@ msgstr "Résultats de recherche"
 
 msgid "Playlist is empty"
 msgstr "La playlist est vide"
+
+msgid "UwUpad Chart"
+msgstr "Graphique UwUpad"
+
+msgid "Trending in"
+msgstr "Tendances dans"
 
 msgid "Authentication Required"
 msgstr "Authentification requise"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 11:00+0000\n"
+"POT-Creation-Date: 2026-03-23 12:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: uk <LL@li.org>\n"
@@ -2761,6 +2761,12 @@ msgstr "Результати пошуку"
 
 msgid "Playlist is empty"
 msgstr "Плейлист порожній"
+
+msgid "UwUpad Chart"
+msgstr "UwUpad Chart"
+
+msgid "Trending in"
+msgstr "Trending in"
 
 msgid "Authentication Required"
 msgstr "Потрібна авторизація"

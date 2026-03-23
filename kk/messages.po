@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 11:00+0000\n"
+"POT-Creation-Date: 2026-03-23 12:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
@@ -2765,6 +2765,12 @@ msgstr "Іздеу нәтижелері"
 
 msgid "Playlist is empty"
 msgstr "Плейлист бос"
+
+msgid "UwUpad Chart"
+msgstr "UwUpad диаграммасы"
+
+msgid "Trending in"
+msgstr "Трендте"
 
 msgid "Authentication Required"
 msgstr "Кіру қажет"

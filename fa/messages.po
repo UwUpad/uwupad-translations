@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 11:00+0000\n"
+"POT-Creation-Date: 2026-03-23 12:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -2768,6 +2768,12 @@ msgstr "نتایج جستجو"
 
 msgid "Playlist is empty"
 msgstr "پلی‌لیست خالی است"
+
+msgid "UwUpad Chart"
+msgstr "نمودار UwUpad"
+
+msgid "Trending in"
+msgstr "پرطرفدار در"
 
 msgid "Authentication Required"
 msgstr "احراز هویت لازم است"

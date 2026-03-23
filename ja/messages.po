@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 11:00+0000\n"
+"POT-Creation-Date: 2026-03-23 12:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -2768,6 +2768,12 @@ msgstr "検索結果"
 
 msgid "Playlist is empty"
 msgstr "プレイリストは空です"
+
+msgid "UwUpad Chart"
+msgstr "UwUpad チャート"
+
+msgid "Trending in"
+msgstr "いま話題の"
 
 msgid "Authentication Required"
 msgstr "認証が必要だよ"
