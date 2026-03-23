@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 13:00+0000\n"
+"POT-Creation-Date: 2026-03-23 17:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: de\n"
 "Language-Team: de <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -713,6 +713,15 @@ msgstr "Land suchen..."
 
 msgid "Failed to load sounds."
 msgstr "Sounds konnten nicht geladen werden."
+
+msgid "Authentication Required"
+msgstr "Authentifizierung erforderlich"
+
+msgid "Log in or register to get a personalized For You feed based on your taste."
+msgstr "Melde dich an oder registriere dich, um einen personalisierten Feed 'Für dich' zu bekommen, der auf deinem Geschmack basiert."
+
+msgid "Log In or Create Account"
+msgstr "Einloggen oder Konto erstellen"
 
 msgid "Trending"
 msgstr "Im Trend"
@@ -2163,9 +2172,6 @@ msgstr "GELÖSCHT"
 msgid "Unlock This Feature"
 msgstr "Feature freischalten"
 
-msgid "Log In or Create Account"
-msgstr "Einloggen oder Konto erstellen"
-
 msgid "This sound is boosted!"
 msgstr "Dieser Sound ist geboostet!"
 
@@ -2768,9 +2774,6 @@ msgstr "UwUpad Diagramm"
 msgid "Trending in"
 msgstr "Im Trend"
 
-msgid "Authentication Required"
-msgstr "Authentifizierung erforderlich"
-
 msgid "Log in or register to get a personalized For You playlist based on your taste."
 msgstr "Melde dich an oder registriere dich, um eine personalisierte For You-Playlist basierend auf deinem Geschmack zu erhalten."
 
@@ -3303,4 +3306,3 @@ msgstr "Ein Administrator hat deinen Kommentar zu [entity] entfernt."
 
 msgid "Anonymous"
 msgstr "Anonym"
-

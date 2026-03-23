@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 13:00+0000\n"
+"POT-Creation-Date: 2026-03-23 17:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
-"Language: fa\n"
 "Language-Team: Persian <fa@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -720,6 +720,15 @@ msgstr "جستجوی کشور..."
 
 msgid "Failed to load sounds."
 msgstr "بارگذاری صداها ناموفق بود."
+
+msgid "Authentication Required"
+msgstr "احراز هویت لازم است"
+
+msgid "Log in or register to get a personalized For You feed based on your taste."
+msgstr "وارد شو یا ثبت‌نام کن تا فید For You شخصی‌شده بر اساس سلیقه‌ت رو بهت بده."
+
+msgid "Log In or Create Account"
+msgstr "وارد شوید یا حساب کاربری بسازید"
 
 msgid "Trending"
 msgstr "ترند"
@@ -2170,9 +2179,6 @@ msgstr "حذف شده"
 msgid "Unlock This Feature"
 msgstr "این قابلیت رو آنلاک کن."
 
-msgid "Log In or Create Account"
-msgstr "وارد شوید یا حساب کاربری بسازید"
-
 msgid "This sound is boosted!"
 msgstr "این صدا تقویت شده!"
 
@@ -2775,9 +2781,6 @@ msgstr "نمودار UwUpad"
 msgid "Trending in"
 msgstr "پرطرفدار در"
 
-msgid "Authentication Required"
-msgstr "احراز هویت لازم است"
-
 msgid "Log in or register to get a personalized For You playlist based on your taste."
 msgstr "وارد شو یا ثبت نام کن تا یه فهرست پخش شخصی For You بر اساس سلیقه‌ت بگیری."
 
@@ -3310,4 +3313,3 @@ msgstr "یکی از مدیران نظر شما را در [entity] حذف کرد.
 
 msgid "Anonymous"
 msgstr "ناشناس"
-

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 13:00+0000\n"
+"POT-Creation-Date: 2026-03-23 17:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -711,6 +711,15 @@ msgid "Search country..."
 msgstr ""
 
 msgid "Failed to load sounds."
+msgstr ""
+
+msgid "Authentication Required"
+msgstr ""
+
+msgid "Log in or register to get a personalized For You feed based on your taste."
+msgstr ""
+
+msgid "Log In or Create Account"
 msgstr ""
 
 msgid "Trending"
@@ -2162,9 +2171,6 @@ msgstr ""
 msgid "Unlock This Feature"
 msgstr ""
 
-msgid "Log In or Create Account"
-msgstr ""
-
 msgid "This sound is boosted!"
 msgstr ""
 
@@ -2765,9 +2771,6 @@ msgid "UwUpad Chart"
 msgstr ""
 
 msgid "Trending in"
-msgstr ""
-
-msgid "Authentication Required"
 msgstr ""
 
 msgid "Log in or register to get a personalized For You playlist based on your taste."

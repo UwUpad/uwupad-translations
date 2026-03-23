@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 13:00+0000\n"
+"POT-Creation-Date: 2026-03-23 17:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:40+0200\n"
 "Last-Translator: AI Assistant <>\n"
-"Language: pl\n"
 "Language-Team: Polish <pl@li.org>\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -720,6 +720,15 @@ msgstr "Szukaj kraju..."
 
 msgid "Failed to load sounds."
 msgstr "Nie udało się załadować dźwięków."
+
+msgid "Authentication Required"
+msgstr "Wymagane uwierzytelnienie"
+
+msgid "Log in or register to get a personalized For You feed based on your taste."
+msgstr "Zaloguj się lub zarejestruj, aby uzyskać spersonalizowany feed For You dopasowany do Twoich upodobań."
+
+msgid "Log In or Create Account"
+msgstr "Zaloguj się lub utwórz konto"
 
 msgid "Trending"
 msgstr "Na topie"
@@ -2170,9 +2179,6 @@ msgstr "USUNIĘTY"
 msgid "Unlock This Feature"
 msgstr "Odblokuj tę funkcję"
 
-msgid "Log In or Create Account"
-msgstr "Zaloguj się lub utwórz konto"
-
 msgid "This sound is boosted!"
 msgstr "Ten dźwięk jest wzmocniony!"
 
@@ -2775,9 +2781,6 @@ msgstr "Wykres UwUpad"
 msgid "Trending in"
 msgstr "Trendy w"
 
-msgid "Authentication Required"
-msgstr "Wymagane uwierzytelnienie"
-
 msgid "Log in or register to get a personalized For You playlist based on your taste."
 msgstr "Zaloguj się albo zarejestruj, aby uzyskać spersonalizowaną listę For You opartą na twoich upodobaniach."
 
@@ -3310,4 +3313,3 @@ msgstr "Administrator usunął Twój komentarz do [entity]."
 
 msgid "Anonymous"
 msgstr "Anonimowy"
-
