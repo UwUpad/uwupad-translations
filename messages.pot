@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-22 13:00+0000\n"
+"POT-Creation-Date: 2026-03-23 10:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -702,6 +702,12 @@ msgid "Today"
 msgstr ""
 
 msgid "Failed to load sounds."
+msgstr ""
+
+msgid "Trending"
+msgstr ""
+
+msgid "For You"
 msgstr ""
 
 msgid "Popular"
@@ -1893,9 +1899,6 @@ msgid "Reject"
 msgstr ""
 
 msgid "Music"
-msgstr ""
-
-msgid "For You"
 msgstr ""
 
 msgid "News"

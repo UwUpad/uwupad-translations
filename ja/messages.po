@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-22 13:00+0000\n"
+"POT-Creation-Date: 2026-03-23 10:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
-"Language: ja\n"
 "Language-Team: Japanese <ja@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -711,6 +711,12 @@ msgstr "今日"
 
 msgid "Failed to load sounds."
 msgstr "サウンドの読み込みに失敗しました。"
+
+msgid "Trending"
+msgstr "トレンド"
+
+msgid "For You"
+msgstr "あなたへ"
 
 msgid "Popular"
 msgstr "人気"
@@ -1902,9 +1908,6 @@ msgstr "拒否"
 
 msgid "Music"
 msgstr "音楽"
-
-msgid "For You"
-msgstr "あなたへ"
 
 msgid "News"
 msgstr "ニュース"
@@ -3295,4 +3298,3 @@ msgstr "管理者が [entity] に対するあなたのコメントを削除し�
 
 msgid "Anonymous"
 msgstr "匿名"
-

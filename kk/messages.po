@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-22 13:00+0000\n"
+"POT-Creation-Date: 2026-03-23 10:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
-"Language: kk\n"
 "Language-Team: kk <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -708,6 +708,12 @@ msgstr "Бүгін"
 
 msgid "Failed to load sounds."
 msgstr "Дыбыстарды жүктеу мүмкін болмады."
+
+msgid "Trending"
+msgstr "Трендтер"
+
+msgid "For You"
+msgstr "Сізге"
 
 msgid "Popular"
 msgstr "Танымал"
@@ -1899,9 +1905,6 @@ msgstr "Қабылдамау"
 
 msgid "Music"
 msgstr "Музыка"
-
-msgid "For You"
-msgstr "Сізге"
 
 msgid "News"
 msgstr "Жаңалықтар"
@@ -3292,4 +3295,3 @@ msgstr "Әкімші сіздің [entity]-ге қалдырған пікірі�
 
 msgid "Anonymous"
 msgstr "Аноним"
-

@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-22 13:00+0000\n"
+"POT-Creation-Date: 2026-03-23 10:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:25+0200\n"
 "Last-Translator: AI Assistant <>\n"
-"Language: it\n"
 "Language-Team: Italian <it@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -711,6 +711,12 @@ msgstr "Oggi"
 
 msgid "Failed to load sounds."
 msgstr "Errore nel caricamento dei suoni."
+
+msgid "Trending"
+msgstr "In tendenza"
+
+msgid "For You"
+msgstr "Per te"
 
 msgid "Popular"
 msgstr "Popolari"
@@ -1902,9 +1908,6 @@ msgstr "Rifiuta"
 
 msgid "Music"
 msgstr "Musica"
-
-msgid "For You"
-msgstr "Per te"
 
 msgid "News"
 msgstr "Notizie"
@@ -3295,4 +3298,3 @@ msgstr "Un amministratore ha rimosso il tuo commento su [entity]."
 
 msgid "Anonymous"
 msgstr "Anonimo"
-

@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-22 13:00+0000\n"
+"POT-Creation-Date: 2026-03-23 10:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -704,6 +704,12 @@ msgstr "Aujourd'hui"
 
 msgid "Failed to load sounds."
 msgstr "Échec du chargement des sons."
+
+msgid "Trending"
+msgstr "Tendances"
+
+msgid "For You"
+msgstr "Pour vous"
 
 msgid "Popular"
 msgstr "Populaire"
@@ -1895,9 +1901,6 @@ msgstr "Rejeter"
 
 msgid "Music"
 msgstr "Musique"
-
-msgid "For You"
-msgstr "Pour vous"
 
 msgid "News"
 msgstr "News"
@@ -3288,4 +3291,3 @@ msgstr "Un admin a supprimé votre commentaire sur [entity]."
 
 msgid "Anonymous"
 msgstr "Anonyme"
-
