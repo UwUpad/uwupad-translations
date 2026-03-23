@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 10:00+0000\n"
+"POT-Creation-Date: 2026-03-23 11:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: be <LL@li.org>\n"
@@ -705,6 +705,15 @@ msgstr "На гэтым тыдні"
 
 msgid "Today"
 msgstr "Сёння"
+
+msgid "Global"
+msgstr "Сусветны"
+
+msgid "More"
+msgstr "Больш"
+
+msgid "Search country..."
+msgstr "Пошук краіны..."
 
 msgid "Failed to load sounds."
 msgstr "Не атрымалася загрузіць гукі."
@@ -2073,9 +2082,6 @@ msgstr "Увайсці"
 
 msgid "New"
 msgstr "Новае"
-
-msgid "More"
-msgstr "Больш"
 
 msgid "About"
 msgstr "Пра"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 10:00+0000\n"
+"POT-Creation-Date: 2026-03-23 11:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -699,6 +699,15 @@ msgid "This Week"
 msgstr ""
 
 msgid "Today"
+msgstr ""
+
+msgid "Global"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "Search country..."
 msgstr ""
 
 msgid "Failed to load sounds."
@@ -2067,9 +2076,6 @@ msgid "Log in"
 msgstr ""
 
 msgid "New"
-msgstr ""
-
-msgid "More"
 msgstr ""
 
 msgid "About"

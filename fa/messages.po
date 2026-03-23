@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 10:00+0000\n"
+"POT-Creation-Date: 2026-03-23 11:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -708,6 +708,15 @@ msgstr "این هفته"
 
 msgid "Today"
 msgstr "امروز"
+
+msgid "Global"
+msgstr "جهانی"
+
+msgid "More"
+msgstr "بیشتر"
+
+msgid "Search country..."
+msgstr "جستجوی کشور..."
 
 msgid "Failed to load sounds."
 msgstr "بارگذاری صداها ناموفق بود."
@@ -2076,9 +2085,6 @@ msgstr "ورود"
 
 msgid "New"
 msgstr "جدید"
-
-msgid "More"
-msgstr "بیشتر"
 
 msgid "About"
 msgstr "درباره"

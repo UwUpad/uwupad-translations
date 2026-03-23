@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 10:00+0000\n"
+"POT-Creation-Date: 2026-03-23 11:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: de <LL@li.org>\n"
@@ -701,6 +701,15 @@ msgstr "Diese Woche"
 
 msgid "Today"
 msgstr "Heute"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "More"
+msgstr "Mehr"
+
+msgid "Search country..."
+msgstr "Land suchen..."
 
 msgid "Failed to load sounds."
 msgstr "Sounds konnten nicht geladen werden."
@@ -2069,9 +2078,6 @@ msgstr "Einloggen"
 
 msgid "New"
 msgstr "Neu"
-
-msgid "More"
-msgstr "Mehr"
 
 msgid "About"
 msgstr "Über"

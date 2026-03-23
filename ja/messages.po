@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 10:00+0000\n"
+"POT-Creation-Date: 2026-03-23 11:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -708,6 +708,15 @@ msgstr "今週"
 
 msgid "Today"
 msgstr "今日"
+
+msgid "Global"
+msgstr "グローバル"
+
+msgid "More"
+msgstr "もっと見る"
+
+msgid "Search country..."
+msgstr "国を検索..."
 
 msgid "Failed to load sounds."
 msgstr "サウンドの読み込みに失敗しました。"
@@ -2076,9 +2085,6 @@ msgstr "ログイン"
 
 msgid "New"
 msgstr "新規"
-
-msgid "More"
-msgstr "もっと見る"
 
 msgid "About"
 msgstr "このアプリについて"

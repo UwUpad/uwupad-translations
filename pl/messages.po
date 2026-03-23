@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 10:00+0000\n"
+"POT-Creation-Date: 2026-03-23 11:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:40+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Polish <pl@li.org>\n"
@@ -708,6 +708,15 @@ msgstr "W tym tygodniu"
 
 msgid "Today"
 msgstr "Dziś"
+
+msgid "Global"
+msgstr "Globalny"
+
+msgid "More"
+msgstr "Więcej"
+
+msgid "Search country..."
+msgstr "Szukaj kraju..."
 
 msgid "Failed to load sounds."
 msgstr "Nie udało się załadować dźwięków."
@@ -2076,9 +2085,6 @@ msgstr "Zaloguj się"
 
 msgid "New"
 msgstr "Nowy"
-
-msgid "More"
-msgstr "Więcej"
 
 msgid "About"
 msgstr "O grze"
