@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-24 07:00+0000\n"
+"POT-Creation-Date: 2026-03-24 08:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: zh\n"
 "Language-Team: zh <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2220,6 +2220,9 @@ msgstr "浏览量"
 msgid "Add to playlist"
 msgstr "添加到播放列表"
 
+msgid "Not interested"
+msgstr "没兴趣啦"
+
 msgid "Report"
 msgstr "举报"
 
@@ -2338,6 +2341,9 @@ msgstr "嘿，快来看看 Uwupad 上的这个播放列表！"
 
 msgid "No sounds found"
 msgstr "未找到声音"
+
+msgid "We will show fewer sounds like this"
+msgstr "我们会少展示这类声音"
 
 msgid "Sound is already in the queue"
 msgstr "声音已在队列中"
@@ -2821,6 +2827,9 @@ msgstr "UwUpad Music 是一个免费的音乐流媒体服务，提供海量音�
 
 msgid "Unlike"
 msgstr "取消点赞"
+
+msgid "We will show fewer tracks like this"
+msgstr "我们会少展示这类曲目"
 
 msgid "Link copied to clipboard"
 msgstr "链接已复制到剪贴板"
@@ -3342,4 +3351,3 @@ msgstr "管理员移除了你在 [entity] 下的评论。"
 
 msgid "Anonymous"
 msgstr "匿名"
-

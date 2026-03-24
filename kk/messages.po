@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-24 07:00+0000\n"
+"POT-Creation-Date: 2026-03-24 08:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
-"Language: kk\n"
 "Language-Team: kk <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -2224,6 +2224,9 @@ msgstr "Қаралымдар"
 msgid "Add to playlist"
 msgstr "Ойнату тізіміне қосу"
 
+msgid "Not interested"
+msgstr "Қызықпаймын"
+
 msgid "Report"
 msgstr "Шағымдану"
 
@@ -2342,6 +2345,9 @@ msgstr "Эй, Uwupad-тағы осы ойнату тізімін қараңыз!
 
 msgid "No sounds found"
 msgstr "Дыбыстар табылмады"
+
+msgid "We will show fewer sounds like this"
+msgstr "Мұндай дыбыстарды аз көрсетеміз"
 
 msgid "Sound is already in the queue"
 msgstr "Дыбыс қазірдің өзінде кезекте тұр"
@@ -2825,6 +2831,9 @@ msgstr "UwUpad Music — тегін музыка тыңдау қызметі, м
 
 msgid "Unlike"
 msgstr "Ұнатпау"
+
+msgid "We will show fewer tracks like this"
+msgstr "Мұндай тректерді аз көрсетеміз"
 
 msgid "Link copied to clipboard"
 msgstr "Сілтемені буферге көшірілді"
@@ -3346,4 +3355,3 @@ msgstr "Әкімші сіздің [entity]-ге қалдырған пікірі�
 
 msgid "Anonymous"
 msgstr "Аноним"
-
