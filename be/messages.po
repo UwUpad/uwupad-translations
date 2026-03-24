@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 18:00+0000\n"
+"POT-Creation-Date: 2026-03-24 06:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
-"Language: be\n"
 "Language-Team: be <LL@li.org>\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -694,20 +694,41 @@ msgstr "Калі ласка, увядзіце суму ад 1 да 2500 Stars."
 msgid "Recommendations"
 msgstr "Рэкамендацыі"
 
+msgid "Show all time popular sounds"
+msgstr "Паказаць усе папулярныя гукі за ўвесь час"
+
 msgid "All Time"
 msgstr "За ўвесь час"
+
+msgid "Show popular sounds from the last 30 days"
+msgstr "Паказаць папулярныя гукі за апошнія 30 дзён"
 
 msgid "This Month"
 msgstr "У гэтым месяцы"
 
+msgid "Show popular sounds from the last 7 days"
+msgstr "Паказаць папулярныя гукі за апошнія 7 дзён"
+
 msgid "This Week"
 msgstr "На гэтым тыдні"
+
+msgid "Show popular sounds from the last 24 hours"
+msgstr "Паказаць папулярныя гукі за апошнія 24 гадзіны"
 
 msgid "Today"
 msgstr "Сёння"
 
 msgid "Global"
 msgstr "Сусветны"
+
+msgid "Lang Filter: ON"
+msgstr "Фільтр мовы: Уключана"
+
+msgid "Lang Filter: OFF"
+msgstr "Фільтр мовы: Выключана"
+
+msgid "Toggle content language filtering. Turn off if you see too few sounds."
+msgstr "Пераключы фільтр мовы кантэнту. Выключы, калі бачыш занадта мала гукаў."
 
 msgid "More"
 msgstr "Больш"
@@ -736,11 +757,29 @@ msgstr "Рэкамендацыі"
 msgid "Popular"
 msgstr "Папулярныя"
 
+msgid "Go to previous page"
+msgstr "Перайдзі на папярэднюю старонку"
+
 msgid "Previous"
 msgstr "Папярэдняя"
 
+msgid "Go to next page"
+msgstr "Перайдзі на наступную старонку"
+
 msgid "Next page"
 msgstr "Наст. старонка"
+
+msgid "Page"
+msgstr "Старонка"
+
+msgid "Enter page number"
+msgstr "Увядзі нумар старонкі"
+
+msgid "Jump to page"
+msgstr "Перайдзі да старонкі"
+
+msgid "Go"
+msgstr "Перайсці"
 
 msgid "Top Sound Creators"
 msgstr "Топ стваральнікаў гукаў"
@@ -2092,9 +2131,6 @@ msgstr "Увайсці"
 msgid "New"
 msgstr "Новае"
 
-msgid "About"
-msgstr "Пра"
-
 msgid "Download Top 50 Packs:"
 msgstr "Спампуйце Top 50 пакетаў:"
 
@@ -3310,4 +3346,3 @@ msgstr "Адміністратар выдаліў ваш каментарый д
 
 msgid "Anonymous"
 msgstr "Ананімны"
-

@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 18:00+0000\n"
+"POT-Creation-Date: 2026-03-24 06:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
-"Language: uk\n"
 "Language-Team: uk <LL@li.org>\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -690,20 +690,41 @@ msgstr "Будь ласка, введіть суму від 1 до 2500 Stars."
 msgid "Recommendations"
 msgstr "Рекомендації"
 
+msgid "Show all time popular sounds"
+msgstr "Показати всі найпопулярніші звуки за весь час"
+
 msgid "All Time"
 msgstr "За весь час"
+
+msgid "Show popular sounds from the last 30 days"
+msgstr "Показати популярні звуки за останні 30 днів"
 
 msgid "This Month"
 msgstr "За цей місяць"
 
+msgid "Show popular sounds from the last 7 days"
+msgstr "Показати популярні звуки за останні 7 днів"
+
 msgid "This Week"
 msgstr "За цей тиждень"
+
+msgid "Show popular sounds from the last 24 hours"
+msgstr "Показати популярні звуки за останні 24 години"
 
 msgid "Today"
 msgstr "Сьогодні"
 
 msgid "Global"
 msgstr "Глобальний"
+
+msgid "Lang Filter: ON"
+msgstr "Мовний фільтр: Увімкнено"
+
+msgid "Lang Filter: OFF"
+msgstr "Мовний фільтр: Вимкнено"
+
+msgid "Toggle content language filtering. Turn off if you see too few sounds."
+msgstr "Переключи мовний фільтр контенту. Вимкни, якщо звуків занадто мало."
 
 msgid "More"
 msgstr "Більше"
@@ -732,11 +753,29 @@ msgstr "Для вас"
 msgid "Popular"
 msgstr "Популярні"
 
+msgid "Go to previous page"
+msgstr "Перейти до попередньої сторінки"
+
 msgid "Previous"
 msgstr "Попередня"
 
+msgid "Go to next page"
+msgstr "Перейти до наступної сторінки"
+
 msgid "Next page"
 msgstr "Наступна сторінка"
+
+msgid "Page"
+msgstr "Сторінка"
+
+msgid "Enter page number"
+msgstr "Введи номер сторінки"
+
+msgid "Jump to page"
+msgstr "Перейти до сторінки"
+
+msgid "Go"
+msgstr "Перейти"
 
 msgid "Top Sound Creators"
 msgstr "Топ творців звуків"
@@ -2088,9 +2127,6 @@ msgstr "Увійти"
 msgid "New"
 msgstr "Новий"
 
-msgid "About"
-msgstr "Про"
-
 msgid "Download Top 50 Packs:"
 msgstr "Завантажити топ 50 паків:"
 
@@ -3306,4 +3342,3 @@ msgstr "Адміністратор видалив ваш коментар до [
 
 msgid "Anonymous"
 msgstr "Анонім"
-

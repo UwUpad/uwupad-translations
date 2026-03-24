@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 18:00+0000\n"
+"POT-Creation-Date: 2026-03-24 06:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: pt\n"
 "Language-Team: pt <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -690,20 +690,41 @@ msgstr "Por favor, insira um valor entre 1 e 2500 Stars."
 msgid "Recommendations"
 msgstr "Recomendações"
 
+msgid "Show all time popular sounds"
+msgstr "Mostrar os sons mais populares de todos os tempos"
+
 msgid "All Time"
 msgstr "Todo o tempo"
+
+msgid "Show popular sounds from the last 30 days"
+msgstr "Mostrar sons populares dos últimos 30 dias"
 
 msgid "This Month"
 msgstr "Este mês"
 
+msgid "Show popular sounds from the last 7 days"
+msgstr "Mostrar sons populares dos últimos 7 dias"
+
 msgid "This Week"
 msgstr "Esta semana"
+
+msgid "Show popular sounds from the last 24 hours"
+msgstr "Mostrar sons populares nas últimas 24 horas"
 
 msgid "Today"
 msgstr "Hoje"
 
 msgid "Global"
 msgstr "Global"
+
+msgid "Lang Filter: ON"
+msgstr "Filtro de idioma: LIGADO"
+
+msgid "Lang Filter: OFF"
+msgstr "Filtro de idioma: DESLIGADO"
+
+msgid "Toggle content language filtering. Turn off if you see too few sounds."
+msgstr "Alternar o filtro de idioma do conteúdo. Desligue se vir poucos sons."
 
 msgid "More"
 msgstr "Mais"
@@ -732,11 +753,29 @@ msgstr "Para Você"
 msgid "Popular"
 msgstr "Popular"
 
+msgid "Go to previous page"
+msgstr "Ir para a página anterior"
+
 msgid "Previous"
 msgstr "Anterior"
 
+msgid "Go to next page"
+msgstr "Ir para a próxima página"
+
 msgid "Next page"
 msgstr "Próxima página"
+
+msgid "Page"
+msgstr "Página"
+
+msgid "Enter page number"
+msgstr "Digite o número da página"
+
+msgid "Jump to page"
+msgstr "Pular para a página"
+
+msgid "Go"
+msgstr "Ir"
 
 msgid "Top Sound Creators"
 msgstr "Melhores Criadores de Som"
@@ -2088,9 +2127,6 @@ msgstr "Entrar"
 msgid "New"
 msgstr "Novo"
 
-msgid "About"
-msgstr "Sobre"
-
 msgid "Download Top 50 Packs:"
 msgstr "Baixar Pacotes Top 50:"
 
@@ -3306,4 +3342,3 @@ msgstr "Um administrador removeu seu comentário em [entity]."
 
 msgid "Anonymous"
 msgstr "Anônimo"
-

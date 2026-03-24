@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 18:00+0000\n"
+"POT-Creation-Date: 2026-03-24 06:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
-"Language: fa\n"
 "Language-Team: Persian <fa@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -697,20 +697,41 @@ msgstr "لطفاً مقداری بین 1 تا 2500 استار وارد کن."
 msgid "Recommendations"
 msgstr "پیشنهادها"
 
+msgid "Show all time popular sounds"
+msgstr "نمایش تمام صداهای محبوب از همه زمان‌ها"
+
 msgid "All Time"
 msgstr "همه زمان‌ها"
+
+msgid "Show popular sounds from the last 30 days"
+msgstr "نمایش صداهای محبوب از ۳۰ روز اخیر"
 
 msgid "This Month"
 msgstr "این ماه"
 
+msgid "Show popular sounds from the last 7 days"
+msgstr "نمایش صداهای محبوب از ۷ روز اخیر"
+
 msgid "This Week"
 msgstr "این هفته"
+
+msgid "Show popular sounds from the last 24 hours"
+msgstr "نمایش صداهای محبوب از ۲۴ ساعت اخیر"
 
 msgid "Today"
 msgstr "امروز"
 
 msgid "Global"
 msgstr "جهانی"
+
+msgid "Lang Filter: ON"
+msgstr "فیلتر زبان: روشن"
+
+msgid "Lang Filter: OFF"
+msgstr "فیلتر زبان: خاموش"
+
+msgid "Toggle content language filtering. Turn off if you see too few sounds."
+msgstr "فیلتر زبان محتوا را روشن یا خاموش کن. اگر تعداد صداها خیلی کم شد، خاموشش کن."
 
 msgid "More"
 msgstr "بیشتر"
@@ -739,11 +760,29 @@ msgstr "برای شما"
 msgid "Popular"
 msgstr "محبوب"
 
+msgid "Go to previous page"
+msgstr "برو به صفحه قبل"
+
 msgid "Previous"
 msgstr "قبلی"
 
+msgid "Go to next page"
+msgstr "برو به صفحه بعد"
+
 msgid "Next page"
 msgstr "صفحه بعد"
+
+msgid "Page"
+msgstr "صفحه"
+
+msgid "Enter page number"
+msgstr "شماره صفحه را وارد کنید"
+
+msgid "Jump to page"
+msgstr "پرش به صفحه"
+
+msgid "Go"
+msgstr "برو"
 
 msgid "Top Sound Creators"
 msgstr "برترین سازندگان صدا"
@@ -2095,9 +2134,6 @@ msgstr "ورود"
 msgid "New"
 msgstr "جدید"
 
-msgid "About"
-msgstr "درباره"
-
 msgid "Download Top 50 Packs:"
 msgstr "دانلود ۵۰ پک برتر:"
 
@@ -3313,4 +3349,3 @@ msgstr "یکی از مدیران نظر شما را در [entity] حذف کرد.
 
 msgid "Anonymous"
 msgstr "ناشناس"
-

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-23 18:00+0000\n"
+"POT-Creation-Date: 2026-03-24 06:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -689,19 +689,40 @@ msgstr ""
 msgid "Recommendations"
 msgstr ""
 
+msgid "Show all time popular sounds"
+msgstr ""
+
 msgid "All Time"
+msgstr ""
+
+msgid "Show popular sounds from the last 30 days"
 msgstr ""
 
 msgid "This Month"
 msgstr ""
 
+msgid "Show popular sounds from the last 7 days"
+msgstr ""
+
 msgid "This Week"
+msgstr ""
+
+msgid "Show popular sounds from the last 24 hours"
 msgstr ""
 
 msgid "Today"
 msgstr ""
 
 msgid "Global"
+msgstr ""
+
+msgid "Lang Filter: ON"
+msgstr ""
+
+msgid "Lang Filter: OFF"
+msgstr ""
+
+msgid "Toggle content language filtering. Turn off if you see too few sounds."
 msgstr ""
 
 msgid "More"
@@ -731,10 +752,28 @@ msgstr ""
 msgid "Popular"
 msgstr ""
 
+msgid "Go to previous page"
+msgstr ""
+
 msgid "Previous"
 msgstr ""
 
+msgid "Go to next page"
+msgstr ""
+
 msgid "Next page"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Enter page number"
+msgstr ""
+
+msgid "Jump to page"
+msgstr ""
+
+msgid "Go"
 msgstr ""
 
 msgid "Top Sound Creators"
@@ -2085,9 +2124,6 @@ msgid "Log in"
 msgstr ""
 
 msgid "New"
-msgstr ""
-
-msgid "About"
 msgstr ""
 
 msgid "Download Top 50 Packs:"
