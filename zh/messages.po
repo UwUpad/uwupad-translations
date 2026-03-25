@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-24 09:00+0000\n"
+"POT-Creation-Date: 2026-03-25 10:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: zh\n"
 "Language-Team: zh <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -1393,6 +1393,18 @@ msgstr "收听"
 msgid "Edit Sound"
 msgstr "编辑声音"
 
+msgid "Sound ID"
+msgstr "音效ID"
+
+msgid "Unique Identifier"
+msgstr "唯一标识符"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Enter sound title..."
+msgstr "输入音效标题..."
+
 msgid "Description"
 msgstr "描述"
 
@@ -1405,14 +1417,29 @@ msgstr "标签 (用逗号分隔)"
 msgid "Cover Image (Optional)"
 msgstr "封面图 (选填)"
 
-msgid "Language (Admin)"
-msgstr "语言 (管理)"
+msgid "Max 2MB. Leaves current cover intact if empty."
+msgstr "最大 2MB。若留空则保持当前封面不变。"
+
+msgid "LOUD Warning"
+msgstr "高音量警告"
+
+msgid "Mark if audio is extremely loud or screechy"
+msgstr "若音频极度响亮或尖锐，请勾选"
+
+msgid "EXPLICIT Content"
+msgstr "成人内容"
+
+msgid "Mark if audio contains profanity or 18+ themes"
+msgstr "若音频包含脏话或18+主题，请勾选"
 
 msgid "Mark as Music (Admin)"
 msgstr "标记为音乐 (管理)"
 
-msgid "This will make the sound appear in the /music section."
-msgstr "这将使该声音显示在 /music 栏目中。"
+msgid "Moves this sound to the /music section"
+msgstr "将此声音移至 /music 板块"
+
+msgid "Title cannot be empty"
+msgstr "标题不能为空"
 
 msgid "Sound updated successfully!"
 msgstr "声音更新成功！"
@@ -1566,8 +1593,11 @@ msgstr "音乐 / 音效 (无语言)"
 msgid "Other"
 msgstr "其他"
 
-msgid "Helps us recommend your sound to the right audience."
-msgstr "帮助我们将你的声音推荐给合适的受众。"
+msgid "Important:"
+msgstr "重要提示："
+
+msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
+msgstr "请选择音频中所说的语言。若这是歌曲或没有清晰对白的音效，请选择 'Music / SFX'。语言选择错误会影响你的推荐，甚至可能被审核。"
 
 msgid "Upload"
 msgstr "上传"
@@ -2175,9 +2205,6 @@ msgstr "访问受限"
 msgid "To continue listening, please subscribe to our Telegram channel."
 msgstr "要继续收听，请订阅我们的 Telegram 频道。"
 
-msgid "Important:"
-msgstr "重要提示："
-
 msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
 msgstr "请勿退订！如果你离开频道，将需要重新验证。"
 
@@ -2668,9 +2695,6 @@ msgstr "非常热门 (100-500 次下载)"
 
 msgid "Extremely popular (>500 downloads)"
 msgstr "极度火爆 (>500 次下载)"
-
-msgid "Language"
-msgstr "语言"
 
 msgid "Toggle BETA personalization"
 msgstr "切换 BETA 个性化设置"
@@ -3351,4 +3375,3 @@ msgstr "管理员移除了你在 [entity] 下的评论。"
 
 msgid "Anonymous"
 msgstr "匿名"
-

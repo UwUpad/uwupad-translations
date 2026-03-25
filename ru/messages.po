@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-24 09:00+0000\n"
+"POT-Creation-Date: 2026-03-25 10:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
-"Language: ru\n"
 "Language-Team: ru <LL@li.org>\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -1393,6 +1393,18 @@ msgstr "Слушать"
 msgid "Edit Sound"
 msgstr "Редактировать звук"
 
+msgid "Sound ID"
+msgstr "Идентификатор звука"
+
+msgid "Unique Identifier"
+msgstr "Уникальный идентификатор"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Enter sound title..."
+msgstr "Введите название звука..."
+
 msgid "Description"
 msgstr "Описание"
 
@@ -1405,14 +1417,29 @@ msgstr "Теги (через запятую)"
 msgid "Cover Image (Optional)"
 msgstr "Обложка (необязательно)"
 
-msgid "Language (Admin)"
-msgstr "Язык (Админ)"
+msgid "Max 2MB. Leaves current cover intact if empty."
+msgstr "Макс. 2 МБ. Текущая обложка останется без изменений, если поле пустое."
+
+msgid "LOUD Warning"
+msgstr "ПРЕДУПРЕЖДЕНИЕ: ГРОМКИЙ ЗВУК"
+
+msgid "Mark if audio is extremely loud or screechy"
+msgstr "Отметьте, если аудио очень громкое или визгливое"
+
+msgid "EXPLICIT Content"
+msgstr "Нецензурное содержание"
+
+msgid "Mark if audio contains profanity or 18+ themes"
+msgstr "Отметьте, если в аудио присутствует нецензурная лексика или темы 18+"
 
 msgid "Mark as Music (Admin)"
 msgstr "Отметить как музыку (Админ)"
 
-msgid "This will make the sound appear in the /music section."
-msgstr "Это заставит звук появиться в разделе /music."
+msgid "Moves this sound to the /music section"
+msgstr "Переместить этот звук в раздел /music"
+
+msgid "Title cannot be empty"
+msgstr "Заголовок не может быть пустым"
 
 msgid "Sound updated successfully!"
 msgstr "Звук успешно обновлен!"
@@ -1566,8 +1593,11 @@ msgstr "Музыка / Звуковые эффекты (Без языка)"
 msgid "Other"
 msgstr "Другое"
 
-msgid "Helps us recommend your sound to the right audience."
-msgstr "Помогает нам рекомендовать ваш звук нужной аудитории."
+msgid "Important:"
+msgstr "Важно:"
+
+msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
+msgstr "Выберите язык, на котором говорят в аудио. Если это песня или звуковой эффект без явной речи, выберите 'Music / SFX'. Неправильный выбор языка повредит ваши рекомендации и может привести к модерации."
 
 msgid "Upload"
 msgstr "Загрузить"
@@ -2175,9 +2205,6 @@ msgstr "Доступ запрещен"
 msgid "To continue listening, please subscribe to our Telegram channel."
 msgstr "Чтобы продолжить прослушивание и загрузку, пожалуйста, подпишитесь на этот канал."
 
-msgid "Important:"
-msgstr "Важно:"
-
 msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
 msgstr "Не отписывайтесь! Если вы покинете канал, вам придется снова пройти проверку."
 
@@ -2668,9 +2695,6 @@ msgstr "Очень популярный (100-500 скачиваний)"
 
 msgid "Extremely popular (>500 downloads)"
 msgstr "Чрезвычайно популярный (>500 скачиваний)"
-
-msgid "Language"
-msgstr "Язык"
 
 msgid "Toggle BETA personalization"
 msgstr "Включить BETA персонализацию"
@@ -3351,4 +3375,3 @@ msgstr "Администратор удалил ваш комментарий н
 
 msgid "Anonymous"
 msgstr "Аноним"
-

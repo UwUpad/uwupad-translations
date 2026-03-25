@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-24 09:00+0000\n"
+"POT-Creation-Date: 2026-03-25 10:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
-"Language: be\n"
 "Language-Team: be <LL@li.org>\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -1397,6 +1397,18 @@ msgstr "Слухаць"
 msgid "Edit Sound"
 msgstr "Рэдагаваць гук"
 
+msgid "Sound ID"
+msgstr "Ідэнтыфікатар гуку"
+
+msgid "Unique Identifier"
+msgstr "Унікальны ідэнтыфікатар"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Enter sound title..."
+msgstr "Увядзіце назву гуку..."
+
 msgid "Description"
 msgstr "Апісанне"
 
@@ -1409,14 +1421,29 @@ msgstr "Тэгі (па косках)"
 msgid "Cover Image (Optional)"
 msgstr "Выява-абкладка (апцыянальна)"
 
-msgid "Language (Admin)"
-msgstr "Мова (адміністратар)"
+msgid "Max 2MB. Leaves current cover intact if empty."
+msgstr "Максімум 2 МБ. Калі поле пустое, бягучая вокладка застанецца без змен."
+
+msgid "LOUD Warning"
+msgstr "Гучнае папярэджанне"
+
+msgid "Mark if audio is extremely loud or screechy"
+msgstr "Адзначыце, калі аўдыё вельмі гучнае або скрыпучае"
+
+msgid "EXPLICIT Content"
+msgstr "Экспліцитны змест"
+
+msgid "Mark if audio contains profanity or 18+ themes"
+msgstr "Адзначыце, калі ў аўдыё ёсць нецэнзурная лексіка або тэмы 18+"
 
 msgid "Mark as Music (Admin)"
 msgstr "Адзначыць як музыку (Admin)"
 
-msgid "This will make the sound appear in the /music section."
-msgstr "Гэты гук з'явіцца ў раздзеле /music."
+msgid "Moves this sound to the /music section"
+msgstr "Перамясціць гэты гук у раздзел /music"
+
+msgid "Title cannot be empty"
+msgstr "Назва не можа быць пустой"
 
 msgid "Sound updated successfully!"
 msgstr "Гук паспяхова абноўлены!"
@@ -1570,8 +1597,11 @@ msgstr "Музыка / SFX (without мовы)"
 msgid "Other"
 msgstr "Іншае"
 
-msgid "Helps us recommend your sound to the right audience."
-msgstr "Дапамагае нам рэкамендаваць ваш гук правільнай аўдыторыі."
+msgid "Important:"
+msgstr "Важна:"
+
+msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
+msgstr "Выберыце мову, якой гавораць у аўдыё. Калі гэта песня або гукавы эфект без выразнай прамовы, абярыце 'Music / SFX'. Няправільныя мовы шкодзяць вашым рэкамендацыям і могуць прывесці да мадэрацыі."
 
 msgid "Upload"
 msgstr "Загрузіць"
@@ -2179,9 +2209,6 @@ msgstr "Доступ абмежаваны"
 msgid "To continue listening, please subscribe to our Telegram channel."
 msgstr "Каб працягнуць праслухванне, падпішыцеся на наш Telegram-канал."
 
-msgid "Important:"
-msgstr "Важна:"
-
 msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
 msgstr "Не адпісвайцеся! Калі вы выйдзеце з канала, вам трэба будзе зноў пацвердзіць падпіску."
 
@@ -2672,9 +2699,6 @@ msgstr "Вельмі папулярны (100-500 спамповак)"
 
 msgid "Extremely popular (>500 downloads)"
 msgstr "Надзвычай папулярны (>500 спамповак)"
-
-msgid "Language"
-msgstr "Мова"
 
 msgid "Toggle BETA personalization"
 msgstr "Пераключыць БЕТА персаналізацыю"
@@ -3355,4 +3379,3 @@ msgstr "Адміністратар выдаліў ваш каментарый д
 
 msgid "Anonymous"
 msgstr "Ананімны"
-

@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-24 09:00+0000\n"
+"POT-Creation-Date: 2026-03-25 10:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -1393,6 +1393,18 @@ msgstr "Écouter"
 msgid "Edit Sound"
 msgstr "Modifier le son"
 
+msgid "Sound ID"
+msgstr "ID du son"
+
+msgid "Unique Identifier"
+msgstr "Identifiant unique"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Enter sound title..."
+msgstr "Saisissez le titre du son..."
+
 msgid "Description"
 msgstr "Description"
 
@@ -1405,14 +1417,29 @@ msgstr "Tags (séparés par une virgule)"
 msgid "Cover Image (Optional)"
 msgstr "Image de couverture (Optionnel)"
 
-msgid "Language (Admin)"
-msgstr "Langue (Admin)"
+msgid "Max 2MB. Leaves current cover intact if empty."
+msgstr "Max 2 Mo. Laisse la couverture actuelle inchangée si vide."
+
+msgid "LOUD Warning"
+msgstr "Avertissement de volume élevé"
+
+msgid "Mark if audio is extremely loud or screechy"
+msgstr "Cochez si l'audio est extrêmement fort ou strident"
+
+msgid "EXPLICIT Content"
+msgstr "Contenu explicite"
+
+msgid "Mark if audio contains profanity or 18+ themes"
+msgstr "Cochez si l'audio contient des jurons ou des thèmes 18+"
 
 msgid "Mark as Music (Admin)"
 msgstr "Marquer comme Musique (Admin)"
 
-msgid "This will make the sound appear in the /music section."
-msgstr "Cela fera apparaître le son dans la section /music."
+msgid "Moves this sound to the /music section"
+msgstr "Déplace ce son dans la section /music"
+
+msgid "Title cannot be empty"
+msgstr "Le titre ne peut pas être vide"
 
 msgid "Sound updated successfully!"
 msgstr "Son mis à jour !"
@@ -1566,8 +1593,11 @@ msgstr "Musique / SFX (Pas de langue)"
 msgid "Other"
 msgstr "Autre"
 
-msgid "Helps us recommend your sound to the right audience."
-msgstr "Nous aide à recommander votre son à la bonne audience."
+msgid "Important:"
+msgstr "Important :"
+
+msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
+msgstr "Sélectionnez la langue parlée dans l'audio. Si c'est une chanson ou un effet sonore sans paroles claires, sélectionnez 'Music / SFX'. Des langues incorrectes nuisent à vos recommandations et peuvent entraîner une modération"
 
 msgid "Upload"
 msgstr "Uploader"
@@ -2175,9 +2205,6 @@ msgstr "Accès restreint"
 msgid "To continue listening, please subscribe to our Telegram channel."
 msgstr "Pour continuer, merci de vous abonner à notre canal Telegram."
 
-msgid "Important:"
-msgstr "Important :"
-
 msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
 msgstr "Ne vous désabonnez pas ! Si vous partez, vous devrez vérifier à nouveau."
 
@@ -2668,9 +2695,6 @@ msgstr "Très populaire (100-500 tél.)"
 
 msgid "Extremely popular (>500 downloads)"
 msgstr "Extrêmement populaire (>500 tél.)"
-
-msgid "Language"
-msgstr "Langue"
 
 msgid "Toggle BETA personalization"
 msgstr "Basculez la personnalisation BETA"
@@ -3351,4 +3375,3 @@ msgstr "Un admin a supprimé votre commentaire sur [entity]."
 
 msgid "Anonymous"
 msgstr "Anonyme"
-

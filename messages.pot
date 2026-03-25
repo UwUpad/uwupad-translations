@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-24 09:00+0000\n"
+"POT-Creation-Date: 2026-03-25 10:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1392,6 +1392,18 @@ msgstr ""
 msgid "Edit Sound"
 msgstr ""
 
+msgid "Sound ID"
+msgstr ""
+
+msgid "Unique Identifier"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Enter sound title..."
+msgstr ""
+
 msgid "Description"
 msgstr ""
 
@@ -1404,13 +1416,28 @@ msgstr ""
 msgid "Cover Image (Optional)"
 msgstr ""
 
-msgid "Language (Admin)"
+msgid "Max 2MB. Leaves current cover intact if empty."
+msgstr ""
+
+msgid "LOUD Warning"
+msgstr ""
+
+msgid "Mark if audio is extremely loud or screechy"
+msgstr ""
+
+msgid "EXPLICIT Content"
+msgstr ""
+
+msgid "Mark if audio contains profanity or 18+ themes"
 msgstr ""
 
 msgid "Mark as Music (Admin)"
 msgstr ""
 
-msgid "This will make the sound appear in the /music section."
+msgid "Moves this sound to the /music section"
+msgstr ""
+
+msgid "Title cannot be empty"
 msgstr ""
 
 msgid "Sound updated successfully!"
@@ -1565,7 +1592,10 @@ msgstr ""
 msgid "Other"
 msgstr ""
 
-msgid "Helps us recommend your sound to the right audience."
+msgid "Important:"
+msgstr ""
+
+msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr ""
 
 msgid "Upload"
@@ -2174,9 +2204,6 @@ msgstr ""
 msgid "To continue listening, please subscribe to our Telegram channel."
 msgstr ""
 
-msgid "Important:"
-msgstr ""
-
 msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
 msgstr ""
 
@@ -2666,9 +2693,6 @@ msgid "Very popular (100-500 downloads)"
 msgstr ""
 
 msgid "Extremely popular (>500 downloads)"
-msgstr ""
-
-msgid "Language"
 msgstr ""
 
 msgid "Toggle BETA personalization"
