@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-25 11:00+0000\n"
+"POT-Creation-Date: 2026-04-30 00:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
-"Language: be\n"
 "Language-Team: be <LL@li.org>\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -1990,11 +1990,14 @@ msgstr "Ухваліць"
 msgid "Reject"
 msgstr "Адхіліць"
 
+msgid "Navigation"
+msgstr "Навігацыя"
+
 msgid "Music"
 msgstr "Музыка"
 
-msgid "News"
-msgstr "Навіны"
+msgid "Community & Creator"
+msgstr ""
 
 msgid "Report a bug"
 msgstr "Паведаміць пра памылку"
@@ -2071,11 +2074,11 @@ msgstr "сэрвіс для пошуку і спампоўкі гукаў для
 msgid "Find sounds and effects from TV, games, memes, and more."
 msgstr "Знайдзіце гукі і эфекты з тэлевізара, гульняў, мемаў і шмат чаго іншага."
 
-msgid "Navigation"
-msgstr "Навігацыя"
-
 msgid "Upload sound"
 msgstr "Загрузіць гук"
+
+msgid "News"
+msgstr "Навіны"
 
 msgid "Privacy policy"
 msgstr "Палітыка прыватнасці"
@@ -2143,9 +2146,6 @@ msgstr "Скажы дзякуй"
 msgid "VIP Activated"
 msgstr "VIP актываваны"
 
-msgid "V0 Website"
-msgstr "V0 вэб-сайт"
-
 msgid "Search"
 msgstr "Пошук"
 
@@ -2161,8 +2161,11 @@ msgstr "Увайсці"
 msgid "New"
 msgstr "Новае"
 
-msgid "Download Top 50 Packs:"
-msgstr "Спампуйце Top 50 пакетаў:"
+msgid "Top 50 Sound Packs"
+msgstr ""
+
+msgid "Download ready-to-use collections for Soundpad"
+msgstr ""
 
 msgid "Daily"
 msgstr "Штодзённа"
@@ -3379,4 +3382,3 @@ msgstr "Адміністратар выдаліў ваш каментарый д
 
 msgid "Anonymous"
 msgstr "Ананімны"
-

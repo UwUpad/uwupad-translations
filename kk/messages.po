@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-25 11:00+0000\n"
+"POT-Creation-Date: 2026-04-30 00:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
-"Language: kk\n"
 "Language-Team: kk <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -1990,11 +1990,14 @@ msgstr "Мақұлдау"
 msgid "Reject"
 msgstr "Қабылдамау"
 
+msgid "Navigation"
+msgstr "Навигация"
+
 msgid "Music"
 msgstr "Музыка"
 
-msgid "News"
-msgstr "Жаңалықтар"
+msgid "Community & Creator"
+msgstr ""
 
 msgid "Report a bug"
 msgstr "Қатені хабарлау"
@@ -2071,11 +2074,11 @@ msgstr "Soundpad немесе мобильді құрылғылар үшін д�
 msgid "Find sounds and effects from TV, games, memes, and more."
 msgstr "Теледидардан, ойындардан, мемдерден және басқа да дыбыстар мен эффекттерді табыңыз."
 
-msgid "Navigation"
-msgstr "Навигация"
-
 msgid "Upload sound"
 msgstr "Дыбыс жүктеу"
+
+msgid "News"
+msgstr "Жаңалықтар"
 
 msgid "Privacy policy"
 msgstr "Құпиялық саясаты"
@@ -2143,9 +2146,6 @@ msgstr "Рақмет айтыңыз"
 msgid "VIP Activated"
 msgstr "VIP белсендірілді"
 
-msgid "V0 Website"
-msgstr "V0 веб-сайт"
-
 msgid "Search"
 msgstr "Іздеу"
 
@@ -2161,8 +2161,11 @@ msgstr "Кіру"
 msgid "New"
 msgstr "Жаңа"
 
-msgid "Download Top 50 Packs:"
-msgstr "Ең танымал 50 пакетті жүктеу:"
+msgid "Top 50 Sound Packs"
+msgstr ""
+
+msgid "Download ready-to-use collections for Soundpad"
+msgstr ""
 
 msgid "Daily"
 msgstr "Күнделікті"
@@ -3379,4 +3382,3 @@ msgstr "Әкімші сіздің [entity]-ге қалдырған пікірі�
 
 msgid "Anonymous"
 msgstr "Аноним"
-

@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-25 11:00+0000\n"
+"POT-Creation-Date: 2026-04-30 00:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
-"Language: fa\n"
 "Language-Team: Persian <fa@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -1993,11 +1993,14 @@ msgstr "تایید"
 msgid "Reject"
 msgstr "رد"
 
+msgid "Navigation"
+msgstr "ناوبری"
+
 msgid "Music"
 msgstr "موسیقی"
 
-msgid "News"
-msgstr "اخبار"
+msgid "Community & Creator"
+msgstr ""
 
 msgid "Report a bug"
 msgstr "گزارش باگ"
@@ -2074,11 +2077,11 @@ msgstr "سرویسی برای جستجو و دانلود صدا برای سان�
 msgid "Find sounds and effects from TV, games, memes, and more."
 msgstr "صداها و افکت‌های تلویزیون، بازی‌ها، میم‌ها و موارد دیگر را پیدا کنید."
 
-msgid "Navigation"
-msgstr "ناوبری"
-
 msgid "Upload sound"
 msgstr "آپلود صدا"
+
+msgid "News"
+msgstr "اخبار"
 
 msgid "Privacy policy"
 msgstr "سیاست حفظ حریم خصوصی"
@@ -2146,9 +2149,6 @@ msgstr "تشکر کن"
 msgid "VIP Activated"
 msgstr "VIP فعال شد"
 
-msgid "V0 Website"
-msgstr "وب‌سایت V0"
-
 msgid "Search"
 msgstr "جستجو"
 
@@ -2164,8 +2164,11 @@ msgstr "ورود"
 msgid "New"
 msgstr "جدید"
 
-msgid "Download Top 50 Packs:"
-msgstr "دانلود ۵۰ پک برتر:"
+msgid "Top 50 Sound Packs"
+msgstr ""
+
+msgid "Download ready-to-use collections for Soundpad"
+msgstr ""
 
 msgid "Daily"
 msgstr "روزانه"
@@ -3382,4 +3385,3 @@ msgstr "یکی از مدیران نظر شما را در [entity] حذف کرد.
 
 msgid "Anonymous"
 msgstr "ناشناس"
-

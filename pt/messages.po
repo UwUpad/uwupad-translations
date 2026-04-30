@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-25 11:00+0000\n"
+"POT-Creation-Date: 2026-04-30 00:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: pt\n"
 "Language-Team: pt <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -1986,11 +1986,14 @@ msgstr "Aprovar"
 msgid "Reject"
 msgstr "Rejeitar"
 
+msgid "Navigation"
+msgstr "Navegação"
+
 msgid "Music"
 msgstr "Música"
 
-msgid "News"
-msgstr "Notícias"
+msgid "Community & Creator"
+msgstr ""
 
 msgid "Report a bug"
 msgstr "Relatar um bug"
@@ -2067,11 +2070,11 @@ msgstr "serviço para busca e download de sons para soundboards como Soundpad ou
 msgid "Find sounds and effects from TV, games, memes, and more."
 msgstr "Encontre sons e efeitos de TV, jogos, memes e muito mais."
 
-msgid "Navigation"
-msgstr "Navegação"
-
 msgid "Upload sound"
 msgstr "Enviar som"
+
+msgid "News"
+msgstr "Notícias"
 
 msgid "Privacy policy"
 msgstr "Política de privacidade"
@@ -2139,9 +2142,6 @@ msgstr "Dizer Obrigado"
 msgid "VIP Activated"
 msgstr "VIP Ativado"
 
-msgid "V0 Website"
-msgstr "Site V0"
-
 msgid "Search"
 msgstr "Buscar"
 
@@ -2157,8 +2157,11 @@ msgstr "Entrar"
 msgid "New"
 msgstr "Novo"
 
-msgid "Download Top 50 Packs:"
-msgstr "Baixar Pacotes Top 50:"
+msgid "Top 50 Sound Packs"
+msgstr ""
+
+msgid "Download ready-to-use collections for Soundpad"
+msgstr ""
 
 msgid "Daily"
 msgstr "Diário"
@@ -3375,4 +3378,3 @@ msgstr "Um administrador removeu seu comentário em [entity]."
 
 msgid "Anonymous"
 msgstr "Anônimo"
-

@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-25 11:00+0000\n"
+"POT-Creation-Date: 2026-04-30 00:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
-"Language: zh\n"
 "Language-Team: zh <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Filters"
@@ -1986,11 +1986,14 @@ msgstr "批准"
 msgid "Reject"
 msgstr "拒绝"
 
+msgid "Navigation"
+msgstr "导航"
+
 msgid "Music"
 msgstr "音乐"
 
-msgid "News"
-msgstr "新闻"
+msgid "Community & Creator"
+msgstr ""
 
 msgid "Report a bug"
 msgstr "报告 Bug"
@@ -2067,11 +2070,11 @@ msgstr "用于为 Soundpad 等声音控制台或移动设备搜索和下载声�
 msgid "Find sounds and effects from TV, games, memes, and more."
 msgstr "发现来自电视、游戏、模因等的声音和效果。"
 
-msgid "Navigation"
-msgstr "导航"
-
 msgid "Upload sound"
 msgstr "上传声音"
+
+msgid "News"
+msgstr "新闻"
 
 msgid "Privacy policy"
 msgstr "隐私政策"
@@ -2139,9 +2142,6 @@ msgstr "表示感谢"
 msgid "VIP Activated"
 msgstr "VIP 已激活"
 
-msgid "V0 Website"
-msgstr "V0 官网"
-
 msgid "Search"
 msgstr "搜索"
 
@@ -2157,8 +2157,11 @@ msgstr "登录"
 msgid "New"
 msgstr "新建"
 
-msgid "Download Top 50 Packs:"
-msgstr "下载 Top 50 资源包："
+msgid "Top 50 Sound Packs"
+msgstr ""
+
+msgid "Download ready-to-use collections for Soundpad"
+msgstr ""
 
 msgid "Daily"
 msgstr "每日"
@@ -3375,4 +3378,3 @@ msgstr "管理员移除了你在 [entity] 下的评论。"
 
 msgid "Anonymous"
 msgstr "匿名"
-

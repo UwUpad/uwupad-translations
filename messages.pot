@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-03-25 11:00+0000\n"
+"POT-Creation-Date: 2026-04-30 00:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1985,10 +1985,13 @@ msgstr ""
 msgid "Reject"
 msgstr ""
 
+msgid "Navigation"
+msgstr ""
+
 msgid "Music"
 msgstr ""
 
-msgid "News"
+msgid "Community & Creator"
 msgstr ""
 
 msgid "Report a bug"
@@ -2066,10 +2069,10 @@ msgstr ""
 msgid "Find sounds and effects from TV, games, memes, and more."
 msgstr ""
 
-msgid "Navigation"
+msgid "Upload sound"
 msgstr ""
 
-msgid "Upload sound"
+msgid "News"
 msgstr ""
 
 msgid "Privacy policy"
@@ -2138,9 +2141,6 @@ msgstr ""
 msgid "VIP Activated"
 msgstr ""
 
-msgid "V0 Website"
-msgstr ""
-
 msgid "Search"
 msgstr ""
 
@@ -2156,7 +2156,10 @@ msgstr ""
 msgid "New"
 msgstr ""
 
-msgid "Download Top 50 Packs:"
+msgid "Top 50 Sound Packs"
+msgstr ""
+
+msgid "Download ready-to-use collections for Soundpad"
 msgstr ""
 
 msgid "Daily"
