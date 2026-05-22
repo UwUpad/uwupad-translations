@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-05-15 05:00+0000\n"
+"POT-Creation-Date: 2026-05-22 15:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: be <LL@li.org>\n"
@@ -2068,6 +2068,99 @@ msgstr "Пачакайце некалькі секунд або"
 msgid "get VIP for instant downloads"
 msgstr "атрымаць VIP для імгнённых загрузак"
 
+msgid "Decoding audio data on client..."
+msgstr ""
+
+msgid "Click left side to trim start, right side to trim end"
+msgstr ""
+
+msgid "Presets"
+msgstr ""
+
+msgid "Custom Settings"
+msgstr ""
+
+msgid "Bass Boost & Loud"
+msgstr ""
+
+msgid "Nightcore (Speed up)"
+msgstr ""
+
+msgid "Lo-Fi (Slow & Reverb)"
+msgstr ""
+
+msgid "Extreme Gain"
+msgstr ""
+
+msgid "Smooth Fade In/Out"
+msgstr ""
+
+msgid "Custom Presets"
+msgstr ""
+
+msgid "Save current settings as preset"
+msgstr ""
+
+msgid "Delete custom preset"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Speed / Pitch"
+msgstr ""
+
+msgid "Trim Start"
+msgstr ""
+
+msgid "Trim End"
+msgstr ""
+
+msgid "Fade In"
+msgstr ""
+
+msgid "Fade Out"
+msgstr ""
+
+msgid "Bass Boost"
+msgstr ""
+
+msgid "Echo Feedback"
+msgstr ""
+
+msgid "Muffler (Lowpass)"
+msgstr ""
+
+msgid "Loop Preview"
+msgstr ""
+
+msgid "Reset all parameters to default"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Download WAV"
+msgstr ""
+
+msgid "Enter custom preset name:"
+msgstr ""
+
+msgid "Are you sure you want to delete preset"
+msgstr ""
+
+msgid "Error parsing audio data."
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Processing..."
+msgstr ""
+
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "сэрвіс для пошуку і спампоўкі гукаў для гукавых панэляў, такіх як Soundpad або мабільных прылад."
 
@@ -2253,6 +2346,12 @@ msgstr "Прагляды"
 
 msgid "Add to playlist"
 msgstr "Дадаць у плэйліст"
+
+msgid "Quick Download"
+msgstr ""
+
+msgid "Modify & Download"
+msgstr ""
 
 msgid "Not interested"
 msgstr "Не зацікаўлены."
