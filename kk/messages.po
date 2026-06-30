@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 17:00+0000\n"
+"POT-Creation-Date: 2026-06-30 23:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
@@ -2110,9 +2110,6 @@ msgstr "Навигация"
 msgid "Music"
 msgstr "Музыка"
 
-msgid "Quests & Cases"
-msgstr ""
-
 msgid "Community & Creator"
 msgstr "Қауымдастық және авторлар"
 
@@ -2181,15 +2178,6 @@ msgstr "Төмендегі тізімнен қажет емес дыбыстар
 
 msgid "Download .zip"
 msgstr "ZIP файлын жүктеу"
-
-msgid "Preparing download for"
-msgstr "Жүктеп алуға дайындалып жатыр"
-
-msgid "Wait a few seconds or"
-msgstr "Бірнеше секунд күтіңіз немесе"
-
-msgid "get VIP for instant downloads"
-msgstr "Тез жүктеп алу үшін VIP алыңыз"
 
 msgid "Decoding audio data on client..."
 msgstr "Клиентте аудио деректерді декодтау..."
@@ -2308,108 +2296,6 @@ msgstr "Төлем кезінде қате орын алды."
 msgid "Failed to connect to server."
 msgstr "Серверге қосылу сәтсіз аяқталды."
 
-msgid "Quests & Daily Case"
-msgstr ""
-
-msgid "Daily UwUpad Case"
-msgstr ""
-
-msgid "Spin once daily for free! Earn downloads, PAW, or VIP status."
-msgstr ""
-
-msgid "Spin Free Case"
-msgstr ""
-
-msgid "Daily Quests"
-msgstr ""
-
-msgid "Daily Check-in"
-msgstr ""
-
-msgid "Visit UwUpad once a day to check in."
-msgstr ""
-
-msgid "Check In"
-msgstr ""
-
-msgid "Expert Opinion"
-msgstr ""
-
-msgid "Vote in our active community poll."
-msgstr ""
-
-msgid "In Polls"
-msgstr ""
-
-msgid "Tell the Boys"
-msgstr ""
-
-msgid "Click the Share button under any sound."
-msgstr ""
-
-msgid "Share Now"
-msgstr ""
-
-msgid "Support Admin"
-msgstr ""
-
-msgid "Watch a short video or click our ad banner."
-msgstr ""
-
-msgid "Support"
-msgstr ""
-
-msgid "Sponsor Gift"
-msgstr ""
-
-msgid "Subscribe to our sponsor Telegram channel."
-msgstr ""
-
-msgid "Verify"
-msgstr ""
-
-msgid "Spin again (5 PAW)"
-msgstr ""
-
-msgid "Completed"
-msgstr ""
-
-msgid "Failed to spin the case."
-msgstr ""
-
-msgid "Congratulations! You got:"
-msgstr ""
-
-msgid "Spin Again"
-msgstr ""
-
-msgid "Do you want to spend 5 PAW to spin the daily case again?"
-msgstr ""
-
-msgid "Spend 5 PAW"
-msgstr ""
-
-msgid "Login required"
-msgstr ""
-
-msgid "Spend 5 PAW (Login Required)"
-msgstr ""
-
-msgid "Reward Claimed! +"
-msgstr ""
-
-msgid "downloads credited."
-msgstr ""
-
-msgid "Failed to claim reward."
-msgstr ""
-
-msgid "Loading short sponsored clip..."
-msgstr ""
-
-msgid "Thank you for supporting UwUpad! +2 downloads credited."
-msgstr ""
-
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "Soundpad немесе мобильді құрылғылар үшін дыбыстарды іздеу және жүктеп алу қызметі."
 
@@ -2479,12 +2365,6 @@ msgstr "Қатты ескертуді көрсету"
 msgid "Save & Apply"
 msgstr "Сақтау және қолдану"
 
-msgid "Free DL"
-msgstr "Тегін жүктеу"
-
-msgid "Upgrade to VIP for unlimited downloads!"
-msgstr "Шексіз жүктеулер үшін VIP деңгейіне өтіңіз!"
-
 msgid "Donate small amount to get 3 days VIP"
 msgstr "3 күндік VIP алу үшін аз ғана қайырымдылық жасаңыз."
 
@@ -2508,9 +2388,6 @@ msgstr "Кіру"
 
 msgid "New"
 msgstr "Жаңа"
-
-msgid "Quests"
-msgstr ""
 
 msgid "Feedback"
 msgstr ""
@@ -2560,18 +2437,6 @@ msgstr "Жүктеп жатыр..."
 msgid "Complete!"
 msgstr "Аяқталды!"
 
-msgid "Daily limit reached"
-msgstr "Күнделікті шектеуге жеттіңіз"
-
-msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
-msgstr "Таза жүктеулердің күнделікті шектеуіне жеттіңіз. Келесі жүктеулерде су таңбалары болады және сапасы рация деңгейінде болады.<br><br>24 сағаттан кейін жаңартылады немесе VIP сатып алыңыз."
-
-msgid "Buy VIP"
-msgstr "VIP сатып алу"
-
-msgid "Continue"
-msgstr "Жалғастыру"
-
 msgid "Download failed"
 msgstr "Жүктеу сәтсіз аяқталды."
 
@@ -2593,11 +2458,14 @@ msgstr "Ашу үшін жазылыңыз"
 msgid "Verifying subscription..."
 msgstr "Жазылым тексеріліп жатыр..."
 
+msgid "Continue"
+msgstr "Жалғастыру"
+
 msgid "This track is already downloading."
 msgstr "Бұл трек қазір жүктеліп жатыр."
 
-msgid "Please wait for the previous download to finish. VIPs can download multiple files at once!"
-msgstr "Алдыңғы жүктелу аяқталғанша күтіңіз. VIP-пайдаланушылар бір уақытта бірнеше файлды жүктей алады!"
+msgid "Preparing download for"
+msgstr "Жүктеп алуға дайындалып жатыр"
 
 msgid "Adding to Soundpad:"
 msgstr "Soundpad-қа қосылып жатыр:"

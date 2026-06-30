@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 17:00+0000\n"
+"POT-Creation-Date: 2026-06-30 23:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: pt <LL@li.org>\n"
@@ -2106,9 +2106,6 @@ msgstr "Navegação"
 msgid "Music"
 msgstr "Música"
 
-msgid "Quests & Cases"
-msgstr ""
-
 msgid "Community & Creator"
 msgstr "Comunidade e Criadores"
 
@@ -2177,15 +2174,6 @@ msgstr "Você pode remover os sons que não deseja da lista abaixo."
 
 msgid "Download .zip"
 msgstr "Baixar .zip"
-
-msgid "Preparing download for"
-msgstr "Preparando download para"
-
-msgid "Wait a few seconds or"
-msgstr "Aguarde alguns segundos ou"
-
-msgid "get VIP for instant downloads"
-msgstr "obtenha VIP para downloads instantâneos"
 
 msgid "Decoding audio data on client..."
 msgstr "Decodificando dados de áudio no cliente..."
@@ -2304,108 +2292,6 @@ msgstr "Ocorreu um erro durante o pagamento."
 msgid "Failed to connect to server."
 msgstr "Falha ao conectar ao servidor."
 
-msgid "Quests & Daily Case"
-msgstr ""
-
-msgid "Daily UwUpad Case"
-msgstr ""
-
-msgid "Spin once daily for free! Earn downloads, PAW, or VIP status."
-msgstr ""
-
-msgid "Spin Free Case"
-msgstr ""
-
-msgid "Daily Quests"
-msgstr ""
-
-msgid "Daily Check-in"
-msgstr ""
-
-msgid "Visit UwUpad once a day to check in."
-msgstr ""
-
-msgid "Check In"
-msgstr ""
-
-msgid "Expert Opinion"
-msgstr ""
-
-msgid "Vote in our active community poll."
-msgstr ""
-
-msgid "In Polls"
-msgstr ""
-
-msgid "Tell the Boys"
-msgstr ""
-
-msgid "Click the Share button under any sound."
-msgstr ""
-
-msgid "Share Now"
-msgstr ""
-
-msgid "Support Admin"
-msgstr ""
-
-msgid "Watch a short video or click our ad banner."
-msgstr ""
-
-msgid "Support"
-msgstr ""
-
-msgid "Sponsor Gift"
-msgstr ""
-
-msgid "Subscribe to our sponsor Telegram channel."
-msgstr ""
-
-msgid "Verify"
-msgstr ""
-
-msgid "Spin again (5 PAW)"
-msgstr ""
-
-msgid "Completed"
-msgstr ""
-
-msgid "Failed to spin the case."
-msgstr ""
-
-msgid "Congratulations! You got:"
-msgstr ""
-
-msgid "Spin Again"
-msgstr ""
-
-msgid "Do you want to spend 5 PAW to spin the daily case again?"
-msgstr ""
-
-msgid "Spend 5 PAW"
-msgstr ""
-
-msgid "Login required"
-msgstr ""
-
-msgid "Spend 5 PAW (Login Required)"
-msgstr ""
-
-msgid "Reward Claimed! +"
-msgstr ""
-
-msgid "downloads credited."
-msgstr ""
-
-msgid "Failed to claim reward."
-msgstr ""
-
-msgid "Loading short sponsored clip..."
-msgstr ""
-
-msgid "Thank you for supporting UwUpad! +2 downloads credited."
-msgstr ""
-
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "serviço para busca e download de sons para soundboards como Soundpad ou dispositivos móveis."
 
@@ -2475,12 +2361,6 @@ msgstr "Mostrar aviso de som alto"
 msgid "Save & Apply"
 msgstr "Salvar e Aplicar"
 
-msgid "Free DL"
-msgstr "DL Grátis"
-
-msgid "Upgrade to VIP for unlimited downloads!"
-msgstr "Melhore para VIP para downloads ilimitados!"
-
 msgid "Donate small amount to get 3 days VIP"
 msgstr "Doe uma pequena quantia para ganhar 3 dias de VIP"
 
@@ -2504,9 +2384,6 @@ msgstr "Entrar"
 
 msgid "New"
 msgstr "Novo"
-
-msgid "Quests"
-msgstr ""
 
 msgid "Feedback"
 msgstr ""
@@ -2556,18 +2433,6 @@ msgstr "Baixando..."
 msgid "Complete!"
 msgstr "Completo!"
 
-msgid "Daily limit reached"
-msgstr "Limite diário atingido"
-
-msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
-msgstr "Seu limite diário de downloads limpos foi atingido. Os próximos downloads terão marca d'água e qualidade de Walkie-Talkie.<br><br>Reseta em 24 horas, ou compre VIP."
-
-msgid "Buy VIP"
-msgstr "Comprar VIP"
-
-msgid "Continue"
-msgstr "Continuar"
-
 msgid "Download failed"
 msgstr "Download falhou"
 
@@ -2589,11 +2454,14 @@ msgstr "Inscreva-se para desbloquear"
 msgid "Verifying subscription..."
 msgstr "Verificando inscrição..."
 
+msgid "Continue"
+msgstr "Continuar"
+
 msgid "This track is already downloading."
 msgstr "Esta faixa já está sendo baixada."
 
-msgid "Please wait for the previous download to finish. VIPs can download multiple files at once!"
-msgstr "Por favor, aguarde o download anterior terminar. VIPs podem baixar múltiplos arquivos de uma vez!"
+msgid "Preparing download for"
+msgstr "Preparando download para"
 
 msgid "Adding to Soundpad:"
 msgstr "Adicionando ao Soundpad:"

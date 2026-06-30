@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 17:00+0000\n"
+"POT-Creation-Date: 2026-06-30 23:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -2106,9 +2106,6 @@ msgstr "导航"
 msgid "Music"
 msgstr "音乐"
 
-msgid "Quests & Cases"
-msgstr ""
-
 msgid "Community & Creator"
 msgstr "社区与创作者"
 
@@ -2177,15 +2174,6 @@ msgstr "你可以从下方列表中移除你不想要的声音。"
 
 msgid "Download .zip"
 msgstr "下载 .zip"
-
-msgid "Preparing download for"
-msgstr "正在准备下载："
-
-msgid "Wait a few seconds or"
-msgstr "请等待几秒，或者"
-
-msgid "get VIP for instant downloads"
-msgstr "开通 VIP 获取即时下载"
 
 msgid "Decoding audio data on client..."
 msgstr "正在客户端解码音频数据..."
@@ -2304,108 +2292,6 @@ msgstr "支付过程中出错。"
 msgid "Failed to connect to server."
 msgstr "无法连接到服务器。"
 
-msgid "Quests & Daily Case"
-msgstr ""
-
-msgid "Daily UwUpad Case"
-msgstr ""
-
-msgid "Spin once daily for free! Earn downloads, PAW, or VIP status."
-msgstr ""
-
-msgid "Spin Free Case"
-msgstr ""
-
-msgid "Daily Quests"
-msgstr ""
-
-msgid "Daily Check-in"
-msgstr ""
-
-msgid "Visit UwUpad once a day to check in."
-msgstr ""
-
-msgid "Check In"
-msgstr ""
-
-msgid "Expert Opinion"
-msgstr ""
-
-msgid "Vote in our active community poll."
-msgstr ""
-
-msgid "In Polls"
-msgstr ""
-
-msgid "Tell the Boys"
-msgstr ""
-
-msgid "Click the Share button under any sound."
-msgstr ""
-
-msgid "Share Now"
-msgstr ""
-
-msgid "Support Admin"
-msgstr ""
-
-msgid "Watch a short video or click our ad banner."
-msgstr ""
-
-msgid "Support"
-msgstr ""
-
-msgid "Sponsor Gift"
-msgstr ""
-
-msgid "Subscribe to our sponsor Telegram channel."
-msgstr ""
-
-msgid "Verify"
-msgstr ""
-
-msgid "Spin again (5 PAW)"
-msgstr ""
-
-msgid "Completed"
-msgstr ""
-
-msgid "Failed to spin the case."
-msgstr ""
-
-msgid "Congratulations! You got:"
-msgstr ""
-
-msgid "Spin Again"
-msgstr ""
-
-msgid "Do you want to spend 5 PAW to spin the daily case again?"
-msgstr ""
-
-msgid "Spend 5 PAW"
-msgstr ""
-
-msgid "Login required"
-msgstr ""
-
-msgid "Spend 5 PAW (Login Required)"
-msgstr ""
-
-msgid "Reward Claimed! +"
-msgstr ""
-
-msgid "downloads credited."
-msgstr ""
-
-msgid "Failed to claim reward."
-msgstr ""
-
-msgid "Loading short sponsored clip..."
-msgstr ""
-
-msgid "Thank you for supporting UwUpad! +2 downloads credited."
-msgstr ""
-
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "用于为 Soundpad 等声音控制台或移动设备搜索和下载声音的服务。"
 
@@ -2475,12 +2361,6 @@ msgstr "显示高能/刺耳预警"
 msgid "Save & Apply"
 msgstr "保存并应用"
 
-msgid "Free DL"
-msgstr "免费下载"
-
-msgid "Upgrade to VIP for unlimited downloads!"
-msgstr "升级到 VIP 解锁无限下载！"
-
 msgid "Donate small amount to get 3 days VIP"
 msgstr "捐赠少量金额即可获得 3 天 VIP"
 
@@ -2504,9 +2384,6 @@ msgstr "登录"
 
 msgid "New"
 msgstr "新建"
-
-msgid "Quests"
-msgstr ""
 
 msgid "Feedback"
 msgstr ""
@@ -2556,18 +2433,6 @@ msgstr "正在下载..."
 msgid "Complete!"
 msgstr "已完成！"
 
-msgid "Daily limit reached"
-msgstr "已达到每日限制"
-
-msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
-msgstr "你今日的无水印下载额度已用完。接下来的下载将带有水印，且音质降至对讲机级别。<br><br>24小时后重置，或者购买 VIP。"
-
-msgid "Buy VIP"
-msgstr "购买 VIP"
-
-msgid "Continue"
-msgstr "继续"
-
 msgid "Download failed"
 msgstr "下载失败"
 
@@ -2589,11 +2454,14 @@ msgstr "订阅以解锁"
 msgid "Verifying subscription..."
 msgstr "正在验证订阅..."
 
+msgid "Continue"
+msgstr "继续"
+
 msgid "This track is already downloading."
 msgstr "该曲目已在下载中。"
 
-msgid "Please wait for the previous download to finish. VIPs can download multiple files at once!"
-msgstr "请等待上一个下载完成。VIP 可以同时下载多个文件！"
+msgid "Preparing download for"
+msgstr "正在准备下载："
 
 msgid "Adding to Soundpad:"
 msgstr "添加到 Soundpad："
