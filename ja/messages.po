@@ -659,10 +659,10 @@ msgid "and more"
 msgstr "など他にも"
 
 msgid "Steam Skins (Skinify)"
-msgstr ""
+msgstr "Steamスキン (Skinify)"
 
 msgid "fast and automatic"
-msgstr ""
+msgstr "高速・自動"
 
 msgid "Choose Cryptocurrency"
 msgstr "仮想通貨を選択"
@@ -677,7 +677,7 @@ msgid "Failed to create payment link."
 msgstr "支払いリンクの作成に失敗しました。"
 
 msgid "Failed to create Skinify payment link."
-msgstr ""
+msgstr "Skinifyの決済リンク作成に失敗しました。"
 
 msgid "DMCA Takedown Policy"
 msgstr "DMCA テイクダウンポリシー"
@@ -1856,193 +1856,193 @@ msgid "Back to main"
 msgstr "メインへ戻る"
 
 msgid "Welcome, Lobby Dominator!"
-msgstr ""
+msgstr "ようこそ、ロビードミネーターへ！"
 
 msgid "Your elite status is active. Keep sound-spamming without absolute limits."
-msgstr ""
+msgstr "エリートステータスが有効です。制限なしでサウンドスパムを楽しもう！"
 
 msgid "STOP BEING A DEFAULT BOT IN CHAT"
-msgstr ""
+msgstr "チャットでいつまでもデフォルトボットのままでいるな"
 
 msgid "Get full voice privilege. No watermarks, no ear-bleeding file compression, and unlimited earthshaking bass boost."
-msgstr ""
+msgstr "ボイスの全特権を手に入れよう。透かし（ウォーターマーク）なし、鼓膜が死ぬような圧縮なし、地球を揺るがす無制限のベースブースト（低音強化）。"
 
 msgid "Active Dominator Mode"
-msgstr ""
+msgstr "ドミネーターモード有効"
 
 msgid "Next tribute date:"
-msgstr ""
+msgstr "次回の貢ぎ日:"
 
 msgid "You unlocked lifetime dominance."
-msgstr ""
+msgstr "永久の支配権をアンロックしました。"
 
 msgid "Extend for 1 day"
-msgstr ""
+msgstr "1日延長する"
 
 msgid "Extend for 1 month"
-msgstr ""
+msgstr "1ヶ月延長する"
 
 msgid "Fast payment"
-msgstr ""
+msgstr "スピード決済"
 
 msgid "No card? No problem! We accept"
-msgstr ""
+msgstr "カードがない？問題ありません！以下も対応しています"
 
 msgid "instantly from your phone/inventory."
-msgstr ""
+msgstr "スマホやインベントリから即座にお支払いいただけます。"
 
 msgid "Tonights Raid"
-msgstr ""
+msgstr "今夜のレイド"
 
 msgid "One Evening Pass"
-msgstr ""
+msgstr "ワンナイトパス"
 
 msgid "Perfect cheap drop before a heavy Friday lobby match with friends."
-msgstr ""
+msgstr "金曜夜にフレンドとガチでロビー戦をやる前にぴったりの、お手頃なドロップ。"
 
 msgid "24 hours full access"
-msgstr ""
+msgstr "24時間フルアクセス"
 
 msgid "Get Evening Pass"
-msgstr ""
+msgstr "ワンナイトパスをゲット"
 
 msgid "Trolls Choice"
-msgstr ""
+msgstr "トロールのお気に入り"
 
 msgid "Alpha Month"
-msgstr ""
+msgstr "アルファ・マンス"
 
 msgid "Establish permanent voice command. Ideal for serious server raiders."
-msgstr ""
+msgstr "永久のボイス支配権を確立せよ。本気のサーバーレイダーに最適。"
 
 msgid "30 days of power"
-msgstr ""
+msgstr "30日間のパワー"
 
 msgid "Unlock Month"
-msgstr ""
+msgstr "1ヶ月分をアンロック"
 
 msgid "Save 20%"
-msgstr ""
+msgstr "20%おトク"
 
 msgid "Dominator Year"
-msgstr ""
+msgstr "ドミネーター・イヤー"
 
 msgid "Maximum investment in personal dominance. Secure 2 free premium months."
-msgstr ""
+msgstr "支配力を最大化する最高の投資。2ヶ月分のプレミアム会員権を無料で確保。"
 
 msgid "365 days of elite status"
-msgstr ""
+msgstr "365日間のエリートステータス"
 
 msgid "Claim Year Access"
-msgstr ""
+msgstr "1年間アクセスを請求"
 
 msgid "Compare the reality"
-msgstr ""
+msgstr "現実を比較しよう"
 
 msgid "Core Painpoint"
-msgstr ""
+msgstr "最大の弱点（痛み）"
 
 msgid "Bot (Free)"
-msgstr ""
+msgstr "ボット (無料)"
 
 msgid "Dominator (VIP)"
-msgstr ""
+msgstr "ドミネーター (VIP)"
 
 msgid "Audio Quality"
-msgstr ""
+msgstr "音質"
 
 msgid "How hard your audio cuts through voice chats"
-msgstr ""
+msgstr "お前のサウンドがどれだけ激しくボイスチャットに響き渡るか"
 
 msgid "Compressed 64kbps garbage"
-msgstr ""
+msgstr "圧縮された64kbpsのゴミ音質"
 
 msgid "Crystal 320kbps Stereo"
-msgstr ""
+msgstr "クリアな320kbpsステレオ"
 
 msgid "Sound Watermarks"
-msgstr ""
+msgstr "サウンド透かし"
 
 msgid "That embarrassing \"uwupad.ru\" stamp at the end of every file"
-msgstr ""
+msgstr "ファイルの末尾に入る、あのクソ恥ずかしい「uwupad.ru」の刻印"
 
 msgid "No watermarks"
-msgstr ""
+msgstr "透かしなし"
 
 msgid "Bass Boost"
-msgstr ""
+msgstr "ベースブースト"
 
 msgid "Ability to instantly blow out your lobbys headphones"
-msgstr ""
+msgstr "ロビー全員のヘッドホンを即座に爆破する能力"
 
 msgid "Paid per click / limited"
-msgstr ""
+msgstr "クリック課金 / 制限あり"
 
 msgid "Unlimited Ear-Rape Bass"
-msgstr ""
+msgstr "無制限の鼓膜破壊（イアレイプ）ベース"
 
 msgid "Playlists for Spam"
-msgstr ""
+msgstr "スパム用プレイリスト"
 
 msgid "Keep your tactical audio arsenal organized"
-msgstr ""
+msgstr "戦術的なオーディオ兵器庫を整理して備えよ"
 
 msgid "Playlists (peasant limit)"
-msgstr ""
+msgstr "プレイリスト (庶民リミット)"
 
 msgid "Unlimited space"
-msgstr ""
+msgstr "無制限の容量"
 
 msgid "Lobby Status / Nickname"
-msgstr ""
+msgstr "ロビーステータス / ニックネーム"
 
 msgid "Appearance in local comments, ratings and lobby lists"
-msgstr ""
+msgstr "ローカルコメント、評価、ロビーリストでの表示"
 
 msgid "Boring default bot text"
-msgstr ""
+msgstr "退屈なデフォルトのボットテキスト"
 
 msgid "Glowing Alpha Styling"
-msgstr ""
+msgstr "光り輝くアルファのスタイリング"
 
 msgid "Visual Flex"
-msgstr ""
+msgstr "ビジュアル・フレックス (自慢)"
 
 msgid "Personal sound covers and profiles customization"
-msgstr ""
+msgstr "個人用サウンドカバーとプロフィールのカスタマイズ"
 
 msgid "Static low-res only"
-msgstr ""
+msgstr "低解像度かつ静止画のみ"
 
 msgid "GIF avatars & custom covers"
-msgstr ""
+msgstr "GIFアバター＆カスタムカバー"
 
 msgid "Frontpage Sound Boosts"
-msgstr ""
+msgstr "フロントページでのサウンド宣伝"
 
 msgid "Bring your uploaded meme tracks directly to the top"
-msgstr ""
+msgstr "アップロードしたミームトラックを直接トップに表示"
 
 msgid "Pay real cash for every boost"
-msgstr ""
+msgstr "ブーストごとにリアルマネーを支払う"
 
 msgid "1 Free Top Boost daily"
-msgstr ""
+msgstr "毎日1回トップブースト無料"
 
 msgid "Claim Dominance Status"
-msgstr ""
+msgstr "ドミネーター会員になる"
 
 msgid "Extend Dominance Access"
-msgstr ""
+msgstr "ドミネーターの延長"
 
 msgid "Select skin depot, telegram stars, or fast cards checkout"
-msgstr ""
+msgstr "スキンデポ、Telegram Stars、または素早いカード決済を選択"
 
 msgid "VIP lock engaged. Your subscription has expired."
-msgstr ""
+msgstr "VIPロックが作動しました。サブスクリプションの期限が切れています。"
 
 msgid "Active dominance ends in:"
-msgstr ""
+msgstr "アクティブな支配権の残り時間:"
 
 msgid "Pending Ad Requests"
 msgstr "保留中の広告リクエスト"
@@ -2081,7 +2081,7 @@ msgid "Music"
 msgstr "音楽"
 
 msgid "Community & Creator"
-msgstr ""
+msgstr "コミュニティ＆クリエイター"
 
 msgid "Report a bug"
 msgstr "バグを報告"
@@ -2153,121 +2153,121 @@ msgid "get VIP for instant downloads"
 msgstr "即時ダウンロードのためにVIPを取得"
 
 msgid "Decoding audio data on client..."
-msgstr ""
+msgstr "クライアント側でオーディオデータをデコード中..."
 
 msgid "Click left side to trim start, right side to trim end"
-msgstr ""
+msgstr "左側をクリックして開始位置を、右側をクリックして終了位置をトリム"
 
 msgid "Presets"
-msgstr ""
+msgstr "プリセット"
 
 msgid "Custom Settings"
-msgstr ""
+msgstr "カスタム設定"
 
 msgid "Bass Boost & Loud"
-msgstr ""
+msgstr "ベースブースト＆爆音"
 
 msgid "Nightcore (Speed up)"
-msgstr ""
+msgstr "ナイトコア (倍速)"
 
 msgid "Lo-Fi (Slow & Reverb)"
-msgstr ""
+msgstr "ローファイ (減速＆リバーブ)"
 
 msgid "Extreme Gain"
-msgstr ""
+msgstr "超ゲイン（爆音化）"
 
 msgid "Smooth Fade In/Out"
-msgstr ""
+msgstr "スムーズなフェードイン/アウト"
 
 msgid "Custom Presets"
-msgstr ""
+msgstr "カスタムプリセット"
 
 msgid "Save current settings as preset"
-msgstr ""
+msgstr "現在の設定をプリセットとして保存"
 
 msgid "Delete custom preset"
-msgstr ""
+msgstr "カスタムプリセットを削除"
 
 msgid "Volume"
-msgstr ""
+msgstr "音量"
 
 msgid "Speed / Pitch"
-msgstr ""
+msgstr "速度 / ピッチ"
 
 msgid "Trim Start"
-msgstr ""
+msgstr "開始位置トリム"
 
 msgid "Trim End"
-msgstr ""
+msgstr "終了位置トリム"
 
 msgid "Fade In"
-msgstr ""
+msgstr "フェードイン"
 
 msgid "Fade Out"
-msgstr ""
+msgstr "フェードアウト"
 
 msgid "Echo Feedback"
-msgstr ""
+msgstr "エコーフィードバック"
 
 msgid "Muffler (Lowpass)"
-msgstr ""
+msgstr "マフラー (ローパス)"
 
 msgid "Loop Preview"
-msgstr ""
+msgstr "ループ再生"
 
 msgid "Reset all parameters to default"
-msgstr ""
+msgstr "すべてのパラメータをデフォルトに戻す"
 
 msgid "Reset"
-msgstr ""
+msgstr "リセット"
 
 msgid "Preview"
-msgstr ""
+msgstr "プレビュー"
 
 msgid "Download WAV"
-msgstr ""
+msgstr "WAVをダウンロード"
 
 msgid "Enter custom preset name:"
-msgstr ""
+msgstr "カスタムプリセット名を入力:"
 
 msgid "Are you sure you want to delete preset"
-msgstr ""
+msgstr "プリセットを削除してもよろしいですか"
 
 msgid "Error parsing audio data."
-msgstr ""
+msgstr "オーディオデータの解析中にエラーが発生しました。"
 
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 msgid "Processing..."
-msgstr ""
+msgstr "処理中..."
 
 msgid "You must be logged in to download modified sounds."
-msgstr ""
+msgstr "変更したサウンドをダウンロードするには、ログインする必要があります。"
 
 #, python-format
 msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
-msgstr ""
+msgstr "書き出しには <strong>%(cost)s PAW</strong> が必要ですが、現在 <strong>%(balance)s PAW</strong> しかありません。"
 
 #, python-format
 msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
-msgstr ""
+msgstr "この変更されたサウンドを書き出すには、<strong>%(cost)s PAW</strong> がかかります。"
 
 #, python-format
 msgid "Your balance after download: %(balance)s PAW"
-msgstr ""
+msgstr "ダウンロード後の残高: %(balance)s PAW"
 
 msgid "Confirm Export"
-msgstr ""
+msgstr "書き出しを確定"
 
 msgid "Confirm & Download"
-msgstr ""
+msgstr "確定してダウンロード"
 
 msgid "An error occurred during payment."
-msgstr ""
+msgstr "決済中にエラーが発生しました。"
 
 msgid "Failed to connect to server."
-msgstr ""
+msgstr "サーバーへの接続に失敗しました。"
 
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "Soundpadやモバイルデバイスなどのサウンドボード用のサウンドを検索およびダウンロードするサービス。"
@@ -2339,10 +2339,10 @@ msgid "Save & Apply"
 msgstr "保存して適用"
 
 msgid "Free DL"
-msgstr ""
+msgstr "無料DL"
 
 msgid "Upgrade to VIP for unlimited downloads!"
-msgstr ""
+msgstr "VIPにアップグレードして無制限ダウンロードを解放！"
 
 msgid "Donate small amount to get 3 days VIP"
 msgstr "少額寄付で3日間VIPをゲット"
@@ -2369,10 +2369,10 @@ msgid "New"
 msgstr "新規"
 
 msgid "Top 50 Sound Packs"
-msgstr ""
+msgstr "サウンドパック TOP 50"
 
 msgid "Download ready-to-use collections for Soundpad"
-msgstr ""
+msgstr "Soundpad用のすぐに使えるコレクションをダウンロード"
 
 msgid "Daily"
 msgstr "デイリー"
@@ -2414,13 +2414,13 @@ msgid "Complete!"
 msgstr "完了！"
 
 msgid "Daily limit reached"
-msgstr ""
+msgstr "1日の制限に達しました"
 
 msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
-msgstr ""
+msgstr "きれいな音源の1日のダウンロード制限に達しました。今後のダウンロードには透かしが入り、トランシーバー品質になります。<br><br>24時間後にリセットされるか、VIPを購入してください。"
 
 msgid "Buy VIP"
-msgstr ""
+msgstr "VIPを購入"
 
 msgid "Continue"
 msgstr "続ける"
@@ -2474,10 +2474,10 @@ msgid "Add to playlist"
 msgstr "プレイリストに追加"
 
 msgid "Quick Download"
-msgstr ""
+msgstr "クイックダウンロード"
 
 msgid "Modify & Download"
-msgstr ""
+msgstr "編集してダウンロード"
 
 msgid "Not interested"
 msgstr "興味なし"
@@ -3255,13 +3255,13 @@ msgid "Authentication required"
 msgstr "認証が必要だよ。"
 
 msgid "Free export for VIP"
-msgstr ""
+msgstr "VIPなら書き出し無料"
 
 msgid "Insufficient PAW balance"
-msgstr ""
+msgstr "PAW残高不足"
 
 msgid "Successfully paid 50 PAW for audio export."
-msgstr ""
+msgstr "オーディオの書き出しに50 PAWの支払いが成功しました。"
 
 msgid "Invalid email."
 msgstr "無効なメールアドレスです。"

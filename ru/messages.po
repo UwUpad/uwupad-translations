@@ -652,10 +652,10 @@ msgid "and more"
 msgstr "и другое"
 
 msgid "Steam Skins (Skinify)"
-msgstr ""
+msgstr "Скины Steam (Skinify)"
 
 msgid "fast and automatic"
-msgstr ""
+msgstr "быстро и на автомате"
 
 msgid "Choose Cryptocurrency"
 msgstr "Выберите Криптовалюту"
@@ -670,7 +670,7 @@ msgid "Failed to create payment link."
 msgstr "Не удалось создать ссылку для оплаты."
 
 msgid "Failed to create Skinify payment link."
-msgstr ""
+msgstr "Не удалось создать ссылку на оплату Skinify."
 
 msgid "DMCA Takedown Policy"
 msgstr "Политика DMCA"
@@ -1849,193 +1849,193 @@ msgid "Back to main"
 msgstr "Вернуться на главную"
 
 msgid "Welcome, Lobby Dominator!"
-msgstr ""
+msgstr "Добро пожаловать, Доминатор лобби!"
 
 msgid "Your elite status is active. Keep sound-spamming without absolute limits."
-msgstr ""
+msgstr "Твой элитный статус активен. Спамь звуками без каких-либо лимитов."
 
 msgid "STOP BEING A DEFAULT BOT IN CHAT"
-msgstr ""
+msgstr "ХВАТИТ БЫТЬ ДЕФОЛТНЫМ БОТОМ В ЧАТЕ"
 
 msgid "Get full voice privilege. No watermarks, no ear-bleeding file compression, and unlimited earthshaking bass boost."
-msgstr ""
+msgstr "Получи полный голос-привилеж. Без вотермарок, без убогого сжатия звука и с безлимитным бассбустом."
 
 msgid "Active Dominator Mode"
-msgstr ""
+msgstr "Режим Доминатора активен"
 
 msgid "Next tribute date:"
-msgstr ""
+msgstr "Дата следующей дани:"
 
 msgid "You unlocked lifetime dominance."
-msgstr ""
+msgstr "Ты открыл пожизненное доминирование."
 
 msgid "Extend for 1 day"
-msgstr ""
+msgstr "Продлить на 1 день"
 
 msgid "Extend for 1 month"
-msgstr ""
+msgstr "Продлить на 1 месяц"
 
 msgid "Fast payment"
-msgstr ""
+msgstr "Быстрая оплата"
 
 msgid "No card? No problem! We accept"
-msgstr ""
+msgstr "Нет карты? Без проблем! Мы принимаем"
 
 msgid "instantly from your phone/inventory."
-msgstr ""
+msgstr "моментально с телефона или из инвентаря."
 
 msgid "Tonights Raid"
-msgstr ""
+msgstr "Сегодняшний рейд"
 
 msgid "One Evening Pass"
-msgstr ""
+msgstr "Пропуск на один вечер"
 
 msgid "Perfect cheap drop before a heavy Friday lobby match with friends."
-msgstr ""
+msgstr "Идеальный дешевый дроп перед жесткой каткой в лобби с друзьями в пятницу."
 
 msgid "24 hours full access"
-msgstr ""
+msgstr "24 часа полного доступа"
 
 msgid "Get Evening Pass"
-msgstr ""
+msgstr "Забрать вечерний пропуск"
 
 msgid "Trolls Choice"
-msgstr ""
+msgstr "Выбор тролля"
 
 msgid "Alpha Month"
-msgstr ""
+msgstr "Альфа-месяц"
 
 msgid "Establish permanent voice command. Ideal for serious server raiders."
-msgstr ""
+msgstr "Установи постоянный контроль над войсом. Идеально для жестких рейдеров серверов."
 
 msgid "30 days of power"
-msgstr ""
+msgstr "30 дней силы"
 
 msgid "Unlock Month"
-msgstr ""
+msgstr "Разблокировать месяц"
 
 msgid "Save 20%"
-msgstr ""
+msgstr "Сэкономить 20%"
 
 msgid "Dominator Year"
-msgstr ""
+msgstr "Год Доминатора"
 
 msgid "Maximum investment in personal dominance. Secure 2 free premium months."
-msgstr ""
+msgstr "Максимальная инвестиция в личное доминирование. Получи 2 месяца премиума бесплатно."
 
 msgid "365 days of elite status"
-msgstr ""
+msgstr "365 дней элитного статуса"
 
 msgid "Claim Year Access"
-msgstr ""
+msgstr "Забрать доступ на год"
 
 msgid "Compare the reality"
-msgstr ""
+msgstr "Сравни реальность"
 
 msgid "Core Painpoint"
-msgstr ""
+msgstr "Главная боль"
 
 msgid "Bot (Free)"
-msgstr ""
+msgstr "Бот (Бесплатно)"
 
 msgid "Dominator (VIP)"
-msgstr ""
+msgstr "Доминатор (VIP)"
 
 msgid "Audio Quality"
-msgstr ""
+msgstr "Качество звука"
 
 msgid "How hard your audio cuts through voice chats"
-msgstr ""
+msgstr "Насколько жестко твой звук залетает в войс-чаты"
 
 msgid "Compressed 64kbps garbage"
-msgstr ""
+msgstr "Сжатый мусор 64 kbps"
 
 msgid "Crystal 320kbps Stereo"
-msgstr ""
+msgstr "Кристальное стерео 320 kbps"
 
 msgid "Sound Watermarks"
-msgstr ""
+msgstr "Звуковые вотермарки"
 
 msgid "That embarrassing \"uwupad.ru\" stamp at the end of every file"
-msgstr ""
+msgstr "Стыдное клеймо \"uwupad.ru\" в конце каждого файла"
 
 msgid "No watermarks"
-msgstr ""
+msgstr "Без вотермарок"
 
 msgid "Bass Boost"
-msgstr ""
+msgstr "Бассбуст"
 
 msgid "Ability to instantly blow out your lobbys headphones"
-msgstr ""
+msgstr "Возможность моментально взорвать уши всему лобби"
 
 msgid "Paid per click / limited"
-msgstr ""
+msgstr "Платный за клик / ограниченный"
 
 msgid "Unlimited Ear-Rape Bass"
-msgstr ""
+msgstr "Безлимитный ухораздирающий бас"
 
 msgid "Playlists for Spam"
-msgstr ""
+msgstr "Плейлисты для спама"
 
 msgid "Keep your tactical audio arsenal organized"
-msgstr ""
+msgstr "Держи свой тактический аудиоарсенал в порядке"
 
 msgid "Playlists (peasant limit)"
-msgstr ""
+msgstr "Плейлисты (нищебродский лимит)"
 
 msgid "Unlimited space"
-msgstr ""
+msgstr "Безлимитное место"
 
 msgid "Lobby Status / Nickname"
-msgstr ""
+msgstr "Статус в лобби / Никнейм"
 
 msgid "Appearance in local comments, ratings and lobby lists"
-msgstr ""
+msgstr "Отображение в локальных комментах, рейтингах и списках лобби"
 
 msgid "Boring default bot text"
-msgstr ""
+msgstr "Скучный дефолтный текст бота"
 
 msgid "Glowing Alpha Styling"
-msgstr ""
+msgstr "Светящийся альфа-стиль"
 
 msgid "Visual Flex"
-msgstr ""
+msgstr "Визуальный флекс"
 
 msgid "Personal sound covers and profiles customization"
-msgstr ""
+msgstr "Кастомные обложки звуков и настройка профиля"
 
 msgid "Static low-res only"
-msgstr ""
+msgstr "Только статичные картинки в низком качестве"
 
 msgid "GIF avatars & custom covers"
-msgstr ""
+msgstr "GIF-аватарки и кастомные обложки"
 
 msgid "Frontpage Sound Boosts"
-msgstr ""
+msgstr "Бусты звуков на главной"
 
 msgid "Bring your uploaded meme tracks directly to the top"
-msgstr ""
+msgstr "Закидывай свои мемные треки прямо в топ"
 
 msgid "Pay real cash for every boost"
-msgstr ""
+msgstr "Плати реальный кэш за каждый буст"
 
 msgid "1 Free Top Boost daily"
-msgstr ""
+msgstr "1 бесплатный буст в топ ежедневно"
 
 msgid "Claim Dominance Status"
-msgstr ""
+msgstr "Забрать статус Доминатора"
 
 msgid "Extend Dominance Access"
-msgstr ""
+msgstr "Продлить статус Доминатора"
 
 msgid "Select skin depot, telegram stars, or fast cards checkout"
-msgstr ""
+msgstr "Выбери оплату скинами, Telegram Stars или быструю оплату картой"
 
 msgid "VIP lock engaged. Your subscription has expired."
-msgstr ""
+msgstr "Включена VIP-блокировка. Твоя подписка истекла."
 
 msgid "Active dominance ends in:"
-msgstr ""
+msgstr "Активное доминирование закончится через:"
 
 msgid "Pending Ad Requests"
 msgstr "Ожидающие запросы на рекламу"
@@ -2074,7 +2074,7 @@ msgid "Music"
 msgstr "Музыка"
 
 msgid "Community & Creator"
-msgstr ""
+msgstr "Комьюнити и авторы"
 
 msgid "Report a bug"
 msgstr "Сообщить об ошибке"
@@ -2146,121 +2146,121 @@ msgid "get VIP for instant downloads"
 msgstr "получите VIP для мгновенной загрузки"
 
 msgid "Decoding audio data on client..."
-msgstr ""
+msgstr "Декодирование аудио на клиенте..."
 
 msgid "Click left side to trim start, right side to trim end"
-msgstr ""
+msgstr "Кликни слева, чтобы обрезать начало, справа — чтобы обрезать конец"
 
 msgid "Presets"
-msgstr ""
+msgstr "Пресеты"
 
 msgid "Custom Settings"
-msgstr ""
+msgstr "Кастомные настройки"
 
 msgid "Bass Boost & Loud"
-msgstr ""
+msgstr "Бассбуст и громкость"
 
 msgid "Nightcore (Speed up)"
-msgstr ""
+msgstr "Найткор (Ускорение)"
 
 msgid "Lo-Fi (Slow & Reverb)"
-msgstr ""
+msgstr "Лоу-фай (Замедление и реверберация)"
 
 msgid "Extreme Gain"
-msgstr ""
+msgstr "Экстремальное усиление"
 
 msgid "Smooth Fade In/Out"
-msgstr ""
+msgstr "Плавное появление/затухание"
 
 msgid "Custom Presets"
-msgstr ""
+msgstr "Кастомные пресеты"
 
 msgid "Save current settings as preset"
-msgstr ""
+msgstr "Сохранить текущие настройки как пресет"
 
 msgid "Delete custom preset"
-msgstr ""
+msgstr "Удалить кастомный пресет"
 
 msgid "Volume"
-msgstr ""
+msgstr "Громкость"
 
 msgid "Speed / Pitch"
-msgstr ""
+msgstr "Скорость / Высота звуку"
 
 msgid "Trim Start"
-msgstr ""
+msgstr "Обрезать начало"
 
 msgid "Trim End"
-msgstr ""
+msgstr "Обрезать конец"
 
 msgid "Fade In"
-msgstr ""
+msgstr "Плавное появление"
 
 msgid "Fade Out"
-msgstr ""
+msgstr "Плавное затухание"
 
 msgid "Echo Feedback"
-msgstr ""
+msgstr "Эхо-фидбек"
 
 msgid "Muffler (Lowpass)"
-msgstr ""
+msgstr "Глушитель (Lowpass)"
 
 msgid "Loop Preview"
-msgstr ""
+msgstr "Зациклить превью"
 
 msgid "Reset all parameters to default"
-msgstr ""
+msgstr "Сбросить все параметры"
 
 msgid "Reset"
-msgstr ""
+msgstr "Сброс"
 
 msgid "Preview"
-msgstr ""
+msgstr "Превью"
 
 msgid "Download WAV"
-msgstr ""
+msgstr "Скачать WAV"
 
 msgid "Enter custom preset name:"
-msgstr ""
+msgstr "Введи название кастомного пресета:"
 
 msgid "Are you sure you want to delete preset"
-msgstr ""
+msgstr "Уверен, что хочешь удалить пресет"
 
 msgid "Error parsing audio data."
-msgstr ""
+msgstr "Ошибка парсинга аудиоданных."
 
 msgid "Stop"
-msgstr ""
+msgstr "Стоп"
 
 msgid "Processing..."
-msgstr ""
+msgstr "Обработка..."
 
 msgid "You must be logged in to download modified sounds."
-msgstr ""
+msgstr "Нужно авторизоваться, чтобы скачивать измененные звуки."
 
 #, python-format
 msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
-msgstr ""
+msgstr "Тебе нужно <strong>%(cost)s PAW</strong> для экспорта, но у тебя всего <strong>%(balance)s PAW</strong>."
 
 #, python-format
 msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
-msgstr ""
+msgstr "Экспорт этого измененного звука обойдется в <strong>%(cost)s PAW</strong>."
 
 #, python-format
 msgid "Your balance after download: %(balance)s PAW"
-msgstr ""
+msgstr "Твой баланс после скачивания: %(balance)s PAW"
 
 msgid "Confirm Export"
-msgstr ""
+msgstr "Подтвердить экспорт"
 
 msgid "Confirm & Download"
-msgstr ""
+msgstr "Подтвердить и скачать"
 
 msgid "An error occurred during payment."
-msgstr ""
+msgstr "Произошла ошибка при оплате."
 
 msgid "Failed to connect to server."
-msgstr ""
+msgstr "Не удалось подключиться к серверу."
 
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "сервис для поиска и загрузки звуков для звуковых панелей, таких как Soundpad или мобильных устройств."
@@ -2332,10 +2332,10 @@ msgid "Save & Apply"
 msgstr "Сохранить и применить"
 
 msgid "Free DL"
-msgstr ""
+msgstr "Скачать бесплатно"
 
 msgid "Upgrade to VIP for unlimited downloads!"
-msgstr ""
+msgstr "Апгрейднись до VIP для безлимитных скачиваний!"
 
 msgid "Donate small amount to get 3 days VIP"
 msgstr "Пожертвуй небольшую сумму, чтобы получить 3 дня VIP"
@@ -2362,10 +2362,10 @@ msgid "New"
 msgstr "Новый"
 
 msgid "Top 50 Sound Packs"
-msgstr ""
+msgstr "Топ-50 паков звуков"
 
 msgid "Download ready-to-use collections for Soundpad"
-msgstr ""
+msgstr "Скачивай готовые коллекции для Soundpad"
 
 msgid "Daily"
 msgstr "За день"
@@ -2407,13 +2407,13 @@ msgid "Complete!"
 msgstr "Завершено!"
 
 msgid "Daily limit reached"
-msgstr ""
+msgstr "Дневной лимит исчерпан"
 
 msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
-msgstr ""
+msgstr "Твой дневной лимит чистых скачиваний исчерпан. Следующие скачивания будут с вотермарками и в качестве рации.<br><br>Сброс через 24 часа, или купи VIP."
 
 msgid "Buy VIP"
-msgstr ""
+msgstr "Купить VIP"
 
 msgid "Continue"
 msgstr "Продолжить"
@@ -2467,10 +2467,10 @@ msgid "Add to playlist"
 msgstr "Добавить в плейлист"
 
 msgid "Quick Download"
-msgstr ""
+msgstr "Быстрое скачивание"
 
 msgid "Modify & Download"
-msgstr ""
+msgstr "Изменить и скачать"
 
 msgid "Not interested"
 msgstr "Неинтересно"
@@ -3248,13 +3248,13 @@ msgid "Authentication required"
 msgstr "Требуется аутентификация"
 
 msgid "Free export for VIP"
-msgstr ""
+msgstr "Бесплатный экспорт для VIP"
 
 msgid "Insufficient PAW balance"
-msgstr ""
+msgstr "Недостаточно баланса PAW"
 
 msgid "Successfully paid 50 PAW for audio export."
-msgstr ""
+msgstr "Успешно оплачено 50 PAW за экспорт аудио."
 
 msgid "Invalid email."
 msgstr "Неверный email."

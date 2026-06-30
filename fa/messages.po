@@ -659,10 +659,10 @@ msgid "and more"
 msgstr "و غیره"
 
 msgid "Steam Skins (Skinify)"
-msgstr ""
+msgstr "اسکین‌های استیم (Skinify)"
 
 msgid "fast and automatic"
-msgstr ""
+msgstr "سریع و خودکار"
 
 msgid "Choose Cryptocurrency"
 msgstr "انتخاب رمزارز"
@@ -677,7 +677,7 @@ msgid "Failed to create payment link."
 msgstr "ایجاد لینک پرداخت با شکست مواجه شد."
 
 msgid "Failed to create Skinify payment link."
-msgstr ""
+msgstr "ایجاد لینک پرداخت Skinify ناموفق بود."
 
 msgid "DMCA Takedown Policy"
 msgstr "سیاست DMCA برای حذف محتوا"
@@ -1856,193 +1856,193 @@ msgid "Back to main"
 msgstr "بازگشت به صفحه اصلی"
 
 msgid "Welcome, Lobby Dominator!"
-msgstr ""
+msgstr "به لابی دونیتور خوش اومدی!"
 
 msgid "Your elite status is active. Keep sound-spamming without absolute limits."
-msgstr ""
+msgstr "وضعیت الیت شما فعاله. بدون هیچ محدودیتی به اسپم کردن صدا ادامه بده."
 
 msgid "STOP BEING A DEFAULT BOT IN CHAT"
-msgstr ""
+msgstr "تو چت مثل یه بات پیش‌فرض نباش!"
 
 msgid "Get full voice privilege. No watermarks, no ear-bleeding file compression, and unlimited earthshaking bass boost."
-msgstr ""
+msgstr "امتیاز کامل ویس رو بگیر. بدون واترمارک، بدون فشرده‌سازی رو اعصاب و بیس بوست بی‌نهایت که زمین رو می‌لرزونه."
 
 msgid "Active Dominator Mode"
-msgstr ""
+msgstr "حالت فرمانروای فعال"
 
 msgid "Next tribute date:"
-msgstr ""
+msgstr "تاریخ خراج بعدی:"
 
 msgid "You unlocked lifetime dominance."
-msgstr ""
+msgstr "فرمانروایی مادام‌العمر رو باز کردی."
 
 msgid "Extend for 1 day"
-msgstr ""
+msgstr "تمدید برای ۱ روز"
 
 msgid "Extend for 1 month"
-msgstr ""
+msgstr "تمدید برای ۱ ماه"
 
 msgid "Fast payment"
-msgstr ""
+msgstr "پرداخت سریع"
 
 msgid "No card? No problem! We accept"
-msgstr ""
+msgstr "کارت نداری؟ مشکلی نیست! ما قبول می‌کنیم:"
 
 msgid "instantly from your phone/inventory."
-msgstr ""
+msgstr "سریع از توی گوشی/اینونتوری‌ت."
 
 msgid "Tonights Raid"
-msgstr ""
+msgstr "رید امشب"
 
 msgid "One Evening Pass"
-msgstr ""
+msgstr "بلیط تک‌شب"
 
 msgid "Perfect cheap drop before a heavy Friday lobby match with friends."
-msgstr ""
+msgstr "یه دراپ ارزون و عالی قبل از یه بازی سنگین لابی جمعه با رفقا."
 
 msgid "24 hours full access"
-msgstr ""
+msgstr "۲۴ ساعت دسترسی کامل"
 
 msgid "Get Evening Pass"
-msgstr ""
+msgstr "دریافت بلیط شبانه"
 
 msgid "Trolls Choice"
-msgstr ""
+msgstr "انتخاب ترول‌ها"
 
 msgid "Alpha Month"
-msgstr ""
+msgstr "ماه آلفا"
 
 msgid "Establish permanent voice command. Ideal for serious server raiders."
-msgstr ""
+msgstr "فرمانروایی دائم روی ویس رو برقرار کن. مخصوص ریدرهای جدی سرور."
 
 msgid "30 days of power"
-msgstr ""
+msgstr "۳۰ روز قدرت خالص"
 
 msgid "Unlock Month"
-msgstr ""
+msgstr "باز کردن ماه"
 
 msgid "Save 20%"
-msgstr ""
+msgstr "۲۰٪ تخفیف"
 
 msgid "Dominator Year"
-msgstr ""
+msgstr "سال فرمانروایی"
 
 msgid "Maximum investment in personal dominance. Secure 2 free premium months."
-msgstr ""
+msgstr "بیشترین سرمایه‌گذاری روی فرمانروایی شخصی. ۲ ماه پرمیوم رایگان به جیب بزن."
 
 msgid "365 days of elite status"
-msgstr ""
+msgstr "۳۶۵ روز وضعیت الیت"
 
 msgid "Claim Year Access"
-msgstr ""
+msgstr "دریافت دسترسی سالانه"
 
 msgid "Compare the reality"
-msgstr ""
+msgstr "واقعیت رو مقایسه کن"
 
 msgid "Core Painpoint"
-msgstr ""
+msgstr "دردسر اصلی"
 
 msgid "Bot (Free)"
-msgstr ""
+msgstr "بات (رایگان)"
 
 msgid "Dominator (VIP)"
-msgstr ""
+msgstr "فرمانروا (VIP)"
 
 msgid "Audio Quality"
-msgstr ""
+msgstr "کیفیت صدا"
 
 msgid "How hard your audio cuts through voice chats"
-msgstr ""
+msgstr "صدات چقدر با قدرت توی ویس‌چت‌ها نفوذ می‌کنه"
 
 msgid "Compressed 64kbps garbage"
-msgstr ""
+msgstr "آشغال فشرده‌شده ۶۴ کیلوبیت"
 
 msgid "Crystal 320kbps Stereo"
-msgstr ""
+msgstr "استریو شفاف ۳۲۰ کیلوبیت"
 
 msgid "Sound Watermarks"
-msgstr ""
+msgstr "واترمارک‌های صوتی"
 
 msgid "That embarrassing \"uwupad.ru\" stamp at the end of every file"
-msgstr ""
+msgstr "اون مهر خجالت‌آور \"uwupad.ru\" آخر هر فایل"
 
 msgid "No watermarks"
-msgstr ""
+msgstr "بدون واترمارک"
 
 msgid "Bass Boost"
-msgstr ""
+msgstr "بیس بوست"
 
 msgid "Ability to instantly blow out your lobbys headphones"
-msgstr ""
+msgstr "توانایی ترکوندن آنی هدفون کل لابی"
 
 msgid "Paid per click / limited"
-msgstr ""
+msgstr "پرداخت به‌ازای هر کلیک / محدود"
 
 msgid "Unlimited Ear-Rape Bass"
-msgstr ""
+msgstr "بیس گوش‌خراش (Ear-Rape) بی‌نهایت"
 
 msgid "Playlists for Spam"
-msgstr ""
+msgstr "پلی‌لیست برای اسپم"
 
 msgid "Keep your tactical audio arsenal organized"
-msgstr ""
+msgstr "آرشیو صوتی تاکتیکی خودت رو مرتب نگه‌دار"
 
 msgid "Playlists (peasant limit)"
-msgstr ""
+msgstr "پلی‌لیست (محدودیت رعیت)"
 
 msgid "Unlimited space"
-msgstr ""
+msgstr "فضای بی‌نهایت"
 
 msgid "Lobby Status / Nickname"
-msgstr ""
+msgstr "وضعیت لابی / نام مستعار"
 
 msgid "Appearance in local comments, ratings and lobby lists"
-msgstr ""
+msgstr "نمایش در نظرات محلی، امتیازدهی‌ها و لیست‌های لابی"
 
 msgid "Boring default bot text"
-msgstr ""
+msgstr "متن بی‌مزه بات پیش‌فرض"
 
 msgid "Glowing Alpha Styling"
-msgstr ""
+msgstr "استایل درخشان آلفا"
 
 msgid "Visual Flex"
-msgstr ""
+msgstr "فخر فروشی بصری (Flex)"
 
 msgid "Personal sound covers and profiles customization"
-msgstr ""
+msgstr "کاورهای صوتی شخصی‌سازی شده و تغییر استایل پروفایل"
 
 msgid "Static low-res only"
-msgstr ""
+msgstr "فقط تصویر ثابت بی‌کیفیت"
 
 msgid "GIF avatars & custom covers"
-msgstr ""
+msgstr "آواتارهای GIF و کاورهای دلخواه"
 
 msgid "Frontpage Sound Boosts"
-msgstr ""
+msgstr "بوست صدا در صفحه اصلی"
 
 msgid "Bring your uploaded meme tracks directly to the top"
-msgstr ""
+msgstr "آهنگ‌های میم آپلود شده‌ат رو مستقیم بیار بالا"
 
 msgid "Pay real cash for every boost"
-msgstr ""
+msgstr "برای هر بوست پول واقعی بده"
 
 msgid "1 Free Top Boost daily"
-msgstr ""
+msgstr "روزانه ۱ بوست رایگان به بالا"
 
 msgid "Claim Dominance Status"
-msgstr ""
+msgstr "دریافت وضعیت فرمانروایی"
 
 msgid "Extend Dominance Access"
-msgstr ""
+msgstr "تمدید دسترسی فرمانروایی"
 
 msgid "Select skin depot, telegram stars, or fast cards checkout"
-msgstr ""
+msgstr "انبار اسکین، ستاره‌های تلگرام یا پرداخت سریع با کارت رو انتخاب کن"
 
 msgid "VIP lock engaged. Your subscription has expired."
-msgstr ""
+msgstr "قفل VIP فعال شد. اشتراکت تموم شده."
 
 msgid "Active dominance ends in:"
-msgstr ""
+msgstr "پایان فرمانروایی فعال در:"
 
 msgid "Pending Ad Requests"
 msgstr "درخواست‌های تبلیغ در انتظار"
@@ -2081,7 +2081,7 @@ msgid "Music"
 msgstr "موسیقی"
 
 msgid "Community & Creator"
-msgstr ""
+msgstr "انجمن و سازندگان"
 
 msgid "Report a bug"
 msgstr "گزارش باگ"
@@ -2153,121 +2153,121 @@ msgid "get VIP for instant downloads"
 msgstr "برای دانلودهای فوری VIP بگیر"
 
 msgid "Decoding audio data on client..."
-msgstr ""
+msgstr "در حال رمزگشایی داده‌های صوتی در کلاینت..."
 
 msgid "Click left side to trim start, right side to trim end"
-msgstr ""
+msgstr "برای برش شروع کلیک چپ و برای برش پایان کلیک راست کنید"
 
 msgid "Presets"
-msgstr ""
+msgstr "پریست‌ها"
 
 msgid "Custom Settings"
-msgstr ""
+msgstr "تنظیمات دلخواه"
 
 msgid "Bass Boost & Loud"
-msgstr ""
+msgstr "بیس بوست و صدای بلند"
 
 msgid "Nightcore (Speed up)"
-msgstr ""
+msgstr "نایت‌کور (تند کردن)"
 
 msgid "Lo-Fi (Slow & Reverb)"
-msgstr ""
+msgstr "لوفای (کند و افکت اکو)"
 
 msgid "Extreme Gain"
-msgstr ""
+msgstr "گین بسیار بالا"
 
 msgid "Smooth Fade In/Out"
-msgstr ""
+msgstr "محو تدریجی نرم (Fade In/Out)"
 
 msgid "Custom Presets"
-msgstr ""
+msgstr "پریست‌های دلخواه"
 
 msgid "Save current settings as preset"
-msgstr ""
+msgstr "ذخیره تنظیمات فعلی به عنوان پریست"
 
 msgid "Delete custom preset"
-msgstr ""
+msgstr "حذف پریست دلخواه"
 
 msgid "Volume"
-msgstr ""
+msgstr "ولوم صدا"
 
 msgid "Speed / Pitch"
-msgstr ""
+msgstr "سرعت / گام صدا"
 
 msgid "Trim Start"
-msgstr ""
+msgstr "برش از شروع"
 
 msgid "Trim End"
-msgstr ""
+msgstr "برش از پایان"
 
 msgid "Fade In"
-msgstr ""
+msgstr "فید این (آغاز نرم)"
 
 msgid "Fade Out"
-msgstr ""
+msgstr "فید اوت (پایان نرم)"
 
 msgid "Echo Feedback"
-msgstr ""
+msgstr "بازخورد اکو"
 
 msgid "Muffler (Lowpass)"
-msgstr ""
+msgstr "خفه‌کن (Lowpass)"
 
 msgid "Loop Preview"
-msgstr ""
+msgstr "پیش‌نمایش تکرار شونده"
 
 msgid "Reset all parameters to default"
-msgstr ""
+msgstr "تنظیم مجدد همه پارامترها به پیش‌فرض"
 
 msgid "Reset"
-msgstr ""
+msgstr "تنظیم مجدد"
 
 msgid "Preview"
-msgstr ""
+msgstr "پیش‌نمایش"
 
 msgid "Download WAV"
-msgstr ""
+msgstr "دانلود WAV"
 
 msgid "Enter custom preset name:"
-msgstr ""
+msgstr "نام پریست دلخواه را وارد کنید:"
 
 msgid "Are you sure you want to delete preset"
-msgstr ""
+msgstr "آیا مطمئنید که می‌خواهید پریست را حذف کنید"
 
 msgid "Error parsing audio data."
-msgstr ""
+msgstr "خطا در پردازش داده‌های صوتی."
 
 msgid "Stop"
-msgstr ""
+msgstr "توقف"
 
 msgid "Processing..."
-msgstr ""
+msgstr "در حال پردازش..."
 
 msgid "You must be logged in to download modified sounds."
-msgstr ""
+msgstr "برای دانلود صداهای تغییر یافته باید وارد حساب کاربری خود شوید."
 
 #, python-format
 msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
-msgstr ""
+msgstr "شما به <strong>%(cost)s PAW</strong> برای خروجی گرفتن نیاز دارید، اما فقط <strong>%(balance)s PAW</strong> دارید."
 
 #, python-format
 msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
-msgstr ""
+msgstr "خروجی گرفتن از این صدای تغییر یافته <strong>%(cost)s PAW</strong> هزینه دارد."
 
 #, python-format
 msgid "Your balance after download: %(balance)s PAW"
-msgstr ""
+msgstr "موجودی شما پس از دانلود: %(balance)s PAW"
 
 msgid "Confirm Export"
-msgstr ""
+msgstr "تایید خروجی"
 
 msgid "Confirm & Download"
-msgstr ""
+msgstr "تایید و دانلود"
 
 msgid "An error occurred during payment."
-msgstr ""
+msgstr "خطایی در حین پرداخت رخ داد."
 
 msgid "Failed to connect to server."
-msgstr ""
+msgstr "اتصال به سرور برقرار نشد."
 
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "سرویسی برای جستجو و دانلود صدا برای ساندبوردهایی مانند Soundpad یا دستگاه‌های موبایل."
@@ -2339,10 +2339,10 @@ msgid "Save & Apply"
 msgstr "ذخیره و اعمال"
 
 msgid "Free DL"
-msgstr ""
+msgstr "دانلود رایگان"
 
 msgid "Upgrade to VIP for unlimited downloads!"
-msgstr ""
+msgstr "برای دانلود نامحدود به VIP ارتقا دهید!"
 
 msgid "Donate small amount to get 3 days VIP"
 msgstr "برای دریافت ۳ روز VIP، مبلغ کوچکی اهدا کنید."
@@ -2369,10 +2369,10 @@ msgid "New"
 msgstr "جدید"
 
 msgid "Top 50 Sound Packs"
-msgstr ""
+msgstr "۵۰ پکیج صوتی برتر"
 
 msgid "Download ready-to-use collections for Soundpad"
-msgstr ""
+msgstr "کالکشن‌های آماده استفاده برای Soundpad را دانلود کنید"
 
 msgid "Daily"
 msgstr "روزانه"
@@ -2414,13 +2414,13 @@ msgid "Complete!"
 msgstr "کامل شد!"
 
 msgid "Daily limit reached"
-msgstr ""
+msgstr "محدودیت روزانه به پایان رسید"
 
 msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
-msgstr ""
+msgstr "محدودیت روزانه دانلودهای تمیز شما به پایان رسیده است. دانلودهای بعدی دارای واترمارک و کیفیت بیسیم خواهند بود.<br><br>بازنشانی در ۲۴ ساعت آینده، یا خرید VIP."
 
 msgid "Buy VIP"
-msgstr ""
+msgstr "خرید VIP"
 
 msgid "Continue"
 msgstr "ادامه"
@@ -2474,10 +2474,10 @@ msgid "Add to playlist"
 msgstr "اضافه کردن به پلی‌لیست"
 
 msgid "Quick Download"
-msgstr ""
+msgstr "دانلود سریع"
 
 msgid "Modify & Download"
-msgstr ""
+msgstr "تغییر و دانلود"
 
 msgid "Not interested"
 msgstr "علاقه‌ای ندارم"
@@ -3255,13 +3255,13 @@ msgid "Authentication required"
 msgstr "احراز هویت لازم است."
 
 msgid "Free export for VIP"
-msgstr ""
+msgstr "خروجی رایگان برای VIP"
 
 msgid "Insufficient PAW balance"
-msgstr ""
+msgstr "موجودی PAW کافی نیست"
 
 msgid "Successfully paid 50 PAW for audio export."
-msgstr ""
+msgstr "پرداخت موفقیت‌آمیز ۵۰ PAW برای خروجی صوتی."
 
 msgid "Invalid email."
 msgstr "ایمیل نامعتبر است."

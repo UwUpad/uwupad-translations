@@ -656,10 +656,10 @@ msgid "and more"
 msgstr "және тағы басқалары"
 
 msgid "Steam Skins (Skinify)"
-msgstr ""
+msgstr "Steam скиндерарі (Skinify)"
 
 msgid "fast and automatic"
-msgstr ""
+msgstr "жылдам және автоматты түрде"
 
 msgid "Choose Cryptocurrency"
 msgstr "Криптовалютаны таңдаңыз"
@@ -674,7 +674,7 @@ msgid "Failed to create payment link."
 msgstr "Төлем сілтемесін жасау мүмкін болмады."
 
 msgid "Failed to create Skinify payment link."
-msgstr ""
+msgstr "Skinify төлем сілтемесін жасау сәтсіз аяқталды."
 
 msgid "DMCA Takedown Policy"
 msgstr "DMCA жою саясаты"
@@ -1853,193 +1853,193 @@ msgid "Back to main"
 msgstr "Басты бетке оралу"
 
 msgid "Welcome, Lobby Dominator!"
-msgstr ""
+msgstr "Лобби доминаторы, қош келдіңіз!"
 
 msgid "Your elite status is active. Keep sound-spamming without absolute limits."
-msgstr ""
+msgstr "Элиталық статусыңыз белсенді. Дыбыстарды ешқандай шектеусіз спамдай беріңіз."
 
 msgid "STOP BEING A DEFAULT BOT IN CHAT"
-msgstr ""
+msgstr "ЧАТТА ДЕФОЛТТЫҚ БОТ БОЛУДЫ ТОҚТАТЫҢЫЗ"
 
 msgid "Get full voice privilege. No watermarks, no ear-bleeding file compression, and unlimited earthshaking bass boost."
-msgstr ""
+msgstr "Толық дауыстық артықшылыққа ие болыңыз. Ешқандай су таңбаларысыз, құлақты ауыртатын файлдарды қысусыз және шексіз күшті бассбустпен."
 
 msgid "Active Dominator Mode"
-msgstr ""
+msgstr "Доминатор режимі белсенді"
 
 msgid "Next tribute date:"
-msgstr ""
+msgstr "Келесі алым күні:"
 
 msgid "You unlocked lifetime dominance."
-msgstr ""
+msgstr "Өмірлік доминацияны аштыңыз."
 
 msgid "Extend for 1 day"
-msgstr ""
+msgstr "1 күнге ұзарту"
 
 msgid "Extend for 1 month"
-msgstr ""
+msgstr "1 айға ұзарту"
 
 msgid "Fast payment"
-msgstr ""
+msgstr "Жылдам төлем"
 
 msgid "No card? No problem! We accept"
-msgstr ""
+msgstr "Карта жоқ па? Мәселе емес! Біз қабылдаймыз"
 
 msgid "instantly from your phone/inventory."
-msgstr ""
+msgstr "телефоннан немесе инвентарьдан лезде."
 
 msgid "Tonights Raid"
-msgstr ""
+msgstr "Бүгінгі рейд"
 
 msgid "One Evening Pass"
-msgstr ""
+msgstr "Бір кештік билет"
 
 msgid "Perfect cheap drop before a heavy Friday lobby match with friends."
-msgstr ""
+msgstr "Жұма күні достармен лоббидегі ауыр матч алдындағы тамаша әрі арзан дроп."
 
 msgid "24 hours full access"
-msgstr ""
+msgstr "24 сағаттық толық рұқсат"
 
 msgid "Get Evening Pass"
-msgstr ""
+msgstr "Кештік билетті алу"
 
 msgid "Trolls Choice"
-msgstr ""
+msgstr "Тролль таңдауы"
 
 msgid "Alpha Month"
-msgstr ""
+msgstr "Альфа айы"
 
 msgid "Establish permanent voice command. Ideal for serious server raiders."
-msgstr ""
+msgstr "Тұрақты дауыстық бақылауды орнатыңыз. Серверлерді байсалды рейдтеушілер үшін өте қолайлы."
 
 msgid "30 days of power"
-msgstr ""
+msgstr "30 күндік күш-қуат"
 
 msgid "Unlock Month"
-msgstr ""
+msgstr "Айды ашу"
 
 msgid "Save 20%"
-msgstr ""
+msgstr "20% үнемдеу"
 
 msgid "Dominator Year"
-msgstr ""
+msgstr "Доминатор жылы"
 
 msgid "Maximum investment in personal dominance. Secure 2 free premium months."
-msgstr ""
+msgstr "Жеке доминацияға максималды инвестиция. 2 айлық тегін премиумды алыңыз."
 
 msgid "365 days of elite status"
-msgstr ""
+msgstr "365 күндік элиталық статус"
 
 msgid "Claim Year Access"
-msgstr ""
+msgstr "Бір жылдық рұқсатты алу"
 
 msgid "Compare the reality"
-msgstr ""
+msgstr "Шындықты салыстырыңыз"
 
 msgid "Core Painpoint"
-msgstr ""
+msgstr "Басты қиындық"
 
 msgid "Bot (Free)"
-msgstr ""
+msgstr "Бот (Тегін)"
 
 msgid "Dominator (VIP)"
-msgstr ""
+msgstr "Доминатор (VIP)"
 
 msgid "Audio Quality"
-msgstr ""
+msgstr "Аудио сапасы"
 
 msgid "How hard your audio cuts through voice chats"
-msgstr ""
+msgstr "Дыбысыңыздың дауыстық чаттарды қаншалықты қатты жарып өтетіндігі"
 
 msgid "Compressed 64kbps garbage"
-msgstr ""
+msgstr "Қысылған 64kbps қоқыс"
 
 msgid "Crystal 320kbps Stereo"
-msgstr ""
+msgstr "Кристалдай таза 320kbps Стерео"
 
 msgid "Sound Watermarks"
-msgstr ""
+msgstr "Дыбыстық су таңбалары"
 
 msgid "That embarrassing \"uwupad.ru\" stamp at the end of every file"
-msgstr ""
+msgstr "Әр файлдың соңындағы сол бір ұятты \"uwupad.ru\" белгісі"
 
 msgid "No watermarks"
-msgstr ""
+msgstr "Су таңбаларысыз"
 
 msgid "Bass Boost"
-msgstr ""
+msgstr "Бассбуст"
 
 msgid "Ability to instantly blow out your lobbys headphones"
-msgstr ""
+msgstr "Бүкіл лоббидің құлаққаптарын лезде жарып жіберу мүмкіндігі"
 
 msgid "Paid per click / limited"
-msgstr ""
+msgstr "Әр басу үшін төлеу / шектеулі"
 
 msgid "Unlimited Ear-Rape Bass"
-msgstr ""
+msgstr "Шексіз құлақ жаратын басс"
 
 msgid "Playlists for Spam"
-msgstr ""
+msgstr "Спамға арналған плейлистер"
 
 msgid "Keep your tactical audio arsenal organized"
-msgstr ""
+msgstr "Тактикалық аудио арсеналыңызды ретте ұстаңыз"
 
 msgid "Playlists (peasant limit)"
-msgstr ""
+msgstr "Плейлистер (кедейлік шегі)"
 
 msgid "Unlimited space"
-msgstr ""
+msgstr "Шексіз орын"
 
 msgid "Lobby Status / Nickname"
-msgstr ""
+msgstr "Лобби статусы / Никнейм"
 
 msgid "Appearance in local comments, ratings and lobby lists"
-msgstr ""
+msgstr "Жергілікті пікірлерде, рейтингтерде және лобби тізімдерінде көріну"
 
 msgid "Boring default bot text"
-msgstr ""
+msgstr "Жалықтырарлық дефолттық бот мәтіні"
 
 msgid "Glowing Alpha Styling"
-msgstr ""
+msgstr "Жарқыраған альфа-стиль"
 
 msgid "Visual Flex"
-msgstr ""
+msgstr "Визуалды флекс"
 
 msgid "Personal sound covers and profiles customization"
-msgstr ""
+msgstr "Дыбыстардың кастомдық мұқабалары мен профильді баптау"
 
 msgid "Static low-res only"
-msgstr ""
+msgstr "Тек төмен сапалы статикалық суреттер"
 
 msgid "GIF avatars & custom covers"
-msgstr ""
+msgstr "GIF-аватарлар мен кастомдық мұқабалар"
 
 msgid "Frontpage Sound Boosts"
-msgstr ""
+msgstr "Басты бетте дыбысты көтеру (буст)"
 
 msgid "Bring your uploaded meme tracks directly to the top"
-msgstr ""
+msgstr "Жүктелген мем тректеріңізді тікелей топқа шығарыңыз"
 
 msgid "Pay real cash for every boost"
-msgstr ""
+msgstr "Әр буст үшін нақты ақша төлеңіз"
 
 msgid "1 Free Top Boost daily"
-msgstr ""
+msgstr "Күн сайын 1 тегін топ-буст"
 
 msgid "Claim Dominance Status"
-msgstr ""
+msgstr "Доминатор статусын алу"
 
 msgid "Extend Dominance Access"
-msgstr ""
+msgstr "Доминатор статусын ұзарту"
 
 msgid "Select skin depot, telegram stars, or fast cards checkout"
-msgstr ""
+msgstr "Скиндер депосын, Telegram жұлдыздарын немесе жылдам картамен төлеуді таңдаңыз"
 
 msgid "VIP lock engaged. Your subscription has expired."
-msgstr ""
+msgstr "VIP-блок іске қосылды. Жазылымыңыздың мерзімі аяқталды."
 
 msgid "Active dominance ends in:"
-msgstr ""
+msgstr "Белсенді доминация уақыты бітеді:"
 
 msgid "Pending Ad Requests"
 msgstr "Күтудегі жарнама сұраулары"
@@ -2078,7 +2078,7 @@ msgid "Music"
 msgstr "Музыка"
 
 msgid "Community & Creator"
-msgstr ""
+msgstr "Қауымдастық және авторлар"
 
 msgid "Report a bug"
 msgstr "Қатені хабарлау"
@@ -2150,121 +2150,121 @@ msgid "get VIP for instant downloads"
 msgstr "Тез жүктеп алу үшін VIP алыңыз"
 
 msgid "Decoding audio data on client..."
-msgstr ""
+msgstr "Клиентте аудио деректерді декодтау..."
 
 msgid "Click left side to trim start, right side to trim end"
-msgstr ""
+msgstr "Басын қию үшін сол жақты, соңын қию үшін оң жақты басыңыз"
 
 msgid "Presets"
-msgstr ""
+msgstr "Пресеттер"
 
 msgid "Custom Settings"
-msgstr ""
+msgstr "Кастомдық баптаулар"
 
 msgid "Bass Boost & Loud"
-msgstr ""
+msgstr "Бассбуст және қатты дыбыс"
 
 msgid "Nightcore (Speed up)"
-msgstr ""
+msgstr "Найткор (Жылдамдату)"
 
 msgid "Lo-Fi (Slow & Reverb)"
-msgstr ""
+msgstr "Lo-Fi (Баяулату және реверберация)"
 
 msgid "Extreme Gain"
-msgstr ""
+msgstr "Экстремалды күшейту"
 
 msgid "Smooth Fade In/Out"
-msgstr ""
+msgstr "Біртіндеп пайда болу/бәсеңдеу"
 
 msgid "Custom Presets"
-msgstr ""
+msgstr "Кастомдық пресеттер"
 
 msgid "Save current settings as preset"
-msgstr ""
+msgstr "Ағымдағы баптауларды пресет ретінде сақтау"
 
 msgid "Delete custom preset"
-msgstr ""
+msgstr "Кастомдық пресетті өшіру"
 
 msgid "Volume"
-msgstr ""
+msgstr "Дыбыс деңгейі"
 
 msgid "Speed / Pitch"
-msgstr ""
+msgstr "Жылдамдық / Дыбыс биіктігі"
 
 msgid "Trim Start"
-msgstr ""
+msgstr "Басын қию"
 
 msgid "Trim End"
-msgstr ""
+msgstr "Соңын қию"
 
 msgid "Fade In"
-msgstr ""
+msgstr "Біртіндеп пайда болу"
 
 msgid "Fade Out"
-msgstr ""
+msgstr "Біртіндеп бәсеңдеу"
 
 msgid "Echo Feedback"
-msgstr ""
+msgstr "Эхо-фидбек"
 
 msgid "Muffler (Lowpass)"
-msgstr ""
+msgstr "Тұншықтырғыш (Lowpass)"
 
 msgid "Loop Preview"
-msgstr ""
+msgstr "Превьюді қайталау"
 
 msgid "Reset all parameters to default"
-msgstr ""
+msgstr "Барлық параметрлерді бастапқы күйге келтіру"
 
 msgid "Reset"
-msgstr ""
+msgstr "Қалпына келтіру"
 
 msgid "Preview"
-msgstr ""
+msgstr "Превью"
 
 msgid "Download WAV"
-msgstr ""
+msgstr "WAV жүктеу"
 
 msgid "Enter custom preset name:"
-msgstr ""
+msgstr "Кастомдық пресет атауын енгізіңіз:"
 
 msgid "Are you sure you want to delete preset"
-msgstr ""
+msgstr "Пресетті өшіргіңіз келетініне сенімдісіз бе"
 
 msgid "Error parsing audio data."
-msgstr ""
+msgstr "Аудио деректерін талдау қатесі."
 
 msgid "Stop"
-msgstr ""
+msgstr "Тоқтату"
 
 msgid "Processing..."
-msgstr ""
+msgstr "Өңделуде..."
 
 msgid "You must be logged in to download modified sounds."
-msgstr ""
+msgstr "Өзгертілген дыбыстарды жүктеу үшін жүйеге кіруіңіз керек."
 
 #, python-format
 msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
-msgstr ""
+msgstr "Экспорттау үшін сізге <strong>%(cost)s PAW</strong> қажет, бірақ сізде тек <strong>%(balance)s PAW</strong> бар."
 
 #, python-format
 msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
-msgstr ""
+msgstr "Бұл өзгертілген дыбысты экспорттау құны <strong>%(cost)s PAW</strong> болады."
 
 #, python-format
 msgid "Your balance after download: %(balance)s PAW"
-msgstr ""
+msgstr "Жүктегеннен кейінгі балансыңыз: %(balance)s PAW"
 
 msgid "Confirm Export"
-msgstr ""
+msgstr "Экспортты растау"
 
 msgid "Confirm & Download"
-msgstr ""
+msgstr "Растау және жүктеу"
 
 msgid "An error occurred during payment."
-msgstr ""
+msgstr "Төлем кезінде қате орын алды."
 
 msgid "Failed to connect to server."
-msgstr ""
+msgstr "Серверге қосылу сәтсіз аяқталды."
 
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "Soundpad немесе мобильді құрылғылар үшін дыбыстарды іздеу және жүктеп алу қызметі."
@@ -2336,10 +2336,10 @@ msgid "Save & Apply"
 msgstr "Сақтау және қолдану"
 
 msgid "Free DL"
-msgstr ""
+msgstr "Тегін жүктеу"
 
 msgid "Upgrade to VIP for unlimited downloads!"
-msgstr ""
+msgstr "Шексіз жүктеулер үшін VIP деңгейіне өтіңіз!"
 
 msgid "Donate small amount to get 3 days VIP"
 msgstr "3 күндік VIP алу үшін аз ғана қайырымдылық жасаңыз."
@@ -2366,10 +2366,10 @@ msgid "New"
 msgstr "Жаңа"
 
 msgid "Top 50 Sound Packs"
-msgstr ""
+msgstr "Топ-50 дыбыс жинақтары"
 
 msgid "Download ready-to-use collections for Soundpad"
-msgstr ""
+msgstr "Soundpad үшін дайын жинақтарды жүктеңіз"
 
 msgid "Daily"
 msgstr "Күнделікті"
@@ -2411,13 +2411,13 @@ msgid "Complete!"
 msgstr "Аяқталды!"
 
 msgid "Daily limit reached"
-msgstr ""
+msgstr "Күнделікті шектеуге жеттіңіз"
 
 msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
-msgstr ""
+msgstr "Таза жүктеулердің күнделікті шектеуіне жеттіңіз. Келесі жүктеулерде су таңбалары болады және сапасы рация деңгейінде болады.<br><br>24 сағаттан кейін жаңартылады немесе VIP сатып алыңыз."
 
 msgid "Buy VIP"
-msgstr ""
+msgstr "VIP сатып алу"
 
 msgid "Continue"
 msgstr "Жалғастыру"
@@ -2471,10 +2471,10 @@ msgid "Add to playlist"
 msgstr "Ойнату тізіміне қосу"
 
 msgid "Quick Download"
-msgstr ""
+msgstr "Жылдам жүктеу"
 
 msgid "Modify & Download"
-msgstr ""
+msgstr "Өзгерту және жүктеу"
 
 msgid "Not interested"
 msgstr "Қызықпаймын"
@@ -3252,13 +3252,13 @@ msgid "Authentication required"
 msgstr "Аутентификация қажет"
 
 msgid "Free export for VIP"
-msgstr ""
+msgstr "VIP үшін тегін экспорт"
 
 msgid "Insufficient PAW balance"
-msgstr ""
+msgstr "PAW балансы жеткіліксіз"
 
 msgid "Successfully paid 50 PAW for audio export."
-msgstr ""
+msgstr "Аудио экспорттау үшін 50 PAW сәтті төленді."
 
 msgid "Invalid email."
 msgstr "Жарамсыз электрондық пошта."

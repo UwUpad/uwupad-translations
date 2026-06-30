@@ -652,10 +652,10 @@ msgid "and more"
 msgstr "以及更多"
 
 msgid "Steam Skins (Skinify)"
-msgstr ""
+msgstr "Steam 皮肤 (Skinify)"
 
 msgid "fast and automatic"
-msgstr ""
+msgstr "快速且全自动"
 
 msgid "Choose Cryptocurrency"
 msgstr "选择加密货币"
@@ -670,7 +670,7 @@ msgid "Failed to create payment link."
 msgstr "创建支付链接失败。"
 
 msgid "Failed to create Skinify payment link."
-msgstr ""
+msgstr "未能创建 Skinify 支付链接。"
 
 msgid "DMCA Takedown Policy"
 msgstr "DMCA 移除政策"
@@ -1849,193 +1849,193 @@ msgid "Back to main"
 msgstr "返回主页"
 
 msgid "Welcome, Lobby Dominator!"
-msgstr ""
+msgstr "欢迎，大厅统治者！"
 
 msgid "Your elite status is active. Keep sound-spamming without absolute limits."
-msgstr ""
+msgstr "你的精英状态已激活。继续无限制地刷音效吧。"
 
 msgid "STOP BEING A DEFAULT BOT IN CHAT"
-msgstr ""
+msgstr "别再当聊天室里的白板人机了"
 
 msgid "Get full voice privilege. No watermarks, no ear-bleeding file compression, and unlimited earthshaking bass boost."
-msgstr ""
+msgstr "获取完整语音特权。无水印、无震耳欲聋的文件压缩，以及无限的震天动地低音增强（Bass Boost）。"
 
 msgid "Active Dominator Mode"
-msgstr ""
+msgstr "已激活统治者模式"
 
 msgid "Next tribute date:"
-msgstr ""
+msgstr "下次上贡日期："
 
 msgid "You unlocked lifetime dominance."
-msgstr ""
+msgstr "你解锁了终身统治权。"
 
 msgid "Extend for 1 day"
-msgstr ""
+msgstr "续费 1 天"
 
 msgid "Extend for 1 month"
-msgstr ""
+msgstr "续费 1 个月"
 
 msgid "Fast payment"
-msgstr ""
+msgstr "极速支付"
 
 msgid "No card? No problem! We accept"
-msgstr ""
+msgstr "没卡？没问题！我们支持"
 
 msgid "instantly from your phone/inventory."
-msgstr ""
+msgstr "用手机/库存秒级支付。"
 
 msgid "Tonights Raid"
-msgstr ""
+msgstr "今晚突击"
 
 msgid "One Evening Pass"
-msgstr ""
+msgstr "单晚通行证"
 
 msgid "Perfect cheap drop before a heavy Friday lobby match with friends."
-msgstr ""
+msgstr "周五晚上和基友开黑神级低成本热身装备。"
 
 msgid "24 hours full access"
-msgstr ""
+msgstr "24小时全功能访问"
 
 msgid "Get Evening Pass"
-msgstr ""
+msgstr "获取单晚通行证"
 
 msgid "Trolls Choice"
-msgstr ""
+msgstr "搞子首选"
 
 msgid "Alpha Month"
-msgstr ""
+msgstr "阿尔法黄金月"
 
 msgid "Establish permanent voice command. Ideal for serious server raiders."
-msgstr ""
+msgstr "确立永久语音统治。极适合硬核服务器爆破手。"
 
 msgid "30 days of power"
-msgstr ""
+msgstr "30天神力加持"
 
 msgid "Unlock Month"
-msgstr ""
+msgstr "解锁本月"
 
 msgid "Save 20%"
-msgstr ""
+msgstr "立省 20%"
 
 msgid "Dominator Year"
-msgstr ""
+msgstr "年度统治者"
 
 msgid "Maximum investment in personal dominance. Secure 2 free premium months."
-msgstr ""
+msgstr "性价比极高的统治力投资。直接白嫖 2 个月高级会员。"
 
 msgid "365 days of elite status"
-msgstr ""
+msgstr "365天精英特权"
 
 msgid "Claim Year Access"
-msgstr ""
+msgstr "夺取年度访问权限"
 
 msgid "Compare the reality"
-msgstr ""
+msgstr "对比现实"
 
 msgid "Core Painpoint"
-msgstr ""
+msgstr "核心痛点"
 
 msgid "Bot (Free)"
-msgstr ""
+msgstr "普通小白 (免费)"
 
 msgid "Dominator (VIP)"
-msgstr ""
+msgstr "统治者 (VIP)"
 
 msgid "Audio Quality"
-msgstr ""
+msgstr "音质"
 
 msgid "How hard your audio cuts through voice chats"
-msgstr ""
+msgstr "你的声音在语音频道里有多炸裂"
 
 msgid "Compressed 64kbps garbage"
-msgstr ""
+msgstr "64kbps 压缩垃圾音质"
 
 msgid "Crystal 320kbps Stereo"
-msgstr ""
+msgstr "320kbps 无损立体声"
 
 msgid "Sound Watermarks"
-msgstr ""
+msgstr "声音水印"
 
 msgid "That embarrassing \"uwupad.ru\" stamp at the end of every file"
-msgstr ""
+msgstr "每个音频末尾那句尴尬的 \"uwupad.ru\" 标志"
 
 msgid "No watermarks"
-msgstr ""
+msgstr "无水印"
 
 msgid "Bass Boost"
-msgstr ""
+msgstr "低音轰炸 (Bass Boost)"
 
 msgid "Ability to instantly blow out your lobbys headphones"
-msgstr ""
+msgstr "瞬间震烂全大厅耳机党耳膜的能力"
 
 msgid "Paid per click / limited"
-msgstr ""
+msgstr "按次收费/受限"
 
 msgid "Unlimited Ear-Rape Bass"
-msgstr ""
+msgstr "无限“强暴双耳”级超重低音"
 
 msgid "Playlists for Spam"
-msgstr ""
+msgstr "轰炸歌单"
 
 msgid "Keep your tactical audio arsenal organized"
-msgstr ""
+msgstr "整理你的战术音频军火库"
 
 msgid "Playlists (peasant limit)"
-msgstr ""
+msgstr "歌单 (贫民限制)"
 
 msgid "Unlimited space"
-msgstr ""
+msgstr "无限空间"
 
 msgid "Lobby Status / Nickname"
-msgstr ""
+msgstr "大厅状态 / 昵称"
 
 msgid "Appearance in local comments, ratings and lobby lists"
-msgstr ""
+msgstr "在本地评论、评分和大厅列表中的显示效果"
 
 msgid "Boring default bot text"
-msgstr ""
+msgstr "枯燥的默认白板文本"
 
 msgid "Glowing Alpha Styling"
-msgstr ""
+msgstr "炫彩阿尔法特效"
 
 msgid "Visual Flex"
-msgstr ""
+msgstr "纯视觉装杯"
 
 msgid "Personal sound covers and profiles customization"
-msgstr ""
+msgstr "专属音频封面及个人资料自定义"
 
 msgid "Static low-res only"
-msgstr ""
+msgstr "仅限静态低画质"
 
 msgid "GIF avatars & custom covers"
-msgstr ""
+msgstr "GIF 动图头像及自定义封面"
 
 msgid "Frontpage Sound Boosts"
-msgstr ""
+msgstr "首页音效推荐"
 
 msgid "Bring your uploaded meme tracks directly to the top"
-msgstr ""
+msgstr "直接把你上传的梗图/音效送上首页热门"
 
 msgid "Pay real cash for every boost"
-msgstr ""
+msgstr "每次推荐都要氪金"
 
 msgid "1 Free Top Boost daily"
-msgstr ""
+msgstr "每天 1 次免费上推荐机会"
 
 msgid "Claim Dominance Status"
-msgstr ""
+msgstr "夺取统治者身份"
 
 msgid "Extend Dominance Access"
-msgstr ""
+msgstr "延长统治者时效"
 
 msgid "Select skin depot, telegram stars, or fast cards checkout"
-msgstr ""
+msgstr "选择皮肤交易、Telegram Stars 或极速卡币结算"
 
 msgid "VIP lock engaged. Your subscription has expired."
-msgstr ""
+msgstr "已触发 VIP 锁定。你的订阅已过期。"
 
 msgid "Active dominance ends in:"
-msgstr ""
+msgstr "统治者特权剩余时间："
 
 msgid "Pending Ad Requests"
 msgstr "待处理广告请求"
@@ -2074,7 +2074,7 @@ msgid "Music"
 msgstr "音乐"
 
 msgid "Community & Creator"
-msgstr ""
+msgstr "社区与创作者"
 
 msgid "Report a bug"
 msgstr "报告 Bug"
@@ -2146,121 +2146,121 @@ msgid "get VIP for instant downloads"
 msgstr "开通 VIP 获取即时下载"
 
 msgid "Decoding audio data on client..."
-msgstr ""
+msgstr "正在客户端解码音频数据..."
 
 msgid "Click left side to trim start, right side to trim end"
-msgstr ""
+msgstr "点击左侧裁剪起点，点击右侧裁剪终点"
 
 msgid "Presets"
-msgstr ""
+msgstr "预设"
 
 msgid "Custom Settings"
-msgstr ""
+msgstr "自定义设置"
 
 msgid "Bass Boost & Loud"
-msgstr ""
+msgstr "超级低音 & 极致声量"
 
 msgid "Nightcore (Speed up)"
-msgstr ""
+msgstr "Nightcore 风格 (加速)"
 
 msgid "Lo-Fi (Slow & Reverb)"
-msgstr ""
+msgstr "Lo-Fi 风格 (慢速混响)"
 
 msgid "Extreme Gain"
-msgstr ""
+msgstr "极限增益"
 
 msgid "Smooth Fade In/Out"
-msgstr ""
+msgstr "平滑淡入/淡出"
 
 msgid "Custom Presets"
-msgstr ""
+msgstr "自定义预设"
 
 msgid "Save current settings as preset"
-msgstr ""
+msgstr "将当前设置保存为预设"
 
 msgid "Delete custom preset"
-msgstr ""
+msgstr "删除自定义预设"
 
 msgid "Volume"
-msgstr ""
+msgstr "音量"
 
 msgid "Speed / Pitch"
-msgstr ""
+msgstr "速度 / 音调"
 
 msgid "Trim Start"
-msgstr ""
+msgstr "裁剪起点"
 
 msgid "Trim End"
-msgstr ""
+msgstr "裁剪终点"
 
 msgid "Fade In"
-msgstr ""
+msgstr "淡入"
 
 msgid "Fade Out"
-msgstr ""
+msgstr "淡出"
 
 msgid "Echo Feedback"
-msgstr ""
+msgstr "回声反馈"
 
 msgid "Muffler (Lowpass)"
-msgstr ""
+msgstr "闷音/消音 (低通低滤)"
 
 msgid "Loop Preview"
-msgstr ""
+msgstr "循环预览"
 
 msgid "Reset all parameters to default"
-msgstr ""
+msgstr "重置所有参数为默认值"
 
 msgid "Reset"
-msgstr ""
+msgstr "重置"
 
 msgid "Preview"
-msgstr ""
+msgstr "预览"
 
 msgid "Download WAV"
-msgstr ""
+msgstr "下载 WAV"
 
 msgid "Enter custom preset name:"
-msgstr ""
+msgstr "输入自定义预设名称："
 
 msgid "Are you sure you want to delete preset"
-msgstr ""
+msgstr "确定要删除该预设吗："
 
 msgid "Error parsing audio data."
-msgstr ""
+msgstr "解析音频数据时出错。"
 
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 msgid "Processing..."
-msgstr ""
+msgstr "处理中..."
 
 msgid "You must be logged in to download modified sounds."
-msgstr ""
+msgstr "你需要先登录才能下载修改过的音效。"
 
 #, python-format
 msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
-msgstr ""
+msgstr "你需要 <strong>%(cost)s PAW</strong> 才能导出，但你只有 <strong>%(balance)s PAW</strong>。"
 
 #, python-format
 msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
-msgstr ""
+msgstr "导出此修改后的音频将消耗 <strong>%(cost)s PAW</strong>。"
 
 #, python-format
 msgid "Your balance after download: %(balance)s PAW"
-msgstr ""
+msgstr "下载后你的余额：%(balance)s PAW"
 
 msgid "Confirm Export"
-msgstr ""
+msgstr "确认导出"
 
 msgid "Confirm & Download"
-msgstr ""
+msgstr "确认并下载"
 
 msgid "An error occurred during payment."
-msgstr ""
+msgstr "支付过程中出错。"
 
 msgid "Failed to connect to server."
-msgstr ""
+msgstr "无法连接到服务器。"
 
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "用于为 Soundpad 等声音控制台或移动设备搜索和下载声音的服务。"
@@ -2332,10 +2332,10 @@ msgid "Save & Apply"
 msgstr "保存并应用"
 
 msgid "Free DL"
-msgstr ""
+msgstr "免费下载"
 
 msgid "Upgrade to VIP for unlimited downloads!"
-msgstr ""
+msgstr "升级到 VIP 解锁无限下载！"
 
 msgid "Donate small amount to get 3 days VIP"
 msgstr "捐赠少量金额即可获得 3 天 VIP"
@@ -2362,10 +2362,10 @@ msgid "New"
 msgstr "新建"
 
 msgid "Top 50 Sound Packs"
-msgstr ""
+msgstr "热门音效包 Top 50"
 
 msgid "Download ready-to-use collections for Soundpad"
-msgstr ""
+msgstr "下载现成的 Soundpad 音效合集"
 
 msgid "Daily"
 msgstr "每日"
@@ -2407,13 +2407,13 @@ msgid "Complete!"
 msgstr "已完成！"
 
 msgid "Daily limit reached"
-msgstr ""
+msgstr "已达到每日限制"
 
 msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
-msgstr ""
+msgstr "你今日的无水印下载额度已用完。接下来的下载将带有水印，且音质降至对讲机级别。<br><br>24小时后重置，或者购买 VIP。"
 
 msgid "Buy VIP"
-msgstr ""
+msgstr "购买 VIP"
 
 msgid "Continue"
 msgstr "继续"
@@ -2467,10 +2467,10 @@ msgid "Add to playlist"
 msgstr "添加到播放列表"
 
 msgid "Quick Download"
-msgstr ""
+msgstr "极速下载"
 
 msgid "Modify & Download"
-msgstr ""
+msgstr "修改并下载"
 
 msgid "Not interested"
 msgstr "没兴趣啦"
@@ -3248,13 +3248,13 @@ msgid "Authentication required"
 msgstr "需要认证"
 
 msgid "Free export for VIP"
-msgstr ""
+msgstr "VIP 免费导出"
 
 msgid "Insufficient PAW balance"
-msgstr ""
+msgstr "PAW 余额不足"
 
 msgid "Successfully paid 50 PAW for audio export."
-msgstr ""
+msgstr "成功支付 50 PAW 用于音频导出。"
 
 msgid "Invalid email."
 msgstr "无效的电子邮件。"
