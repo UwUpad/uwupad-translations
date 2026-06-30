@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 13:00+0000\n"
+"POT-Creation-Date: 2026-06-30 14:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
@@ -1035,6 +1035,9 @@ msgstr "Өте танымал (>500 қаралым)"
 msgid "Sort by"
 msgstr "Сұрыптау"
 
+msgid "Sort: Trending"
+msgstr ""
+
 msgid "Sort: Newest"
 msgstr "Сұрыптау: Ең жаңасы"
 
@@ -1576,6 +1579,36 @@ msgstr "Үлгеріс:"
 msgid "sounds"
 msgstr "дыбыстар"
 
+msgid "Upload or Import Sound First"
+msgstr ""
+
+msgid "Drag and drop audio file here or click to select"
+msgstr ""
+
+msgid "Import from URL"
+msgstr "URL-дан импорттау"
+
+msgid "Supports only audio files"
+msgstr "Тек аудио файлдарын қолдайды"
+
+msgid "Max file size:"
+msgstr "Файлдың максималды өлшемі:"
+
+msgid "Sound Quality Analysis"
+msgstr ""
+
+msgid "Overall Quality Score:"
+msgstr ""
+
+msgid "Loudness:"
+msgstr ""
+
+msgid "Silence at Start:"
+msgstr ""
+
+msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
+msgstr ""
+
 msgid "Tags"
 msgstr "Тегтер"
 
@@ -1612,23 +1645,20 @@ msgstr "Маңызды:"
 msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr "Дыбыста айтылған тілді таңдаңыз. Егер бұл ән немесе айқын сөйлеу жоқ дыбыс эффектісі болса, 'Music / SFX' таңдаңыз. Қате тілдер сіздің ұсыныстарыңызға зиян келтіруі мүмкін және модерацияға әкелуі мүмкін."
 
-msgid "Upload"
-msgstr "Жүктеу"
+msgid "Custom Cover"
+msgstr "Арнайы Cover суреті"
 
-msgid "Choose a file"
-msgstr "Файл таңдаңыз"
+msgid "Choose a cover image"
+msgstr "Cover суретін таңдаңыз"
 
-msgid "Import from URL"
-msgstr "URL-дан импорттау"
+msgid "Add a background to your sound card (max 2MB)."
+msgstr "Дыбыс карточкасына фон қосыңыз (макс 2MB)."
 
-msgid "Supports only audio files"
-msgstr "Тек аудио файлдарын қолдайды"
+msgid "Я лично убедился, что в начале и конце звука нет долгой тишины и вздохов"
+msgstr ""
 
-msgid "Supported formats: mp3, wav, ogg"
-msgstr "Қолдау көрсетілетін форматтар: mp3, wav, ogg"
-
-msgid "Max file size:"
-msgstr "Файлдың максималды өлшемі:"
+msgid "Этот звук/мем реально качественный и смешной, а не очередной ИИ-мусор за 5 секунд"
+msgstr ""
 
 msgid "I agree to the"
 msgstr "Мен келісемін"
@@ -1645,14 +1675,8 @@ msgstr "құпиялық саясатына"
 msgid "By uploading, you confirm that your content does not violate copyright and meets our community guidelines."
 msgstr "Жүктеп жатқанда сіздің мазмұныңыз авторлық құқықты бұзбайтынын және қауымдастық ережелеріне сай екенін растайсыз."
 
-msgid "Custom Cover"
-msgstr "Арнайы Cover суреті"
-
-msgid "Choose a cover image"
-msgstr "Cover суретін таңдаңыз"
-
-msgid "Add a background to your sound card (max 2MB)."
-msgstr "Дыбыс карточкасына фон қосыңыз (макс 2MB)."
+msgid "Upload"
+msgstr "Жүктеу"
 
 msgid "VIP Power-Ups"
 msgstr "VIP артықшылықтары"

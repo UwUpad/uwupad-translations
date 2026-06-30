@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 13:00+0000\n"
+"POT-Creation-Date: 2026-06-30 14:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1030,6 +1030,9 @@ msgstr ""
 msgid "Sort by"
 msgstr ""
 
+msgid "Sort: Trending"
+msgstr ""
+
 msgid "Sort: Newest"
 msgstr ""
 
@@ -1571,6 +1574,36 @@ msgstr ""
 msgid "sounds"
 msgstr ""
 
+msgid "Upload or Import Sound First"
+msgstr ""
+
+msgid "Drag and drop audio file here or click to select"
+msgstr ""
+
+msgid "Import from URL"
+msgstr ""
+
+msgid "Supports only audio files"
+msgstr ""
+
+msgid "Max file size:"
+msgstr ""
+
+msgid "Sound Quality Analysis"
+msgstr ""
+
+msgid "Overall Quality Score:"
+msgstr ""
+
+msgid "Loudness:"
+msgstr ""
+
+msgid "Silence at Start:"
+msgstr ""
+
+msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
+msgstr ""
+
 msgid "Tags"
 msgstr ""
 
@@ -1607,22 +1640,19 @@ msgstr ""
 msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr ""
 
-msgid "Upload"
+msgid "Custom Cover"
 msgstr ""
 
-msgid "Choose a file"
+msgid "Choose a cover image"
 msgstr ""
 
-msgid "Import from URL"
+msgid "Add a background to your sound card (max 2MB)."
 msgstr ""
 
-msgid "Supports only audio files"
+msgid "Я лично убедился, что в начале и конце звука нет долгой тишины и вздохов"
 msgstr ""
 
-msgid "Supported formats: mp3, wav, ogg"
-msgstr ""
-
-msgid "Max file size:"
+msgid "Этот звук/мем реально качественный и смешной, а не очередной ИИ-мусор за 5 секунд"
 msgstr ""
 
 msgid "I agree to the"
@@ -1640,13 +1670,7 @@ msgstr ""
 msgid "By uploading, you confirm that your content does not violate copyright and meets our community guidelines."
 msgstr ""
 
-msgid "Custom Cover"
-msgstr ""
-
-msgid "Choose a cover image"
-msgstr ""
-
-msgid "Add a background to your sound card (max 2MB)."
+msgid "Upload"
 msgstr ""
 
 msgid "VIP Power-Ups"

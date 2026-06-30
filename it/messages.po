@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 13:00+0000\n"
+"POT-Creation-Date: 2026-06-30 14:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:25+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Italian <it@li.org>\n"
@@ -1038,6 +1038,9 @@ msgstr "Estremamente popolare (>500 visualizzazioni)"
 msgid "Sort by"
 msgstr "Ordina per"
 
+msgid "Sort: Trending"
+msgstr ""
+
 msgid "Sort: Newest"
 msgstr "Ordina: Più recenti"
 
@@ -1579,6 +1582,36 @@ msgstr "Progresso:"
 msgid "sounds"
 msgstr "suoni"
 
+msgid "Upload or Import Sound First"
+msgstr ""
+
+msgid "Drag and drop audio file here or click to select"
+msgstr ""
+
+msgid "Import from URL"
+msgstr "Importa da URL"
+
+msgid "Supports only audio files"
+msgstr "Supporta solo file audio"
+
+msgid "Max file size:"
+msgstr "Dimensione massima del file:"
+
+msgid "Sound Quality Analysis"
+msgstr ""
+
+msgid "Overall Quality Score:"
+msgstr ""
+
+msgid "Loudness:"
+msgstr ""
+
+msgid "Silence at Start:"
+msgstr ""
+
+msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
+msgstr ""
+
 msgid "Tags"
 msgstr "Tag"
 
@@ -1615,23 +1648,20 @@ msgstr "Importante:"
 msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr "Seleziona la lingua parlata nell'audio. Se si tratta di una canzone o di un effetto sonoro senza dialoghi chiari, seleziona 'Musica / Effetti sonori'. Lingue non corrette danneggiano le tue raccomandazioni e potrebbero portare a moderazione."
 
-msgid "Upload"
-msgstr "Carica"
+msgid "Custom Cover"
+msgstr "Copertina personalizzata"
 
-msgid "Choose a file"
-msgstr "Scegli file"
+msgid "Choose a cover image"
+msgstr "Scegli un'immagine di copertina"
 
-msgid "Import from URL"
-msgstr "Importa da URL"
+msgid "Add a background to your sound card (max 2MB)."
+msgstr "Aggiungi uno sfondo alla tua scheda audio (max 2 MB)."
 
-msgid "Supports only audio files"
-msgstr "Supporta solo file audio"
+msgid "Я лично убедился, что в начале и конце звука нет долгой тишины и вздохов"
+msgstr ""
 
-msgid "Supported formats: mp3, wav, ogg"
-msgstr "Formati supportati: mp3, wav, ogg"
-
-msgid "Max file size:"
-msgstr "Dimensione massima del file:"
+msgid "Этот звук/мем реально качественный и смешной, а не очередной ИИ-мусор за 5 секунд"
+msgstr ""
 
 msgid "I agree to the"
 msgstr "Accetto i"
@@ -1648,14 +1678,8 @@ msgstr "informativa sulla privacy"
 msgid "By uploading, you confirm that your content does not violate copyright and meets our community guidelines."
 msgstr "Caricando, confermi che i tuoi contenuti non violano il copyright e rispettano le nostre linee guida della community."
 
-msgid "Custom Cover"
-msgstr "Copertina personalizzata"
-
-msgid "Choose a cover image"
-msgstr "Scegli un'immagine di copertina"
-
-msgid "Add a background to your sound card (max 2MB)."
-msgstr "Aggiungi uno sfondo alla tua scheda audio (max 2 MB)."
+msgid "Upload"
+msgstr "Carica"
 
 msgid "VIP Power-Ups"
 msgstr "Potenziamenti VIP"

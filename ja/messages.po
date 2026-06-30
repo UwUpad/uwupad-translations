@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 13:00+0000\n"
+"POT-Creation-Date: 2026-06-30 14:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -1038,6 +1038,9 @@ msgstr "非常に人気（>500回視聴）"
 msgid "Sort by"
 msgstr "並べ替え"
 
+msgid "Sort: Trending"
+msgstr ""
+
 msgid "Sort: Newest"
 msgstr "並べ替え: 新着"
 
@@ -1579,6 +1582,36 @@ msgstr "進行状況："
 msgid "sounds"
 msgstr "サウンド"
 
+msgid "Upload or Import Sound First"
+msgstr ""
+
+msgid "Drag and drop audio file here or click to select"
+msgstr ""
+
+msgid "Import from URL"
+msgstr "URLからインポート"
+
+msgid "Supports only audio files"
+msgstr "オーディオファイルのみ対応"
+
+msgid "Max file size:"
+msgstr "最大ファイルサイズ："
+
+msgid "Sound Quality Analysis"
+msgstr ""
+
+msgid "Overall Quality Score:"
+msgstr ""
+
+msgid "Loudness:"
+msgstr ""
+
+msgid "Silence at Start:"
+msgstr ""
+
+msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
+msgstr ""
+
 msgid "Tags"
 msgstr "タグ"
 
@@ -1615,23 +1648,20 @@ msgstr "重要："
 msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr "音声内で話されている言語を選択してください。曲や明確な発話がない効果音の場合は 'Music / SFX' を選択してください。言語の誤設定はおすすめに影響し、モデレーションの対象になることがあります。"
 
-msgid "Upload"
-msgstr "アップロード"
+msgid "Custom Cover"
+msgstr "カスタムカバー"
 
-msgid "Choose a file"
-msgstr "ファイルを選択"
+msgid "Choose a cover image"
+msgstr "カバー画像を選択"
 
-msgid "Import from URL"
-msgstr "URLからインポート"
+msgid "Add a background to your sound card (max 2MB)."
+msgstr "サウンドカードの背景を追加（最大2MB）"
 
-msgid "Supports only audio files"
-msgstr "オーディオファイルのみ対応"
+msgid "Я лично убедился, что в начале и конце звука нет долгой тишины и вздохов"
+msgstr ""
 
-msgid "Supported formats: mp3, wav, ogg"
-msgstr "対応フォーマット: mp3, wav, ogg"
-
-msgid "Max file size:"
-msgstr "最大ファイルサイズ："
+msgid "Этот звук/мем реально качественный и смешной, а не очередной ИИ-мусор за 5 секунд"
+msgstr ""
 
 msgid "I agree to the"
 msgstr "以下の規約に同意します"
@@ -1648,14 +1678,8 @@ msgstr "プライバシーポリシー"
 msgid "By uploading, you confirm that your content does not violate copyright and meets our community guidelines."
 msgstr "アップロードすることで、あなたのコンテンツが著作権を侵害しておらず、コミュニティガイドラインを満たしていることを確認します。"
 
-msgid "Custom Cover"
-msgstr "カスタムカバー"
-
-msgid "Choose a cover image"
-msgstr "カバー画像を選択"
-
-msgid "Add a background to your sound card (max 2MB)."
-msgstr "サウンドカードの背景を追加（最大2MB）"
+msgid "Upload"
+msgstr "アップロード"
 
 msgid "VIP Power-Ups"
 msgstr "VIPパワーアップ"

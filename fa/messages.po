@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 13:00+0000\n"
+"POT-Creation-Date: 2026-06-30 14:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -1038,6 +1038,9 @@ msgstr "بسیار محبوب (>۵۰۰ بازدید)"
 msgid "Sort by"
 msgstr "مرتب‌سازی بر اساس"
 
+msgid "Sort: Trending"
+msgstr ""
+
 msgid "Sort: Newest"
 msgstr "مرتب‌سازی: جدیدترین"
 
@@ -1579,6 +1582,36 @@ msgstr "پیشرفت:"
 msgid "sounds"
 msgstr "صداها"
 
+msgid "Upload or Import Sound First"
+msgstr ""
+
+msgid "Drag and drop audio file here or click to select"
+msgstr ""
+
+msgid "Import from URL"
+msgstr "وارد کردن از URL"
+
+msgid "Supports only audio files"
+msgstr "فقط فایل‌های صوتی پشتیبانی می‌شوند."
+
+msgid "Max file size:"
+msgstr "حداکثر اندازه فایل:"
+
+msgid "Sound Quality Analysis"
+msgstr ""
+
+msgid "Overall Quality Score:"
+msgstr ""
+
+msgid "Loudness:"
+msgstr ""
+
+msgid "Silence at Start:"
+msgstr ""
+
+msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
+msgstr ""
+
 msgid "Tags"
 msgstr "تگ‌ها"
 
@@ -1615,23 +1648,20 @@ msgstr "مهم:"
 msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr "زبان گفتاری در صدا را انتخاب کنید. اگر آهنگ یا صدای افکت بدون گفتگوی واضح است، گزینه 'Music / SFX' را انتخاب کنید. زبان‌های اشتباه به توصیه‌های شما آسیب می‌رسانند و ممکن است به محدودیت یا مسدود شدن حساب کاربری شما منجر شود."
 
-msgid "Upload"
-msgstr "آپلود"
+msgid "Custom Cover"
+msgstr "کاور سفارشی"
 
-msgid "Choose a file"
-msgstr "انتخاب فایل"
+msgid "Choose a cover image"
+msgstr "یک تصویر کاور انتخاب کنید"
 
-msgid "Import from URL"
-msgstr "وارد کردن از URL"
+msgid "Add a background to your sound card (max 2MB)."
+msgstr "به کارت صدای شما پس‌زمینه اضافه کنید (حداکثر 2 مگابایت)."
 
-msgid "Supports only audio files"
-msgstr "فقط فایل‌های صوتی پشتیبانی می‌شوند."
+msgid "Я лично убедился, что в начале и конце звука нет долгой тишины и вздохов"
+msgstr ""
 
-msgid "Supported formats: mp3, wav, ogg"
-msgstr "فرمت‌های پشتیبانی شده: mp3, wav, ogg"
-
-msgid "Max file size:"
-msgstr "حداکثر اندازه فایل:"
+msgid "Этот звук/мем реально качественный и смешной, а не очередной ИИ-мусор за 5 секунд"
+msgstr ""
 
 msgid "I agree to the"
 msgstr "من با "
@@ -1648,14 +1678,8 @@ msgstr "سیاست حفظ حریم خصوصی"
 msgid "By uploading, you confirm that your content does not violate copyright and meets our community guidelines."
 msgstr "با آپلود، تأیید می‌کنید که محتوای شما نقض کپی‌رایت نیست و با دستورالعمل‌های جامعه ما همخوانی دارد."
 
-msgid "Custom Cover"
-msgstr "کاور سفارشی"
-
-msgid "Choose a cover image"
-msgstr "یک تصویر کاور انتخاب کنید"
-
-msgid "Add a background to your sound card (max 2MB)."
-msgstr "به کارت صدای شما پس‌زمینه اضافه کنید (حداکثر 2 مگابایت)."
+msgid "Upload"
+msgstr "آپلود"
 
 msgid "VIP Power-Ups"
 msgstr "بوسترهای VIP"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 13:00+0000\n"
+"POT-Creation-Date: 2026-06-30 14:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -1031,6 +1031,9 @@ msgstr "极度火爆 (>500 浏览)"
 msgid "Sort by"
 msgstr "排序方式"
 
+msgid "Sort: Trending"
+msgstr ""
+
 msgid "Sort: Newest"
 msgstr "排序：最新"
 
@@ -1572,6 +1575,36 @@ msgstr "进度："
 msgid "sounds"
 msgstr "声音"
 
+msgid "Upload or Import Sound First"
+msgstr ""
+
+msgid "Drag and drop audio file here or click to select"
+msgstr ""
+
+msgid "Import from URL"
+msgstr "从 URL 导入"
+
+msgid "Supports only audio files"
+msgstr "仅支持音频文件"
+
+msgid "Max file size:"
+msgstr "最大文件限制："
+
+msgid "Sound Quality Analysis"
+msgstr ""
+
+msgid "Overall Quality Score:"
+msgstr ""
+
+msgid "Loudness:"
+msgstr ""
+
+msgid "Silence at Start:"
+msgstr ""
+
+msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
+msgstr ""
+
 msgid "Tags"
 msgstr "标签"
 
@@ -1608,23 +1641,20 @@ msgstr "重要提示："
 msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr "请选择音频中所说的语言。若这是歌曲或没有清晰对白的音效，请选择 'Music / SFX'。语言选择错误会影响你的推荐，甚至可能被审核。"
 
-msgid "Upload"
-msgstr "上传"
+msgid "Custom Cover"
+msgstr "自定义封面"
 
-msgid "Choose a file"
-msgstr "选择文件"
+msgid "Choose a cover image"
+msgstr "选择封面图片"
 
-msgid "Import from URL"
-msgstr "从 URL 导入"
+msgid "Add a background to your sound card (max 2MB)."
+msgstr "为你的声音卡片添加背景图 (最大 2MB)。"
 
-msgid "Supports only audio files"
-msgstr "仅支持音频文件"
+msgid "Я лично убедился, что в начале и конце звука нет долгой тишины и вздохов"
+msgstr ""
 
-msgid "Supported formats: mp3, wav, ogg"
-msgstr "支持格式：mp3, wav, ogg"
-
-msgid "Max file size:"
-msgstr "最大文件限制："
+msgid "Этот звук/мем реально качественный и смешной, а не очередной ИИ-мусор за 5 секунд"
+msgstr ""
 
 msgid "I agree to the"
 msgstr "我同意"
@@ -1641,14 +1671,8 @@ msgstr "隐私政策"
 msgid "By uploading, you confirm that your content does not violate copyright and meets our community guidelines."
 msgstr "通过上传，你确认你的内容不侵犯版权，且符合我们的社区准则。"
 
-msgid "Custom Cover"
-msgstr "自定义封面"
-
-msgid "Choose a cover image"
-msgstr "选择封面图片"
-
-msgid "Add a background to your sound card (max 2MB)."
-msgstr "为你的声音卡片添加背景图 (最大 2MB)。"
+msgid "Upload"
+msgstr "上传"
 
 msgid "VIP Power-Ups"
 msgstr "VIP 特权增强"
