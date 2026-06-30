@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 01:00+0000\n"
+"POT-Creation-Date: 2026-06-30 13:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: de <LL@li.org>\n"
@@ -1848,134 +1848,194 @@ msgstr "UwUpad VIP"
 msgid "Back to main"
 msgstr "Zurück zur Hauptseite"
 
-msgid "Welcome, Patron!"
-msgstr "Willkommen, Patron!"
+msgid "Welcome, Lobby Dominator!"
+msgstr ""
 
-msgid "Thank you for supporting UwUpad. Enjoy your exclusive features."
-msgstr "Danke für deine Hilfe! Genieße deine VIP-Vorteile."
+msgid "Your elite status is active. Keep sound-spamming without absolute limits."
+msgstr ""
 
-msgid "Unlock the Full Experience"
-msgstr "Das volle Erlebnis freischalten"
+msgid "STOP BEING A DEFAULT BOT IN CHAT"
+msgstr ""
 
-msgid "Elevate your presence and support the platform that powers your creativity."
-msgstr "Erhöhe deine Präsenz und unterstütze die Plattform."
+msgid "Get full voice privilege. No watermarks, no ear-bleeding file compression, and unlimited earthshaking bass boost."
+msgstr ""
 
-msgid "Your VIP Status is Active"
-msgstr "Dein VIP-Status ist aktiv"
+msgid "Active Dominator Mode"
+msgstr ""
 
-msgid "Subscription renews on:"
-msgstr "Abo verlängert sich am:"
+msgid "Next tribute date:"
+msgstr ""
 
-msgid "You have a lifetime subscription."
-msgstr "Du hast ein lebenslanges Abo."
+msgid "You unlocked lifetime dominance."
+msgstr ""
 
 msgid "Extend for 1 day"
 msgstr ""
 
-msgid "Extend for one month"
-msgstr "Um einen Monat verlängern"
-
-msgid "24-Hour VIP"
+msgid "Extend for 1 month"
 msgstr ""
 
-msgid "1 day access"
+msgid "Fast payment"
 msgstr ""
 
-msgid "Choose 24-Hour"
+msgid "No card? No problem! We accept"
 msgstr ""
 
-msgid "Monthly"
-msgstr "Monatlich"
+msgid "instantly from your phone/inventory."
+msgstr ""
 
-msgid "Per month"
-msgstr "Pro Monat"
+msgid "Tonights Raid"
+msgstr ""
 
-msgid "Choose Monthly"
-msgstr "Monatlich wählen"
+msgid "One Evening Pass"
+msgstr ""
 
-msgid "Best Value"
-msgstr "Bestes Angebot"
+msgid "Perfect cheap drop before a heavy Friday lobby match with friends."
+msgstr ""
 
-msgid "Yearly"
-msgstr "Jährlich"
+msgid "24 hours full access"
+msgstr ""
 
-msgid "Save 20% - 2 months free!"
-msgstr "20% sparen – 2 Monate gratis!"
+msgid "Get Evening Pass"
+msgstr ""
 
-msgid "Choose Yearly"
-msgstr "Jährlich wählen"
+msgid "Trolls Choice"
+msgstr ""
 
-msgid "Feature"
-msgstr "Feature"
+msgid "Alpha Month"
+msgstr ""
 
-msgid "Standard"
-msgstr "Standard"
+msgid "Establish permanent voice command. Ideal for serious server raiders."
+msgstr ""
 
-msgid "VIP Patron"
-msgstr "VIP Patron"
+msgid "30 days of power"
+msgstr ""
 
-msgid "Ad-Free Experience"
-msgstr "Werbefreies Erlebnis"
+msgid "Unlock Month"
+msgstr ""
 
-msgid "Playlists Creation"
-msgstr "Playlists erstellen"
+msgid "Save 20%"
+msgstr ""
 
-msgid "Unlimited"
-msgstr "Unbegrenzt"
+msgid "Dominator Year"
+msgstr ""
 
-msgid "Sounds per Playlist"
-msgstr "Sounds pro Playlist"
+msgid "Maximum investment in personal dominance. Secure 2 free premium months."
+msgstr ""
 
-msgid "Private Playlists"
-msgstr "Private Playlists"
+msgid "365 days of elite status"
+msgstr ""
 
-msgid "Bulk Playlist Download (.zip)"
-msgstr "Playlist-Download (.zip)"
+msgid "Claim Year Access"
+msgstr ""
 
-msgid "Animated GIF Avatars"
-msgstr "Animierte GIF-Avatare"
+msgid "Compare the reality"
+msgstr ""
 
-msgid "Custom Sound Covers"
-msgstr "Eigene Sound-Cover"
+msgid "Core Painpoint"
+msgstr ""
 
-msgid "File Upload Size"
-msgstr "Upload-Dateigröße"
+msgid "Bot (Free)"
+msgstr ""
 
-msgid "Tags per Sound"
-msgstr "Tags pro Sound"
+msgid "Dominator (VIP)"
+msgstr ""
 
-msgid "Nickname Styling"
-msgstr "Nickname-Stil"
+msgid "Audio Quality"
+msgstr ""
 
-msgid "Paid"
-msgstr "Bezahlt"
+msgid "How hard your audio cuts through voice chats"
+msgstr ""
 
-msgid "Unlimited & Free"
-msgstr "Unbegrenzt & Gratis"
+msgid "Compressed 64kbps garbage"
+msgstr ""
 
-msgid "Sound Boosts"
-msgstr "Sound Boosts"
+msgid "Crystal 320kbps Stereo"
+msgstr ""
 
-msgid "1 Free Daily"
-msgstr "1 Gratis täglich"
+msgid "Sound Watermarks"
+msgstr ""
 
-msgid "VIP Profile Badge"
-msgstr "VIP-Profil-Abzeichen"
+msgid "That embarrassing \"uwupad.ru\" stamp at the end of every file"
+msgstr ""
 
-msgid "Become a Patron"
-msgstr "Patron werden"
+msgid "No watermarks"
+msgstr ""
 
-msgid "Extend Subscription"
-msgstr "Abo verlängern"
+msgid "Bass Boost"
+msgstr ""
 
-msgid "Choose your preferred payment method"
-msgstr "Wähle deine bevorzugte Zahlungsmethode"
+msgid "Ability to instantly blow out your lobbys headphones"
+msgstr ""
 
-msgid "Your VIP subscription has expired."
-msgstr "Dein VIP-Abo ist abgelaufen."
+msgid "Paid per click / limited"
+msgstr ""
 
-msgid "Time left:"
-msgstr "Verbleibende Zeit:"
+msgid "Unlimited Ear-Rape Bass"
+msgstr ""
+
+msgid "Playlists for Spam"
+msgstr ""
+
+msgid "Keep your tactical audio arsenal organized"
+msgstr ""
+
+msgid "Playlists (peasant limit)"
+msgstr ""
+
+msgid "Unlimited space"
+msgstr ""
+
+msgid "Lobby Status / Nickname"
+msgstr ""
+
+msgid "Appearance in local comments, ratings and lobby lists"
+msgstr ""
+
+msgid "Boring default bot text"
+msgstr ""
+
+msgid "Glowing Alpha Styling"
+msgstr ""
+
+msgid "Visual Flex"
+msgstr ""
+
+msgid "Personal sound covers and profiles customization"
+msgstr ""
+
+msgid "Static low-res only"
+msgstr ""
+
+msgid "GIF avatars & custom covers"
+msgstr ""
+
+msgid "Frontpage Sound Boosts"
+msgstr ""
+
+msgid "Bring your uploaded meme tracks directly to the top"
+msgstr ""
+
+msgid "Pay real cash for every boost"
+msgstr ""
+
+msgid "1 Free Top Boost daily"
+msgstr ""
+
+msgid "Claim Dominance Status"
+msgstr ""
+
+msgid "Extend Dominance Access"
+msgstr ""
+
+msgid "Select skin depot, telegram stars, or fast cards checkout"
+msgstr ""
+
+msgid "VIP lock engaged. Your subscription has expired."
+msgstr ""
+
+msgid "Active dominance ends in:"
+msgstr ""
 
 msgid "Pending Ad Requests"
 msgstr "Offene Werbeanfragen"
@@ -2139,9 +2199,6 @@ msgstr ""
 msgid "Fade Out"
 msgstr ""
 
-msgid "Bass Boost"
-msgstr ""
-
 msgid "Echo Feedback"
 msgstr ""
 
@@ -2274,6 +2331,12 @@ msgstr "Warnung bei lauten Sounds anzeigen"
 msgid "Save & Apply"
 msgstr "Speichern & Anwenden"
 
+msgid "Free DL"
+msgstr ""
+
+msgid "Upgrade to VIP for unlimited downloads!"
+msgstr ""
+
 msgid "Donate small amount to get 3 days VIP"
 msgstr "Kleine Spende für 3 Tage VIP"
 
@@ -2309,6 +2372,9 @@ msgstr "Täglich"
 
 msgid "Weekly"
 msgstr "Wöchentlich"
+
+msgid "Monthly"
+msgstr "Monatlich"
 
 msgid "Download Top 50 Sounds"
 msgstr "Top 50 Sounds herunterladen"
@@ -2878,6 +2944,9 @@ msgstr "Sounds / Memes"
 
 msgid "Search by title..."
 msgstr "Nach Titel suchen..."
+
+msgid "Unlock the Full Experience"
+msgstr "Das volle Erlebnis freischalten"
 
 msgid "Log in or register to get a personalized <b>For You</b> playlist, save your favorite tracks, create custom playlists, and upload your own music!"
 msgstr "Melde dich an oder registriere dich, um eine personalisierte <b>For You</b>-Playlist zu bekommen, deine Lieblingslieder zu speichern, eigene Playlists zu erstellen und deine eigene Musik hochzuladen!"
