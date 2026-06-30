@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 15:00+0000\n"
+"POT-Creation-Date: 2026-06-30 16:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: uk <LL@li.org>\n"
@@ -2115,6 +2115,9 @@ msgstr "Повідомити про помилку"
 msgid "Request a sound"
 msgstr "Запросити звук"
 
+msgid "Give Feedback"
+msgstr ""
+
 msgid "Contacts"
 msgstr "Контакти"
 
@@ -2393,6 +2396,9 @@ msgstr "Увійти"
 
 msgid "New"
 msgstr "Новий"
+
+msgid "Feedback"
+msgstr ""
 
 msgid "Top 50 Sound Packs"
 msgstr "Топ-50 паків звуків"

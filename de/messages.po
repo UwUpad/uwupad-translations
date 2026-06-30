@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 15:00+0000\n"
+"POT-Creation-Date: 2026-06-30 16:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: de <LL@li.org>\n"
@@ -2115,6 +2115,9 @@ msgstr "Fehler melden"
 msgid "Request a sound"
 msgstr "Sound anfragen"
 
+msgid "Give Feedback"
+msgstr ""
+
 msgid "Contacts"
 msgstr "Kontakte"
 
@@ -2393,6 +2396,9 @@ msgstr "Einloggen"
 
 msgid "New"
 msgstr "Neu"
+
+msgid "Feedback"
+msgstr ""
 
 msgid "Top 50 Sound Packs"
 msgstr "Top-50-Sound-Packs"

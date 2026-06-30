@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 15:00+0000\n"
+"POT-Creation-Date: 2026-06-30 16:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: be <LL@li.org>\n"
@@ -2119,6 +2119,9 @@ msgstr "Паведаміць пра памылку"
 msgid "Request a sound"
 msgstr "Запытаць гук"
 
+msgid "Give Feedback"
+msgstr ""
+
 msgid "Contacts"
 msgstr "Кантакты"
 
@@ -2397,6 +2400,9 @@ msgstr "Увайсці"
 
 msgid "New"
 msgstr "Новае"
+
+msgid "Feedback"
+msgstr ""
 
 msgid "Top 50 Sound Packs"
 msgstr "Топ-50 пакаў гукаў"
