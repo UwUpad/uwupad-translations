@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 16:00+0000\n"
+"POT-Creation-Date: 2026-06-30 17:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:40+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Polish <pl@li.org>\n"
@@ -2113,6 +2113,9 @@ msgstr "Nawigacja"
 msgid "Music"
 msgstr "Muzyka"
 
+msgid "Quests & Cases"
+msgstr ""
+
 msgid "Community & Creator"
 msgstr "Społeczność i Twórcy"
 
@@ -2172,6 +2175,9 @@ msgstr "Wyślij"
 
 msgid "Sent!"
 msgstr "Wysłane!"
+
+msgid "Please wait 10 minutes before sending feedback again."
+msgstr ""
 
 msgid "You can remove sounds you don't want from the list below."
 msgstr "Możesz usunąć dźwięki, których nie chcesz z poniższej listy."
@@ -2305,6 +2311,108 @@ msgstr "Wystąpił błąd podczas płatności."
 msgid "Failed to connect to server."
 msgstr "Nie udało się połączyć z serwerem."
 
+msgid "Quests & Daily Case"
+msgstr ""
+
+msgid "Daily UwUpad Case"
+msgstr ""
+
+msgid "Spin once daily for free! Earn downloads, PAW, or VIP status."
+msgstr ""
+
+msgid "Spin Free Case"
+msgstr ""
+
+msgid "Daily Quests"
+msgstr ""
+
+msgid "Daily Check-in"
+msgstr ""
+
+msgid "Visit UwUpad once a day to check in."
+msgstr ""
+
+msgid "Check In"
+msgstr ""
+
+msgid "Expert Opinion"
+msgstr ""
+
+msgid "Vote in our active community poll."
+msgstr ""
+
+msgid "In Polls"
+msgstr ""
+
+msgid "Tell the Boys"
+msgstr ""
+
+msgid "Click the Share button under any sound."
+msgstr ""
+
+msgid "Share Now"
+msgstr ""
+
+msgid "Support Admin"
+msgstr ""
+
+msgid "Watch a short video or click our ad banner."
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Sponsor Gift"
+msgstr ""
+
+msgid "Subscribe to our sponsor Telegram channel."
+msgstr ""
+
+msgid "Verify"
+msgstr ""
+
+msgid "Spin again (5 PAW)"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Failed to spin the case."
+msgstr ""
+
+msgid "Congratulations! You got:"
+msgstr ""
+
+msgid "Spin Again"
+msgstr ""
+
+msgid "Do you want to spend 5 PAW to spin the daily case again?"
+msgstr ""
+
+msgid "Spend 5 PAW"
+msgstr ""
+
+msgid "Login required"
+msgstr ""
+
+msgid "Spend 5 PAW (Login Required)"
+msgstr ""
+
+msgid "Reward Claimed! +"
+msgstr ""
+
+msgid "downloads credited."
+msgstr ""
+
+msgid "Failed to claim reward."
+msgstr ""
+
+msgid "Loading short sponsored clip..."
+msgstr ""
+
+msgid "Thank you for supporting UwUpad! +2 downloads credited."
+msgstr ""
+
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "usługa do wyszukiwania i pobierania dźwięków do soundboardów takich jak Soundpad lub urządzeń mobilnych."
 
@@ -2403,6 +2511,9 @@ msgstr "Zaloguj się"
 
 msgid "New"
 msgstr "Nowy"
+
+msgid "Quests"
+msgstr ""
 
 msgid "Feedback"
 msgstr ""
