@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 14:00+0000\n"
+"POT-Creation-Date: 2026-06-30 15:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: pt <LL@li.org>\n"
@@ -1953,6 +1953,15 @@ msgstr "365 dias de status de elite"
 msgid "Claim Year Access"
 msgstr "Reivindicar Acesso Anual"
 
+msgid "Have a VIP Promo Code?"
+msgstr ""
+
+msgid "If you purchased a VIP code on Plati.market, enter it below to activate your premium status instantly."
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
 msgid "Compare the reality"
 msgstr "Compare a realidade"
 
@@ -3546,6 +3555,18 @@ msgstr "Um email já foi enviado para este endereço."
 
 msgid "Email sent. Check your inbox."
 msgstr "Email enviado. Verifique sua caixa de entrada."
+
+msgid "Invalid promo code."
+msgstr ""
+
+msgid "This promo code has already been used."
+msgstr ""
+
+msgid "Promo code activated successfully! VIP role granted."
+msgstr ""
+
+msgid "Admin permissions required."
+msgstr ""
 
 msgid "Invalid user ID."
 msgstr "ID de usuário inválido."

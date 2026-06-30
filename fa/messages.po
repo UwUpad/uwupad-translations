@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 14:00+0000\n"
+"POT-Creation-Date: 2026-06-30 15:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -1960,6 +1960,15 @@ msgstr "۳۶۵ روز وضعیت الیت"
 msgid "Claim Year Access"
 msgstr "دریافت دسترسی سالانه"
 
+msgid "Have a VIP Promo Code?"
+msgstr ""
+
+msgid "If you purchased a VIP code on Plati.market, enter it below to activate your premium status instantly."
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
 msgid "Compare the reality"
 msgstr "واقعیت رو مقایسه کن"
 
@@ -3553,6 +3562,18 @@ msgstr "قبلاً ایمیلی به این آدرس ارسال شده است."
 
 msgid "Email sent. Check your inbox."
 msgstr "ایمیل ارسال شد. صندوق ورودی خود را بررسی کنید."
+
+msgid "Invalid promo code."
+msgstr ""
+
+msgid "This promo code has already been used."
+msgstr ""
+
+msgid "Promo code activated successfully! VIP role granted."
+msgstr ""
+
+msgid "Admin permissions required."
+msgstr ""
 
 msgid "Invalid user ID."
 msgstr "شناسه کاربری نامعتبر است."

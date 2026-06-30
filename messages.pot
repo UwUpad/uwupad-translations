@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 14:00+0000\n"
+"POT-Creation-Date: 2026-06-30 15:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1952,6 +1952,15 @@ msgstr ""
 msgid "Claim Year Access"
 msgstr ""
 
+msgid "Have a VIP Promo Code?"
+msgstr ""
+
+msgid "If you purchased a VIP code on Plati.market, enter it below to activate your premium status instantly."
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
 msgid "Compare the reality"
 msgstr ""
 
@@ -3544,6 +3553,18 @@ msgid "An email has already been sent to this address."
 msgstr ""
 
 msgid "Email sent. Check your inbox."
+msgstr ""
+
+msgid "Invalid promo code."
+msgstr ""
+
+msgid "This promo code has already been used."
+msgstr ""
+
+msgid "Promo code activated successfully! VIP role granted."
+msgstr ""
+
+msgid "Admin permissions required."
 msgstr ""
 
 msgid "Invalid user ID."

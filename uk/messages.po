@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 14:00+0000\n"
+"POT-Creation-Date: 2026-06-30 15:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: uk <LL@li.org>\n"
@@ -1953,6 +1953,15 @@ msgstr "365 днів елітного статусу"
 msgid "Claim Year Access"
 msgstr "Забрати доступ на рік"
 
+msgid "Have a VIP Promo Code?"
+msgstr ""
+
+msgid "If you purchased a VIP code on Plati.market, enter it below to activate your premium status instantly."
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
 msgid "Compare the reality"
 msgstr "Порівняй реальність"
 
@@ -3546,6 +3555,18 @@ msgstr "Лист уже надіслано на цю адресу."
 
 msgid "Email sent. Check your inbox."
 msgstr "Email надіслано. Перевірте пошту."
+
+msgid "Invalid promo code."
+msgstr ""
+
+msgid "This promo code has already been used."
+msgstr ""
+
+msgid "Promo code activated successfully! VIP role granted."
+msgstr ""
+
+msgid "Admin permissions required."
+msgstr ""
 
 msgid "Invalid user ID."
 msgstr "Невірний ID користувача."
