@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-05-22 15:00+0000\n"
+"POT-Creation-Date: 2026-06-30 01:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -658,6 +658,12 @@ msgstr "直接暗号通貨送金"
 msgid "and more"
 msgstr "など他にも"
 
+msgid "Steam Skins (Skinify)"
+msgstr ""
+
+msgid "fast and automatic"
+msgstr ""
+
 msgid "Choose Cryptocurrency"
 msgstr "仮想通貨を選択"
 
@@ -669,6 +675,9 @@ msgstr "有効な金額を入力してください。"
 
 msgid "Failed to create payment link."
 msgstr "支払いリンクの作成に失敗しました。"
+
+msgid "Failed to create Skinify payment link."
+msgstr ""
 
 msgid "DMCA Takedown Policy"
 msgstr "DMCA テイクダウンポリシー"
@@ -1867,8 +1876,20 @@ msgstr "購読は以下の日付に更新されます："
 msgid "You have a lifetime subscription."
 msgstr "ライフタイム購読をお持ちです。"
 
+msgid "Extend for 1 day"
+msgstr ""
+
 msgid "Extend for one month"
 msgstr "1か月延長する"
+
+msgid "24-Hour VIP"
+msgstr ""
+
+msgid "1 day access"
+msgstr ""
+
+msgid "Choose 24-Hour"
+msgstr ""
 
 msgid "Monthly"
 msgstr "月額"
@@ -2164,6 +2185,33 @@ msgstr ""
 msgid "Processing..."
 msgstr ""
 
+msgid "You must be logged in to download modified sounds."
+msgstr ""
+
+#, python-format
+msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
+msgstr ""
+
+#, python-format
+msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
+msgstr ""
+
+#, python-format
+msgid "Your balance after download: %(balance)s PAW"
+msgstr ""
+
+msgid "Confirm Export"
+msgstr ""
+
+msgid "Confirm & Download"
+msgstr ""
+
+msgid "An error occurred during payment."
+msgstr ""
+
+msgid "Failed to connect to server."
+msgstr ""
+
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "Soundpadやモバイルデバイスなどのサウンドボード用のサウンドを検索およびダウンロードするサービス。"
 
@@ -2299,6 +2347,18 @@ msgstr "ダウンロード中..."
 msgid "Complete!"
 msgstr "完了！"
 
+msgid "Daily limit reached"
+msgstr ""
+
+msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
+msgstr ""
+
+msgid "Buy VIP"
+msgstr ""
+
+msgid "Continue"
+msgstr "続ける"
+
 msgid "Download failed"
 msgstr "ダウンロードに失敗しました"
 
@@ -2319,9 +2379,6 @@ msgstr "アンロックするには購読してください"
 
 msgid "Verifying subscription..."
 msgstr "購読を検証中..."
-
-msgid "Continue"
-msgstr "続ける"
 
 msgid "This track is already downloading."
 msgstr "このトラックはすでにダウンロード中です。"
@@ -3125,6 +3182,18 @@ msgstr "複数のアイテムが見つかったが、処理サービスから直
 msgid "Processing service returned local processing but no sound link."
 msgstr "処理サービスはローカル処理を返しましたが、サウンドリンクはありませんでした。"
 
+msgid "Authentication required"
+msgstr "認証が必要だよ。"
+
+msgid "Free export for VIP"
+msgstr ""
+
+msgid "Insufficient PAW balance"
+msgstr ""
+
+msgid "Successfully paid 50 PAW for audio export."
+msgstr ""
+
 msgid "Invalid email."
 msgstr "無効なメールアドレスです。"
 
@@ -3249,9 +3318,6 @@ msgstr "サウンドが削除されました。"
 
 msgid "An error occurred while deleting the sound."
 msgstr "サウンドを削除してるときにエラーが発生したよ。"
-
-msgid "Authentication required"
-msgstr "認証が必要だよ。"
 
 msgid "Upload in progress. Please wait."
 msgstr "アップロード中だよ。少し待ってて。"

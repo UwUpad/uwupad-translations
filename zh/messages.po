@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-05-22 15:00+0000\n"
+"POT-Creation-Date: 2026-06-30 01:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -651,6 +651,12 @@ msgstr "直接加密货币转账"
 msgid "and more"
 msgstr "以及更多"
 
+msgid "Steam Skins (Skinify)"
+msgstr ""
+
+msgid "fast and automatic"
+msgstr ""
+
 msgid "Choose Cryptocurrency"
 msgstr "选择加密货币"
 
@@ -662,6 +668,9 @@ msgstr "请输入有效的金额。"
 
 msgid "Failed to create payment link."
 msgstr "创建支付链接失败。"
+
+msgid "Failed to create Skinify payment link."
+msgstr ""
 
 msgid "DMCA Takedown Policy"
 msgstr "DMCA 移除政策"
@@ -1860,8 +1869,20 @@ msgstr "订阅续订日期："
 msgid "You have a lifetime subscription."
 msgstr "你拥有永久订阅。"
 
+msgid "Extend for 1 day"
+msgstr ""
+
 msgid "Extend for one month"
 msgstr "续订一个月"
+
+msgid "24-Hour VIP"
+msgstr ""
+
+msgid "1 day access"
+msgstr ""
+
+msgid "Choose 24-Hour"
+msgstr ""
 
 msgid "Monthly"
 msgstr "按月订阅"
@@ -2157,6 +2178,33 @@ msgstr ""
 msgid "Processing..."
 msgstr ""
 
+msgid "You must be logged in to download modified sounds."
+msgstr ""
+
+#, python-format
+msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
+msgstr ""
+
+#, python-format
+msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
+msgstr ""
+
+#, python-format
+msgid "Your balance after download: %(balance)s PAW"
+msgstr ""
+
+msgid "Confirm Export"
+msgstr ""
+
+msgid "Confirm & Download"
+msgstr ""
+
+msgid "An error occurred during payment."
+msgstr ""
+
+msgid "Failed to connect to server."
+msgstr ""
+
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "用于为 Soundpad 等声音控制台或移动设备搜索和下载声音的服务。"
 
@@ -2292,6 +2340,18 @@ msgstr "正在下载..."
 msgid "Complete!"
 msgstr "已完成！"
 
+msgid "Daily limit reached"
+msgstr ""
+
+msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
+msgstr ""
+
+msgid "Buy VIP"
+msgstr ""
+
+msgid "Continue"
+msgstr "继续"
+
 msgid "Download failed"
 msgstr "下载失败"
 
@@ -2312,9 +2372,6 @@ msgstr "订阅以解锁"
 
 msgid "Verifying subscription..."
 msgstr "正在验证订阅..."
-
-msgid "Continue"
-msgstr "继续"
 
 msgid "This track is already downloading."
 msgstr "该曲目已在下载中。"
@@ -3118,6 +3175,18 @@ msgstr "找到多个项目，但处理服务未提供直接音频链接。"
 msgid "Processing service returned local processing but no sound link."
 msgstr "处理服务返回了本地处理，但没有提供声音链接。"
 
+msgid "Authentication required"
+msgstr "需要认证"
+
+msgid "Free export for VIP"
+msgstr ""
+
+msgid "Insufficient PAW balance"
+msgstr ""
+
+msgid "Successfully paid 50 PAW for audio export."
+msgstr ""
+
 msgid "Invalid email."
 msgstr "无效的电子邮件。"
 
@@ -3242,9 +3311,6 @@ msgstr "声音已删除。"
 
 msgid "An error occurred while deleting the sound."
 msgstr "删除声音时出错。"
-
-msgid "Authentication required"
-msgstr "需要认证"
 
 msgid "Upload in progress. Please wait."
 msgstr "上传正在进行中。请稍候。"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-05-22 15:00+0000\n"
+"POT-Creation-Date: 2026-06-30 01:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -651,6 +651,12 @@ msgstr "Transfert crypto direct"
 msgid "and more"
 msgstr "et plus"
 
+msgid "Steam Skins (Skinify)"
+msgstr ""
+
+msgid "fast and automatic"
+msgstr ""
+
 msgid "Choose Cryptocurrency"
 msgstr "Choisis une cryptomonnaie"
 
@@ -662,6 +668,9 @@ msgstr "Veuillez entrer un montant valide."
 
 msgid "Failed to create payment link."
 msgstr "Échec de la création du lien de paiement."
+
+msgid "Failed to create Skinify payment link."
+msgstr ""
 
 msgid "DMCA Takedown Policy"
 msgstr "Politique de retrait DMCA"
@@ -1860,8 +1869,20 @@ msgstr "Renouvellement le :"
 msgid "You have a lifetime subscription."
 msgstr "Vous avez un abonnement à vie."
 
+msgid "Extend for 1 day"
+msgstr ""
+
 msgid "Extend for one month"
 msgstr "Prolonger d'un mois"
+
+msgid "24-Hour VIP"
+msgstr ""
+
+msgid "1 day access"
+msgstr ""
+
+msgid "Choose 24-Hour"
+msgstr ""
 
 msgid "Monthly"
 msgstr "Mensuel"
@@ -2157,6 +2178,33 @@ msgstr ""
 msgid "Processing..."
 msgstr ""
 
+msgid "You must be logged in to download modified sounds."
+msgstr ""
+
+#, python-format
+msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
+msgstr ""
+
+#, python-format
+msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
+msgstr ""
+
+#, python-format
+msgid "Your balance after download: %(balance)s PAW"
+msgstr ""
+
+msgid "Confirm Export"
+msgstr ""
+
+msgid "Confirm & Download"
+msgstr ""
+
+msgid "An error occurred during payment."
+msgstr ""
+
+msgid "Failed to connect to server."
+msgstr ""
+
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "service de recherche et téléchargement de sons pour soundboards comme Soundpad ou mobiles."
 
@@ -2292,6 +2340,18 @@ msgstr "Téléchargement..."
 msgid "Complete!"
 msgstr "Terminé !"
 
+msgid "Daily limit reached"
+msgstr ""
+
+msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
+msgstr ""
+
+msgid "Buy VIP"
+msgstr ""
+
+msgid "Continue"
+msgstr "Continuer"
+
 msgid "Download failed"
 msgstr "Échec du téléchargement"
 
@@ -2312,9 +2372,6 @@ msgstr "S'abonner pour débloquer"
 
 msgid "Verifying subscription..."
 msgstr "Vérification..."
-
-msgid "Continue"
-msgstr "Continuer"
 
 msgid "This track is already downloading."
 msgstr "Cette piste est déjà en cours de téléchargement."
@@ -3118,6 +3175,18 @@ msgstr "Plusieurs éléments mais pas de lien direct."
 msgid "Processing service returned local processing but no sound link."
 msgstr "Traitement local mais pas de lien sonore."
 
+msgid "Authentication required"
+msgstr "Authentification requise"
+
+msgid "Free export for VIP"
+msgstr ""
+
+msgid "Insufficient PAW balance"
+msgstr ""
+
+msgid "Successfully paid 50 PAW for audio export."
+msgstr ""
+
 msgid "Invalid email."
 msgstr "E-mail invalide."
 
@@ -3242,9 +3311,6 @@ msgstr "Son supprimé."
 
 msgid "An error occurred while deleting the sound."
 msgstr "Erreur lors de la suppression."
-
-msgid "Authentication required"
-msgstr "Authentification requise"
 
 msgid "Upload in progress. Please wait."
 msgstr "Upload en cours. Patientez."

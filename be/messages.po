@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-05-22 15:00+0000\n"
+"POT-Creation-Date: 2026-06-30 01:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: be <LL@li.org>\n"
@@ -655,6 +655,12 @@ msgstr "Непасрэдная перадача крыпта"
 msgid "and more"
 msgstr "і іншае"
 
+msgid "Steam Skins (Skinify)"
+msgstr ""
+
+msgid "fast and automatic"
+msgstr ""
+
 msgid "Choose Cryptocurrency"
 msgstr "Выбірай крыптавалюту"
 
@@ -666,6 +672,9 @@ msgstr "Калі ласка, увядзіце правільную суму."
 
 msgid "Failed to create payment link."
 msgstr "Не атрымалася стварыць спасылку для аплаты."
+
+msgid "Failed to create Skinify payment link."
+msgstr ""
 
 msgid "DMCA Takedown Policy"
 msgstr "Палітыка DMCA"
@@ -1864,8 +1873,20 @@ msgstr "Падпіска абнаўляецца на:"
 msgid "You have a lifetime subscription."
 msgstr "У вас падпіска на ўсё жыццё."
 
+msgid "Extend for 1 day"
+msgstr ""
+
 msgid "Extend for one month"
 msgstr "Прадоўжыце на адзін месяц"
+
+msgid "24-Hour VIP"
+msgstr ""
+
+msgid "1 day access"
+msgstr ""
+
+msgid "Choose 24-Hour"
+msgstr ""
 
 msgid "Monthly"
 msgstr "Штомесяц"
@@ -2161,6 +2182,33 @@ msgstr ""
 msgid "Processing..."
 msgstr ""
 
+msgid "You must be logged in to download modified sounds."
+msgstr ""
+
+#, python-format
+msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
+msgstr ""
+
+#, python-format
+msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
+msgstr ""
+
+#, python-format
+msgid "Your balance after download: %(balance)s PAW"
+msgstr ""
+
+msgid "Confirm Export"
+msgstr ""
+
+msgid "Confirm & Download"
+msgstr ""
+
+msgid "An error occurred during payment."
+msgstr ""
+
+msgid "Failed to connect to server."
+msgstr ""
+
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "сэрвіс для пошуку і спампоўкі гукаў для гукавых панэляў, такіх як Soundpad або мабільных прылад."
 
@@ -2296,6 +2344,18 @@ msgstr "Загружаецца..."
 msgid "Complete!"
 msgstr "Завершана!"
 
+msgid "Daily limit reached"
+msgstr ""
+
+msgid "Your daily limit of clean downloads is reached. Next downloads will have watermarks and Walkie-Talkie quality.<br><br>Reset in 24 hours, or buy VIP."
+msgstr ""
+
+msgid "Buy VIP"
+msgstr ""
+
+msgid "Continue"
+msgstr "Працягнуць"
+
 msgid "Download failed"
 msgstr "Не атрымалася загрузіць."
 
@@ -2316,9 +2376,6 @@ msgstr "Падпішыся, каб разблакаваць."
 
 msgid "Verifying subscription..."
 msgstr "Правяраю падпіску..."
-
-msgid "Continue"
-msgstr "Працягнуць"
 
 msgid "This track is already downloading."
 msgstr "Гэты трэк ужо загружаецца."
@@ -3122,6 +3179,18 @@ msgstr "Знойдзена некалькі элементаў, але служ�
 msgid "Processing service returned local processing but no sound link."
 msgstr "Служба апрацоўкі вярнула лакальную апрацоўку, але не дала спасылкі на гук."
 
+msgid "Authentication required"
+msgstr "Патрабуецца аўтэнтыфікацыя"
+
+msgid "Free export for VIP"
+msgstr ""
+
+msgid "Insufficient PAW balance"
+msgstr ""
+
+msgid "Successfully paid 50 PAW for audio export."
+msgstr ""
+
 msgid "Invalid email."
 msgstr "Несапраўдны email."
 
@@ -3246,9 +3315,6 @@ msgstr "Гук выдалены."
 
 msgid "An error occurred while deleting the sound."
 msgstr "Адбылася памылка пры выдаленні гуку."
-
-msgid "Authentication required"
-msgstr "Патрабуецца аўтэнтыфікацыя"
 
 msgid "Upload in progress. Please wait."
 msgstr "Загрузка ў працэсе. Калі ласка, пачакайце."
