@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-06-30 23:00+0000\n"
+"POT-Creation-Date: 2026-08-12 16:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: uk <LL@li.org>\n"
@@ -1032,7 +1032,7 @@ msgid "Sort by"
 msgstr "Сортувати за"
 
 msgid "Sort: Trending"
-msgstr ""
+msgstr "Сортування: Популярні"
 
 msgid "Sort: Newest"
 msgstr "Сортувати: Найновіші"
@@ -1576,10 +1576,10 @@ msgid "sounds"
 msgstr "звуків"
 
 msgid "Upload or Import Sound First"
-msgstr ""
+msgstr "Спочатку завантажте або імпортуйте звук"
 
 msgid "Drag and drop audio file here or click to select"
-msgstr ""
+msgstr "Перетягніть аудіофайл сюди або натисніть, щоб вибрати"
 
 msgid "Import from URL"
 msgstr "Імпорт за посиланням"
@@ -1591,16 +1591,16 @@ msgid "Max file size:"
 msgstr "Макс. розмір:"
 
 msgid "Sound Quality Analysis"
-msgstr ""
+msgstr "Аналіз якості звуку"
 
 msgid "Overall Quality Score:"
-msgstr ""
+msgstr "Загальна оцінка якості:"
 
 msgid "Loudness:"
-msgstr ""
+msgstr "Гучність:"
 
 msgid "Silence at Start:"
-msgstr ""
+msgstr "Тиша на початку:"
 
 msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
 msgstr ""
@@ -1651,10 +1651,10 @@ msgid "Add a background to your sound card (max 2MB)."
 msgstr "Додайте фон до картки звуку (макс. 2МБ)."
 
 msgid "Я лично убедился, что в начале и конце звука нет долгой тишины и вздохов"
-msgstr ""
+msgstr "Я особисто переконався, що на початку та в кінці звуку немає тривалої тиші та вдихів."
 
 msgid "Этот звук/мем реально качественный и смешной, а не очередной ИИ-мусор за 5 секунд"
-msgstr ""
+msgstr "Цей звук/мем справді якісний і смішний, а не черговий ШІ-мусор за 5 секунд."
 
 msgid "I agree to the"
 msgstr "Я погоджуюся з"
@@ -1954,13 +1954,13 @@ msgid "Claim Year Access"
 msgstr "Забрати доступ на рік"
 
 msgid "Have a VIP Promo Code?"
-msgstr ""
+msgstr "Є VIP-промокод?"
 
 msgid "If you purchased a VIP code on Plati.market, enter it below to activate your premium status instantly."
-msgstr ""
+msgstr "Якщо ви придбали VIP-код на Plati.market, введіть його нижче, щоб миттєво активувати свій преміум-статус."
 
 msgid "Activate"
-msgstr ""
+msgstr "Активувати"
 
 msgid "Compare the reality"
 msgstr "Порівняй реальність"
@@ -2116,7 +2116,7 @@ msgid "Request a sound"
 msgstr "Запросити звук"
 
 msgid "Give Feedback"
-msgstr ""
+msgstr "Залишити відгук"
 
 msgid "Contacts"
 msgstr "Контакти"
@@ -2167,7 +2167,7 @@ msgid "Sent!"
 msgstr "Надіслано!"
 
 msgid "Please wait 10 minutes before sending feedback again."
-msgstr ""
+msgstr "Будь ласка, зачекайте 10 хвилин, перш ніж надсилати відгук знову."
 
 msgid "You can remove sounds you don't want from the list below."
 msgstr "Ви можете видалити непотрібні звуки зі списку нижче."
@@ -2386,7 +2386,7 @@ msgid "New"
 msgstr "Новий"
 
 msgid "Feedback"
-msgstr ""
+msgstr "Відгук"
 
 msgid "Top 50 Sound Packs"
 msgstr "Топ-50 паків звуків"
@@ -3542,16 +3542,16 @@ msgid "Email sent. Check your inbox."
 msgstr "Email надіслано. Перевірте пошту."
 
 msgid "Invalid promo code."
-msgstr ""
+msgstr "Невірний промокод."
 
 msgid "This promo code has already been used."
-msgstr ""
+msgstr "Цей промокод уже використано."
 
 msgid "Promo code activated successfully! VIP role granted."
-msgstr ""
+msgstr "Промокод активовано успішно! VIP-роль надано."
 
 msgid "Admin permissions required."
-msgstr ""
+msgstr "Потрібні права адміністратора."
 
 msgid "Invalid user ID."
 msgstr "Невірний ID користувача."
