@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-08-12 16:00+0000\n"
+"POT-Creation-Date: 2026-08-23 12:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
@@ -3332,8 +3332,8 @@ msgstr "Электрондық пошта 3 таңбадан ұзағырақ б
 msgid "Password should be longer than 8 characters."
 msgstr "Құпия сөз 8 таңбадан ұзағырақ болуы керек."
 
-msgid "Please pass reCAPTCHA check (1)."
-msgstr "reCAPTCHA тексеруінен өтіңіз (1)."
+msgid "Please pass security check."
+msgstr ""
 
 msgid "Could not get your IP."
 msgstr "Сіздің IP-ді алу мүмкін болмады."
@@ -3582,8 +3582,8 @@ msgstr "Ішкі қате себепті жүктеу сәтсіз аяқтал�
 msgid "Style is too long."
 msgstr "Стиль тым ұзақ."
 
-msgid "Invalid or unsafe CSS."
-msgstr "Жарамсыз немесе қауіпті CSS."
+msgid "Invalid or unsafe CSS formatting."
+msgstr ""
 
 msgid "This color is reserved for staff members."
 msgstr "Бұл түс қызметкерлер үшін сақталған."
