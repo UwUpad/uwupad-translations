@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-08-23 12:00+0000\n"
+"POT-Creation-Date: 2026-11-13 00:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,85 +100,6 @@ msgid "Apply Filters"
 msgstr ""
 
 msgid "About us"
-msgstr ""
-
-msgid "Admin: Minecraft Management"
-msgstr ""
-
-msgid "Minecraft Server Management"
-msgstr ""
-
-msgid "Whitelist and link user accounts."
-msgstr ""
-
-msgid "Add / Link Player"
-msgstr ""
-
-msgid "UwUpad User (ID or Username)"
-msgstr ""
-
-msgid "Minecraft Username"
-msgstr ""
-
-msgid "Link"
-msgstr ""
-
-msgid "Linked Accounts"
-msgstr ""
-
-msgid "UwUpad User"
-msgstr ""
-
-msgid "Minecraft UUID"
-msgstr ""
-
-msgid "Actions"
-msgstr ""
-
-msgid "Confirm"
-msgstr ""
-
-msgid "Cancel"
-msgstr ""
-
-msgid "Submit"
-msgstr ""
-
-msgid "No linked users found."
-msgstr ""
-
-msgid "Failed to load user list."
-msgstr ""
-
-msgid "Failed to link user."
-msgstr ""
-
-msgid "User Linked Successfully"
-msgstr ""
-
-msgid "OK"
-msgstr ""
-
-msgid "Error"
-msgstr ""
-
-msgid "Unlink Account?"
-msgstr ""
-
-#, python-brace-format
-msgid "Are you sure you want to unlink ${username}? This will remove them from the whitelist."
-msgstr ""
-
-msgid "Unlink"
-msgstr ""
-
-msgid "Failed to unlink user."
-msgstr ""
-
-msgid "User Unlinked"
-msgstr ""
-
-msgid "Successfully unlinked"
 msgstr ""
 
 msgid "Advertise on UwUpad"
@@ -420,6 +341,9 @@ msgid "Learn More"
 msgstr ""
 
 msgid "Confirm & Boost"
+msgstr ""
+
+msgid "Cancel"
 msgstr ""
 
 msgid "An error occurred"
@@ -1086,7 +1010,13 @@ msgstr ""
 msgid "Linked as"
 msgstr ""
 
+msgid "Unlink"
+msgstr ""
+
 msgid "Link your Discord account"
+msgstr ""
+
+msgid "Link"
 msgstr ""
 
 msgid "Edit profile"
@@ -1838,6 +1768,9 @@ msgstr ""
 msgid "#ID"
 msgstr ""
 
+msgid "Actions"
+msgstr ""
+
 msgid "Error loading users. Please try again."
 msgstr ""
 
@@ -2117,6 +2050,9 @@ msgstr ""
 msgid "Give Feedback"
 msgstr ""
 
+msgid "Information"
+msgstr ""
+
 msgid "Contacts"
 msgstr ""
 
@@ -2372,6 +2308,9 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
+msgid "Random sound"
+msgstr ""
+
 msgid "Profile"
 msgstr ""
 
@@ -2426,10 +2365,19 @@ msgstr ""
 msgid "Unlocks all packs, playlists and removes ads."
 msgstr ""
 
+msgid "Playback Speed"
+msgstr ""
+
+msgid "Mute / Unmute (M)"
+msgstr ""
+
 msgid "Downloading..."
 msgstr ""
 
 msgid "Complete!"
+msgstr ""
+
+msgid "Error"
 msgstr ""
 
 msgid "Download failed"

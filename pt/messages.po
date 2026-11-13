@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-08-23 12:00+0000\n"
+"POT-Creation-Date: 2026-11-13 00:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: pt <LL@li.org>\n"
@@ -102,85 +102,6 @@ msgstr "Aplicar Filtros"
 
 msgid "About us"
 msgstr "Sobre nós"
-
-msgid "Admin: Minecraft Management"
-msgstr "Admin: Gestão de Minecraft"
-
-msgid "Minecraft Server Management"
-msgstr "Gestão do Servidor Minecraft"
-
-msgid "Whitelist and link user accounts."
-msgstr "Lista branca e vinculação de contas de usuários."
-
-msgid "Add / Link Player"
-msgstr "Adicionar / Vincular Jogador"
-
-msgid "UwUpad User (ID or Username)"
-msgstr "Usuário UwUpad (ID ou Nome de usuário)"
-
-msgid "Minecraft Username"
-msgstr "Nome de usuário no Minecraft"
-
-msgid "Link"
-msgstr "Vincular"
-
-msgid "Linked Accounts"
-msgstr "Contas Vinculadas"
-
-msgid "UwUpad User"
-msgstr "Usuário UwUpad"
-
-msgid "Minecraft UUID"
-msgstr "UUID do Minecraft"
-
-msgid "Actions"
-msgstr "Ações"
-
-msgid "Confirm"
-msgstr "Confirmar"
-
-msgid "Cancel"
-msgstr "Cancelar"
-
-msgid "Submit"
-msgstr "Enviar"
-
-msgid "No linked users found."
-msgstr "Nenhum usuário vinculado encontrado."
-
-msgid "Failed to load user list."
-msgstr "Falha ao carregar lista de usuários."
-
-msgid "Failed to link user."
-msgstr "Falha ao vincular usuário."
-
-msgid "User Linked Successfully"
-msgstr "Usuário vinculado com sucesso"
-
-msgid "OK"
-msgstr "OK"
-
-msgid "Error"
-msgstr "Erro"
-
-msgid "Unlink Account?"
-msgstr "Desvincular conta?"
-
-#, python-brace-format
-msgid "Are you sure you want to unlink ${username}? This will remove them from the whitelist."
-msgstr "Tem certeza de que deseja desvincular ${username}? Isso os removerá da whitelist."
-
-msgid "Unlink"
-msgstr "Desvincular"
-
-msgid "Failed to unlink user."
-msgstr "Falha ao desvincular usuário."
-
-msgid "User Unlinked"
-msgstr "Usuário desvinculado"
-
-msgid "Successfully unlinked"
-msgstr "Desvinculado com sucesso"
 
 msgid "Advertise on UwUpad"
 msgstr "Anuncie no UwUpad"
@@ -422,6 +343,9 @@ msgstr "Saber mais"
 
 msgid "Confirm & Boost"
 msgstr "Confirmar e Impulsionar"
+
+msgid "Cancel"
+msgstr "Cancelar"
 
 msgid "An error occurred"
 msgstr "Ocorreu um erro"
@@ -1087,8 +1011,14 @@ msgstr "Confira os sons e playlists enviados por %(username)s no UwUpad."
 msgid "Linked as"
 msgstr "Vinculado como"
 
+msgid "Unlink"
+msgstr "Desvincular"
+
 msgid "Link your Discord account"
 msgstr "Vincule sua conta do Discord"
+
+msgid "Link"
+msgstr "Vincular"
 
 msgid "Edit profile"
 msgstr "Editar perfil"
@@ -1839,6 +1769,9 @@ msgstr "Usuário: Z-A"
 msgid "#ID"
 msgstr "#ID"
 
+msgid "Actions"
+msgstr "Ações"
+
 msgid "Error loading users. Please try again."
 msgstr "Erro ao carregar usuários. Por favor, tente novamente."
 
@@ -2118,6 +2051,9 @@ msgstr "Solicitar um som"
 msgid "Give Feedback"
 msgstr ""
 
+msgid "Information"
+msgstr ""
+
 msgid "Contacts"
 msgstr "Contatos"
 
@@ -2373,6 +2309,9 @@ msgstr "VIP Ativado"
 msgid "Search"
 msgstr "Buscar"
 
+msgid "Random sound"
+msgstr ""
+
 msgid "Profile"
 msgstr "Perfil"
 
@@ -2427,11 +2366,20 @@ msgstr "Obter Assinatura VIP Mensal"
 msgid "Unlocks all packs, playlists and removes ads."
 msgstr "Desbloqueia todos os pacotes, playlists e remove anúncios."
 
+msgid "Playback Speed"
+msgstr ""
+
+msgid "Mute / Unmute (M)"
+msgstr ""
+
 msgid "Downloading..."
 msgstr "Baixando..."
 
 msgid "Complete!"
 msgstr "Completo!"
+
+msgid "Error"
+msgstr "Erro"
 
 msgid "Download failed"
 msgstr "Download falhou"

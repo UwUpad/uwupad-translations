@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-08-23 12:00+0000\n"
+"POT-Creation-Date: 2026-11-13 00:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -109,85 +109,6 @@ msgstr "اعمال فیلترها"
 
 msgid "About us"
 msgstr "درباره ما"
-
-msgid "Admin: Minecraft Management"
-msgstr "ادمین: مدیریت ماینکرفت"
-
-msgid "Minecraft Server Management"
-msgstr "مدیریت سرور ماینکرفت"
-
-msgid "Whitelist and link user accounts."
-msgstr "فهرست سفید و پیوند حساب‌های کاربری."
-
-msgid "Add / Link Player"
-msgstr "افزودن / پیوند بازیکن"
-
-msgid "UwUpad User (ID or Username)"
-msgstr "کاربر UwUpad (شناسه یا نام کاربری)"
-
-msgid "Minecraft Username"
-msgstr "نام کاربری ماینکرفت"
-
-msgid "Link"
-msgstr "پیوند"
-
-msgid "Linked Accounts"
-msgstr "حساب‌های پیوندشده"
-
-msgid "UwUpad User"
-msgstr "کاربر UwUpad"
-
-msgid "Minecraft UUID"
-msgstr "شناسه UUID ماینکرفت"
-
-msgid "Actions"
-msgstr "اعمال"
-
-msgid "Confirm"
-msgstr "تایید"
-
-msgid "Cancel"
-msgstr "لغو"
-
-msgid "Submit"
-msgstr "ارسال"
-
-msgid "No linked users found."
-msgstr "هیچ کاربر پیوندشده‌ای یافت نشد."
-
-msgid "Failed to load user list."
-msgstr "بارگذاری فهرست کاربران ناموفق بود."
-
-msgid "Failed to link user."
-msgstr "پیوند کاربر با شکست مواجه شد."
-
-msgid "User Linked Successfully"
-msgstr "کاربر با موفقیت پیوند شد."
-
-msgid "OK"
-msgstr "باشه"
-
-msgid "Error"
-msgstr "خطا"
-
-msgid "Unlink Account?"
-msgstr "حساب را از پیوند خارج کنید؟"
-
-#, python-brace-format
-msgid "Are you sure you want to unlink ${username}? This will remove them from the whitelist."
-msgstr "آیا مطمئن هستید که می‌خواهید ${username} را از پیوند خارج کنید؟ این کار او را از فهرست سفید حذف می‌کند."
-
-msgid "Unlink"
-msgstr "حذف پیوند"
-
-msgid "Failed to unlink user."
-msgstr "لغو پیوند کاربر ناموفق بود."
-
-msgid "User Unlinked"
-msgstr "کاربر از پیوند خارج شد."
-
-msgid "Successfully unlinked"
-msgstr "با موفقیت از پیوند خارج شد."
 
 msgid "Advertise on UwUpad"
 msgstr "تبلیغ در UwUpad"
@@ -429,6 +350,9 @@ msgstr "بیشتر بدانید"
 
 msgid "Confirm & Boost"
 msgstr "تایید و تقویت"
+
+msgid "Cancel"
+msgstr "لغو"
 
 msgid "An error occurred"
 msgstr "خطایی رخ داد"
@@ -1094,8 +1018,14 @@ msgstr "صداها و پلی‌لیست‌های آپلود شده توسط %(us
 msgid "Linked as"
 msgstr "با عنوان"
 
+msgid "Unlink"
+msgstr "حذف پیوند"
+
 msgid "Link your Discord account"
 msgstr "حساب Discord خود را وصل کنید"
+
+msgid "Link"
+msgstr "پیوند"
 
 msgid "Edit profile"
 msgstr "ویرایش پروفایل"
@@ -1846,6 +1776,9 @@ msgstr "نام کاربری: از Z تا A"
 msgid "#ID"
 msgstr "#شناسه"
 
+msgid "Actions"
+msgstr "اعمال"
+
 msgid "Error loading users. Please try again."
 msgstr "خطا در بارگذاری کاربران. لطفاً دوباره تلاش کنید."
 
@@ -2125,6 +2058,9 @@ msgstr "درخواست صدا"
 msgid "Give Feedback"
 msgstr ""
 
+msgid "Information"
+msgstr ""
+
 msgid "Contacts"
 msgstr "تماس با ما"
 
@@ -2380,6 +2316,9 @@ msgstr "VIP فعال شد"
 msgid "Search"
 msgstr "جستجو"
 
+msgid "Random sound"
+msgstr ""
+
 msgid "Profile"
 msgstr "پروفایل"
 
@@ -2434,11 +2373,20 @@ msgstr "اشتراک VIP ماهانه را دریافت کن"
 msgid "Unlocks all packs, playlists and removes ads."
 msgstr "همه پَک‌ها و پلی‌لیست‌ها را آنلاک می‌کند و تبلیغات را حذف می‌کند."
 
+msgid "Playback Speed"
+msgstr ""
+
+msgid "Mute / Unmute (M)"
+msgstr ""
+
 msgid "Downloading..."
 msgstr "در حال دانلود..."
 
 msgid "Complete!"
 msgstr "کامل شد!"
+
+msgid "Error"
+msgstr "خطا"
 
 msgid "Download failed"
 msgstr "دانلود ناموفق بود"

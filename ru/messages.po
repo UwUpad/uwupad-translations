@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-08-23 12:00+0000\n"
+"POT-Creation-Date: 2026-11-13 00:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
@@ -102,85 +102,6 @@ msgstr "Применить фильтры"
 
 msgid "About us"
 msgstr "О нас"
-
-msgid "Admin: Minecraft Management"
-msgstr "Админ: Управление Minecraft"
-
-msgid "Minecraft Server Management"
-msgstr "Управление сервером Minecraft"
-
-msgid "Whitelist and link user accounts."
-msgstr "Белый список и привязка аккаунтов."
-
-msgid "Add / Link Player"
-msgstr "Добавить / привязать игрока"
-
-msgid "UwUpad User (ID or Username)"
-msgstr "Пользователь UwUpad (ID или имя пользователя)"
-
-msgid "Minecraft Username"
-msgstr "Имя пользователя Minecraft"
-
-msgid "Link"
-msgstr "Привязать"
-
-msgid "Linked Accounts"
-msgstr "Привязанные аккаунты"
-
-msgid "UwUpad User"
-msgstr "Пользователь UwUpad"
-
-msgid "Minecraft UUID"
-msgstr "UUID Minecraft"
-
-msgid "Actions"
-msgstr "Действия"
-
-msgid "Confirm"
-msgstr "Подтвердить"
-
-msgid "Cancel"
-msgstr "Отмена"
-
-msgid "Submit"
-msgstr "Отправить"
-
-msgid "No linked users found."
-msgstr "Не найдено привязанных пользователей."
-
-msgid "Failed to load user list."
-msgstr "Не удалось загрузить список пользователей."
-
-msgid "Failed to link user."
-msgstr "Не удалось привязать пользователя."
-
-msgid "User Linked Successfully"
-msgstr "Пользователь успешно привязан"
-
-msgid "OK"
-msgstr "ОК"
-
-msgid "Error"
-msgstr "Ошибка"
-
-msgid "Unlink Account?"
-msgstr "Отвязать аккаунт?"
-
-#, python-brace-format
-msgid "Are you sure you want to unlink ${username}? This will remove them from the whitelist."
-msgstr "Вы уверены, что хотите отвязать ${username}? Это удалит их из белого списка."
-
-msgid "Unlink"
-msgstr "Отвязать"
-
-msgid "Failed to unlink user."
-msgstr "Не удалось отвязать пользователя."
-
-msgid "User Unlinked"
-msgstr "Пользователь отвязан."
-
-msgid "Successfully unlinked"
-msgstr "Успешно отвязан."
 
 msgid "Advertise on UwUpad"
 msgstr "Реклама на UwUpad"
@@ -422,6 +343,9 @@ msgstr "Узнать больше"
 
 msgid "Confirm & Boost"
 msgstr "Подтвердить и продвинуть"
+
+msgid "Cancel"
+msgstr "Отмена"
 
 msgid "An error occurred"
 msgstr "Произошла ошибка"
@@ -1087,8 +1011,14 @@ msgstr "Посмотрите звуки и плейлисты, загружен�
 msgid "Linked as"
 msgstr "Привязан как"
 
+msgid "Unlink"
+msgstr "Отвязать"
+
 msgid "Link your Discord account"
 msgstr "Привязать ваш аккаунт Discord"
+
+msgid "Link"
+msgstr "Привязать"
 
 msgid "Edit profile"
 msgstr "Редактировать профиль"
@@ -1839,6 +1769,9 @@ msgstr "Имя пользователя: Я-А"
 msgid "#ID"
 msgstr "#ID"
 
+msgid "Actions"
+msgstr "Действия"
+
 msgid "Error loading users. Please try again."
 msgstr "Ошибка загрузки пользователей. Пожалуйста, попробуйте снова."
 
@@ -2118,6 +2051,9 @@ msgstr "Запросить звук"
 msgid "Give Feedback"
 msgstr ""
 
+msgid "Information"
+msgstr ""
+
 msgid "Contacts"
 msgstr "Контакты"
 
@@ -2373,6 +2309,9 @@ msgstr "VIP активирован"
 msgid "Search"
 msgstr "Поиск"
 
+msgid "Random sound"
+msgstr ""
+
 msgid "Profile"
 msgstr "Профиль"
 
@@ -2427,11 +2366,20 @@ msgstr "Купить VIP подписку на месяц"
 msgid "Unlocks all packs, playlists and removes ads."
 msgstr "Открывает все паки, плейлисты и убирает рекламу."
 
+msgid "Playback Speed"
+msgstr ""
+
+msgid "Mute / Unmute (M)"
+msgstr ""
+
 msgid "Downloading..."
 msgstr "Загрузка..."
 
 msgid "Complete!"
 msgstr "Завершено!"
+
+msgid "Error"
+msgstr "Ошибка"
 
 msgid "Download failed"
 msgstr "Загрузка не удалась"

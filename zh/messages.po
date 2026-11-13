@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-08-23 12:00+0000\n"
+"POT-Creation-Date: 2026-11-13 00:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -102,85 +102,6 @@ msgstr "应用过滤器"
 
 msgid "About us"
 msgstr "关于我们"
-
-msgid "Admin: Minecraft Management"
-msgstr "管理员：Minecraft 管理"
-
-msgid "Minecraft Server Management"
-msgstr "Minecraft 服务器管理"
-
-msgid "Whitelist and link user accounts."
-msgstr "白名单和关联用户账号。"
-
-msgid "Add / Link Player"
-msgstr "添加 / 关联玩家"
-
-msgid "UwUpad User (ID or Username)"
-msgstr "UwUpad 用户 (ID 或用户名)"
-
-msgid "Minecraft Username"
-msgstr "Minecraft 游戏名"
-
-msgid "Link"
-msgstr "关联"
-
-msgid "Linked Accounts"
-msgstr "已关联账号"
-
-msgid "UwUpad User"
-msgstr "UwUpad 用户"
-
-msgid "Minecraft UUID"
-msgstr "Minecraft UUID"
-
-msgid "Actions"
-msgstr "操作"
-
-msgid "Confirm"
-msgstr "确认"
-
-msgid "Cancel"
-msgstr "取消"
-
-msgid "Submit"
-msgstr "提交"
-
-msgid "No linked users found."
-msgstr "未找到关联用户。"
-
-msgid "Failed to load user list."
-msgstr "加载用户列表失败。"
-
-msgid "Failed to link user."
-msgstr "关联用户失败。"
-
-msgid "User Linked Successfully"
-msgstr "用户关联成功"
-
-msgid "OK"
-msgstr "确定"
-
-msgid "Error"
-msgstr "错误"
-
-msgid "Unlink Account?"
-msgstr "解除账号关联？"
-
-#, python-brace-format
-msgid "Are you sure you want to unlink ${username}? This will remove them from the whitelist."
-msgstr "你确定要解除 ${username} 的关联吗？这将把他们从白名单中移除。"
-
-msgid "Unlink"
-msgstr "解除关联"
-
-msgid "Failed to unlink user."
-msgstr "解除用户关联失败。"
-
-msgid "User Unlinked"
-msgstr "用户已解除关联"
-
-msgid "Successfully unlinked"
-msgstr "成功解除关联"
 
 msgid "Advertise on UwUpad"
 msgstr "在 UwUpad 上投放广告"
@@ -422,6 +343,9 @@ msgstr "了解更多"
 
 msgid "Confirm & Boost"
 msgstr "确认并推广"
+
+msgid "Cancel"
+msgstr "取消"
 
 msgid "An error occurred"
 msgstr "发生了一个错误"
@@ -1087,8 +1011,14 @@ msgstr "查看 %(username)s 在 UwUpad 上上传的声音和播放列表。"
 msgid "Linked as"
 msgstr "已关联为"
 
+msgid "Unlink"
+msgstr "解除关联"
+
 msgid "Link your Discord account"
 msgstr "关联你的 Discord 账号"
+
+msgid "Link"
+msgstr "关联"
 
 msgid "Edit profile"
 msgstr "编辑资料"
@@ -1839,6 +1769,9 @@ msgstr "用户名：Z-A"
 msgid "#ID"
 msgstr "#ID"
 
+msgid "Actions"
+msgstr "操作"
+
 msgid "Error loading users. Please try again."
 msgstr "加载用户失败。请重试。"
 
@@ -2118,6 +2051,9 @@ msgstr "请求声音"
 msgid "Give Feedback"
 msgstr ""
 
+msgid "Information"
+msgstr ""
+
 msgid "Contacts"
 msgstr "联系我们"
 
@@ -2373,6 +2309,9 @@ msgstr "VIP 已激活"
 msgid "Search"
 msgstr "搜索"
 
+msgid "Random sound"
+msgstr ""
+
 msgid "Profile"
 msgstr "个人资料"
 
@@ -2427,11 +2366,20 @@ msgstr "获取月度 VIP 订阅"
 msgid "Unlocks all packs, playlists and removes ads."
 msgstr "解锁所有资源包、播放列表并移除广告。"
 
+msgid "Playback Speed"
+msgstr ""
+
+msgid "Mute / Unmute (M)"
+msgstr ""
+
 msgid "Downloading..."
 msgstr "正在下载..."
 
 msgid "Complete!"
 msgstr "已完成！"
+
+msgid "Error"
+msgstr "错误"
 
 msgid "Download failed"
 msgstr "下载失败"

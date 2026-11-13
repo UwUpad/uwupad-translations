@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-08-23 12:00+0000\n"
+"POT-Creation-Date: 2026-11-13 00:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
@@ -106,85 +106,6 @@ msgstr "Сүзгілерді қолдану"
 
 msgid "About us"
 msgstr "Біз туралы"
-
-msgid "Admin: Minecraft Management"
-msgstr "UwUPad Minecraft сервері"
-
-msgid "Minecraft Server Management"
-msgstr "Minecraft-тағы лақап ат"
-
-msgid "Whitelist and link user accounts."
-msgstr "Ақ тізім және пайдаланушы тіркелгілерін байланыстыру."
-
-msgid "Add / Link Player"
-msgstr "Ойыншыны қосу / Байланыстыру"
-
-msgid "UwUpad User (ID or Username)"
-msgstr "UwUpad пайдаланушысы (ID немесе пайдаланушы аты)"
-
-msgid "Minecraft Username"
-msgstr "Minecraft лақап аты"
-
-msgid "Link"
-msgstr "Байланыстыру"
-
-msgid "Linked Accounts"
-msgstr "Байланыстырылған тіркелгілер"
-
-msgid "UwUpad User"
-msgstr "UwUpad пайдаланушысы"
-
-msgid "Minecraft UUID"
-msgstr "Minecraft UUID"
-
-msgid "Actions"
-msgstr "Әрекеттер"
-
-msgid "Confirm"
-msgstr "Растау"
-
-msgid "Cancel"
-msgstr "Бас тарту"
-
-msgid "Submit"
-msgstr "Жіберу"
-
-msgid "No linked users found."
-msgstr "Байланыстырылған пайдаланушылар табылмады."
-
-msgid "Failed to load user list."
-msgstr "Пайдаланушы тізімін жүктеу мүмкін болмады."
-
-msgid "Failed to link user."
-msgstr "Пайдаланушыны байланыстыру мүмкін болмады."
-
-msgid "User Linked Successfully"
-msgstr "Пайдаланушы сәтті байланыстырылды"
-
-msgid "OK"
-msgstr "Жарайды"
-
-msgid "Error"
-msgstr "Қате"
-
-msgid "Unlink Account?"
-msgstr "Аккаунтты ажырату керек пе?"
-
-#, python-brace-format
-msgid "Are you sure you want to unlink ${username}? This will remove them from the whitelist."
-msgstr "${username} байланысын үзуді қалайтыныңызға сенімдісіз бе? Бұл оларды ақ тізімнен жояды."
-
-msgid "Unlink"
-msgstr "Байланысты үзу"
-
-msgid "Failed to unlink user."
-msgstr "Пайдаланушыны ажырату мүмкін болмады."
-
-msgid "User Unlinked"
-msgstr "Пайдаланушы ажыратылды"
-
-msgid "Successfully unlinked"
-msgstr "Сәтті ажыратылды"
 
 msgid "Advertise on UwUpad"
 msgstr "UwUpad-та жарнама беру"
@@ -426,6 +347,9 @@ msgstr "Көбірек білу"
 
 msgid "Confirm & Boost"
 msgstr "Растаңыз және бустаңыз"
+
+msgid "Cancel"
+msgstr "Бас тарту"
 
 msgid "An error occurred"
 msgstr "Қате орын алды"
@@ -1091,8 +1015,14 @@ msgstr "UwUpad-та %(username)s жүктеген дыбыстар мен ойн
 msgid "Linked as"
 msgstr "Байланыстырылған"
 
+msgid "Unlink"
+msgstr "Байланысты үзу"
+
 msgid "Link your Discord account"
 msgstr "Discord аккаунтыңызды байланыстырыңыз"
+
+msgid "Link"
+msgstr "Байланыстыру"
 
 msgid "Edit profile"
 msgstr "Профильді өңдеу"
@@ -1843,6 +1773,9 @@ msgstr "Пайдаланушы аты: Z-A"
 msgid "#ID"
 msgstr "#ID"
 
+msgid "Actions"
+msgstr "Әрекеттер"
+
 msgid "Error loading users. Please try again."
 msgstr "Пайдаланушыларды жүктеу қатесі. Қайталап көріңіз."
 
@@ -2122,6 +2055,9 @@ msgstr "Дыбыс сұрау"
 msgid "Give Feedback"
 msgstr ""
 
+msgid "Information"
+msgstr ""
+
 msgid "Contacts"
 msgstr "Байланыстар"
 
@@ -2377,6 +2313,9 @@ msgstr "VIP белсендірілді"
 msgid "Search"
 msgstr "Іздеу"
 
+msgid "Random sound"
+msgstr ""
+
 msgid "Profile"
 msgstr "Профиль"
 
@@ -2431,11 +2370,20 @@ msgstr "Айлық VIP жазылымын алыңыз"
 msgid "Unlocks all packs, playlists and removes ads."
 msgstr "Барлық пакеттерді, плейлисттерді ашып, жарнамаларды өшіреді."
 
+msgid "Playback Speed"
+msgstr ""
+
+msgid "Mute / Unmute (M)"
+msgstr ""
+
 msgid "Downloading..."
 msgstr "Жүктеп жатыр..."
 
 msgid "Complete!"
 msgstr "Аяқталды!"
+
+msgid "Error"
+msgstr "Қате"
 
 msgid "Download failed"
 msgstr "Жүктеу сәтсіз аяқталды."

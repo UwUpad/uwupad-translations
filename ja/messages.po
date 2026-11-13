@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-08-23 12:00+0000\n"
+"POT-Creation-Date: 2026-11-13 00:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -109,85 +109,6 @@ msgstr "フィルターを適用"
 
 msgid "About us"
 msgstr "私たちについて"
-
-msgid "Admin: Minecraft Management"
-msgstr "管理者: マインクラフト管理"
-
-msgid "Minecraft Server Management"
-msgstr "マインクラフトサーバー管理"
-
-msgid "Whitelist and link user accounts."
-msgstr "ホワイトリストに登録して、ユーザーアカウントをリンクします。"
-
-msgid "Add / Link Player"
-msgstr "プレイヤーを追加 / リンク"
-
-msgid "UwUpad User (ID or Username)"
-msgstr "UwUpad ユーザー (ID または ユーザー名)"
-
-msgid "Minecraft Username"
-msgstr "マインクラフト ユーザー名"
-
-msgid "Link"
-msgstr "リンク"
-
-msgid "Linked Accounts"
-msgstr "リンク済みアカウント"
-
-msgid "UwUpad User"
-msgstr "UwUpad ユーザー"
-
-msgid "Minecraft UUID"
-msgstr "マインクラフト UUID"
-
-msgid "Actions"
-msgstr "操作"
-
-msgid "Confirm"
-msgstr "確認"
-
-msgid "Cancel"
-msgstr "キャンセル"
-
-msgid "Submit"
-msgstr "送信"
-
-msgid "No linked users found."
-msgstr "リンク済みのユーザーが見つかりません。"
-
-msgid "Failed to load user list."
-msgstr "ユーザーリストの読み込みに失敗しました。"
-
-msgid "Failed to link user."
-msgstr "ユーザーのリンクに失敗しました。"
-
-msgid "User Linked Successfully"
-msgstr "ユーザーを正常にリンクしました"
-
-msgid "OK"
-msgstr "OK"
-
-msgid "Error"
-msgstr "エラー"
-
-msgid "Unlink Account?"
-msgstr "アカウントのリンクを解除しますか？"
-
-#, python-brace-format
-msgid "Are you sure you want to unlink ${username}? This will remove them from the whitelist."
-msgstr "本当に ${username} のリンクを解除しますか？これによりホワイトリストから削除されます。"
-
-msgid "Unlink"
-msgstr "リンクを解除"
-
-msgid "Failed to unlink user."
-msgstr "ユーザーのリンク解除に失敗しました。"
-
-msgid "User Unlinked"
-msgstr "ユーザーのリンクを解除しました"
-
-msgid "Successfully unlinked"
-msgstr "正常にリンクを解除しました"
 
 msgid "Advertise on UwUpad"
 msgstr "UwUpadで広告を掲載"
@@ -429,6 +350,9 @@ msgstr "詳しく見る"
 
 msgid "Confirm & Boost"
 msgstr "確認してブーストする"
+
+msgid "Cancel"
+msgstr "キャンセル"
 
 msgid "An error occurred"
 msgstr "エラーが発生しました"
@@ -1094,8 +1018,14 @@ msgstr "UwUpadで%(username)sがアップロードしたサウンドとプレイ
 msgid "Linked as"
 msgstr "リンクとして表示"
 
+msgid "Unlink"
+msgstr "リンクを解除"
+
 msgid "Link your Discord account"
 msgstr "Discordアカウントをリンクする"
+
+msgid "Link"
+msgstr "リンク"
 
 msgid "Edit profile"
 msgstr "プロフィールを編集"
@@ -1846,6 +1776,9 @@ msgstr "ユーザー名: Z-A"
 msgid "#ID"
 msgstr "#ID"
 
+msgid "Actions"
+msgstr "操作"
+
 msgid "Error loading users. Please try again."
 msgstr "ユーザーの読み込みに失敗しました。もう一度お試しください。"
 
@@ -2125,6 +2058,9 @@ msgstr "サウンドをリクエスト"
 msgid "Give Feedback"
 msgstr ""
 
+msgid "Information"
+msgstr ""
+
 msgid "Contacts"
 msgstr "連絡先"
 
@@ -2380,6 +2316,9 @@ msgstr "VIPを有効化しました"
 msgid "Search"
 msgstr "検索"
 
+msgid "Random sound"
+msgstr ""
+
 msgid "Profile"
 msgstr "プロフィール"
 
@@ -2434,11 +2373,20 @@ msgstr "月額VIPサブスクリプションを入手"
 msgid "Unlocks all packs, playlists and removes ads."
 msgstr "すべてのパックとプレイリストを解放して、広告を非表示にします。"
 
+msgid "Playback Speed"
+msgstr ""
+
+msgid "Mute / Unmute (M)"
+msgstr ""
+
 msgid "Downloading..."
 msgstr "ダウンロード中..."
 
 msgid "Complete!"
 msgstr "完了！"
+
+msgid "Error"
+msgstr "エラー"
 
 msgid "Download failed"
 msgstr "ダウンロードに失敗しました"
