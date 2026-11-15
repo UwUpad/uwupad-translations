@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 16:00+0000\n"
+"POT-Creation-Date: 2026-11-15 17:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2982,6 +2982,12 @@ msgstr ""
 msgid "New Playlist"
 msgstr ""
 
+msgid "Remove from playlist"
+msgstr ""
+
+msgid "Removed from playlist"
+msgstr ""
+
 msgid "Search playlists..."
 msgstr ""
 
@@ -3063,7 +3069,7 @@ msgstr ""
 msgid "Upload Music"
 msgstr ""
 
-msgid "To Home"
+msgid "Share your original tracks, mixes, and beats in high quality."
 msgstr ""
 
 msgid "Drag & Drop Cover"
@@ -3075,10 +3081,7 @@ msgstr ""
 msgid "Recommended: 500x500px, max. 5 MB"
 msgstr ""
 
-msgid "Cover Preview"
-msgstr ""
-
-msgid "Remove Cover"
+msgid "Optional — embedded MP3/FLAC cover art is extracted automatically"
 msgstr ""
 
 msgid "Title of your track"
@@ -3093,13 +3096,13 @@ msgstr ""
 msgid "E.g.: chill, summer, vibe"
 msgstr ""
 
-msgid "Up to 5 tags. Enter a tag and press Enter."
+msgid "Enter a tag and press Enter."
 msgstr ""
 
 msgid "Audio File"
 msgstr ""
 
-msgid "Select file (MP3, WAV, OGG, FLAC)"
+msgid "Select or drop file (MP3, WAV, FLAC, OGG)"
 msgstr ""
 
 msgid "I agree with the"
@@ -3111,6 +3114,45 @@ msgstr ""
 msgid "policy"
 msgstr ""
 
+msgid "Checking file..."
+msgstr ""
+
+msgid "Too short for Music"
+msgstr ""
+
+msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX — please upload it via standard Sounds uploader."
+msgstr ""
+
+msgid "Go to Sounds Upload"
+msgstr ""
+
+msgid "Music track was queued for processing."
+msgstr ""
+
+msgid "Cover image is too large (max. 5 MB)"
+msgstr ""
+
+msgid "Audio file is too large"
+msgstr ""
+
+msgid "Log in to upload your tracks to UwUpad Music."
+msgstr ""
+
+msgid "To Home"
+msgstr ""
+
+msgid "Cover Preview"
+msgstr ""
+
+msgid "Remove Cover"
+msgstr ""
+
+msgid "Up to 5 tags. Enter a tag and press Enter."
+msgstr ""
+
+msgid "Select file (MP3, WAV, OGG, FLAC)"
+msgstr ""
+
 msgid "Слишком коротко для музыки"
 msgstr ""
 
@@ -3118,9 +3160,6 @@ msgid "Этот аудиофайл длится менее 30 секунд. Ес
 msgstr ""
 
 msgid "Перейти к звукам"
-msgstr ""
-
-msgid "Cover image is too large (max. 5 MB)"
 msgstr ""
 
 #, python-brace-format
@@ -3496,9 +3535,6 @@ msgstr ""
 
 #, python-brace-format
 msgid "Audio file is too large (max {size}MB)."
-msgstr ""
-
-msgid "Music track was queued for processing."
 msgstr ""
 
 msgid "Upload failed due to an internal error."

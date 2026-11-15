@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 16:00+0000\n"
+"POT-Creation-Date: 2026-11-15 17:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -2990,6 +2990,12 @@ msgstr ""
 msgid "New Playlist"
 msgstr "新しいプレイリスト"
 
+msgid "Remove from playlist"
+msgstr ""
+
+msgid "Removed from playlist"
+msgstr ""
+
 msgid "Search playlists..."
 msgstr "プレイリストを検索..."
 
@@ -3071,8 +3077,8 @@ msgstr "完了！"
 msgid "Upload Music"
 msgstr "音楽をアップロード"
 
-msgid "To Home"
-msgstr "ホームへ"
+msgid "Share your original tracks, mixes, and beats in high quality."
+msgstr ""
 
 msgid "Drag & Drop Cover"
 msgstr "カバーをドラッグ＆ドロップ"
@@ -3083,11 +3089,8 @@ msgstr "またはクリックして選択"
 msgid "Recommended: 500x500px, max. 5 MB"
 msgstr "おすすめ: 500x500px、最大5MBだぜ"
 
-msgid "Cover Preview"
-msgstr "カバー画像プレビュー"
-
-msgid "Remove Cover"
-msgstr "カバーを削除"
+msgid "Optional — embedded MP3/FLAC cover art is extracted automatically"
+msgstr ""
 
 msgid "Title of your track"
 msgstr "曲のタイトル"
@@ -3101,14 +3104,14 @@ msgstr "ジャンルを検索するには、入力を開始してください…
 msgid "E.g.: chill, summer, vibe"
 msgstr "例: チル、サマー、ヴァイブ"
 
-msgid "Up to 5 tags. Enter a tag and press Enter."
-msgstr "最大5つのタグ。タグを入力してEnterを押してください。"
+msgid "Enter a tag and press Enter."
+msgstr ""
 
 msgid "Audio File"
 msgstr "音声ファイル"
 
-msgid "Select file (MP3, WAV, OGG, FLAC)"
-msgstr "ファイルを選択（MP3、WAV、OGG、FLAC）"
+msgid "Select or drop file (MP3, WAV, FLAC, OGG)"
+msgstr ""
 
 msgid "I agree with the"
 msgstr "以下に同意します"
@@ -3119,6 +3122,45 @@ msgstr "利用規約"
 msgid "policy"
 msgstr "プライバシーポリシー"
 
+msgid "Checking file..."
+msgstr ""
+
+msgid "Too short for Music"
+msgstr ""
+
+msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX — please upload it via standard Sounds uploader."
+msgstr ""
+
+msgid "Go to Sounds Upload"
+msgstr ""
+
+msgid "Music track was queued for processing."
+msgstr "楽曲は処理のためにキューに入れられたぞ。"
+
+msgid "Cover image is too large (max. 5 MB)"
+msgstr "カバー画像が大きすぎます（最大5 MB）"
+
+msgid "Audio file is too large"
+msgstr ""
+
+msgid "Log in to upload your tracks to UwUpad Music."
+msgstr ""
+
+msgid "To Home"
+msgstr "ホームへ"
+
+msgid "Cover Preview"
+msgstr "カバー画像プレビュー"
+
+msgid "Remove Cover"
+msgstr "カバーを削除"
+
+msgid "Up to 5 tags. Enter a tag and press Enter."
+msgstr "最大5つのタグ。タグを入力してEnterを押してください。"
+
+msgid "Select file (MP3, WAV, OGG, FLAC)"
+msgstr "ファイルを選択（MP3、WAV、OGG、FLAC）"
+
 msgid "Слишком коротко для музыки"
 msgstr "音楽としては短すぎます"
 
@@ -3127,9 +3169,6 @@ msgstr "このオーディオファイルは30秒未満です。これはミー�
 
 msgid "Перейти к звукам"
 msgstr "サウンドへ移動"
-
-msgid "Cover image is too large (max. 5 MB)"
-msgstr "カバー画像が大きすぎます（最大5 MB）"
 
 #, python-brace-format
 msgid "You can add no more than ${MAX_TAGS} tags."
@@ -3505,9 +3544,6 @@ msgstr "カバー画像が大きすぎるぞ（最大5MB）。"
 #, python-brace-format
 msgid "Audio file is too large (max {size}MB)."
 msgstr "音声ファイルは大きすぎるぞ（最大{size}MB）。"
-
-msgid "Music track was queued for processing."
-msgstr "楽曲は処理のためにキューに入れられたぞ。"
 
 msgid "Upload failed due to an internal error."
 msgstr "内部エラーのせいでアップロードに失敗したぜ。"

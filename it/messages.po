@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 16:00+0000\n"
+"POT-Creation-Date: 2026-11-15 17:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:25+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Italian <it@li.org>\n"
@@ -2990,6 +2990,12 @@ msgstr ""
 msgid "New Playlist"
 msgstr "Nuova playlist"
 
+msgid "Remove from playlist"
+msgstr ""
+
+msgid "Removed from playlist"
+msgstr ""
+
 msgid "Search playlists..."
 msgstr "Cerca playlist..."
 
@@ -3071,8 +3077,8 @@ msgstr "Finito!"
 msgid "Upload Music"
 msgstr "Carica musica"
 
-msgid "To Home"
-msgstr "Torna alla home"
+msgid "Share your original tracks, mixes, and beats in high quality."
+msgstr ""
 
 msgid "Drag & Drop Cover"
 msgstr "Trascina e rilascia la copertina"
@@ -3083,11 +3089,8 @@ msgstr "o clicca per selezionare"
 msgid "Recommended: 500x500px, max. 5 MB"
 msgstr "Consigliato: 500x500px, max. 5 MB"
 
-msgid "Cover Preview"
-msgstr "Anteprima della copertina"
-
-msgid "Remove Cover"
-msgstr "Rimuovi copertina"
+msgid "Optional — embedded MP3/FLAC cover art is extracted automatically"
+msgstr ""
 
 msgid "Title of your track"
 msgstr "Titolo della traccia"
@@ -3101,14 +3104,14 @@ msgstr "Inizia a digitare per cercare un genere..."
 msgid "E.g.: chill, summer, vibe"
 msgstr "Es.: chill, summer, vibe"
 
-msgid "Up to 5 tags. Enter a tag and press Enter."
-msgstr "Fino a 5 tag. Inserisci un tag e premi Invio."
+msgid "Enter a tag and press Enter."
+msgstr ""
 
 msgid "Audio File"
 msgstr "File audio"
 
-msgid "Select file (MP3, WAV, OGG, FLAC)"
-msgstr "Seleziona file (MP3, WAV, OGG, FLAC)"
+msgid "Select or drop file (MP3, WAV, FLAC, OGG)"
+msgstr ""
 
 msgid "I agree with the"
 msgstr "Accetto i"
@@ -3119,6 +3122,45 @@ msgstr "termini"
 msgid "policy"
 msgstr "informativa sulla privacy"
 
+msgid "Checking file..."
+msgstr ""
+
+msgid "Too short for Music"
+msgstr ""
+
+msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX — please upload it via standard Sounds uploader."
+msgstr ""
+
+msgid "Go to Sounds Upload"
+msgstr ""
+
+msgid "Music track was queued for processing."
+msgstr "La traccia musicale è stata messa in coda per l'elaborazione."
+
+msgid "Cover image is too large (max. 5 MB)"
+msgstr "L'immagine di copertina è troppo grande (max. 5 MB)"
+
+msgid "Audio file is too large"
+msgstr ""
+
+msgid "Log in to upload your tracks to UwUpad Music."
+msgstr ""
+
+msgid "To Home"
+msgstr "Torna alla home"
+
+msgid "Cover Preview"
+msgstr "Anteprima della copertina"
+
+msgid "Remove Cover"
+msgstr "Rimuovi copertina"
+
+msgid "Up to 5 tags. Enter a tag and press Enter."
+msgstr "Fino a 5 tag. Inserisci un tag e premi Invio."
+
+msgid "Select file (MP3, WAV, OGG, FLAC)"
+msgstr "Seleziona file (MP3, WAV, OGG, FLAC)"
+
 msgid "Слишком коротко для музыки"
 msgstr "Troppo corto per la musica"
 
@@ -3127,9 +3169,6 @@ msgstr "Questo file audio dura meno di 30 secondi. Se si tratta di un meme, una 
 
 msgid "Перейти к звукам"
 msgstr "Vai ai suoni"
-
-msgid "Cover image is too large (max. 5 MB)"
-msgstr "L'immagine di copertina è troppo grande (max. 5 MB)"
 
 #, python-brace-format
 msgid "You can add no more than ${MAX_TAGS} tags."
@@ -3505,9 +3544,6 @@ msgstr "L'immagine di copertina è troppo grande (massimo 5 MB)."
 #, python-brace-format
 msgid "Audio file is too large (max {size}MB)."
 msgstr "Il file audio è troppo grande (massimo {size} MB)."
-
-msgid "Music track was queued for processing."
-msgstr "La traccia musicale è stata messa in coda per l'elaborazione."
 
 msgid "Upload failed due to an internal error."
 msgstr "Caricamento fallito a causa di un errore interno."

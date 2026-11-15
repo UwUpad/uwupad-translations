@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 16:00+0000\n"
+"POT-Creation-Date: 2026-11-15 17:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -2983,6 +2983,12 @@ msgstr ""
 msgid "New Playlist"
 msgstr "新播放列表"
 
+msgid "Remove from playlist"
+msgstr ""
+
+msgid "Removed from playlist"
+msgstr ""
+
 msgid "Search playlists..."
 msgstr "搜索播放列表..."
 
@@ -3064,8 +3070,8 @@ msgstr "已完成！"
 msgid "Upload Music"
 msgstr "上传音乐"
 
-msgid "To Home"
-msgstr "回到主页"
+msgid "Share your original tracks, mixes, and beats in high quality."
+msgstr ""
 
 msgid "Drag & Drop Cover"
 msgstr "拖放封面图片"
@@ -3076,11 +3082,8 @@ msgstr "或点击进行选择"
 msgid "Recommended: 500x500px, max. 5 MB"
 msgstr "推荐：500x500px，最多 5 MB"
 
-msgid "Cover Preview"
-msgstr "封面预览"
-
-msgid "Remove Cover"
-msgstr "移除封面"
+msgid "Optional — embedded MP3/FLAC cover art is extracted automatically"
+msgstr ""
 
 msgid "Title of your track"
 msgstr "曲目标题"
@@ -3094,14 +3097,14 @@ msgstr "开始输入以搜索流派..."
 msgid "E.g.: chill, summer, vibe"
 msgstr "例如：chill, summer, vibe"
 
-msgid "Up to 5 tags. Enter a tag and press Enter."
-msgstr "最多 5 个标签。输入一个标签后按回车。"
+msgid "Enter a tag and press Enter."
+msgstr ""
 
 msgid "Audio File"
 msgstr "音频文件"
 
-msgid "Select file (MP3, WAV, OGG, FLAC)"
-msgstr "选择文件（MP3、WAV、OGG、FLAC）"
+msgid "Select or drop file (MP3, WAV, FLAC, OGG)"
+msgstr ""
 
 msgid "I agree with the"
 msgstr "我同意"
@@ -3112,6 +3115,45 @@ msgstr "条款"
 msgid "policy"
 msgstr "政策"
 
+msgid "Checking file..."
+msgstr ""
+
+msgid "Too short for Music"
+msgstr ""
+
+msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX — please upload it via standard Sounds uploader."
+msgstr ""
+
+msgid "Go to Sounds Upload"
+msgstr ""
+
+msgid "Music track was queued for processing."
+msgstr "曲目已加入处理队列。"
+
+msgid "Cover image is too large (max. 5 MB)"
+msgstr "封面图片过大 (最大 5 MB)"
+
+msgid "Audio file is too large"
+msgstr ""
+
+msgid "Log in to upload your tracks to UwUpad Music."
+msgstr ""
+
+msgid "To Home"
+msgstr "回到主页"
+
+msgid "Cover Preview"
+msgstr "封面预览"
+
+msgid "Remove Cover"
+msgstr "移除封面"
+
+msgid "Up to 5 tags. Enter a tag and press Enter."
+msgstr "最多 5 个标签。输入一个标签后按回车。"
+
+msgid "Select file (MP3, WAV, OGG, FLAC)"
+msgstr "选择文件（MP3、WAV、OGG、FLAC）"
+
 msgid "Слишком коротко для музыки"
 msgstr "音乐太短，无法用作音乐"
 
@@ -3120,9 +3162,6 @@ msgstr "这个音频文件时长少于30秒。如果它是一个梗、剪辑或 
 
 msgid "Перейти к звукам"
 msgstr "前往声音库"
-
-msgid "Cover image is too large (max. 5 MB)"
-msgstr "封面图片过大 (最大 5 MB)"
 
 #, python-brace-format
 msgid "You can add no more than ${MAX_TAGS} tags."
@@ -3498,9 +3537,6 @@ msgstr "封面图片过大 (最大 5MB)。"
 #, python-brace-format
 msgid "Audio file is too large (max {size}MB)."
 msgstr "音频文件过大 (最大 {size}MB)。"
-
-msgid "Music track was queued for processing."
-msgstr "曲目已加入处理队列。"
 
 msgid "Upload failed due to an internal error."
 msgstr "由于内部错误，上传失败。"

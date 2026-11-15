@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 16:00+0000\n"
+"POT-Creation-Date: 2026-11-15 17:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
@@ -2983,6 +2983,12 @@ msgstr ""
 msgid "New Playlist"
 msgstr "Новый плейлист"
 
+msgid "Remove from playlist"
+msgstr ""
+
+msgid "Removed from playlist"
+msgstr ""
+
 msgid "Search playlists..."
 msgstr "Поиск плейлистов..."
 
@@ -3064,8 +3070,8 @@ msgstr "Завершено!"
 msgid "Upload Music"
 msgstr "Загрузить музыку"
 
-msgid "To Home"
-msgstr "На главную"
+msgid "Share your original tracks, mixes, and beats in high quality."
+msgstr ""
 
 msgid "Drag & Drop Cover"
 msgstr "Перетащите обложку"
@@ -3076,11 +3082,8 @@ msgstr "или нажмите, чтобы выбрать"
 msgid "Recommended: 500x500px, max. 5 MB"
 msgstr "Рекомендовано: 500x500px, максимум 5 МБ"
 
-msgid "Cover Preview"
-msgstr "Предпросмотр обложки"
-
-msgid "Remove Cover"
-msgstr "Удалить обложку"
+msgid "Optional — embedded MP3/FLAC cover art is extracted automatically"
+msgstr ""
 
 msgid "Title of your track"
 msgstr "Название вашего трека"
@@ -3094,14 +3097,14 @@ msgstr "Начните вводить текст, чтобы найти жанр
 msgid "E.g.: chill, summer, vibe"
 msgstr "Напр.: chill, summer, vibe"
 
-msgid "Up to 5 tags. Enter a tag and press Enter."
-msgstr "До 5 тегов. Введите тег и нажмите Enter."
+msgid "Enter a tag and press Enter."
+msgstr ""
 
 msgid "Audio File"
 msgstr "Аудиофайл"
 
-msgid "Select file (MP3, WAV, OGG, FLAC)"
-msgstr "Выберите файл (MP3, WAV, OGG, FLAC)"
+msgid "Select or drop file (MP3, WAV, FLAC, OGG)"
+msgstr ""
 
 msgid "I agree with the"
 msgstr "Я согласен с"
@@ -3112,6 +3115,45 @@ msgstr "условиями"
 msgid "policy"
 msgstr "политикой"
 
+msgid "Checking file..."
+msgstr ""
+
+msgid "Too short for Music"
+msgstr ""
+
+msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX — please upload it via standard Sounds uploader."
+msgstr ""
+
+msgid "Go to Sounds Upload"
+msgstr ""
+
+msgid "Music track was queued for processing."
+msgstr "Музыкальный трек поставлен в очередь на обработку."
+
+msgid "Cover image is too large (max. 5 MB)"
+msgstr "Изображение обложки слишком большое (макс. 5МБ)."
+
+msgid "Audio file is too large"
+msgstr ""
+
+msgid "Log in to upload your tracks to UwUpad Music."
+msgstr ""
+
+msgid "To Home"
+msgstr "На главную"
+
+msgid "Cover Preview"
+msgstr "Предпросмотр обложки"
+
+msgid "Remove Cover"
+msgstr "Удалить обложку"
+
+msgid "Up to 5 tags. Enter a tag and press Enter."
+msgstr "До 5 тегов. Введите тег и нажмите Enter."
+
+msgid "Select file (MP3, WAV, OGG, FLAC)"
+msgstr "Выберите файл (MP3, WAV, OGG, FLAC)"
+
 msgid "Слишком коротко для музыки"
 msgstr "Слишком коротко для музыки"
 
@@ -3120,9 +3162,6 @@ msgstr "Этот аудиофайл длится менее 30 секунд. Е�
 
 msgid "Перейти к звукам"
 msgstr "Перейти к звукам"
-
-msgid "Cover image is too large (max. 5 MB)"
-msgstr "Изображение обложки слишком большое (макс. 5МБ)."
 
 #, python-brace-format
 msgid "You can add no more than ${MAX_TAGS} tags."
@@ -3498,9 +3537,6 @@ msgstr "Изображение обложки слишком большое (м�
 #, python-brace-format
 msgid "Audio file is too large (max {size}MB)."
 msgstr "Аудиофайл слишком большой (макс. {size}МБ)."
-
-msgid "Music track was queued for processing."
-msgstr "Музыкальный трек поставлен в очередь на обработку."
 
 msgid "Upload failed due to an internal error."
 msgstr "Загрузка не удалась из-за внутренней ошибки."
