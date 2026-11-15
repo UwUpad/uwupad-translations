@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-13 00:00+0000\n"
+"POT-Creation-Date: 2026-11-15 16:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -2903,80 +2903,35 @@ msgstr "UwUpadで新しい音楽を聴いて発見しよう。インディーズ
 msgid "Listen to and discover new music on UwUpad."
 msgstr "UwUpadで新しい音楽を聴いて発見しよう。"
 
-msgid "Browse"
-msgstr "ブラウズ"
-
 msgid "My Library"
 msgstr "マイライブラリ"
 
-msgid "Return to Sounds / Memes"
-msgstr "サウンド / ミームに戻る"
-
-msgid "Sounds / Memes"
-msgstr "サウンド / ミーム"
-
-msgid "Search by title..."
-msgstr "タイトルで検索..."
-
-msgid "Unlock the Full Experience"
-msgstr "フル体験を解放する"
-
-msgid "Log in or register to get a personalized <b>For You</b> playlist, save your favorite tracks, create custom playlists, and upload your own music!"
-msgstr "あなた専用の <b>For You</b> プレイリストを手に入れるには、ログインするか登録して、お気に入りのトラックを保存し、カスタムプレイリストを作成し、あなた自身の音楽をアップロードしよう！"
-
-msgid "Register"
-msgstr "登録"
-
-msgid "Charts"
-msgstr "チャート"
-
-msgid "What do you want to listen to?"
-msgstr "何を聴きたい？"
-
-msgid "Tracks"
-msgstr "曲"
-
-msgid "Liked Songs"
-msgstr "お気に入りの曲"
-
-msgid "tracks"
-msgstr "トラック"
+msgid "Your Library"
+msgstr ""
 
 msgid "Create Playlist"
 msgstr "プレイリストを作成"
 
-msgid "My Playlists"
-msgstr "マイプレイリスト"
+msgid "Sounds / Memes"
+msgstr "サウンド / ミーム"
 
-msgid "Play"
-msgstr "再生"
+msgid "Forward"
+msgstr ""
 
-msgid "Plays"
-msgstr "再生回数"
+msgid "What do you want to listen to?"
+msgstr "何を聴きたい？"
 
-msgid "Added"
-msgstr "追加済み"
+msgid "My Music Profile"
+msgstr ""
 
 msgid "Now Playing"
 msgstr "現在再生中"
 
-msgid "Track Cover"
-msgstr "トラックのカバー"
-
-msgid "Track Title"
-msgstr "曲名"
-
-msgid "Artist"
-msgstr "アーティスト"
+msgid "Select a track"
+msgstr "曲を選択"
 
 msgid "Next in Queue"
 msgstr "キューの次"
-
-msgid "Cover"
-msgstr "カバー"
-
-msgid "Select a track"
-msgstr "曲を選択"
 
 msgid "Shuffle"
 msgstr "シャッフル"
@@ -2993,98 +2948,122 @@ msgstr "次の曲"
 msgid "Repeat"
 msgstr "リピート"
 
-msgid "Fullscreen Mode"
-msgstr "フルスクリーンモード"
-
 msgid "Show Track Details"
 msgstr "曲の詳細を表示"
+
+msgid "Fullscreen Mode"
+msgstr "フルスクリーンモード"
 
 msgid "Mute/Unmute"
 msgstr "ミュート/ミュート解除"
 
-msgid "Add to Queue"
-msgstr "再生キューに追加"
+msgid "Library"
+msgstr ""
 
-msgid "Copy Link"
-msgstr "リンクをコピー"
+msgid "Liked Songs"
+msgstr "お気に入りの曲"
 
-msgid "Search playlists..."
-msgstr "プレイリストを検索..."
-
-msgid "New Playlist"
-msgstr "新しいプレイリスト"
-
-msgid "Based on your taste"
-msgstr "あなたの好みに基づいて"
-
-msgid "Trending right now"
-msgstr "今のトレンド"
-
-msgid "Freshest uploads"
-msgstr "最新アップロード"
-
-msgid "Most popular tracks this week"
-msgstr "今週の人気楽曲"
-
-msgid "Most popular tracks this month"
-msgstr "今月の人気楽曲"
-
-msgid "Search Results"
-msgstr "検索結果"
-
-msgid "Playlist is empty"
-msgstr "プレイリストは空です"
-
-msgid "UwUpad Chart"
-msgstr "UwUpad チャート"
-
-msgid "Trending in"
-msgstr "いま話題の"
-
-msgid "Log in or register to get a personalized For You playlist based on your taste."
-msgstr "あなたの好みに基づくパーソナライズされた <b>For You</b> プレイリストを手に入れるには、ログインするか登録しよう。"
+msgid "tracks"
+msgstr "トラック"
 
 msgid "plays"
 msgstr "再生回数"
 
-msgid "UwUpad Music is a free music streaming service that offers a wide range of music for free."
-msgstr "UwUpad Music は、無料で使える音楽ストリーミングサービスだ。幅広い音楽を無料で楽しめるぜ。"
+msgid "likes"
+msgstr ""
 
-msgid "Unlike"
-msgstr "いいねを解除"
+msgid "Charts"
+msgstr "チャート"
 
-msgid "We will show fewer tracks like this"
-msgstr "こんなトラックは表示を減らすよ"
+msgid "Top 50 by Country"
+msgstr ""
 
-msgid "Link copied to clipboard"
-msgstr "リンクをクリップボードにコピーしました"
+msgid "Trending in"
+msgstr "いま話題の"
 
-msgid "Your personal favorites"
-msgstr "あなたのお気に入り"
+msgid "Browse by Genre"
+msgstr ""
 
-msgid "Enter playlist name:"
-msgstr "プレイリスト名を入力:"
+msgid "Browse all genres"
+msgstr ""
 
-msgid "Are you sure you want to delete this playlist?"
-msgstr "このプレイリストを削除してもいいですか？"
+msgid "New Playlist"
+msgstr "新しいプレイリスト"
 
-msgid "Log in or register to create and manage your custom playlists."
-msgstr "あなたのカスタムプレイリストを作成・管理するには、ログインするか登録しよう。"
+msgid "Search playlists..."
+msgstr "プレイリストを検索..."
 
 msgid "No playlists found"
 msgstr "プレイリストは見つからなかったよ"
 
-msgid "Log in or register to like and save your favorite tracks."
-msgstr "お気に入りのトラックをいいねして保存するには、ログインするか登録しよう。"
+msgid "Register"
+msgstr "登録"
 
-msgid "This track is downloading."
-msgstr "この曲はダウンロード中です。"
+msgid "Create"
+msgstr ""
 
-msgid "Please wait for the current download to finish."
-msgstr "現在のダウンロードが完了するまでお待ちください。"
+msgid "Delete Playlist"
+msgstr ""
 
-msgid "Downloading error"
-msgstr "ダウンロードエラー"
+msgid "Are you sure you want to delete this playlist?"
+msgstr "このプレイリストを削除してもいいですか？"
+
+msgid "Play"
+msgstr "再生"
+
+msgid "Play next"
+msgstr ""
+
+msgid "Add to Queue"
+msgstr "再生キューに追加"
+
+msgid "Unlike"
+msgstr "いいねを解除"
+
+msgid "Go to artist"
+msgstr ""
+
+msgid "Copy Link"
+msgstr "リンクをコピー"
+
+msgid "Link copied to clipboard"
+msgstr "リンクをクリップボードにコピーしました"
+
+msgid "Nothing found"
+msgstr ""
+
+msgid "All genres"
+msgstr ""
+
+msgid "Artist"
+msgstr "アーティスト"
+
+msgid "Song"
+msgstr ""
+
+msgid "All Tracks"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Top Result"
+msgstr ""
+
+msgid "Songs"
+msgstr ""
+
+msgid "Tracks"
+msgstr "曲"
+
+msgid "Artists"
+msgstr ""
+
+msgid "See more"
+msgstr ""
+
+msgid "Show less"
+msgstr ""
 
 msgid "Finished!"
 msgstr "完了！"
@@ -3516,6 +3495,9 @@ msgstr "パスワードは空欄にできないぞ。"
 
 msgid "Not an admin."
 msgstr "管理者ではありません。"
+
+msgid "Artist not found"
+msgstr ""
 
 msgid "Cover image is too large (max 5MB)."
 msgstr "カバー画像が大きすぎるぞ（最大5MB）。"

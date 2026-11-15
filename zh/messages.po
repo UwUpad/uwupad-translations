@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-13 00:00+0000\n"
+"POT-Creation-Date: 2026-11-15 16:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -2896,80 +2896,35 @@ msgstr "在 UwUpad 上收听并发现新音乐。来自独立艺术家的数千�
 msgid "Listen to and discover new music on UwUpad."
 msgstr "在 UwUpad 上收听并发现新音乐。"
 
-msgid "Browse"
-msgstr "浏览"
-
 msgid "My Library"
 msgstr "我的媒体库"
 
-msgid "Return to Sounds / Memes"
-msgstr "返回声音 / 语音模因"
-
-msgid "Sounds / Memes"
-msgstr "声音 / 语音模因"
-
-msgid "Search by title..."
-msgstr "按标题搜索..."
-
-msgid "Unlock the Full Experience"
-msgstr "解锁完整体验"
-
-msgid "Log in or register to get a personalized <b>For You</b> playlist, save your favorite tracks, create custom playlists, and upload your own music!"
-msgstr "登录或注册即可获得个性化的 <b>For You</b> 歌单，收藏你喜欢的曲目，创建自定义歌单，并上传你自己的音乐！"
-
-msgid "Register"
-msgstr "注册"
-
-msgid "Charts"
-msgstr "图表"
-
-msgid "What do you want to listen to?"
-msgstr "你想听什么？"
-
-msgid "Tracks"
-msgstr "曲目"
-
-msgid "Liked Songs"
-msgstr "喜欢的歌曲"
-
-msgid "tracks"
-msgstr "曲目"
+msgid "Your Library"
+msgstr ""
 
 msgid "Create Playlist"
 msgstr "创建播放列表"
 
-msgid "My Playlists"
-msgstr "我的播放列表"
+msgid "Sounds / Memes"
+msgstr "声音 / 语音模因"
 
-msgid "Play"
-msgstr "播放"
+msgid "Forward"
+msgstr ""
 
-msgid "Plays"
-msgstr "播放量"
+msgid "What do you want to listen to?"
+msgstr "你想听什么？"
 
-msgid "Added"
-msgstr "已添加"
+msgid "My Music Profile"
+msgstr ""
 
 msgid "Now Playing"
 msgstr "正在播放"
 
-msgid "Track Cover"
-msgstr "歌曲封面"
-
-msgid "Track Title"
-msgstr "歌曲标题"
-
-msgid "Artist"
-msgstr "艺术家"
+msgid "Select a track"
+msgstr "选择曲目"
 
 msgid "Next in Queue"
 msgstr "下一首队列"
-
-msgid "Cover"
-msgstr "封面"
-
-msgid "Select a track"
-msgstr "选择曲目"
 
 msgid "Shuffle"
 msgstr "随机播放"
@@ -2986,98 +2941,122 @@ msgstr "下一首"
 msgid "Repeat"
 msgstr "循环"
 
-msgid "Fullscreen Mode"
-msgstr "全屏模式"
-
 msgid "Show Track Details"
 msgstr "显示曲目详情"
+
+msgid "Fullscreen Mode"
+msgstr "全屏模式"
 
 msgid "Mute/Unmute"
 msgstr "静音/取消静音"
 
-msgid "Add to Queue"
-msgstr "添加到队列"
+msgid "Library"
+msgstr ""
 
-msgid "Copy Link"
-msgstr "复制链接"
+msgid "Liked Songs"
+msgstr "喜欢的歌曲"
 
-msgid "Search playlists..."
-msgstr "搜索播放列表..."
-
-msgid "New Playlist"
-msgstr "新播放列表"
-
-msgid "Based on your taste"
-msgstr "基于你的口味"
-
-msgid "Trending right now"
-msgstr "现在最火"
-
-msgid "Freshest uploads"
-msgstr "最新上传"
-
-msgid "Most popular tracks this week"
-msgstr "本周最热门的曲目"
-
-msgid "Most popular tracks this month"
-msgstr "本月最热门的曲目"
-
-msgid "Search Results"
-msgstr "搜索结果"
-
-msgid "Playlist is empty"
-msgstr "播放列表为空"
-
-msgid "UwUpad Chart"
-msgstr "UwUpad 图表"
-
-msgid "Trending in"
-msgstr "本地热榜"
-
-msgid "Log in or register to get a personalized For You playlist based on your taste."
-msgstr "登录或注册，即可获得基于你的口味的个性化 For You 歌单。"
+msgid "tracks"
+msgstr "曲目"
 
 msgid "plays"
 msgstr "播放量"
 
-msgid "UwUpad Music is a free music streaming service that offers a wide range of music for free."
-msgstr "UwUpad Music 是一个免费的音乐流媒体服务，提供海量音乐，全部免费聆听，爽到飞起。"
+msgid "likes"
+msgstr ""
 
-msgid "Unlike"
-msgstr "取消点赞"
+msgid "Charts"
+msgstr "图表"
 
-msgid "We will show fewer tracks like this"
-msgstr "我们会少展示这类曲目"
+msgid "Top 50 by Country"
+msgstr ""
 
-msgid "Link copied to clipboard"
-msgstr "链接已复制到剪贴板"
+msgid "Trending in"
+msgstr "本地热榜"
 
-msgid "Your personal favorites"
-msgstr "你的个人收藏"
+msgid "Browse by Genre"
+msgstr ""
 
-msgid "Enter playlist name:"
-msgstr "输入播放列表名称："
+msgid "Browse all genres"
+msgstr ""
 
-msgid "Are you sure you want to delete this playlist?"
-msgstr "你确定要删除这个播放列表吗？"
+msgid "New Playlist"
+msgstr "新播放列表"
 
-msgid "Log in or register to create and manage your custom playlists."
-msgstr "登录或注册以创建并管理你的自定义歌单。"
+msgid "Search playlists..."
+msgstr "搜索播放列表..."
 
 msgid "No playlists found"
 msgstr "没有找到播放列表"
 
-msgid "Log in or register to like and save your favorite tracks."
-msgstr "登录或注册以喜欢并收藏你最喜欢的曲目。"
+msgid "Register"
+msgstr "注册"
 
-msgid "This track is downloading."
-msgstr "此曲目正在下载中。"
+msgid "Create"
+msgstr ""
 
-msgid "Please wait for the current download to finish."
-msgstr "请等待当前下载完成。"
+msgid "Delete Playlist"
+msgstr ""
 
-msgid "Downloading error"
-msgstr "下载出错"
+msgid "Are you sure you want to delete this playlist?"
+msgstr "你确定要删除这个播放列表吗？"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Play next"
+msgstr ""
+
+msgid "Add to Queue"
+msgstr "添加到队列"
+
+msgid "Unlike"
+msgstr "取消点赞"
+
+msgid "Go to artist"
+msgstr ""
+
+msgid "Copy Link"
+msgstr "复制链接"
+
+msgid "Link copied to clipboard"
+msgstr "链接已复制到剪贴板"
+
+msgid "Nothing found"
+msgstr ""
+
+msgid "All genres"
+msgstr ""
+
+msgid "Artist"
+msgstr "艺术家"
+
+msgid "Song"
+msgstr ""
+
+msgid "All Tracks"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Top Result"
+msgstr ""
+
+msgid "Songs"
+msgstr ""
+
+msgid "Tracks"
+msgstr "曲目"
+
+msgid "Artists"
+msgstr ""
+
+msgid "See more"
+msgstr ""
+
+msgid "Show less"
+msgstr ""
 
 msgid "Finished!"
 msgstr "已完成！"
@@ -3509,6 +3488,9 @@ msgstr "密码不能为空。"
 
 msgid "Not an admin."
 msgstr "非管理员。"
+
+msgid "Artist not found"
+msgstr ""
 
 msgid "Cover image is too large (max 5MB)."
 msgstr "封面图片过大 (最大 5MB)。"

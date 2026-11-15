@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-13 00:00+0000\n"
+"POT-Creation-Date: 2026-11-15 16:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
@@ -2900,80 +2900,35 @@ msgstr "UwUpad-та тыңдаңыз және жаңа музыка табыңы
 msgid "Listen to and discover new music on UwUpad."
 msgstr "UwUpad-та тыңдаңыз және жаңа музыка табыңыз."
 
-msgid "Browse"
-msgstr "Шолу"
-
 msgid "My Library"
 msgstr "Менің кітапханам"
 
-msgid "Return to Sounds / Memes"
-msgstr "Дыбыстар / Мемелерге қайту"
-
-msgid "Sounds / Memes"
-msgstr "Дыбыстар / Мемелер"
-
-msgid "Search by title..."
-msgstr "Атауы бойынша іздеу..."
-
-msgid "Unlock the Full Experience"
-msgstr "Толық тәжірибені ашу"
-
-msgid "Log in or register to get a personalized <b>For You</b> playlist, save your favorite tracks, create custom playlists, and upload your own music!"
-msgstr "Есеппен кіру не тіркелу арқылы сізге жеке <b>For You</b> тізімі ұсынылады, сүйікті трек¬теріңізді сақтап, өзіңізге арналған арнайы тізімдер құрып, өз музыкаңызды жүктей аласыз!"
-
-msgid "Register"
-msgstr "Тіркелу"
-
-msgid "Charts"
-msgstr "Графиктер"
-
-msgid "What do you want to listen to?"
-msgstr "Не тыңдағың келеді?"
-
-msgid "Tracks"
-msgstr "Тректер"
-
-msgid "Liked Songs"
-msgstr "Ұнатылған әндер"
-
-msgid "tracks"
-msgstr "тректер"
+msgid "Your Library"
+msgstr ""
 
 msgid "Create Playlist"
 msgstr "Плейлист құру"
 
-msgid "My Playlists"
-msgstr "Менің плейлисттерім"
+msgid "Sounds / Memes"
+msgstr "Дыбыстар / Мемелер"
 
-msgid "Play"
-msgstr "Ойнату"
+msgid "Forward"
+msgstr ""
 
-msgid "Plays"
-msgstr "Ойналулар"
+msgid "What do you want to listen to?"
+msgstr "Не тыңдағың келеді?"
 
-msgid "Added"
-msgstr "Қосылды"
+msgid "My Music Profile"
+msgstr ""
 
 msgid "Now Playing"
 msgstr "Қазір ойналып жатыр"
 
-msgid "Track Cover"
-msgstr "Трек суреті"
-
-msgid "Track Title"
-msgstr "Трек атауы"
-
-msgid "Artist"
-msgstr "Әнші"
+msgid "Select a track"
+msgstr "Трек таңдаңыз"
 
 msgid "Next in Queue"
 msgstr "Кезектегі келесі"
-
-msgid "Cover"
-msgstr "Сурет"
-
-msgid "Select a track"
-msgstr "Трек таңдаңыз"
 
 msgid "Shuffle"
 msgstr "Аралас ойнату"
@@ -2990,98 +2945,122 @@ msgstr "Келесі трек"
 msgid "Repeat"
 msgstr "Қайталау"
 
-msgid "Fullscreen Mode"
-msgstr "Толық экран режимі"
-
 msgid "Show Track Details"
 msgstr "Трек туралы мәліметтерді көрсету"
+
+msgid "Fullscreen Mode"
+msgstr "Толық экран режимі"
 
 msgid "Mute/Unmute"
 msgstr "Дыбыссыз ету/Дыбыс қосу"
 
-msgid "Add to Queue"
-msgstr "Кезекке қосу"
+msgid "Library"
+msgstr ""
 
-msgid "Copy Link"
-msgstr "Сілтемені көшір"
+msgid "Liked Songs"
+msgstr "Ұнатылған әндер"
 
-msgid "Search playlists..."
-msgstr "Плейлисттерді іздеу..."
-
-msgid "New Playlist"
-msgstr "Жаңа плейлист"
-
-msgid "Based on your taste"
-msgstr "Сіздің дәміңізге сай"
-
-msgid "Trending right now"
-msgstr "Қазір трендте"
-
-msgid "Freshest uploads"
-msgstr "Ең соңғы жүктептер"
-
-msgid "Most popular tracks this week"
-msgstr "Осы аптаның ең танымал тректері"
-
-msgid "Most popular tracks this month"
-msgstr "Осы айдың ең танымал тректері"
-
-msgid "Search Results"
-msgstr "Іздеу нәтижелері"
-
-msgid "Playlist is empty"
-msgstr "Плейлист бос"
-
-msgid "UwUpad Chart"
-msgstr "UwUpad диаграммасы"
-
-msgid "Trending in"
-msgstr "Трендте"
-
-msgid "Log in or register to get a personalized For You playlist based on your taste."
-msgstr "Сіздің дәміңізге сай жеке For You тізімін алу үшін кіру немесе тіркеліңіз."
+msgid "tracks"
+msgstr "тректер"
 
 msgid "plays"
 msgstr "Ойналулар"
 
-msgid "UwUpad Music is a free music streaming service that offers a wide range of music for free."
-msgstr "UwUpad Music — тегін музыка тыңдау қызметі, мұнда тегін түрде кең ауқымды музыка тыңдауға болады."
+msgid "likes"
+msgstr ""
 
-msgid "Unlike"
-msgstr "Ұнатпау"
+msgid "Charts"
+msgstr "Графиктер"
 
-msgid "We will show fewer tracks like this"
-msgstr "Мұндай тректерді аз көрсетеміз"
+msgid "Top 50 by Country"
+msgstr ""
 
-msgid "Link copied to clipboard"
-msgstr "Сілтемені буферге көшірілді"
+msgid "Trending in"
+msgstr "Трендте"
 
-msgid "Your personal favorites"
-msgstr "Сіздің жеке сүйіктілеріңіз"
+msgid "Browse by Genre"
+msgstr ""
 
-msgid "Enter playlist name:"
-msgstr "Плейлист атауын енгізіңіз:"
+msgid "Browse all genres"
+msgstr ""
 
-msgid "Are you sure you want to delete this playlist?"
-msgstr "Бұл плейлистті өшіргіңіз келе ме?"
+msgid "New Playlist"
+msgstr "Жаңа плейлист"
 
-msgid "Log in or register to create and manage your custom playlists."
-msgstr "Өзіңіздің жеке тізімдеріңізді құрып, оларды басқару үшін кіру немесе тіркеліңіз."
+msgid "Search playlists..."
+msgstr "Плейлисттерді іздеу..."
 
 msgid "No playlists found"
 msgstr "Плейлисттер табылмады"
 
-msgid "Log in or register to like and save your favorite tracks."
-msgstr "Ұнатқан тректеріңізді лайк басып және сақтау үшін кіру немесе тіркеліңіз."
+msgid "Register"
+msgstr "Тіркелу"
 
-msgid "This track is downloading."
-msgstr "Бұл трек жүктеліп жатыр."
+msgid "Create"
+msgstr ""
 
-msgid "Please wait for the current download to finish."
-msgstr "Қазіргі жүктелу аяқталғанша күтіңіз."
+msgid "Delete Playlist"
+msgstr ""
 
-msgid "Downloading error"
-msgstr "Жүктеу қатесі"
+msgid "Are you sure you want to delete this playlist?"
+msgstr "Бұл плейлистті өшіргіңіз келе ме?"
+
+msgid "Play"
+msgstr "Ойнату"
+
+msgid "Play next"
+msgstr ""
+
+msgid "Add to Queue"
+msgstr "Кезекке қосу"
+
+msgid "Unlike"
+msgstr "Ұнатпау"
+
+msgid "Go to artist"
+msgstr ""
+
+msgid "Copy Link"
+msgstr "Сілтемені көшір"
+
+msgid "Link copied to clipboard"
+msgstr "Сілтемені буферге көшірілді"
+
+msgid "Nothing found"
+msgstr ""
+
+msgid "All genres"
+msgstr ""
+
+msgid "Artist"
+msgstr "Әнші"
+
+msgid "Song"
+msgstr ""
+
+msgid "All Tracks"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Top Result"
+msgstr ""
+
+msgid "Songs"
+msgstr ""
+
+msgid "Tracks"
+msgstr "Тректер"
+
+msgid "Artists"
+msgstr ""
+
+msgid "See more"
+msgstr ""
+
+msgid "Show less"
+msgstr ""
 
 msgid "Finished!"
 msgstr "Аяқталды!"
@@ -3513,6 +3492,9 @@ msgstr "Құпиясөз бос бола алмайды."
 
 msgid "Not an admin."
 msgstr "Әкімші емес."
+
+msgid "Artist not found"
+msgstr ""
 
 msgid "Cover image is too large (max 5MB)."
 msgstr "Cover суреті тым үлкен (ең көп 5MB)."

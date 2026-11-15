@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-13 00:00+0000\n"
+"POT-Creation-Date: 2026-11-15 16:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: ru <LL@li.org>\n"
@@ -2896,80 +2896,35 @@ msgstr "Слушайте и открывайте для себя новую му
 msgid "Listen to and discover new music on UwUpad."
 msgstr "Слушайте и открывайте для себя новую музыку на UwUpad."
 
-msgid "Browse"
-msgstr "Обзор"
-
 msgid "My Library"
 msgstr "Моя библиотека"
 
-msgid "Return to Sounds / Memes"
-msgstr "Вернуться к Звукам / Мемам"
-
-msgid "Sounds / Memes"
-msgstr "Звуки / Мемы"
-
-msgid "Search by title..."
-msgstr "Поиск по названию..."
-
-msgid "Unlock the Full Experience"
-msgstr "Разблокируйте полный опыт"
-
-msgid "Log in or register to get a personalized <b>For You</b> playlist, save your favorite tracks, create custom playlists, and upload your own music!"
-msgstr "Войдите или зарегистрируйтесь, чтобы получить персонализированный <b>For You</b> плейлист, сохранить любимые треки, создать собственные плейлисты и загрузить свою музыку!"
-
-msgid "Register"
-msgstr "Зарегистрироваться"
-
-msgid "Charts"
-msgstr "Чарты"
-
-msgid "What do you want to listen to?"
-msgstr "Что вы хотите послушать?"
-
-msgid "Tracks"
-msgstr "Треки"
-
-msgid "Liked Songs"
-msgstr "Понравившиеся песни"
-
-msgid "tracks"
-msgstr "треков"
+msgid "Your Library"
+msgstr ""
 
 msgid "Create Playlist"
 msgstr "Создать плейлист"
 
-msgid "My Playlists"
-msgstr "Мои плейлисты"
+msgid "Sounds / Memes"
+msgstr "Звуки / Мемы"
 
-msgid "Play"
-msgstr "Воспроизвести"
+msgid "Forward"
+msgstr ""
 
-msgid "Plays"
-msgstr "Просмотры"
+msgid "What do you want to listen to?"
+msgstr "Что вы хотите послушать?"
 
-msgid "Added"
-msgstr "Добавлено"
+msgid "My Music Profile"
+msgstr ""
 
 msgid "Now Playing"
 msgstr "Сейчас играет"
 
-msgid "Track Cover"
-msgstr "Обложка трека"
-
-msgid "Track Title"
-msgstr "Название трека"
-
-msgid "Artist"
-msgstr "Исполнитель"
+msgid "Select a track"
+msgstr "Выберите трек"
 
 msgid "Next in Queue"
 msgstr "Следующий в очереди"
-
-msgid "Cover"
-msgstr "Обложка"
-
-msgid "Select a track"
-msgstr "Выберите трек"
 
 msgid "Shuffle"
 msgstr "Перемешать"
@@ -2986,98 +2941,122 @@ msgstr "След. трек"
 msgid "Repeat"
 msgstr "Повтор"
 
-msgid "Fullscreen Mode"
-msgstr "Полноэкранный режим"
-
 msgid "Show Track Details"
 msgstr "Показать детали трека"
+
+msgid "Fullscreen Mode"
+msgstr "Полноэкранный режим"
 
 msgid "Mute/Unmute"
 msgstr "Выкл/Вкл звук"
 
-msgid "Add to Queue"
-msgstr "Добавить в очередь"
+msgid "Library"
+msgstr ""
 
-msgid "Copy Link"
-msgstr "Скопировать ссылку"
+msgid "Liked Songs"
+msgstr "Понравившиеся песни"
 
-msgid "Search playlists..."
-msgstr "Поиск плейлистов..."
-
-msgid "New Playlist"
-msgstr "Новый плейлист"
-
-msgid "Based on your taste"
-msgstr "По вашим вкусам"
-
-msgid "Trending right now"
-msgstr "Сейчас в тренде"
-
-msgid "Freshest uploads"
-msgstr "Самые свежие загрузки"
-
-msgid "Most popular tracks this week"
-msgstr "Самые топовые треки на этой неделе"
-
-msgid "Most popular tracks this month"
-msgstr "Самые топовые треки в этом месяце"
-
-msgid "Search Results"
-msgstr "Результаты поиска"
-
-msgid "Playlist is empty"
-msgstr "Этот плейлист пуст."
-
-msgid "UwUpad Chart"
-msgstr "График UwUpad"
-
-msgid "Trending in"
-msgstr "Тренды в"
-
-msgid "Log in or register to get a personalized For You playlist based on your taste."
-msgstr "Войдите или зарегистрируйтесь, чтобы получить персонализированный плейлист For You, основанный на вашем вкусе."
+msgid "tracks"
+msgstr "треков"
 
 msgid "plays"
 msgstr "просмотры"
 
-msgid "UwUpad Music is a free music streaming service that offers a wide range of music for free."
-msgstr "UwUpad Music — бесплатный сервис потоковой музыки, который предлагает широкий ассортимент музыки бесплатно."
+msgid "likes"
+msgstr ""
 
-msgid "Unlike"
-msgstr "Не нравится"
+msgid "Charts"
+msgstr "Чарты"
 
-msgid "We will show fewer tracks like this"
-msgstr "Мы будем показывать меньше треков типа этого"
+msgid "Top 50 by Country"
+msgstr ""
 
-msgid "Link copied to clipboard"
-msgstr "Ссылка скопирована в буфер обмена"
+msgid "Trending in"
+msgstr "Тренды в"
 
-msgid "Your personal favorites"
-msgstr "Ваши личные фавориты"
+msgid "Browse by Genre"
+msgstr ""
 
-msgid "Enter playlist name:"
-msgstr "Введите название плейлиста:"
+msgid "Browse all genres"
+msgstr ""
 
-msgid "Are you sure you want to delete this playlist?"
-msgstr "Вы уверены, что хотите удалить этот плейлист?"
+msgid "New Playlist"
+msgstr "Новый плейлист"
 
-msgid "Log in or register to create and manage your custom playlists."
-msgstr "Войдите или зарегистрируйтесь, чтобы создавать и управлять своими собственными плейлистами."
+msgid "Search playlists..."
+msgstr "Поиск плейлистов..."
 
 msgid "No playlists found"
 msgstr "Плейлисты не найдены"
 
-msgid "Log in or register to like and save your favorite tracks."
-msgstr "Войдите или зарегистрируйтесь, чтобы ставить лайки и сохранять ваши любимые треки."
+msgid "Register"
+msgstr "Зарегистрироваться"
 
-msgid "This track is downloading."
-msgstr "Этот трек уже загружается."
+msgid "Create"
+msgstr ""
 
-msgid "Please wait for the current download to finish."
-msgstr "Пожалуйста, дождитесь завершения предыдущей загрузки."
+msgid "Delete Playlist"
+msgstr ""
 
-msgid "Downloading error"
-msgstr "Ошибка загрузки"
+msgid "Are you sure you want to delete this playlist?"
+msgstr "Вы уверены, что хотите удалить этот плейлист?"
+
+msgid "Play"
+msgstr "Воспроизвести"
+
+msgid "Play next"
+msgstr ""
+
+msgid "Add to Queue"
+msgstr "Добавить в очередь"
+
+msgid "Unlike"
+msgstr "Не нравится"
+
+msgid "Go to artist"
+msgstr ""
+
+msgid "Copy Link"
+msgstr "Скопировать ссылку"
+
+msgid "Link copied to clipboard"
+msgstr "Ссылка скопирована в буфер обмена"
+
+msgid "Nothing found"
+msgstr ""
+
+msgid "All genres"
+msgstr ""
+
+msgid "Artist"
+msgstr "Исполнитель"
+
+msgid "Song"
+msgstr ""
+
+msgid "All Tracks"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Top Result"
+msgstr ""
+
+msgid "Songs"
+msgstr ""
+
+msgid "Tracks"
+msgstr "Треки"
+
+msgid "Artists"
+msgstr ""
+
+msgid "See more"
+msgstr ""
+
+msgid "Show less"
+msgstr ""
 
 msgid "Finished!"
 msgstr "Завершено!"
@@ -3509,6 +3488,9 @@ msgstr "Пароль не может быть пустым."
 
 msgid "Not an admin."
 msgstr "Не администратор."
+
+msgid "Artist not found"
+msgstr ""
 
 msgid "Cover image is too large (max 5MB)."
 msgstr "Изображение обложки слишком большое (макс. 5МБ)."

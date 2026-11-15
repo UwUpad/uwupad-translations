@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-13 00:00+0000\n"
+"POT-Creation-Date: 2026-11-15 16:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -2903,80 +2903,35 @@ msgstr "به UwUpad گوش بده و موزیکای جدید رو کشف کن. �
 msgid "Listen to and discover new music on UwUpad."
 msgstr "به UwUpad گوش بده و موزیکای جدید رو کشف کن."
 
-msgid "Browse"
-msgstr "کاوش"
-
 msgid "My Library"
 msgstr "کتابخانه من"
 
-msgid "Return to Sounds / Memes"
-msgstr "بازگشت به صداها / میمز"
-
-msgid "Sounds / Memes"
-msgstr "صداها / میمز"
-
-msgid "Search by title..."
-msgstr "جستجو با عنوان..."
-
-msgid "Unlock the Full Experience"
-msgstr "دسترسی به تجربه کامل را فعال کنید."
-
-msgid "Log in or register to get a personalized <b>For You</b> playlist, save your favorite tracks, create custom playlists, and upload your own music!"
-msgstr "وارد شو یا ثبت نام کن تا یه فهرست پخش شخصی <b>For You</b> بگیری، آهنگ‌های محبوبت رو ذخیره کنی، پلی‌لیست‌های سفارشی بسازی و موسیقی خودت رو آپلود کنی!"
-
-msgid "Register"
-msgstr "ثبت نام"
-
-msgid "Charts"
-msgstr "نمودارها"
-
-msgid "What do you want to listen to?"
-msgstr "می‌خوای به چه چیزی گوش بدی؟"
-
-msgid "Tracks"
-msgstr "آهنگ‌ها"
-
-msgid "Liked Songs"
-msgstr "آهنگ‌های لایک‌شده"
-
-msgid "tracks"
-msgstr "قطعات"
+msgid "Your Library"
+msgstr ""
 
 msgid "Create Playlist"
 msgstr "ایجاد فهرست پخش"
 
-msgid "My Playlists"
-msgstr "لیست‌های پخش من"
+msgid "Sounds / Memes"
+msgstr "صداها / میمز"
 
-msgid "Play"
-msgstr "پخش"
+msgid "Forward"
+msgstr ""
 
-msgid "Plays"
-msgstr "پخش"
+msgid "What do you want to listen to?"
+msgstr "می‌خوای به چه چیزی گوش بدی؟"
 
-msgid "Added"
-msgstr "اضافه شد"
+msgid "My Music Profile"
+msgstr ""
 
 msgid "Now Playing"
 msgstr "در حال پخش"
 
-msgid "Track Cover"
-msgstr "کاور آهنگ"
-
-msgid "Track Title"
-msgstr "عنوان آهنگ"
-
-msgid "Artist"
-msgstr "هنرمند"
+msgid "Select a track"
+msgstr "یک آهنگ انتخاب کنید"
 
 msgid "Next in Queue"
 msgstr "بعدی در صف"
-
-msgid "Cover"
-msgstr "کاور"
-
-msgid "Select a track"
-msgstr "یک آهنگ انتخاب کنید"
 
 msgid "Shuffle"
 msgstr "پخش تصادفی"
@@ -2993,98 +2948,122 @@ msgstr "آهنگ بعدی"
 msgid "Repeat"
 msgstr "تکرار"
 
-msgid "Fullscreen Mode"
-msgstr "حالت تمام‌صفحه"
-
 msgid "Show Track Details"
 msgstr "نمایش جزئیات آهنگ"
+
+msgid "Fullscreen Mode"
+msgstr "حالت تمام‌صفحه"
 
 msgid "Mute/Unmute"
 msgstr "بی‌صدا/روشن کردن صدا"
 
-msgid "Add to Queue"
-msgstr "افزودن به صف پخش"
+msgid "Library"
+msgstr ""
 
-msgid "Copy Link"
-msgstr "کپی لینک"
+msgid "Liked Songs"
+msgstr "آهنگ‌های لایک‌شده"
 
-msgid "Search playlists..."
-msgstr "جستجو در فهرست‌های پخش..."
-
-msgid "New Playlist"
-msgstr "پلی‌لیست جدید"
-
-msgid "Based on your taste"
-msgstr "بر اساس سلیقه‌ت"
-
-msgid "Trending right now"
-msgstr "ترند این لحظه"
-
-msgid "Freshest uploads"
-msgstr "جدیدترین آپلودها"
-
-msgid "Most popular tracks this week"
-msgstr "آهنگ‌های پرطرفدار این هفته"
-
-msgid "Most popular tracks this month"
-msgstr "آهنگ‌های پرطرفدار این ماه"
-
-msgid "Search Results"
-msgstr "نتایج جستجو"
-
-msgid "Playlist is empty"
-msgstr "پلی‌لیست خالی است"
-
-msgid "UwUpad Chart"
-msgstr "نمودار UwUpad"
-
-msgid "Trending in"
-msgstr "پرطرفدار در"
-
-msgid "Log in or register to get a personalized For You playlist based on your taste."
-msgstr "وارد شو یا ثبت نام کن تا یه فهرست پخش شخصی For You بر اساس سلیقه‌ت بگیری."
+msgid "tracks"
+msgstr "قطعات"
 
 msgid "plays"
 msgstr "پخش‌ها"
 
-msgid "UwUpad Music is a free music streaming service that offers a wide range of music for free."
-msgstr "UwUpad Music یه سرویس پخش موسیقی رایگانِ که کلی موسیقی مختلف رو رایگان در اختیارته."
+msgid "likes"
+msgstr ""
 
-msgid "Unlike"
-msgstr "پسند نکردن"
+msgid "Charts"
+msgstr "نمودارها"
 
-msgid "We will show fewer tracks like this"
-msgstr "این‌جور آهنگ‌ها رو کمتر نشون می‌دیم"
+msgid "Top 50 by Country"
+msgstr ""
 
-msgid "Link copied to clipboard"
-msgstr "لینک به کلیپ‌بورد کپی شد"
+msgid "Trending in"
+msgstr "پرطرفدار در"
 
-msgid "Your personal favorites"
-msgstr "علاقه‌مندی‌های شخصی شما"
+msgid "Browse by Genre"
+msgstr ""
 
-msgid "Enter playlist name:"
-msgstr "نام پلی‌لیست را وارد کنید:"
+msgid "Browse all genres"
+msgstr ""
 
-msgid "Are you sure you want to delete this playlist?"
-msgstr "آیا از حذف این پلی‌لیست مطمئن هستید؟"
+msgid "New Playlist"
+msgstr "پلی‌لیست جدید"
 
-msgid "Log in or register to create and manage your custom playlists."
-msgstr "وارد شو یا ثبت نام کن تا پلی‌لیست‌های سفارشی خودت رو بسازی و مدیریتشون کنی."
+msgid "Search playlists..."
+msgstr "جستجو در فهرست‌های پخش..."
 
 msgid "No playlists found"
 msgstr "هیچ فهرست پخش یافت نشد"
 
-msgid "Log in or register to like and save your favorite tracks."
-msgstr "وارد شو یا ثبت نام کن تا آهنگ‌های محبوبت رو لایک کنی و ذخیره‌شون کنی."
+msgid "Register"
+msgstr "ثبت نام"
 
-msgid "This track is downloading."
-msgstr "این تراک در حال دانلود است."
+msgid "Create"
+msgstr ""
 
-msgid "Please wait for the current download to finish."
-msgstr "لطفاً صبر کنید تا دانلود فعلی به پایان برسد."
+msgid "Delete Playlist"
+msgstr ""
 
-msgid "Downloading error"
-msgstr "خطای دانلود"
+msgid "Are you sure you want to delete this playlist?"
+msgstr "آیا از حذف این پلی‌لیست مطمئن هستید؟"
+
+msgid "Play"
+msgstr "پخش"
+
+msgid "Play next"
+msgstr ""
+
+msgid "Add to Queue"
+msgstr "افزودن به صف پخش"
+
+msgid "Unlike"
+msgstr "پسند نکردن"
+
+msgid "Go to artist"
+msgstr ""
+
+msgid "Copy Link"
+msgstr "کپی لینک"
+
+msgid "Link copied to clipboard"
+msgstr "لینک به کلیپ‌بورد کپی شد"
+
+msgid "Nothing found"
+msgstr ""
+
+msgid "All genres"
+msgstr ""
+
+msgid "Artist"
+msgstr "هنرمند"
+
+msgid "Song"
+msgstr ""
+
+msgid "All Tracks"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Top Result"
+msgstr ""
+
+msgid "Songs"
+msgstr ""
+
+msgid "Tracks"
+msgstr "آهنگ‌ها"
+
+msgid "Artists"
+msgstr ""
+
+msgid "See more"
+msgstr ""
+
+msgid "Show less"
+msgstr ""
 
 msgid "Finished!"
 msgstr "تمام شد!"
@@ -3516,6 +3495,9 @@ msgstr "رمز عبور نمی‌تواند خالی باشد."
 
 msgid "Not an admin."
 msgstr "مدیر نیست."
+
+msgid "Artist not found"
+msgstr ""
 
 msgid "Cover image is too large (max 5MB)."
 msgstr "تصویر کاور خیلی بزرگ است (حداکثر ۵ مگابایت)."

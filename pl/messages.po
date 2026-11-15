@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-13 00:00+0000\n"
+"POT-Creation-Date: 2026-11-15 16:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:40+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Polish <pl@li.org>\n"
@@ -2903,80 +2903,35 @@ msgstr "Słuchaj i odkrywaj nową muzykę na UwUpad. Tysiące utworów od niezal
 msgid "Listen to and discover new music on UwUpad."
 msgstr "Słuchaj i odkrywaj nową muzykę na UwUpad."
 
-msgid "Browse"
-msgstr "Przeglądaj"
-
 msgid "My Library"
 msgstr "Moja biblioteka"
 
-msgid "Return to Sounds / Memes"
-msgstr "Wróć do Dźwięków / Memów"
-
-msgid "Sounds / Memes"
-msgstr "Dźwięki / Memów"
-
-msgid "Search by title..."
-msgstr "Szukaj po tytule..."
-
-msgid "Unlock the Full Experience"
-msgstr "Odblokuj pełne doświadczenie."
-
-msgid "Log in or register to get a personalized <b>For You</b> playlist, save your favorite tracks, create custom playlists, and upload your own music!"
-msgstr "Zaloguj się albo zarejestruj, aby uzyskać spersonalizowaną listę <b>Dla Ciebie</b>, zapisać ulubione utwory, tworzyć własne playlisty i przesłać własną muzykę!"
-
-msgid "Register"
-msgstr "Zarejestruj się"
-
-msgid "Charts"
-msgstr "Wykresy"
-
-msgid "What do you want to listen to?"
-msgstr "Co chcesz posłuchać?"
-
-msgid "Tracks"
-msgstr "Utwory"
-
-msgid "Liked Songs"
-msgstr "Ulubione utwory"
-
-msgid "tracks"
-msgstr "utwory"
+msgid "Your Library"
+msgstr ""
 
 msgid "Create Playlist"
 msgstr "Utwórz playlistę"
 
-msgid "My Playlists"
-msgstr "Moje playlisty"
+msgid "Sounds / Memes"
+msgstr "Dźwięki / Memów"
 
-msgid "Play"
-msgstr "Odtwarzaj"
+msgid "Forward"
+msgstr ""
 
-msgid "Plays"
-msgstr "Odtworzenia"
+msgid "What do you want to listen to?"
+msgstr "Co chcesz posłuchać?"
 
-msgid "Added"
-msgstr "Dodano"
+msgid "My Music Profile"
+msgstr ""
 
 msgid "Now Playing"
 msgstr "Teraz odtwarzane"
 
-msgid "Track Cover"
-msgstr "Okładka utworu"
-
-msgid "Track Title"
-msgstr "Tytuł utworu"
-
-msgid "Artist"
-msgstr "Wykonawca"
+msgid "Select a track"
+msgstr "Wybierz utwór"
 
 msgid "Next in Queue"
 msgstr "Następny w kolejce"
-
-msgid "Cover"
-msgstr "Okładka"
-
-msgid "Select a track"
-msgstr "Wybierz utwór"
 
 msgid "Shuffle"
 msgstr "Tasuj"
@@ -2993,98 +2948,122 @@ msgstr "Następny utwór"
 msgid "Repeat"
 msgstr "Powtórz"
 
-msgid "Fullscreen Mode"
-msgstr "Tryb pełnoekranowy"
-
 msgid "Show Track Details"
 msgstr "Pokaż szczegóły utworu"
+
+msgid "Fullscreen Mode"
+msgstr "Tryb pełnoekranowy"
 
 msgid "Mute/Unmute"
 msgstr "Wycisz/Włącz dźwięk"
 
-msgid "Add to Queue"
-msgstr "Dodaj do kolejki"
+msgid "Library"
+msgstr ""
 
-msgid "Copy Link"
-msgstr "Kopiuj link"
+msgid "Liked Songs"
+msgstr "Ulubione utwory"
 
-msgid "Search playlists..."
-msgstr "Wyszukaj playlisty..."
-
-msgid "New Playlist"
-msgstr "Nowa playlista"
-
-msgid "Based on your taste"
-msgstr "Na podstawie twoich upodobań"
-
-msgid "Trending right now"
-msgstr "Na topie teraz"
-
-msgid "Freshest uploads"
-msgstr "Najświeższe uploady"
-
-msgid "Most popular tracks this week"
-msgstr "Najpopularniejsze tracki w tym tygodniu"
-
-msgid "Most popular tracks this month"
-msgstr "Najpopularniejsze tracki w tym miesiącu"
-
-msgid "Search Results"
-msgstr "Wyniki wyszukiwania"
-
-msgid "Playlist is empty"
-msgstr "Playlista jest pusta"
-
-msgid "UwUpad Chart"
-msgstr "Wykres UwUpad"
-
-msgid "Trending in"
-msgstr "Trendy w"
-
-msgid "Log in or register to get a personalized For You playlist based on your taste."
-msgstr "Zaloguj się albo zarejestruj, aby uzyskać spersonalizowaną listę For You opartą na twoich upodobaniach."
+msgid "tracks"
+msgstr "utwory"
 
 msgid "plays"
 msgstr "Odtworzenia"
 
-msgid "UwUpad Music is a free music streaming service that offers a wide range of music for free."
-msgstr "UwUpad Music to darmowa usługa streamingu muzyki, która oferuje szeroki wybór utworów za darmo."
+msgid "likes"
+msgstr ""
 
-msgid "Unlike"
-msgstr "Usuń z ulubionych"
+msgid "Charts"
+msgstr "Wykresy"
 
-msgid "We will show fewer tracks like this"
-msgstr "Pokażemy mniej utworów takich jak ten"
+msgid "Top 50 by Country"
+msgstr ""
 
-msgid "Link copied to clipboard"
-msgstr "Link skopiowany do schowka"
+msgid "Trending in"
+msgstr "Trendy w"
 
-msgid "Your personal favorites"
-msgstr "Twoje ulubione"
+msgid "Browse by Genre"
+msgstr ""
 
-msgid "Enter playlist name:"
-msgstr "Wpisz nazwę playlisty:"
+msgid "Browse all genres"
+msgstr ""
 
-msgid "Are you sure you want to delete this playlist?"
-msgstr "Czy na pewno chcesz usunąć tę playlistę?"
+msgid "New Playlist"
+msgstr "Nowa playlista"
 
-msgid "Log in or register to create and manage your custom playlists."
-msgstr "Zaloguj się albo zarejestruj, aby tworzyć i zarządzać własnymi niestandardowymi playlistami."
+msgid "Search playlists..."
+msgstr "Wyszukaj playlisty..."
 
 msgid "No playlists found"
 msgstr "Nie znaleziono żadnych playlist."
 
-msgid "Log in or register to like and save your favorite tracks."
-msgstr "Zaloguj się albo zarejestruj, aby polubić i zapisać swoje ulubione utwory."
+msgid "Register"
+msgstr "Zarejestruj się"
 
-msgid "This track is downloading."
-msgstr "Ten utwór pobiera się."
+msgid "Create"
+msgstr ""
 
-msgid "Please wait for the current download to finish."
-msgstr "Poczekaj, aż zakończy się bieżące pobieranie."
+msgid "Delete Playlist"
+msgstr ""
 
-msgid "Downloading error"
-msgstr "Błąd pobierania"
+msgid "Are you sure you want to delete this playlist?"
+msgstr "Czy na pewno chcesz usunąć tę playlistę?"
+
+msgid "Play"
+msgstr "Odtwarzaj"
+
+msgid "Play next"
+msgstr ""
+
+msgid "Add to Queue"
+msgstr "Dodaj do kolejki"
+
+msgid "Unlike"
+msgstr "Usuń z ulubionych"
+
+msgid "Go to artist"
+msgstr ""
+
+msgid "Copy Link"
+msgstr "Kopiuj link"
+
+msgid "Link copied to clipboard"
+msgstr "Link skopiowany do schowka"
+
+msgid "Nothing found"
+msgstr ""
+
+msgid "All genres"
+msgstr ""
+
+msgid "Artist"
+msgstr "Wykonawca"
+
+msgid "Song"
+msgstr ""
+
+msgid "All Tracks"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Top Result"
+msgstr ""
+
+msgid "Songs"
+msgstr ""
+
+msgid "Tracks"
+msgstr "Utwory"
+
+msgid "Artists"
+msgstr ""
+
+msgid "See more"
+msgstr ""
+
+msgid "Show less"
+msgstr ""
 
 msgid "Finished!"
 msgstr "Zakończono!"
@@ -3516,6 +3495,9 @@ msgstr "Hasło nie może być puste."
 
 msgid "Not an admin."
 msgstr "Nie jesteś administratorem."
+
+msgid "Artist not found"
+msgstr ""
 
 msgid "Cover image is too large (max 5MB)."
 msgstr "Obraz okładki jest zbyt duży (maks. 5 MB)."
