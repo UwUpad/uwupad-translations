@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 17:00+0000\n"
+"POT-Creation-Date: 2026-11-20 23:00+0000\n"
 "PO-Revision-Date: 2025-04-15 13:00+0330\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Persian <fa@li.org>\n"
@@ -393,29 +393,11 @@ msgstr "ما برای حفظ عملکرد سرورهای خود به تبلیغ�
 msgid "getting VIP"
 msgstr "یا دریافت VIP"
 
-msgid "I disabled it, Refresh"
-msgstr "غیرفعالش کردم، دوباره بارگذاری کن"
-
-msgid "Please wait"
-msgstr "لطفاً صبر کنید"
-
 msgid "How to disable?"
 msgstr "چطور غیرفعال کنم؟"
 
-msgid "Continue to site (AdBlocker active)"
-msgstr "ادامه به سایت (AdBlocker فعال است)"
-
 msgid "Open"
 msgstr "باز"
-
-msgid "Join Millions of Players Worldwide"
-msgstr "به میلیون‌ها بازیکن در سراسر جهان بپیوندید"
-
-msgid "Experience epic tank battles. Download now and get a free tank!"
-msgstr "در نبردهای تانکی حماسی شرکت کنید. هم‌اکنون دانلود کنید و یک تانک رایگان دریافت کنید!"
-
-msgid "Play Now"
-msgstr "اکنون بازی کن"
 
 msgid "Change Password"
 msgstr "تغییر رمز عبور"
@@ -1323,6 +1305,9 @@ msgstr "چرخش به راست"
 
 msgid "Lightbox Image"
 msgstr "نمایش تصویر در لایت‌باکس"
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
 
 msgid "You must be logged in to like sounds."
 msgstr "برای لایک کردن صداها باید وارد شوید."
@@ -3325,6 +3310,9 @@ msgstr "رمز عبور نامعتبر است."
 msgid "Email should be longer than 5 characters."
 msgstr "ایمیل باید بیشتر از ۵ کاراکتر باشد."
 
+msgid "Password is too long (maximum 72 bytes)."
+msgstr ""
+
 msgid "Account with this email already exists."
 msgstr "حسابی با این ایمیل قبلاً وجود داشته است."
 
@@ -3362,6 +3350,9 @@ msgstr "لیست پخش حذف شد."
 
 msgid "Sound ID is required."
 msgstr "شناسه صدا لازم است."
+
+msgid "Invalid Sound ID."
+msgstr ""
 
 msgid "Sound not found."
 msgstr "صدا یافت نشد."
@@ -3547,6 +3538,24 @@ msgstr "فایل صوتی خیلی بزرگ است (حداکثر {size} مگاب
 
 msgid "Upload failed due to an internal error."
 msgstr "آپلود به دلیل خطای داخلی ناموفق بود."
+
+msgid "I disabled it, Refresh"
+msgstr "غیرفعالش کردم، دوباره بارگذاری کن"
+
+msgid "Please wait"
+msgstr "لطفاً صبر کنید"
+
+msgid "Continue to site (AdBlocker active)"
+msgstr "ادامه به سایت (AdBlocker فعال است)"
+
+msgid "Join Millions of Players Worldwide"
+msgstr "به میلیون‌ها بازیکن در سراسر جهان بپیوندید"
+
+msgid "Experience epic tank battles. Download now and get a free tank!"
+msgstr "در نبردهای تانکی حماسی شرکت کنید. هم‌اکنون دانلود کنید و یک تانک رایگان دریافت کنید!"
+
+msgid "Play Now"
+msgstr "اکنون بازی کن"
 
 msgid "Style is too long."
 msgstr "سبک خیلی طولانی است."

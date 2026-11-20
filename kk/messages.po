@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 17:00+0000\n"
+"POT-Creation-Date: 2026-11-20 23:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
@@ -390,29 +390,11 @@ msgstr "Біз жарнамаларға сүйенеміз, серверлері
 msgid "getting VIP"
 msgstr "VIP алу"
 
-msgid "I disabled it, Refresh"
-msgstr "Оны өшірдім, жаңартыңыз"
-
-msgid "Please wait"
-msgstr "Күтсеңіз"
-
 msgid "How to disable?"
 msgstr "Қалай өшіруге болады?"
 
-msgid "Continue to site (AdBlocker active)"
-msgstr "Сайтқа кіруді жалғастыру (AdBlocker қосулы)"
-
 msgid "Open"
 msgstr "Ашу"
-
-msgid "Join Millions of Players Worldwide"
-msgstr "Әлемдегі миллиондаған ойыншыларға қосылыңыз"
-
-msgid "Experience epic tank battles. Download now and get a free tank!"
-msgstr "Эпикалық танк шайқуларын сезініп көріңіз. Қазір жүктеп алыңыз және тегін танк алыңыз!"
-
-msgid "Play Now"
-msgstr "Қазір ойна"
 
 msgid "Change Password"
 msgstr "Құпия сөзді өзгерту"
@@ -1320,6 +1302,9 @@ msgstr "Оңға айналдыру"
 
 msgid "Lightbox Image"
 msgstr "Lightbox суреті"
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
 
 msgid "You must be logged in to like sounds."
 msgstr "Дыбыстарды ұнату үшін жүйеге кіруіңіз керек."
@@ -3322,6 +3307,9 @@ msgstr "Жарамсыз құпия сөз."
 msgid "Email should be longer than 5 characters."
 msgstr "Электрондық пошта 5 таңбадан ұзағырақ болуы керек."
 
+msgid "Password is too long (maximum 72 bytes)."
+msgstr ""
+
 msgid "Account with this email already exists."
 msgstr "Бұл электрондық поштамен аккаунт қазірдің өзінде бар."
 
@@ -3359,6 +3347,9 @@ msgstr "Ойнату тізімі жойылды."
 
 msgid "Sound ID is required."
 msgstr "Дыбыс ID қажет."
+
+msgid "Invalid Sound ID."
+msgstr ""
 
 msgid "Sound not found."
 msgstr "Дыбыс табылмады."
@@ -3544,6 +3535,24 @@ msgstr "Аудио файлы тым үлкен (ең көп {size}MB)."
 
 msgid "Upload failed due to an internal error."
 msgstr "Ішкі қате себепті жүктеу сәтсіз аяқталды."
+
+msgid "I disabled it, Refresh"
+msgstr "Оны өшірдім, жаңартыңыз"
+
+msgid "Please wait"
+msgstr "Күтсеңіз"
+
+msgid "Continue to site (AdBlocker active)"
+msgstr "Сайтқа кіруді жалғастыру (AdBlocker қосулы)"
+
+msgid "Join Millions of Players Worldwide"
+msgstr "Әлемдегі миллиондаған ойыншыларға қосылыңыз"
+
+msgid "Experience epic tank battles. Download now and get a free tank!"
+msgstr "Эпикалық танк шайқуларын сезініп көріңіз. Қазір жүктеп алыңыз және тегін танк алыңыз!"
+
+msgid "Play Now"
+msgstr "Қазір ойна"
 
 msgid "Style is too long."
 msgstr "Стиль тым ұзақ."

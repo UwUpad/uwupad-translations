@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 17:00+0000\n"
+"POT-Creation-Date: 2026-11-20 23:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:40+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Polish <pl@li.org>\n"
@@ -393,29 +393,11 @@ msgstr "Polegamy na reklamach, aby utrzymać nasze serwery. Rozważ wsparcie prz
 msgid "getting VIP"
 msgstr "zdobycie VIP"
 
-msgid "I disabled it, Refresh"
-msgstr "Wyłączyłem to, odśwież"
-
-msgid "Please wait"
-msgstr "Proszę czekać"
-
 msgid "How to disable?"
 msgstr "Jak wyłączyć?"
 
-msgid "Continue to site (AdBlocker active)"
-msgstr "Przejdź do strony (AdBlock aktywny)"
-
 msgid "Open"
 msgstr "Otwórz"
-
-msgid "Join Millions of Players Worldwide"
-msgstr "Dołącz do milionów graczy na całym świecie"
-
-msgid "Experience epic tank battles. Download now and get a free tank!"
-msgstr "Przeżyj epickie bitwy czołgów. Pobierz teraz i zdobądź darmowy czołg!"
-
-msgid "Play Now"
-msgstr "Zagraj teraz"
 
 msgid "Change Password"
 msgstr "Zmień Hasło"
@@ -1323,6 +1305,9 @@ msgstr "Obróć w prawo"
 
 msgid "Lightbox Image"
 msgstr "Obraz w Lightbox"
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
 
 msgid "You must be logged in to like sounds."
 msgstr "Musisz być zalogowany, aby polubić dźwięki."
@@ -3325,6 +3310,9 @@ msgstr "Nieprawidłowe hasło."
 msgid "Email should be longer than 5 characters."
 msgstr "Adres e-mail powinien być dłuższy niż 5 znaków."
 
+msgid "Password is too long (maximum 72 bytes)."
+msgstr ""
+
 msgid "Account with this email already exists."
 msgstr "Konto z tym adresem e-mail już istnieje."
 
@@ -3362,6 +3350,9 @@ msgstr "Playlista usunięta."
 
 msgid "Sound ID is required."
 msgstr "ID dźwięku jest wymagane."
+
+msgid "Invalid Sound ID."
+msgstr ""
 
 msgid "Sound not found."
 msgstr "Nie znaleziono dźwięku."
@@ -3547,6 +3538,24 @@ msgstr "Plik audio jest zbyt duży (maks. {size} MB)."
 
 msgid "Upload failed due to an internal error."
 msgstr "Przesyłanie nie powiodło się z powodu błędu wewnętrznego."
+
+msgid "I disabled it, Refresh"
+msgstr "Wyłączyłem to, odśwież"
+
+msgid "Please wait"
+msgstr "Proszę czekać"
+
+msgid "Continue to site (AdBlocker active)"
+msgstr "Przejdź do strony (AdBlock aktywny)"
+
+msgid "Join Millions of Players Worldwide"
+msgstr "Dołącz do milionów graczy na całym świecie"
+
+msgid "Experience epic tank battles. Download now and get a free tank!"
+msgstr "Przeżyj epickie bitwy czołgów. Pobierz teraz i zdobądź darmowy czołg!"
+
+msgid "Play Now"
+msgstr "Zagraj teraz"
 
 msgid "Style is too long."
 msgstr "Styl jest zbyt długi."

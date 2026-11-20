@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 17:00+0000\n"
+"POT-Creation-Date: 2026-11-20 23:00+0000\n"
 "PO-Revision-Date: 2025-04-15 10:25+0200\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Italian <it@li.org>\n"
@@ -393,29 +393,11 @@ msgstr "Rendiamo i nostri servizi supportati dalla pubblicità. Per favore consi
 msgid "getting VIP"
 msgstr "ottenere VIP"
 
-msgid "I disabled it, Refresh"
-msgstr "L'ho disabilitato, Aggiorna"
-
-msgid "Please wait"
-msgstr "Attendere, per favore."
-
 msgid "How to disable?"
 msgstr "Come disabilitare?"
 
-msgid "Continue to site (AdBlocker active)"
-msgstr "Continua al sito (AdBlock attivo)"
-
 msgid "Open"
 msgstr "Apri"
-
-msgid "Join Millions of Players Worldwide"
-msgstr "Unisciti a milioni di giocatori in tutto il mondo"
-
-msgid "Experience epic tank battles. Download now and get a free tank!"
-msgstr "Vivi epiche battaglie di carri armati. Scarica ora e ottieni un carro armato gratuito!"
-
-msgid "Play Now"
-msgstr "Gioca ora"
 
 msgid "Change Password"
 msgstr "Cambia Password"
@@ -1323,6 +1305,9 @@ msgstr "Ruota a destra"
 
 msgid "Lightbox Image"
 msgstr "Immagine lightbox"
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
 
 msgid "You must be logged in to like sounds."
 msgstr "Devi essere loggato per mettere like ai suoni."
@@ -3325,6 +3310,9 @@ msgstr "Password non valida."
 msgid "Email should be longer than 5 characters."
 msgstr "L'email deve essere più lunga di 5 caratteri."
 
+msgid "Password is too long (maximum 72 bytes)."
+msgstr ""
+
 msgid "Account with this email already exists."
 msgstr "Account con questa email già esistente."
 
@@ -3362,6 +3350,9 @@ msgstr "Playlist eliminata."
 
 msgid "Sound ID is required."
 msgstr "È necessario l'ID del suono."
+
+msgid "Invalid Sound ID."
+msgstr ""
 
 msgid "Sound not found."
 msgstr "Suono non trovato."
@@ -3547,6 +3538,24 @@ msgstr "Il file audio è troppo grande (massimo {size} MB)."
 
 msgid "Upload failed due to an internal error."
 msgstr "Caricamento fallito a causa di un errore interno."
+
+msgid "I disabled it, Refresh"
+msgstr "L'ho disabilitato, Aggiorna"
+
+msgid "Please wait"
+msgstr "Attendere, per favore."
+
+msgid "Continue to site (AdBlocker active)"
+msgstr "Continua al sito (AdBlock attivo)"
+
+msgid "Join Millions of Players Worldwide"
+msgstr "Unisciti a milioni di giocatori in tutto il mondo"
+
+msgid "Experience epic tank battles. Download now and get a free tank!"
+msgstr "Vivi epiche battaglie di carri armati. Scarica ora e ottieni un carro armato gratuito!"
+
+msgid "Play Now"
+msgstr "Gioca ora"
 
 msgid "Style is too long."
 msgstr "Lo stile è troppo lungo."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 17:00+0000\n"
+"POT-Creation-Date: 2026-11-20 23:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: uk <LL@li.org>\n"
@@ -386,29 +386,11 @@ msgstr "Реклама допомагає нам підтримувати сер
 msgid "getting VIP"
 msgstr "купивши VIP"
 
-msgid "I disabled it, Refresh"
-msgstr "Я вимкнув, оновити"
-
-msgid "Please wait"
-msgstr "Будь ласка, зачекайте"
-
 msgid "How to disable?"
 msgstr "Як вимкнути?"
 
-msgid "Continue to site (AdBlocker active)"
-msgstr "Продовжити до сайту (AdBlocker увімкено)"
-
 msgid "Open"
 msgstr "Відкрити"
-
-msgid "Join Millions of Players Worldwide"
-msgstr "Приєднуйтесь до мільйонів гравців по всьому світу"
-
-msgid "Experience epic tank battles. Download now and get a free tank!"
-msgstr "Відчуйте епічні танкові битви. Завантажуйте зараз і отримайте безкоштовний танк!"
-
-msgid "Play Now"
-msgstr "Грай зараз"
 
 msgid "Change Password"
 msgstr "Змінити пароль"
@@ -1316,6 +1298,9 @@ msgstr "Повернути праворуч"
 
 msgid "Lightbox Image"
 msgstr "Зображення"
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
 
 msgid "You must be logged in to like sounds."
 msgstr "Ви повинні увійти, щоб лайкати звуки."
@@ -3318,6 +3303,9 @@ msgstr "Невірний пароль."
 msgid "Email should be longer than 5 characters."
 msgstr "Email має бути довшим за 5 символів."
 
+msgid "Password is too long (maximum 72 bytes)."
+msgstr ""
+
 msgid "Account with this email already exists."
 msgstr "Акаунт з таким email вже існує."
 
@@ -3355,6 +3343,9 @@ msgstr "Плейлист видалено."
 
 msgid "Sound ID is required."
 msgstr "Потрібен ID звуку."
+
+msgid "Invalid Sound ID."
+msgstr ""
 
 msgid "Sound not found."
 msgstr "Звук не знайдено."
@@ -3540,6 +3531,24 @@ msgstr "Аудіофайл занадто великий (макс. {size}МБ).
 
 msgid "Upload failed due to an internal error."
 msgstr "Помилка завантаження через внутрішню помилку."
+
+msgid "I disabled it, Refresh"
+msgstr "Я вимкнув, оновити"
+
+msgid "Please wait"
+msgstr "Будь ласка, зачекайте"
+
+msgid "Continue to site (AdBlocker active)"
+msgstr "Продовжити до сайту (AdBlocker увімкено)"
+
+msgid "Join Millions of Players Worldwide"
+msgstr "Приєднуйтесь до мільйонів гравців по всьому світу"
+
+msgid "Experience epic tank battles. Download now and get a free tank!"
+msgstr "Відчуйте епічні танкові битви. Завантажуйте зараз і отримайте безкоштовний танк!"
+
+msgid "Play Now"
+msgstr "Грай зараз"
 
 msgid "Style is too long."
 msgstr "Стиль занадто довгий."

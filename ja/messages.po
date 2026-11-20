@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 17:00+0000\n"
+"POT-Creation-Date: 2026-11-20 23:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -393,29 +393,11 @@ msgstr "広告収益でサーバを運用しています。AdBlockを無効に�
 msgid "getting VIP"
 msgstr "VIPになる"
 
-msgid "I disabled it, Refresh"
-msgstr "無効にしました。更新"
-
-msgid "Please wait"
-msgstr "しばらくお待ちください"
-
 msgid "How to disable?"
 msgstr "無効化の方法は？"
 
-msgid "Continue to site (AdBlocker active)"
-msgstr "サイトへ進む（アドブロック有効）"
-
 msgid "Open"
 msgstr "開く"
-
-msgid "Join Millions of Players Worldwide"
-msgstr "世界中の何百万人のプレイヤーと一緒に遊ぼう"
-
-msgid "Experience epic tank battles. Download now and get a free tank!"
-msgstr "壮大な戦車バトルを体験しよう。今すぐダウンロードして、無料の戦車をゲット！"
-
-msgid "Play Now"
-msgstr "今すぐプレイ"
 
 msgid "Change Password"
 msgstr "パスワードを変更"
@@ -1323,6 +1305,9 @@ msgstr "右に回転"
 
 msgid "Lightbox Image"
 msgstr "ライトボックス画像"
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
 
 msgid "You must be logged in to like sounds."
 msgstr "サウンドにいいねするにはログインしてください。"
@@ -3325,6 +3310,9 @@ msgstr "無効なパスワードです。"
 msgid "Email should be longer than 5 characters."
 msgstr "メールアドレスは5文字より長くする必要があります。"
 
+msgid "Password is too long (maximum 72 bytes)."
+msgstr ""
+
 msgid "Account with this email already exists."
 msgstr "このメールアドレスのアカウントはすでに存在します。"
 
@@ -3362,6 +3350,9 @@ msgstr "プレイリストが削除されました。"
 
 msgid "Sound ID is required."
 msgstr "サウンドIDが必要だよ。"
+
+msgid "Invalid Sound ID."
+msgstr ""
 
 msgid "Sound not found."
 msgstr "サウンドが見つかりません。"
@@ -3547,6 +3538,24 @@ msgstr "音声ファイルは大きすぎるぞ（最大{size}MB）。"
 
 msgid "Upload failed due to an internal error."
 msgstr "内部エラーのせいでアップロードに失敗したぜ。"
+
+msgid "I disabled it, Refresh"
+msgstr "無効にしました。更新"
+
+msgid "Please wait"
+msgstr "しばらくお待ちください"
+
+msgid "Continue to site (AdBlocker active)"
+msgstr "サイトへ進む（アドブロック有効）"
+
+msgid "Join Millions of Players Worldwide"
+msgstr "世界中の何百万人のプレイヤーと一緒に遊ぼう"
+
+msgid "Experience epic tank battles. Download now and get a free tank!"
+msgstr "壮大な戦車バトルを体験しよう。今すぐダウンロードして、無料の戦車をゲット！"
+
+msgid "Play Now"
+msgstr "今すぐプレイ"
 
 msgid "Style is too long."
 msgstr "スタイルが長すぎるぞ。"

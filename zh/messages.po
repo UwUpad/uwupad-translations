@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-15 17:00+0000\n"
+"POT-Creation-Date: 2026-11-20 23:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -386,29 +386,11 @@ msgstr "我们依靠广告维持服务器运行。请考虑通过禁用广告拦
 msgid "getting VIP"
 msgstr "开通 VIP"
 
-msgid "I disabled it, Refresh"
-msgstr "我已禁用，请刷新"
-
-msgid "Please wait"
-msgstr "请稍候"
-
 msgid "How to disable?"
 msgstr "如何禁用？"
 
-msgid "Continue to site (AdBlocker active)"
-msgstr "继续访问网站 (广告拦截器仍开启)"
-
 msgid "Open"
 msgstr "打开"
-
-msgid "Join Millions of Players Worldwide"
-msgstr "加入全球数百万玩家"
-
-msgid "Experience epic tank battles. Download now and get a free tank!"
-msgstr "体验史诗级坦克对战。现在就下载，送你一辆免费坦克！"
-
-msgid "Play Now"
-msgstr "现在就开玩"
 
 msgid "Change Password"
 msgstr "更改密码"
@@ -1316,6 +1298,9 @@ msgstr "向右旋转"
 
 msgid "Lightbox Image"
 msgstr "图片预览"
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
 
 msgid "You must be logged in to like sounds."
 msgstr "你必须登录后才能给声音点赞。"
@@ -3318,6 +3303,9 @@ msgstr "无效密码。"
 msgid "Email should be longer than 5 characters."
 msgstr "电子邮件应长于 5 个字符。"
 
+msgid "Password is too long (maximum 72 bytes)."
+msgstr ""
+
 msgid "Account with this email already exists."
 msgstr "该电子邮箱已被注册。"
 
@@ -3355,6 +3343,9 @@ msgstr "播放列表已删除。"
 
 msgid "Sound ID is required."
 msgstr "需要声音 ID。"
+
+msgid "Invalid Sound ID."
+msgstr ""
 
 msgid "Sound not found."
 msgstr "未找到声音。"
@@ -3540,6 +3531,24 @@ msgstr "音频文件过大 (最大 {size}MB)。"
 
 msgid "Upload failed due to an internal error."
 msgstr "由于内部错误，上传失败。"
+
+msgid "I disabled it, Refresh"
+msgstr "我已禁用，请刷新"
+
+msgid "Please wait"
+msgstr "请稍候"
+
+msgid "Continue to site (AdBlocker active)"
+msgstr "继续访问网站 (广告拦截器仍开启)"
+
+msgid "Join Millions of Players Worldwide"
+msgstr "加入全球数百万玩家"
+
+msgid "Experience epic tank battles. Download now and get a free tank!"
+msgstr "体验史诗级坦克对战。现在就下载，送你一辆免费坦克！"
+
+msgid "Play Now"
+msgstr "现在就开玩"
 
 msgid "Style is too long."
 msgstr "样式内容过长。"
