@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-20 23:00+0000\n"
+"POT-Creation-Date: 2026-11-21 00:00+0000\n"
 "PO-Revision-Date: 2025-04-15 17:15+0900\n"
 "Last-Translator: AI Assistant <>\n"
 "Language-Team: Japanese <ja@li.org>\n"
@@ -242,162 +242,533 @@ msgstr "TikTok のミームサウンドや、お気に入りのゲームの叫�
 msgid "Welcome back,"
 msgstr "おかえり、"
 
-msgid "Available for VIP users only"
-msgstr "VIPユーザーのみ利用可能"
-
-msgid "Bulk Download is a VIP Feature"
-msgstr "一括ダウンロードはVIP機能だよ"
-
-msgid "Upgrade to VIP to download entire playlists as a .zip file!"
-msgstr "VIPにアップグレードしてプレイリスト全体を ZIP でダウンロードしよう！"
-
-msgid "Pause"
-msgstr "一時停止"
-
-msgid "This playlist is empty."
-msgstr "このプレイリストは空です。"
-
-msgid "Remove from download"
-msgstr "ダウンロードから削除"
-
-msgid "Could not load playlist."
-msgstr "プレイリストを読み込めませんでした。"
-
-msgid "Download cancelled."
-msgstr "ダウンロードをキャンセルしました。"
-
-msgid "Downloading"
-msgstr "ダウンロード中"
-
-msgid "Creating ZIP file... Please wait."
-msgstr "ZIPファイル作成中... お待ちください。"
-
-msgid "Compressing..."
-msgstr "圧縮中..."
-
-msgid "Resume"
-msgstr "再開"
-
-msgid "Paused..."
-msgstr "一時停止中..."
-
-msgid "Resuming..."
-msgstr "再開中..."
-
-msgid "Import cancelled."
-msgstr "インポートがキャンセルされました。"
-
-msgid "Importing"
-msgstr "インポート中"
-
-msgid "Import complete!"
-msgstr "インポート完了！"
-
-msgid "Sound data not loaded yet."
-msgstr "サウンドデータがまだ読み込まれていません。"
-
-msgid "Error: Sound data not found."
-msgstr "エラー: サウンドデータが見つかりません。"
-
-msgid "Choose Boost Option"
-msgstr "ブーストオプションを選択"
-
-msgid "Promote your sound to reach a wider audience."
-msgstr "サウンドを宣伝して、より多くの人に届けよう。"
-
-msgid "VIP BENEFIT"
-msgstr "VIP特典"
-
-msgid "Free Boost"
-msgstr "無料ブースト"
-
 #, python-format
-msgid "1 free boost every %(hours)s hours."
-msgstr "無料ブースト1回、%(hours)s時間ごとに利用可能。"
-
-msgid "Use Free Boost"
-msgstr "無料ブーストを使う"
-
-msgid "PAY-TO-BOOST"
-msgstr "課金ブースト"
-
-msgid "Pay with PAW"
-msgstr "PAW で支払う"
-
-#, python-format
-msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
-msgstr "コスト: %(cost)s PAW。残高: %(balance)s PAW。"
-
-#, python-format
-msgid "Pay %(cost)s PAW"
-msgstr "PAW で %(cost)s を支払う"
-
-msgid "Confirm Sound Boost"
-msgstr "サウンドブーストを確認"
-
-#, python-format
-msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
-msgstr "このサウンドをブーストすると <strong>%(cost)s PAW</strong> がかかります。"
-
-msgid "This will place your sound at the top of the 'For You' page for a limited time."
-msgstr "これは期間限定で、あなたのサウンドを『For You』ページのトップに表示します。"
-
-msgid "Get free boosts and more with VIP!"
-msgstr "VIPで無料ブーストなどを手に入れよう！"
-
-msgid "Learn More"
-msgstr "詳しく見る"
-
-msgid "Confirm & Boost"
-msgstr "確認してブーストする"
-
-msgid "Cancel"
-msgstr "キャンセル"
-
-msgid "An error occurred"
-msgstr "エラーが発生しました"
-
-msgid "All caught up!"
-msgstr "すべて済みました！"
-
-msgid "You have no new notifications."
-msgstr "新しい通知はありません。"
-
-msgid "Oops!"
-msgstr "おっと！"
-
-msgid "Could not load notifications. Please try again later."
-msgstr "通知を読み込めませんでした。後ほどもう一度お試しください。"
-
-msgid "Just now"
-msgstr "たった今"
-
-#, python-format
-msgid "%(minutes)s m ago"
-msgstr "%(minutes)s 分前"
+msgid "%(days)s d ago"
+msgstr "%(days)s 日前"
 
 #, python-format
 msgid "%(hours)s h ago"
 msgstr "%(hours)s 時間前"
 
 #, python-format
-msgid "%(days)s d ago"
-msgstr "%(days)s 日前"
+msgid "%(minutes)s m ago"
+msgstr "%(minutes)s 分前"
+
+#, python-format
+msgid "1 free boost every %(hours)s hours."
+msgstr "無料ブースト1回、%(hours)s時間ごとに利用可能。"
+
+msgid "Access Restricted"
+msgstr "アクセスが制限されています"
 
 msgid "AdBlock detected"
 msgstr "AdBlock を検出しました"
 
-msgid "We rely on ads to keep our servers running. Please consider supporting us by disabling AdBlock or"
-msgstr "広告収益でサーバを運用しています。AdBlockを無効にするか、VIPになるなどしてご支援ください。"
+msgid "Add to Existing"
+msgstr "既存のプレイリストに追加"
 
-msgid "getting VIP"
-msgstr "VIPになる"
+msgid "Add to Playlist"
+msgstr "プレイリストに追加"
+
+msgid "Add to Soundpad"
+msgstr "Soundpadに追加"
+
+msgid "Add to playlist"
+msgstr "プレイリストに追加"
+
+msgid "Adding to Soundpad:"
+msgstr "Soundpadへ追加中:"
+
+msgid "Additional Tags"
+msgstr "追加タグ"
+
+msgid "All caught up!"
+msgstr "すべて済みました！"
+
+msgid "An error occurred"
+msgstr "エラーが発生しました"
+
+msgid "An error occurred during payment."
+msgstr "決済中にエラーが発生しました。"
+
+msgid "An unexpected error occurred."
+msgstr "予期しないエラーが発生しました。"
+
+msgid "Are you sure you want to delete preset"
+msgstr "プリセットを削除してもよろしいですか"
+
+msgid "Are you sure?"
+msgstr "よろしいですか？"
+
+msgid "Available for VIP users only"
+msgstr "VIPユーザーのみ利用可能"
+
+msgid "Boost Sound"
+msgstr "サウンドをブースト"
+
+#, python-format
+msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
+msgstr "このサウンドをブーストすると <strong>%(cost)s PAW</strong> がかかります。"
+
+msgid "Bulk Download is a VIP Feature"
+msgstr "一括ダウンロードはVIP機能だよ"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Choose Boost Option"
+msgstr "ブーストオプションを選択"
+
+#, python-format
+msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
+msgstr "「%(sound_name)s」のプレイリストを選択するか、新しく作成してください。"
+
+#, python-format
+msgid "Choose a playlist for %(count)s sounds or create a new one."
+msgstr "%(count)s個のサウンドのプレイリストを選択するか、新しく作成してください。"
+
+msgid "Choose cover…"
+msgstr "カバーを選択…"
+
+msgid "Comment, questions, reason for post."
+msgstr "コメント、質問、投稿の理由。"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Complete!"
+msgstr "完了！"
+
+msgid "Compressing..."
+msgstr "圧縮中..."
+
+msgid "Confirm & Boost"
+msgstr "確認してブーストする"
+
+msgid "Confirm & Download"
+msgstr "確定してダウンロード"
+
+msgid "Confirm Export"
+msgstr "書き出しを確定"
+
+msgid "Confirm Sound Boost"
+msgstr "サウンドブーストを確認"
+
+msgid "Continue"
+msgstr "続ける"
+
+msgid "Copied to clipboard"
+msgstr "クリップボードにコピーしました"
+
+#, python-format
+msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
+msgstr "コスト: %(cost)s PAW。残高: %(balance)s PAW。"
+
+msgid "Could not load notifications. Please try again later."
+msgstr "通知を読み込めませんでした。後ほどもう一度お試しください。"
+
+msgid "Could not load playlist."
+msgstr "プレイリストを読み込めませんでした。"
+
+msgid "Could not load your playlists."
+msgstr "プレイリストを読み込めませんでした。"
+
+msgid "Create New"
+msgstr "新規作成"
+
+msgid "Creating ZIP file... Please wait."
+msgstr "ZIPファイル作成中... お待ちください。"
+
+msgid "DELETED"
+msgstr "削除済み"
+
+msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
+msgstr "購読を解除するな！チャンネルを抜けると、再度認証が必要になるぞ。"
+
+msgid "Don't show this message again"
+msgstr "次回からこのメッセージを表示しない"
+
+msgid "Download cancelled."
+msgstr "ダウンロードをキャンセルしました。"
+
+msgid "Download failed"
+msgstr "ダウンロードに失敗しました"
+
+msgid "Downloading"
+msgstr "ダウンロード中"
+
+msgid "Downloading..."
+msgstr "ダウンロード中..."
+
+msgid "Downloads"
+msgstr "ダウンロード数"
+
+msgid "EXPLICIT"
+msgstr "露骨な表現"
+
+msgid "Edit tags"
+msgstr "タグを編集"
+
+msgid "Enter custom preset name:"
+msgstr "カスタムプリセット名を入力:"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Error parsing audio data."
+msgstr "オーディオデータの解析中にエラーが発生しました。"
+
+msgid "Error: Sound data not found."
+msgstr "エラー: サウンドデータが見つかりません。"
+
+#, python-format
+msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
+msgstr "この変更されたサウンドを書き出すには、<strong>%(cost)s PAW</strong> がかかります。"
+
+msgid "External Link Warning"
+msgstr "外部リンク警告"
+
+msgid "Failed to connect to server."
+msgstr "サーバーへの接続に失敗しました。"
+
+msgid "Failed to update like. Please try again."
+msgstr "いいねの更新に失敗しました。もう一度お試しください。"
+
+msgid "Free Boost"
+msgstr "無料ブースト"
+
+msgid "Get free boosts and more with VIP!"
+msgstr "VIPで無料ブーストなどを手に入れよう！"
+
+msgid "Go to original sound"
+msgstr "オリジナルサウンドへ移動"
+
+msgid "Hey, check out this playlist on Uwupad!"
+msgstr "ねえ、このプレイリストをUwupadで見てみて！"
 
 msgid "How to disable?"
 msgstr "無効化の方法は？"
 
+msgid "Image upload failed."
+msgstr "画像のアップロードに失敗しました。"
+
+msgid "Image uploaded."
+msgstr "画像をアップロードしました。"
+
+msgid "Import cancelled."
+msgstr "インポートがキャンセルされました。"
+
+msgid "Import complete!"
+msgstr "インポート完了！"
+
+msgid "Important:"
+msgstr "重要："
+
+msgid "Importing"
+msgstr "インポート中"
+
+msgid "Insufficient Funds"
+msgstr "残高不足"
+
+msgid "Is explicit"
+msgstr "露骨な表現"
+
+msgid "Is loud"
+msgstr "大音量"
+
+msgid "Just now"
+msgstr "たった今"
+
+msgid "Keep your collections to yourself by upgrading to VIP."
+msgstr "VIPにアップグレードして、コレクションを自分だけのものに保とう。"
+
+msgid "LOUD"
+msgstr "大音量"
+
+msgid "Learn More"
+msgstr "詳しく見る"
+
+msgid "Like"
+msgstr "いいね"
+
+msgid "Listen"
+msgstr "聞く"
+
+msgid "Loading..."
+msgstr "読み込み中…"
+
+msgid "Log In or Create Account"
+msgstr "ログインするか、アカウントを作成してね"
+
+msgid "Make playlist public"
+msgstr "プレイリストを公開にする"
+
+msgid "Modify & Download"
+msgstr "編集してダウンロード"
+
+msgid "My Awesome Mix"
+msgstr "私の最高のミックス"
+
+msgid "New Playlist Name"
+msgstr "新しいプレイリスト名"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "No file selected"
+msgstr "ファイルが選択されていません"
+
+msgid "No sounds found"
+msgstr "サウンドが見つかりません"
+
+msgid "No sounds to add."
+msgstr "追加するサウンドがありません。"
+
+msgid "Not interested"
+msgstr "興味なし"
+
+msgid "Oops!"
+msgstr "おっと！"
+
 msgid "Open"
 msgstr "開く"
+
+msgid "Original Sound"
+msgstr "オリジナルサウンド"
+
+msgid "PAY-TO-BOOST"
+msgstr "課金ブースト"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "Paused..."
+msgstr "一時停止中..."
+
+#, python-format
+msgid "Pay %(cost)s PAW"
+msgstr "PAW で %(cost)s を支払う"
+
+msgid "Pay with PAW"
+msgstr "PAW で支払う"
+
+msgid "Playlist Limit Reached"
+msgstr "プレイリストの上限に達しました"
+
+msgid "Playlist is Full"
+msgstr "プレイリストは満杯です"
+
+msgid "Please enter a name for the new playlist."
+msgstr "新しいプレイリストの名前を入力してください。"
+
+msgid "Please enter a valid email."
+msgstr "有効なメールアドレスを入力してください。"
+
+msgid "Please enter a valid reason."
+msgstr "有効な理由を入力してください。"
+
+msgid "Please select a playlist."
+msgstr "プレイリストを選択してください。"
+
+msgid "Please state your request in English or Russian only. We cannot process requests in other languages."
+msgstr "リクエストは英語またはロシア語でのみ記述してください。他の言語でのリクエストは処理できません。"
+
+msgid "Please wait 10 minutes before sending feedback again."
+msgstr ""
+
+msgid "Preparing download for"
+msgstr "ダウンロードの準備中"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Private Playlists are a VIP Feature"
+msgstr "非公開プレイリストはVIP機能です"
+
+msgid "Proceed"
+msgstr "続行"
+
+msgid "Processing..."
+msgstr "処理中..."
+
+msgid "Promote your sound to reach a wider audience."
+msgstr "サウンドを宣伝して、より多くの人に届けよう。"
+
+msgid "Quick Download"
+msgstr "クイックダウンロード"
+
+msgid "Remove from download"
+msgstr "ダウンロードから削除"
+
+msgid "Report"
+msgstr "報告する"
+
+msgid "Report a sound"
+msgstr "サウンドを報告"
+
+msgid "Resume"
+msgstr "再開"
+
+msgid "Resuming..."
+msgstr "再開中..."
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Search failed."
+msgstr "検索に失敗しました。"
+
+msgid "Search your playlists..."
+msgstr "プレイリストを検索..."
+
+msgid "Searching..."
+msgstr "検索中..."
+
+msgid "Sent!"
+msgstr "送信しました！"
+
+msgid "Share"
+msgstr "共有"
+
+msgid "Show more"
+msgstr "もっと見る"
+
+msgid "Sound"
+msgstr "サウンド"
+
+msgid "Sound data not loaded yet."
+msgstr "サウンドデータがまだ読み込まれていません。"
+
+msgid "Sound is already in the queue"
+msgstr "サウンドはすでにキューに入っています"
+
+msgid "Standard users can add up to 20 sounds per playlist. Get VIP to create massive collections!"
+msgstr "通常ユーザーはプレイリストあたり最大20サウンドを追加できます。巨大なコレクションを作るにはVIPを手に入れよう！"
+
+msgid "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited playlists!"
+msgstr "通常ユーザーは最大2つのプレイリストを作成できます。無制限にプレイリストを作成したい場合はVIPにアップグレード！"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Subscribe"
+msgstr "購読"
+
+msgid "Subscribe to unlock"
+msgstr "アンロックするには購読してください"
+
+msgid "Tags"
+msgstr "タグ"
+
+msgid "The best sound sharing service for Soundpad"
+msgstr "Soundpadのための最高のサウンド共有サービス"
+
+msgid "This playlist is empty."
+msgstr "このプレイリストは空です。"
+
+msgid "This sound includes sensitive content and it may be inappropriate to listen to. Are you sure you want to play it back?"
+msgstr "このサウンドにはデリケートなコンテンツが含まれており、聞くのに不適切な場合があります。再生してもよろしいですか？"
+
+msgid "This sound is boosted!"
+msgstr "このサウンドはブースト済み！"
+
+msgid "This sound is too loud. Are you sure you want to play it back?"
+msgstr "このサウンドは音量が大きすぎます。再生してもよろしいですか？"
+
+msgid "This track is already downloading."
+msgstr "このトラックはすでにダウンロード中です。"
+
+msgid "This will place your sound at the top of the 'For You' page for a limited time."
+msgstr "これは期間限定で、あなたのサウンドを『For You』ページのトップに表示します。"
+
+msgid "To continue listening, please subscribe to our Telegram channel."
+msgstr "聴き続けるには、Telegramチャンネルを購読してね。"
+
+msgid "Top Up Balance"
+msgstr "残高をチャージ"
+
+msgid "Unlock This Feature"
+msgstr "この機能をアンロック"
+
+msgid "Unlock VIP"
+msgstr "VIPをアンロック"
+
+msgid "Upgrade to VIP to download entire playlists as a .zip file!"
+msgstr "VIPにアップグレードしてプレイリスト全体を ZIP でダウンロードしよう！"
+
+msgid "Use Free Boost"
+msgstr "無料ブーストを使う"
+
+msgid "VIP BENEFIT"
+msgstr "VIP特典"
+
+msgid "Verifying subscription..."
+msgstr "購読を検証中..."
+
+msgid "Views"
+msgstr "再生回数"
+
+msgid "We are strictly against any violations of our terms of use. Users have the ability to complain about content that is considered “spam,” “illegal activity,” or contains “copyrighted material without authorization.” If violations are found, the content will be removed immediately and this removal will be permanent."
+msgstr "私たちは利用規約のいかなる違反にも厳しく反対します。ユーザーは「スパム」、「違法行為」と見なされるコンテンツ、または「許可なく著作権で保護された素材」を含むコンテンツについて苦情を申し立てることができます。違反が見つかった場合、コンテンツは直ちに削除され、この削除は恒久的です。"
+
+msgid "We rely on ads to keep our servers running. Please consider supporting us by disabling AdBlock or"
+msgstr "広告収益でサーバを運用しています。AdBlockを無効にするか、VIPになるなどしてご支援ください。"
+
+msgid "We will show fewer sounds like this"
+msgstr "こんな音は表示を減らすよ"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "You are about to leave uwupad.me. We do not take responsibility for the content on external sites."
+msgstr "uwupad.meを離れようとしています。外部サイトのコンテンツについては責任を負いません。"
+
+msgid "You don't have any playlists yet."
+msgstr "まだプレイリストがありません。"
+
+msgid "You have already sent a report."
+msgstr "すでに報告を送信しました。"
+
+msgid "You have no new notifications."
+msgstr "新しい通知はありません。"
+
+msgid "You must be logged in to download modified sounds."
+msgstr "変更したサウンドをダウンロードするには、ログインする必要があります。"
+
+msgid "You must be logged in to like sounds."
+msgstr "サウンドにいいねするにはログインしてください。"
+
+#, python-format
+msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
+msgstr "書き出しには <strong>%(cost)s PAW</strong> が必要ですが、現在 <strong>%(balance)s PAW</strong> しかありません。"
+
+#, python-format
+msgid "Your balance after download: %(balance)s PAW"
+msgstr "ダウンロード後の残高: %(balance)s PAW"
+
+msgid "Your e-mail address"
+msgstr "あなたのメールアドレス"
+
+msgid "added to queue"
+msgstr "キューに追加されました"
+
+msgid "d ago"
+msgstr "日前"
+
+msgid "getting VIP"
+msgstr "VIPになる"
+
+msgid "h ago"
+msgstr "時間前"
+
+msgid "just now"
+msgstr "たった今"
+
+msgid "min ago"
+msgstr "分前"
+
+msgid "w ago"
+msgstr "週間前"
 
 msgid "Change Password"
 msgstr "パスワードを変更"
@@ -663,9 +1034,6 @@ msgstr "認証が必要だよ"
 msgid "Log in or register to get a personalized For You feed based on your taste."
 msgstr "自分の好みに合わせたFor Youフィードを手に入れるには、ログインするか登録してね！"
 
-msgid "Log In or Create Account"
-msgstr "ログインするか、アカウントを作成してね"
-
 msgid "Trending"
 msgstr "トレンド"
 
@@ -713,12 +1081,6 @@ msgstr "影響力"
 
 msgid "Uploads"
 msgstr "アップロード数"
-
-msgid "Downloads"
-msgstr "ダウンロード数"
-
-msgid "Comments"
-msgstr "コメント"
 
 msgid "Comment Likes"
 msgstr "コメントいいね"
@@ -871,9 +1233,6 @@ msgstr "プレビュー画像"
 
 msgid "Choose a file…"
 msgstr "ファイルを選択…"
-
-msgid "No file selected"
-msgstr "ファイルが選択されていません"
 
 msgid "Recommended 16:9. GIF only for VIP users."
 msgstr "推奨比率 16:9。GIFはVIP専用だぞ。"
@@ -1155,18 +1514,12 @@ msgstr "確認して支払う"
 msgid "Get unlimited style changes and more with VIP!"
 msgstr "VIPでスタイル変更が無制限になり、他にも特典あり！"
 
-msgid "Insufficient Funds"
-msgstr "残高不足"
-
 #, python-format
 msgid "You need <strong>%(cost)s PAW</strong> to change your style, but you only have <strong>%(balance)s PAW</strong>."
 msgstr "スタイルを変更するには <strong>%(cost)s PAW</strong> が必要ですが、現在の残高は <strong>%(balance)s PAW</strong> です。"
 
 msgid "OPTION 1"
 msgstr "オプション1"
-
-msgid "Top Up Balance"
-msgstr "残高をチャージ"
 
 msgid "Go to Deposit"
 msgstr "入金へ"
@@ -1179,9 +1532,6 @@ msgstr "ベストバリュー"
 
 msgid "Upgrade to VIP"
 msgstr "VIPにアップグレード"
-
-msgid "Unlock VIP"
-msgstr "VIPをアンロック"
 
 msgid "Get <strong>unlimited</strong> style changes & more!"
 msgstr "<strong>無制限</strong> のスタイル変更などを手に入れよう！"
@@ -1246,23 +1596,8 @@ msgstr "サウンドが見つかりません"
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "このIDのサウンドが見つかりません。入力データを確認してください。"
 
-msgid "Add to Soundpad"
-msgstr "Soundpadに追加"
-
 msgid "Download"
 msgstr "ダウンロード"
-
-msgid "Like"
-msgstr "いいね"
-
-msgid "Share"
-msgstr "共有"
-
-msgid "LOUD"
-msgstr "大音量"
-
-msgid "EXPLICIT"
-msgstr "露骨な表現"
 
 msgid "Edit sound"
 msgstr "サウンドを編集"
@@ -1306,128 +1641,110 @@ msgstr "右に回転"
 msgid "Lightbox Image"
 msgstr "ライトボックス画像"
 
-msgid "Failed to load audio file. Please try again later."
-msgstr ""
-
-msgid "You must be logged in to like sounds."
-msgstr "サウンドにいいねするにはログインしてください。"
-
-msgid "Failed to update like. Please try again."
-msgstr "いいねの更新に失敗しました。もう一度お試しください。"
-
-msgid "The best sound sharing service for Soundpad"
-msgstr "Soundpadのための最高のサウンド共有サービス"
-
-msgid "Sound"
-msgstr "サウンド"
-
-msgid "Listen"
-msgstr "聞く"
-
-msgid "Edit Sound"
-msgstr "サウンドを編集"
-
-msgid "Sound ID"
-msgstr "サウンドID"
-
-msgid "Unique Identifier"
-msgstr "一意の識別子"
-
-msgid "Language"
-msgstr "言語"
-
-msgid "Enter sound title..."
-msgstr "サウンドタイトルを入力..."
-
-msgid "Description"
-msgstr "説明"
-
 msgid "Add a brief description..."
 msgstr "簡単な説明を追加..."
-
-msgid "Tags (comma separated)"
-msgstr "タグ（カンマ区切り）"
-
-msgid "Cover Image (Optional)"
-msgstr "カバー画像（任意）"
-
-msgid "Max 2MB. Leaves current cover intact if empty."
-msgstr "最大2MB。空欄の場合は現在のカバーをそのまま残します。"
-
-msgid "LOUD Warning"
-msgstr "大音量警告"
-
-msgid "Mark if audio is extremely loud or screechy"
-msgstr "音が非常に大きい、または耳障りな音の場合はマークしてください"
-
-msgid "EXPLICIT Content"
-msgstr "露骨なコンテンツ"
-
-msgid "Mark if audio contains profanity or 18+ themes"
-msgstr "音声に不適切な言葉や18禁のテーマが含まれている場合はマークしてください"
-
-msgid "Mark as Music (Admin)"
-msgstr "ミュージックとしてマークする（管理者）"
-
-msgid "Moves this sound to the /music section"
-msgstr "このサウンドを /music セクションへ移動します"
-
-msgid "Title cannot be empty"
-msgstr "タイトルを空にすることはできません"
-
-msgid "Sound updated successfully!"
-msgstr "サウンドを更新しました！"
-
-msgid "Write a reply..."
-msgstr "返信を書く..."
-
-msgid "Reply"
-msgstr "返信"
-
-msgid "Loading..."
-msgstr "読み込み中…"
-
-#, python-format
-msgid "View %(count)s more replies"
-msgstr "さらに %(count)s 件の返信を表示"
-
-msgid "Hide"
-msgstr "非表示"
-
-msgid "Error loading replies."
-msgstr "返信の読み込みに失敗しました。"
 
 msgid "Comment attachment"
 msgstr "コメントの添付"
 
-#, python-format
-msgid "View %(count)s replies"
-msgstr "%(count)s 件の返信を表示"
-
-msgid "No comments yet."
-msgstr "まだコメントはありません。"
+msgid "Comment deleted."
+msgstr "コメントが削除されました。"
 
 msgid "Comment or attachment cannot be empty."
 msgstr "コメントまたは添付ファイルを空にすることはできません。"
 
+msgid "Cover Image (Optional)"
+msgstr "カバー画像（任意）"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "EXPLICIT Content"
+msgstr "露骨なコンテンツ"
+
+msgid "Edit Sound"
+msgstr "サウンドを編集"
+
+msgid "Enter sound title..."
+msgstr "サウンドタイトルを入力..."
+
+msgid "Error loading replies."
+msgstr "返信の読み込みに失敗しました。"
+
+msgid "Failed to delete comment."
+msgstr "コメントの削除に失敗しました。"
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
+
 msgid "Failed to post comment."
 msgstr "コメントの投稿に失敗しました。"
 
-msgid "Hide reply"
-msgstr "返信を非表示"
+msgid "Hide"
+msgstr "非表示"
 
 #, python-format
 msgid "Hide %(count)s replies"
 msgstr "%(count)s 件の返信を非表示"
 
+msgid "Hide reply"
+msgstr "返信を非表示"
+
+msgid "LOUD Warning"
+msgstr "大音量警告"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Mark as Music (Admin)"
+msgstr "ミュージックとしてマークする（管理者）"
+
+msgid "Mark if audio contains profanity or 18+ themes"
+msgstr "音声に不適切な言葉や18禁のテーマが含まれている場合はマークしてください"
+
+msgid "Mark if audio is extremely loud or screechy"
+msgstr "音が非常に大きい、または耳障りな音の場合はマークしてください"
+
+msgid "Max 2MB. Leaves current cover intact if empty."
+msgstr "最大2MB。空欄の場合は現在のカバーをそのまま残します。"
+
+msgid "Moves this sound to the /music section"
+msgstr "このサウンドを /music セクションへ移動します"
+
+msgid "No comments yet."
+msgstr "まだコメントはありません。"
+
+msgid "Reply"
+msgstr "返信"
+
+msgid "Sound ID"
+msgstr "サウンドID"
+
+msgid "Sound updated successfully!"
+msgstr "サウンドを更新しました！"
+
+msgid "Tags (comma separated)"
+msgstr "タグ（カンマ区切り）"
+
+msgid "Title cannot be empty"
+msgstr "タイトルを空にすることはできません"
+
+msgid "Unique Identifier"
+msgstr "一意の識別子"
+
+#, python-format
+msgid "View %(count)s more replies"
+msgstr "さらに %(count)s 件の返信を表示"
+
+#, python-format
+msgid "View %(count)s replies"
+msgstr "%(count)s 件の返信を表示"
+
+msgid "Write a reply..."
+msgstr "返信を書く..."
+
 msgid "You must be logged in to like comments."
 msgstr "コメントにいいねするにはログインしてください。"
-
-msgid "Comment deleted."
-msgstr "コメントが削除されました。"
-
-msgid "Failed to delete comment."
-msgstr "コメントの削除に失敗しました。"
 
 #, python-format
 msgid "Sounds tagged with #%(tag_name)s"
@@ -1527,9 +1844,6 @@ msgstr ""
 msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
 msgstr ""
 
-msgid "Tags"
-msgstr "タグ"
-
 msgid "rust, loud, funny"
 msgstr "rust, loud, funny (タグ例)"
 
@@ -1556,9 +1870,6 @@ msgstr "音楽 / 効果音（言語なし）"
 
 msgid "Other"
 msgstr "その他"
-
-msgid "Important:"
-msgstr "重要："
 
 msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr "音声内で話されている言語を選択してください。曲や明確な発話がない効果音の場合は 'Music / SFX' を選択してください。言語の誤設定はおすすめに影響し、モデレーションの対象になることがあります。"
@@ -2091,12 +2402,6 @@ msgstr "後で"
 msgid "Send"
 msgstr "送信"
 
-msgid "Sent!"
-msgstr "送信しました！"
-
-msgid "Please wait 10 minutes before sending feedback again."
-msgstr ""
-
 msgid "You can remove sounds you don't want from the list below."
 msgstr "下のリストから不要なサウンドを削除できます。"
 
@@ -2172,53 +2477,8 @@ msgstr "すべてのパラメータをデフォルトに戻す"
 msgid "Reset"
 msgstr "リセット"
 
-msgid "Preview"
-msgstr "プレビュー"
-
 msgid "Download WAV"
 msgstr "WAVをダウンロード"
-
-msgid "Enter custom preset name:"
-msgstr "カスタムプリセット名を入力:"
-
-msgid "Are you sure you want to delete preset"
-msgstr "プリセットを削除してもよろしいですか"
-
-msgid "Error parsing audio data."
-msgstr "オーディオデータの解析中にエラーが発生しました。"
-
-msgid "Stop"
-msgstr "停止"
-
-msgid "Processing..."
-msgstr "処理中..."
-
-msgid "You must be logged in to download modified sounds."
-msgstr "変更したサウンドをダウンロードするには、ログインする必要があります。"
-
-#, python-format
-msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
-msgstr "書き出しには <strong>%(cost)s PAW</strong> が必要ですが、現在 <strong>%(balance)s PAW</strong> しかありません。"
-
-#, python-format
-msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
-msgstr "この変更されたサウンドを書き出すには、<strong>%(cost)s PAW</strong> がかかります。"
-
-#, python-format
-msgid "Your balance after download: %(balance)s PAW"
-msgstr "ダウンロード後の残高: %(balance)s PAW"
-
-msgid "Confirm Export"
-msgstr "書き出しを確定"
-
-msgid "Confirm & Download"
-msgstr "確定してダウンロード"
-
-msgid "An error occurred during payment."
-msgstr "決済中にエラーが発生しました。"
-
-msgid "Failed to connect to server."
-msgstr "サーバーへの接続に失敗しました。"
 
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "Soundpadやモバイルデバイスなどのサウンドボード用のサウンドを検索およびダウンロードするサービス。"
@@ -2363,266 +2623,6 @@ msgstr ""
 
 msgid "Mute / Unmute (M)"
 msgstr ""
-
-msgid "Downloading..."
-msgstr "ダウンロード中..."
-
-msgid "Complete!"
-msgstr "完了！"
-
-msgid "Error"
-msgstr "エラー"
-
-msgid "Download failed"
-msgstr "ダウンロードに失敗しました"
-
-msgid "Access Restricted"
-msgstr "アクセスが制限されています"
-
-msgid "To continue listening, please subscribe to our Telegram channel."
-msgstr "聴き続けるには、Telegramチャンネルを購読してね。"
-
-msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
-msgstr "購読を解除するな！チャンネルを抜けると、再度認証が必要になるぞ。"
-
-msgid "Subscribe"
-msgstr "購読"
-
-msgid "Subscribe to unlock"
-msgstr "アンロックするには購読してください"
-
-msgid "Verifying subscription..."
-msgstr "購読を検証中..."
-
-msgid "Continue"
-msgstr "続ける"
-
-msgid "This track is already downloading."
-msgstr "このトラックはすでにダウンロード中です。"
-
-msgid "Preparing download for"
-msgstr "ダウンロードの準備中"
-
-msgid "Adding to Soundpad:"
-msgstr "Soundpadへ追加中:"
-
-msgid "DELETED"
-msgstr "削除済み"
-
-msgid "Unlock This Feature"
-msgstr "この機能をアンロック"
-
-msgid "This sound is boosted!"
-msgstr "このサウンドはブースト済み！"
-
-msgid "Boost Sound"
-msgstr "サウンドをブースト"
-
-msgid "Views"
-msgstr "再生回数"
-
-msgid "Add to playlist"
-msgstr "プレイリストに追加"
-
-msgid "Quick Download"
-msgstr "クイックダウンロード"
-
-msgid "Modify & Download"
-msgstr "編集してダウンロード"
-
-msgid "Not interested"
-msgstr "興味なし"
-
-msgid "Report"
-msgstr "報告する"
-
-msgid "Original Sound"
-msgstr "オリジナルサウンド"
-
-msgid "Go to original sound"
-msgstr "オリジナルサウンドへ移動"
-
-msgid "Additional Tags"
-msgstr "追加タグ"
-
-msgid "This sound is too loud. Are you sure you want to play it back?"
-msgstr "このサウンドは音量が大きすぎます。再生してもよろしいですか？"
-
-msgid "Don't show this message again"
-msgstr "次回からこのメッセージを表示しない"
-
-msgid "Yes"
-msgstr "はい"
-
-msgid "No"
-msgstr "いいえ"
-
-msgid "This sound includes sensitive content and it may be inappropriate to listen to. Are you sure you want to play it back?"
-msgstr "このサウンドにはデリケートなコンテンツが含まれており、聞くのに不適切な場合があります。再生してもよろしいですか？"
-
-msgid "Show more"
-msgstr "もっと見る"
-
-msgid "No sounds to add."
-msgstr "追加するサウンドがありません。"
-
-msgid "Add to Playlist"
-msgstr "プレイリストに追加"
-
-#, python-format
-msgid "Choose a playlist for %(count)s sounds or create a new one."
-msgstr "%(count)s個のサウンドのプレイリストを選択するか、新しく作成してください。"
-
-#, python-format
-msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
-msgstr "「%(sound_name)s」のプレイリストを選択するか、新しく作成してください。"
-
-msgid "Create New"
-msgstr "新規作成"
-
-msgid "Add to Existing"
-msgstr "既存のプレイリストに追加"
-
-msgid "New Playlist Name"
-msgstr "新しいプレイリスト名"
-
-msgid "My Awesome Mix"
-msgstr "私の最高のミックス"
-
-msgid "Choose cover…"
-msgstr "カバーを選択…"
-
-msgid "Make playlist public"
-msgstr "プレイリストを公開にする"
-
-msgid "Search your playlists..."
-msgstr "プレイリストを検索..."
-
-msgid "Save"
-msgstr "保存"
-
-msgid "You don't have any playlists yet."
-msgstr "まだプレイリストがありません。"
-
-msgid "Could not load your playlists."
-msgstr "プレイリストを読み込めませんでした。"
-
-msgid "Searching..."
-msgstr "検索中..."
-
-msgid "Search failed."
-msgstr "検索に失敗しました。"
-
-msgid "Please select a playlist."
-msgstr "プレイリストを選択してください。"
-
-msgid "Please enter a name for the new playlist."
-msgstr "新しいプレイリストの名前を入力してください。"
-
-msgid "Image uploaded."
-msgstr "画像をアップロードしました。"
-
-msgid "Image upload failed."
-msgstr "画像のアップロードに失敗しました。"
-
-msgid "Playlist Limit Reached"
-msgstr "プレイリストの上限に達しました"
-
-msgid "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited playlists!"
-msgstr "通常ユーザーは最大2つのプレイリストを作成できます。無制限にプレイリストを作成したい場合はVIPにアップグレード！"
-
-msgid "Playlist is Full"
-msgstr "プレイリストは満杯です"
-
-msgid "Standard users can add up to 20 sounds per playlist. Get VIP to create massive collections!"
-msgstr "通常ユーザーはプレイリストあたり最大20サウンドを追加できます。巨大なコレクションを作るにはVIPを手に入れよう！"
-
-msgid "Private Playlists are a VIP Feature"
-msgstr "非公開プレイリストはVIP機能です"
-
-msgid "Keep your collections to yourself by upgrading to VIP."
-msgstr "VIPにアップグレードして、コレクションを自分だけのものに保とう。"
-
-msgid "An unexpected error occurred."
-msgstr "予期しないエラーが発生しました。"
-
-msgid "Hey, check out this playlist on Uwupad!"
-msgstr "ねえ、このプレイリストをUwupadで見てみて！"
-
-msgid "No sounds found"
-msgstr "サウンドが見つかりません"
-
-msgid "We will show fewer sounds like this"
-msgstr "こんな音は表示を減らすよ"
-
-msgid "Sound is already in the queue"
-msgstr "サウンドはすでにキューに入っています"
-
-msgid "added to queue"
-msgstr "キューに追加されました"
-
-msgid "Edit tags"
-msgstr "タグを編集"
-
-msgid "Is loud"
-msgstr "大音量"
-
-msgid "Is explicit"
-msgstr "露骨な表現"
-
-msgid "Report a sound"
-msgstr "サウンドを報告"
-
-msgid "We are strictly against any violations of our terms of use. Users have the ability to complain about content that is considered “spam,” “illegal activity,” or contains “copyrighted material without authorization.” If violations are found, the content will be removed immediately and this removal will be permanent."
-msgstr "私たちは利用規約のいかなる違反にも厳しく反対します。ユーザーは「スパム」、「違法行為」と見なされるコンテンツ、または「許可なく著作権で保護された素材」を含むコンテンツについて苦情を申し立てることができます。違反が見つかった場合、コンテンツは直ちに削除され、この削除は恒久的です。"
-
-msgid "Please state your request in English or Russian only. We cannot process requests in other languages."
-msgstr "リクエストは英語またはロシア語でのみ記述してください。他の言語でのリクエストは処理できません。"
-
-msgid "Comment, questions, reason for post."
-msgstr "コメント、質問、投稿の理由。"
-
-msgid "Your e-mail address"
-msgstr "あなたのメールアドレス"
-
-msgid "You have already sent a report."
-msgstr "すでに報告を送信しました。"
-
-msgid "Please enter a valid reason."
-msgstr "有効な理由を入力してください。"
-
-msgid "Please enter a valid email."
-msgstr "有効なメールアドレスを入力してください。"
-
-msgid "Are you sure?"
-msgstr "よろしいですか？"
-
-msgid "External Link Warning"
-msgstr "外部リンク警告"
-
-msgid "You are about to leave uwupad.me. We do not take responsibility for the content on external sites."
-msgstr "uwupad.meを離れようとしています。外部サイトのコンテンツについては責任を負いません。"
-
-msgid "Proceed"
-msgstr "続行"
-
-msgid "Copied to clipboard"
-msgstr "クリップボードにコピーしました"
-
-msgid "just now"
-msgstr "たった今"
-
-msgid "min ago"
-msgstr "分前"
-
-msgid "h ago"
-msgstr "時間前"
-
-msgid "d ago"
-msgstr "日前"
-
-msgid "w ago"
-msgstr "週間前"
 
 msgid "How to disable content blocking"
 msgstr "コンテンツブロックを無効にする方法"
@@ -2882,12 +2882,6 @@ msgstr "非常に人気 (500超のダウンロード)"
 msgid "Toggle BETA personalization"
 msgstr "ベータパーソナライズを切り替える"
 
-msgid "Listen to and discover new music on UwUpad. Thousands of tracks from independent artists."
-msgstr "UwUpadで新しい音楽を聴いて発見しよう。インディーズアーティストの何千曲もあるよ。"
-
-msgid "Listen to and discover new music on UwUpad."
-msgstr "UwUpadで新しい音楽を聴いて発見しよう。"
-
 msgid "My Library"
 msgstr "マイライブラリ"
 
@@ -3074,7 +3068,7 @@ msgstr "またはクリックして選択"
 msgid "Recommended: 500x500px, max. 5 MB"
 msgstr "おすすめ: 500x500px、最大5MBだぜ"
 
-msgid "Optional — embedded MP3/FLAC cover art is extracted automatically"
+msgid "Optional вЂ” embedded MP3/FLAC cover art is extracted automatically"
 msgstr ""
 
 msgid "Title of your track"
@@ -3113,7 +3107,7 @@ msgstr ""
 msgid "Too short for Music"
 msgstr ""
 
-msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX — please upload it via standard Sounds uploader."
+msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX вЂ” please upload it via standard Sounds uploader."
 msgstr ""
 
 msgid "Go to Sounds Upload"

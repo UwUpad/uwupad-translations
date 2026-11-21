@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-20 23:00+0000\n"
+"POT-Creation-Date: 2026-11-21 00:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -235,162 +235,533 @@ msgstr "在 5 秒内找到 TikTok 上的热门神曲或你最喜欢游戏中的�
 msgid "Welcome back,"
 msgstr "欢迎回来，"
 
-msgid "Available for VIP users only"
-msgstr "仅限 VIP 用户使用"
-
-msgid "Bulk Download is a VIP Feature"
-msgstr "批量下载是 VIP 功能"
-
-msgid "Upgrade to VIP to download entire playlists as a .zip file!"
-msgstr "升级至 VIP 即可将整个播放列表下载为 .zip 文件！"
-
-msgid "Pause"
-msgstr "暂停"
-
-msgid "This playlist is empty."
-msgstr "播放列表为空。"
-
-msgid "Remove from download"
-msgstr "从下载中移除"
-
-msgid "Could not load playlist."
-msgstr "无法加载播放列表。"
-
-msgid "Download cancelled."
-msgstr "下载已取消。"
-
-msgid "Downloading"
-msgstr "正在下载"
-
-msgid "Creating ZIP file... Please wait."
-msgstr "正在创建 ZIP 文件... 请稍候。"
-
-msgid "Compressing..."
-msgstr "正在压缩..."
-
-msgid "Resume"
-msgstr "继续"
-
-msgid "Paused..."
-msgstr "已暂停..."
-
-msgid "Resuming..."
-msgstr "正在恢复..."
-
-msgid "Import cancelled."
-msgstr "导入已取消。"
-
-msgid "Importing"
-msgstr "正在导入"
-
-msgid "Import complete!"
-msgstr "导入完成！"
-
-msgid "Sound data not loaded yet."
-msgstr "声音数据尚未加载。请稍候。"
-
-msgid "Error: Sound data not found."
-msgstr "错误：未找到声音数据。"
-
-msgid "Choose Boost Option"
-msgstr "选择推广方案"
-
-msgid "Promote your sound to reach a wider audience."
-msgstr "推广你的声音以触达更多受众。"
-
-msgid "VIP BENEFIT"
-msgstr "VIP 特权"
-
-msgid "Free Boost"
-msgstr "免费推广"
-
 #, python-format
-msgid "1 free boost every %(hours)s hours."
-msgstr "每 %(hours)s 小时获得 1 次免费推广。"
-
-msgid "Use Free Boost"
-msgstr "使用免费推广"
-
-msgid "PAY-TO-BOOST"
-msgstr "付费推广"
-
-msgid "Pay with PAW"
-msgstr "使用 PAW 支付"
-
-#, python-format
-msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
-msgstr "花费：%(cost)s PAW。你的余额：%(balance)s PAW。"
-
-#, python-format
-msgid "Pay %(cost)s PAW"
-msgstr "支付 %(cost)s PAW"
-
-msgid "Confirm Sound Boost"
-msgstr "确认声音推广"
-
-#, python-format
-msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
-msgstr "推广此声音将花费 <strong>%(cost)s PAW</strong>。"
-
-msgid "This will place your sound at the top of the 'For You' page for a limited time."
-msgstr "这将在有限的时间内将你的声音置于“为你推荐”页面的顶部。"
-
-msgid "Get free boosts and more with VIP!"
-msgstr "开通 VIP，获得免费推广及更多特权！"
-
-msgid "Learn More"
-msgstr "了解更多"
-
-msgid "Confirm & Boost"
-msgstr "确认并推广"
-
-msgid "Cancel"
-msgstr "取消"
-
-msgid "An error occurred"
-msgstr "发生了一个错误"
-
-msgid "All caught up!"
-msgstr "已读完所有内容！"
-
-msgid "You have no new notifications."
-msgstr "你没有新通知。"
-
-msgid "Oops!"
-msgstr "哎呀！"
-
-msgid "Could not load notifications. Please try again later."
-msgstr "无法加载通知。请稍后再试。"
-
-msgid "Just now"
-msgstr "刚刚"
-
-#, python-format
-msgid "%(minutes)s m ago"
-msgstr "%(minutes)s 分钟前"
+msgid "%(days)s d ago"
+msgstr "%(days)s 天前"
 
 #, python-format
 msgid "%(hours)s h ago"
 msgstr "%(hours)s 小时前"
 
 #, python-format
-msgid "%(days)s d ago"
-msgstr "%(days)s 天前"
+msgid "%(minutes)s m ago"
+msgstr "%(minutes)s 分钟前"
+
+#, python-format
+msgid "1 free boost every %(hours)s hours."
+msgstr "每 %(hours)s 小时获得 1 次免费推广。"
+
+msgid "Access Restricted"
+msgstr "访问受限"
 
 msgid "AdBlock detected"
 msgstr "检测到广告拦截器"
 
-msgid "We rely on ads to keep our servers running. Please consider supporting us by disabling AdBlock or"
-msgstr "我们依靠广告维持服务器运行。请考虑通过禁用广告拦截器来支持我们，或者"
+msgid "Add to Existing"
+msgstr "添加到现有列表"
 
-msgid "getting VIP"
-msgstr "开通 VIP"
+msgid "Add to Playlist"
+msgstr "添加到播放列表"
+
+msgid "Add to Soundpad"
+msgstr "添加到 Soundpad"
+
+msgid "Add to playlist"
+msgstr "添加到播放列表"
+
+msgid "Adding to Soundpad:"
+msgstr "添加到 Soundpad："
+
+msgid "Additional Tags"
+msgstr "附加标签"
+
+msgid "All caught up!"
+msgstr "已读完所有内容！"
+
+msgid "An error occurred"
+msgstr "发生了一个错误"
+
+msgid "An error occurred during payment."
+msgstr "支付过程中出错。"
+
+msgid "An unexpected error occurred."
+msgstr "发生了意外错误。"
+
+msgid "Are you sure you want to delete preset"
+msgstr "确定要删除该预设吗："
+
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+msgid "Available for VIP users only"
+msgstr "仅限 VIP 用户使用"
+
+msgid "Boost Sound"
+msgstr "推广声音"
+
+#, python-format
+msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
+msgstr "推广此声音将花费 <strong>%(cost)s PAW</strong>。"
+
+msgid "Bulk Download is a VIP Feature"
+msgstr "批量下载是 VIP 功能"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Choose Boost Option"
+msgstr "选择推广方案"
+
+#, python-format
+msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
+msgstr "为“%(sound_name)s”选择播放列表或创建新列表。"
+
+#, python-format
+msgid "Choose a playlist for %(count)s sounds or create a new one."
+msgstr "为这 %(count)s 条声音选择播放列表或创建新列表。"
+
+msgid "Choose cover…"
+msgstr "选择封面…"
+
+msgid "Comment, questions, reason for post."
+msgstr "评论、问题、举报原因。"
+
+msgid "Comments"
+msgstr "评论数"
+
+msgid "Complete!"
+msgstr "已完成！"
+
+msgid "Compressing..."
+msgstr "正在压缩..."
+
+msgid "Confirm & Boost"
+msgstr "确认并推广"
+
+msgid "Confirm & Download"
+msgstr "确认并下载"
+
+msgid "Confirm Export"
+msgstr "确认导出"
+
+msgid "Confirm Sound Boost"
+msgstr "确认声音推广"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Copied to clipboard"
+msgstr "已复制到剪贴板"
+
+#, python-format
+msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
+msgstr "花费：%(cost)s PAW。你的余额：%(balance)s PAW。"
+
+msgid "Could not load notifications. Please try again later."
+msgstr "无法加载通知。请稍后再试。"
+
+msgid "Could not load playlist."
+msgstr "无法加载播放列表。"
+
+msgid "Could not load your playlists."
+msgstr "无法加载你的播放列表。"
+
+msgid "Create New"
+msgstr "新建"
+
+msgid "Creating ZIP file... Please wait."
+msgstr "正在创建 ZIP 文件... 请稍候。"
+
+msgid "DELETED"
+msgstr "已删除"
+
+msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
+msgstr "请勿退订！如果你离开频道，将需要重新验证。"
+
+msgid "Don't show this message again"
+msgstr "不再显示此消息"
+
+msgid "Download cancelled."
+msgstr "下载已取消。"
+
+msgid "Download failed"
+msgstr "下载失败"
+
+msgid "Downloading"
+msgstr "正在下载"
+
+msgid "Downloading..."
+msgstr "正在下载..."
+
+msgid "Downloads"
+msgstr "下载数"
+
+msgid "EXPLICIT"
+msgstr "脏话/不雅"
+
+msgid "Edit tags"
+msgstr "编辑标签"
+
+msgid "Enter custom preset name:"
+msgstr "输入自定义预设名称："
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error parsing audio data."
+msgstr "解析音频数据时出错。"
+
+msgid "Error: Sound data not found."
+msgstr "错误：未找到声音数据。"
+
+#, python-format
+msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
+msgstr "导出此修改后的音频将消耗 <strong>%(cost)s PAW</strong>。"
+
+msgid "External Link Warning"
+msgstr "外部链接预警"
+
+msgid "Failed to connect to server."
+msgstr "无法连接到服务器。"
+
+msgid "Failed to update like. Please try again."
+msgstr "更新点赞失败。请重试。"
+
+msgid "Free Boost"
+msgstr "免费推广"
+
+msgid "Get free boosts and more with VIP!"
+msgstr "开通 VIP，获得免费推广及更多特权！"
+
+msgid "Go to original sound"
+msgstr "前往原始声音"
+
+msgid "Hey, check out this playlist on Uwupad!"
+msgstr "嘿，快来看看 Uwupad 上的这个播放列表！"
 
 msgid "How to disable?"
 msgstr "如何禁用？"
 
+msgid "Image upload failed."
+msgstr "图片上传失败。"
+
+msgid "Image uploaded."
+msgstr "图片已上传。"
+
+msgid "Import cancelled."
+msgstr "导入已取消。"
+
+msgid "Import complete!"
+msgstr "导入完成！"
+
+msgid "Important:"
+msgstr "重要提示："
+
+msgid "Importing"
+msgstr "正在导入"
+
+msgid "Insufficient Funds"
+msgstr "余额不足"
+
+msgid "Is explicit"
+msgstr "有不雅内容"
+
+msgid "Is loud"
+msgstr "音量大"
+
+msgid "Just now"
+msgstr "刚刚"
+
+msgid "Keep your collections to yourself by upgrading to VIP."
+msgstr "升级至 VIP，让你的收藏仅供自己查看。"
+
+msgid "LOUD"
+msgstr "高能/刺耳"
+
+msgid "Learn More"
+msgstr "了解更多"
+
+msgid "Like"
+msgstr "点赞"
+
+msgid "Listen"
+msgstr "收听"
+
+msgid "Loading..."
+msgstr "加载中..."
+
+msgid "Log In or Create Account"
+msgstr "登录或创建账号"
+
+msgid "Make playlist public"
+msgstr "设为公开播放列表"
+
+msgid "Modify & Download"
+msgstr "修改并下载"
+
+msgid "My Awesome Mix"
+msgstr "我的精彩混音"
+
+msgid "New Playlist Name"
+msgstr "新播放列表名称"
+
+msgid "No"
+msgstr "否"
+
+msgid "No file selected"
+msgstr "未选择文件"
+
+msgid "No sounds found"
+msgstr "未找到声音"
+
+msgid "No sounds to add."
+msgstr "没有可添加的声音。"
+
+msgid "Not interested"
+msgstr "没兴趣啦"
+
+msgid "Oops!"
+msgstr "哎呀！"
+
 msgid "Open"
 msgstr "打开"
+
+msgid "Original Sound"
+msgstr "原始声音"
+
+msgid "PAY-TO-BOOST"
+msgstr "付费推广"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Paused..."
+msgstr "已暂停..."
+
+#, python-format
+msgid "Pay %(cost)s PAW"
+msgstr "支付 %(cost)s PAW"
+
+msgid "Pay with PAW"
+msgstr "使用 PAW 支付"
+
+msgid "Playlist Limit Reached"
+msgstr "达到播放列表上限"
+
+msgid "Playlist is Full"
+msgstr "播放列表已满"
+
+msgid "Please enter a name for the new playlist."
+msgstr "请输入新播放列表的名称。"
+
+msgid "Please enter a valid email."
+msgstr "请输入有效的邮箱。"
+
+msgid "Please enter a valid reason."
+msgstr "请输入有效的原因。"
+
+msgid "Please select a playlist."
+msgstr "请选择一个播放列表。"
+
+msgid "Please state your request in English or Russian only. We cannot process requests in other languages."
+msgstr "请仅使用英语或俄语提交你的请求。我们无法处理其他语言的请求。"
+
+msgid "Please wait 10 minutes before sending feedback again."
+msgstr ""
+
+msgid "Preparing download for"
+msgstr "正在准备下载："
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Private Playlists are a VIP Feature"
+msgstr "私人播放列表是 VIP 功能"
+
+msgid "Proceed"
+msgstr "继续"
+
+msgid "Processing..."
+msgstr "处理中..."
+
+msgid "Promote your sound to reach a wider audience."
+msgstr "推广你的声音以触达更多受众。"
+
+msgid "Quick Download"
+msgstr "极速下载"
+
+msgid "Remove from download"
+msgstr "从下载中移除"
+
+msgid "Report"
+msgstr "举报"
+
+msgid "Report a sound"
+msgstr "举报声音"
+
+msgid "Resume"
+msgstr "继续"
+
+msgid "Resuming..."
+msgstr "正在恢复..."
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Search failed."
+msgstr "搜索失败。"
+
+msgid "Search your playlists..."
+msgstr "搜索你的播放列表..."
+
+msgid "Searching..."
+msgstr "正在搜索..."
+
+msgid "Sent!"
+msgstr "已发送！"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Show more"
+msgstr "显示更多"
+
+msgid "Sound"
+msgstr "声音"
+
+msgid "Sound data not loaded yet."
+msgstr "声音数据尚未加载。请稍候。"
+
+msgid "Sound is already in the queue"
+msgstr "声音已在队列中"
+
+msgid "Standard users can add up to 20 sounds per playlist. Get VIP to create massive collections!"
+msgstr "普通用户每个播放列表最多添加 20 条声音。开通 VIP 即可创建海量收藏！"
+
+msgid "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited playlists!"
+msgstr "普通用户最多可创建 2 个播放列表。升级至 VIP 以享受无限播放列表！"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Subscribe"
+msgstr "订阅"
+
+msgid "Subscribe to unlock"
+msgstr "订阅以解锁"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "The best sound sharing service for Soundpad"
+msgstr "最适合 Soundpad 的声音分享服务"
+
+msgid "This playlist is empty."
+msgstr "播放列表为空。"
+
+msgid "This sound includes sensitive content and it may be inappropriate to listen to. Are you sure you want to play it back?"
+msgstr "此声音包含敏感内容，可能不适合收听。你确定要播放吗？"
+
+msgid "This sound is boosted!"
+msgstr "此声音正在推广中！"
+
+msgid "This sound is too loud. Are you sure you want to play it back?"
+msgstr "此声音音量过大。你确定要播放吗？"
+
+msgid "This track is already downloading."
+msgstr "该曲目已在下载中。"
+
+msgid "This will place your sound at the top of the 'For You' page for a limited time."
+msgstr "这将在有限的时间内将你的声音置于“为你推荐”页面的顶部。"
+
+msgid "To continue listening, please subscribe to our Telegram channel."
+msgstr "要继续收听，请订阅我们的 Telegram 频道。"
+
+msgid "Top Up Balance"
+msgstr "充值余额"
+
+msgid "Unlock This Feature"
+msgstr "解锁此功能"
+
+msgid "Unlock VIP"
+msgstr "解锁 VIP"
+
+msgid "Upgrade to VIP to download entire playlists as a .zip file!"
+msgstr "升级至 VIP 即可将整个播放列表下载为 .zip 文件！"
+
+msgid "Use Free Boost"
+msgstr "使用免费推广"
+
+msgid "VIP BENEFIT"
+msgstr "VIP 特权"
+
+msgid "Verifying subscription..."
+msgstr "正在验证订阅..."
+
+msgid "Views"
+msgstr "浏览量"
+
+msgid "We are strictly against any violations of our terms of use. Users have the ability to complain about content that is considered “spam,” “illegal activity,” or contains “copyrighted material without authorization.” If violations are found, the content will be removed immediately and this removal will be permanent."
+msgstr "我们严格禁止任何违反使用条款的行为。用户有权对被视为“垃圾信息”、“非法活动”或包含“未经授权的版权材料”的内容进行投诉。如果发现违规，内容将被立即永久删除。"
+
+msgid "We rely on ads to keep our servers running. Please consider supporting us by disabling AdBlock or"
+msgstr "我们依靠广告维持服务器运行。请考虑通过禁用广告拦截器来支持我们，或者"
+
+msgid "We will show fewer sounds like this"
+msgstr "我们会少展示这类声音"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "You are about to leave uwupad.me. We do not take responsibility for the content on external sites."
+msgstr "你即将离开 uwupad.me。我们对外部网站的内容不承担责任。"
+
+msgid "You don't have any playlists yet."
+msgstr "你还没有任何播放列表。"
+
+msgid "You have already sent a report."
+msgstr "你已经发送过举报了。"
+
+msgid "You have no new notifications."
+msgstr "你没有新通知。"
+
+msgid "You must be logged in to download modified sounds."
+msgstr "你需要先登录才能下载修改过的音效。"
+
+msgid "You must be logged in to like sounds."
+msgstr "你必须登录后才能给声音点赞。"
+
+#, python-format
+msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
+msgstr "你需要 <strong>%(cost)s PAW</strong> 才能导出，但你只有 <strong>%(balance)s PAW</strong>。"
+
+#, python-format
+msgid "Your balance after download: %(balance)s PAW"
+msgstr "下载后你的余额：%(balance)s PAW"
+
+msgid "Your e-mail address"
+msgstr "你的电子邮箱"
+
+msgid "added to queue"
+msgstr "已添加到队列"
+
+msgid "d ago"
+msgstr "天前"
+
+msgid "getting VIP"
+msgstr "开通 VIP"
+
+msgid "h ago"
+msgstr "小时前"
+
+msgid "just now"
+msgstr "刚刚"
+
+msgid "min ago"
+msgstr "分钟前"
+
+msgid "w ago"
+msgstr "周前"
 
 msgid "Change Password"
 msgstr "更改密码"
@@ -656,9 +1027,6 @@ msgstr "需要身份验证"
 msgid "Log in or register to get a personalized For You feed based on your taste."
 msgstr "登录或注册，基于你的口味为你定制专属的 For You 信息流。"
 
-msgid "Log In or Create Account"
-msgstr "登录或创建账号"
-
 msgid "Trending"
 msgstr "热门"
 
@@ -706,12 +1074,6 @@ msgstr "影响力"
 
 msgid "Uploads"
 msgstr "上传数"
-
-msgid "Downloads"
-msgstr "下载数"
-
-msgid "Comments"
-msgstr "评论数"
 
 msgid "Comment Likes"
 msgstr "评论获赞"
@@ -864,9 +1226,6 @@ msgstr "预览图"
 
 msgid "Choose a file…"
 msgstr "选择文件…"
-
-msgid "No file selected"
-msgstr "未选择文件"
 
 msgid "Recommended 16:9. GIF only for VIP users."
 msgstr "推荐 16:9 比例。GIF 仅限 VIP 用户。"
@@ -1148,18 +1507,12 @@ msgstr "确认并支付"
 msgid "Get unlimited style changes and more with VIP!"
 msgstr "开通 VIP，获得无限次样式更改及更多特权！"
 
-msgid "Insufficient Funds"
-msgstr "余额不足"
-
 #, python-format
 msgid "You need <strong>%(cost)s PAW</strong> to change your style, but you only have <strong>%(balance)s PAW</strong>."
 msgstr "你需要 <strong>%(cost)s PAW</strong> 来更改样式，但你只有 <strong>%(balance)s PAW</strong>。"
 
 msgid "OPTION 1"
 msgstr "选项 1"
-
-msgid "Top Up Balance"
-msgstr "充值余额"
 
 msgid "Go to Deposit"
 msgstr "前往充值"
@@ -1172,9 +1525,6 @@ msgstr "最划算"
 
 msgid "Upgrade to VIP"
 msgstr "升级至 VIP"
-
-msgid "Unlock VIP"
-msgstr "解锁 VIP"
 
 msgid "Get <strong>unlimited</strong> style changes & more!"
 msgstr "获得 <strong>无限次</strong> 样式更改及更多！"
@@ -1239,23 +1589,8 @@ msgstr "未找到声音"
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "未找到该 ID 的声音。请检查输入的数据。"
 
-msgid "Add to Soundpad"
-msgstr "添加到 Soundpad"
-
 msgid "Download"
 msgstr "下载"
-
-msgid "Like"
-msgstr "点赞"
-
-msgid "Share"
-msgstr "分享"
-
-msgid "LOUD"
-msgstr "高能/刺耳"
-
-msgid "EXPLICIT"
-msgstr "脏话/不雅"
 
 msgid "Edit sound"
 msgstr "编辑声音"
@@ -1299,128 +1634,110 @@ msgstr "向右旋转"
 msgid "Lightbox Image"
 msgstr "图片预览"
 
-msgid "Failed to load audio file. Please try again later."
-msgstr ""
-
-msgid "You must be logged in to like sounds."
-msgstr "你必须登录后才能给声音点赞。"
-
-msgid "Failed to update like. Please try again."
-msgstr "更新点赞失败。请重试。"
-
-msgid "The best sound sharing service for Soundpad"
-msgstr "最适合 Soundpad 的声音分享服务"
-
-msgid "Sound"
-msgstr "声音"
-
-msgid "Listen"
-msgstr "收听"
-
-msgid "Edit Sound"
-msgstr "编辑声音"
-
-msgid "Sound ID"
-msgstr "音效ID"
-
-msgid "Unique Identifier"
-msgstr "唯一标识符"
-
-msgid "Language"
-msgstr "语言"
-
-msgid "Enter sound title..."
-msgstr "输入音效标题..."
-
-msgid "Description"
-msgstr "描述"
-
 msgid "Add a brief description..."
 msgstr "添加简短描述..."
-
-msgid "Tags (comma separated)"
-msgstr "标签 (用逗号分隔)"
-
-msgid "Cover Image (Optional)"
-msgstr "封面图 (选填)"
-
-msgid "Max 2MB. Leaves current cover intact if empty."
-msgstr "最大 2MB。若留空则保持当前封面不变。"
-
-msgid "LOUD Warning"
-msgstr "高音量警告"
-
-msgid "Mark if audio is extremely loud or screechy"
-msgstr "若音频极度响亮或尖锐，请勾选"
-
-msgid "EXPLICIT Content"
-msgstr "成人内容"
-
-msgid "Mark if audio contains profanity or 18+ themes"
-msgstr "若音频包含脏话或18+主题，请勾选"
-
-msgid "Mark as Music (Admin)"
-msgstr "标记为音乐 (管理)"
-
-msgid "Moves this sound to the /music section"
-msgstr "将此声音移至 /music 板块"
-
-msgid "Title cannot be empty"
-msgstr "标题不能为空"
-
-msgid "Sound updated successfully!"
-msgstr "声音更新成功！"
-
-msgid "Write a reply..."
-msgstr "写下你的回复..."
-
-msgid "Reply"
-msgstr "回复"
-
-msgid "Loading..."
-msgstr "加载中..."
-
-#, python-format
-msgid "View %(count)s more replies"
-msgstr "查看另外 %(count)s 条回复"
-
-msgid "Hide"
-msgstr "隐藏"
-
-msgid "Error loading replies."
-msgstr "加载回复出错。"
 
 msgid "Comment attachment"
 msgstr "评论附件"
 
-#, python-format
-msgid "View %(count)s replies"
-msgstr "查看 %(count)s 条回复"
-
-msgid "No comments yet."
-msgstr "暂无评论。"
+msgid "Comment deleted."
+msgstr "评论已删除。"
 
 msgid "Comment or attachment cannot be empty."
 msgstr "评论或附件不能为空。"
 
+msgid "Cover Image (Optional)"
+msgstr "封面图 (选填)"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "EXPLICIT Content"
+msgstr "成人内容"
+
+msgid "Edit Sound"
+msgstr "编辑声音"
+
+msgid "Enter sound title..."
+msgstr "输入音效标题..."
+
+msgid "Error loading replies."
+msgstr "加载回复出错。"
+
+msgid "Failed to delete comment."
+msgstr "删除评论失败。"
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
+
 msgid "Failed to post comment."
 msgstr "发布评论失败。"
 
-msgid "Hide reply"
-msgstr "隐藏回复"
+msgid "Hide"
+msgstr "隐藏"
 
 #, python-format
 msgid "Hide %(count)s replies"
 msgstr "隐藏 %(count)s 条回复"
 
+msgid "Hide reply"
+msgstr "隐藏回复"
+
+msgid "LOUD Warning"
+msgstr "高音量警告"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Mark as Music (Admin)"
+msgstr "标记为音乐 (管理)"
+
+msgid "Mark if audio contains profanity or 18+ themes"
+msgstr "若音频包含脏话或18+主题，请勾选"
+
+msgid "Mark if audio is extremely loud or screechy"
+msgstr "若音频极度响亮或尖锐，请勾选"
+
+msgid "Max 2MB. Leaves current cover intact if empty."
+msgstr "最大 2MB。若留空则保持当前封面不变。"
+
+msgid "Moves this sound to the /music section"
+msgstr "将此声音移至 /music 板块"
+
+msgid "No comments yet."
+msgstr "暂无评论。"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Sound ID"
+msgstr "音效ID"
+
+msgid "Sound updated successfully!"
+msgstr "声音更新成功！"
+
+msgid "Tags (comma separated)"
+msgstr "标签 (用逗号分隔)"
+
+msgid "Title cannot be empty"
+msgstr "标题不能为空"
+
+msgid "Unique Identifier"
+msgstr "唯一标识符"
+
+#, python-format
+msgid "View %(count)s more replies"
+msgstr "查看另外 %(count)s 条回复"
+
+#, python-format
+msgid "View %(count)s replies"
+msgstr "查看 %(count)s 条回复"
+
+msgid "Write a reply..."
+msgstr "写下你的回复..."
+
 msgid "You must be logged in to like comments."
 msgstr "你必须登录后才能给评论点赞。"
-
-msgid "Comment deleted."
-msgstr "评论已删除。"
-
-msgid "Failed to delete comment."
-msgstr "删除评论失败。"
 
 #, python-format
 msgid "Sounds tagged with #%(tag_name)s"
@@ -1520,9 +1837,6 @@ msgstr ""
 msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
 msgstr ""
 
-msgid "Tags"
-msgstr "标签"
-
 msgid "rust, loud, funny"
 msgstr "rust, 高能, 搞笑"
 
@@ -1549,9 +1863,6 @@ msgstr "音乐 / 音效 (无语言)"
 
 msgid "Other"
 msgstr "其他"
-
-msgid "Important:"
-msgstr "重要提示："
 
 msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr "请选择音频中所说的语言。若这是歌曲或没有清晰对白的音效，请选择 'Music / SFX'。语言选择错误会影响你的推荐，甚至可能被审核。"
@@ -2084,12 +2395,6 @@ msgstr "以后再说"
 msgid "Send"
 msgstr "发送"
 
-msgid "Sent!"
-msgstr "已发送！"
-
-msgid "Please wait 10 minutes before sending feedback again."
-msgstr ""
-
 msgid "You can remove sounds you don't want from the list below."
 msgstr "你可以从下方列表中移除你不想要的声音。"
 
@@ -2165,53 +2470,8 @@ msgstr "重置所有参数为默认值"
 msgid "Reset"
 msgstr "重置"
 
-msgid "Preview"
-msgstr "预览"
-
 msgid "Download WAV"
 msgstr "下载 WAV"
-
-msgid "Enter custom preset name:"
-msgstr "输入自定义预设名称："
-
-msgid "Are you sure you want to delete preset"
-msgstr "确定要删除该预设吗："
-
-msgid "Error parsing audio data."
-msgstr "解析音频数据时出错。"
-
-msgid "Stop"
-msgstr "停止"
-
-msgid "Processing..."
-msgstr "处理中..."
-
-msgid "You must be logged in to download modified sounds."
-msgstr "你需要先登录才能下载修改过的音效。"
-
-#, python-format
-msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
-msgstr "你需要 <strong>%(cost)s PAW</strong> 才能导出，但你只有 <strong>%(balance)s PAW</strong>。"
-
-#, python-format
-msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
-msgstr "导出此修改后的音频将消耗 <strong>%(cost)s PAW</strong>。"
-
-#, python-format
-msgid "Your balance after download: %(balance)s PAW"
-msgstr "下载后你的余额：%(balance)s PAW"
-
-msgid "Confirm Export"
-msgstr "确认导出"
-
-msgid "Confirm & Download"
-msgstr "确认并下载"
-
-msgid "An error occurred during payment."
-msgstr "支付过程中出错。"
-
-msgid "Failed to connect to server."
-msgstr "无法连接到服务器。"
 
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "用于为 Soundpad 等声音控制台或移动设备搜索和下载声音的服务。"
@@ -2356,266 +2616,6 @@ msgstr ""
 
 msgid "Mute / Unmute (M)"
 msgstr ""
-
-msgid "Downloading..."
-msgstr "正在下载..."
-
-msgid "Complete!"
-msgstr "已完成！"
-
-msgid "Error"
-msgstr "错误"
-
-msgid "Download failed"
-msgstr "下载失败"
-
-msgid "Access Restricted"
-msgstr "访问受限"
-
-msgid "To continue listening, please subscribe to our Telegram channel."
-msgstr "要继续收听，请订阅我们的 Telegram 频道。"
-
-msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
-msgstr "请勿退订！如果你离开频道，将需要重新验证。"
-
-msgid "Subscribe"
-msgstr "订阅"
-
-msgid "Subscribe to unlock"
-msgstr "订阅以解锁"
-
-msgid "Verifying subscription..."
-msgstr "正在验证订阅..."
-
-msgid "Continue"
-msgstr "继续"
-
-msgid "This track is already downloading."
-msgstr "该曲目已在下载中。"
-
-msgid "Preparing download for"
-msgstr "正在准备下载："
-
-msgid "Adding to Soundpad:"
-msgstr "添加到 Soundpad："
-
-msgid "DELETED"
-msgstr "已删除"
-
-msgid "Unlock This Feature"
-msgstr "解锁此功能"
-
-msgid "This sound is boosted!"
-msgstr "此声音正在推广中！"
-
-msgid "Boost Sound"
-msgstr "推广声音"
-
-msgid "Views"
-msgstr "浏览量"
-
-msgid "Add to playlist"
-msgstr "添加到播放列表"
-
-msgid "Quick Download"
-msgstr "极速下载"
-
-msgid "Modify & Download"
-msgstr "修改并下载"
-
-msgid "Not interested"
-msgstr "没兴趣啦"
-
-msgid "Report"
-msgstr "举报"
-
-msgid "Original Sound"
-msgstr "原始声音"
-
-msgid "Go to original sound"
-msgstr "前往原始声音"
-
-msgid "Additional Tags"
-msgstr "附加标签"
-
-msgid "This sound is too loud. Are you sure you want to play it back?"
-msgstr "此声音音量过大。你确定要播放吗？"
-
-msgid "Don't show this message again"
-msgstr "不再显示此消息"
-
-msgid "Yes"
-msgstr "是"
-
-msgid "No"
-msgstr "否"
-
-msgid "This sound includes sensitive content and it may be inappropriate to listen to. Are you sure you want to play it back?"
-msgstr "此声音包含敏感内容，可能不适合收听。你确定要播放吗？"
-
-msgid "Show more"
-msgstr "显示更多"
-
-msgid "No sounds to add."
-msgstr "没有可添加的声音。"
-
-msgid "Add to Playlist"
-msgstr "添加到播放列表"
-
-#, python-format
-msgid "Choose a playlist for %(count)s sounds or create a new one."
-msgstr "为这 %(count)s 条声音选择播放列表或创建新列表。"
-
-#, python-format
-msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
-msgstr "为“%(sound_name)s”选择播放列表或创建新列表。"
-
-msgid "Create New"
-msgstr "新建"
-
-msgid "Add to Existing"
-msgstr "添加到现有列表"
-
-msgid "New Playlist Name"
-msgstr "新播放列表名称"
-
-msgid "My Awesome Mix"
-msgstr "我的精彩混音"
-
-msgid "Choose cover…"
-msgstr "选择封面…"
-
-msgid "Make playlist public"
-msgstr "设为公开播放列表"
-
-msgid "Search your playlists..."
-msgstr "搜索你的播放列表..."
-
-msgid "Save"
-msgstr "保存"
-
-msgid "You don't have any playlists yet."
-msgstr "你还没有任何播放列表。"
-
-msgid "Could not load your playlists."
-msgstr "无法加载你的播放列表。"
-
-msgid "Searching..."
-msgstr "正在搜索..."
-
-msgid "Search failed."
-msgstr "搜索失败。"
-
-msgid "Please select a playlist."
-msgstr "请选择一个播放列表。"
-
-msgid "Please enter a name for the new playlist."
-msgstr "请输入新播放列表的名称。"
-
-msgid "Image uploaded."
-msgstr "图片已上传。"
-
-msgid "Image upload failed."
-msgstr "图片上传失败。"
-
-msgid "Playlist Limit Reached"
-msgstr "达到播放列表上限"
-
-msgid "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited playlists!"
-msgstr "普通用户最多可创建 2 个播放列表。升级至 VIP 以享受无限播放列表！"
-
-msgid "Playlist is Full"
-msgstr "播放列表已满"
-
-msgid "Standard users can add up to 20 sounds per playlist. Get VIP to create massive collections!"
-msgstr "普通用户每个播放列表最多添加 20 条声音。开通 VIP 即可创建海量收藏！"
-
-msgid "Private Playlists are a VIP Feature"
-msgstr "私人播放列表是 VIP 功能"
-
-msgid "Keep your collections to yourself by upgrading to VIP."
-msgstr "升级至 VIP，让你的收藏仅供自己查看。"
-
-msgid "An unexpected error occurred."
-msgstr "发生了意外错误。"
-
-msgid "Hey, check out this playlist on Uwupad!"
-msgstr "嘿，快来看看 Uwupad 上的这个播放列表！"
-
-msgid "No sounds found"
-msgstr "未找到声音"
-
-msgid "We will show fewer sounds like this"
-msgstr "我们会少展示这类声音"
-
-msgid "Sound is already in the queue"
-msgstr "声音已在队列中"
-
-msgid "added to queue"
-msgstr "已添加到队列"
-
-msgid "Edit tags"
-msgstr "编辑标签"
-
-msgid "Is loud"
-msgstr "音量大"
-
-msgid "Is explicit"
-msgstr "有不雅内容"
-
-msgid "Report a sound"
-msgstr "举报声音"
-
-msgid "We are strictly against any violations of our terms of use. Users have the ability to complain about content that is considered “spam,” “illegal activity,” or contains “copyrighted material without authorization.” If violations are found, the content will be removed immediately and this removal will be permanent."
-msgstr "我们严格禁止任何违反使用条款的行为。用户有权对被视为“垃圾信息”、“非法活动”或包含“未经授权的版权材料”的内容进行投诉。如果发现违规，内容将被立即永久删除。"
-
-msgid "Please state your request in English or Russian only. We cannot process requests in other languages."
-msgstr "请仅使用英语或俄语提交你的请求。我们无法处理其他语言的请求。"
-
-msgid "Comment, questions, reason for post."
-msgstr "评论、问题、举报原因。"
-
-msgid "Your e-mail address"
-msgstr "你的电子邮箱"
-
-msgid "You have already sent a report."
-msgstr "你已经发送过举报了。"
-
-msgid "Please enter a valid reason."
-msgstr "请输入有效的原因。"
-
-msgid "Please enter a valid email."
-msgstr "请输入有效的邮箱。"
-
-msgid "Are you sure?"
-msgstr "你确定吗？"
-
-msgid "External Link Warning"
-msgstr "外部链接预警"
-
-msgid "You are about to leave uwupad.me. We do not take responsibility for the content on external sites."
-msgstr "你即将离开 uwupad.me。我们对外部网站的内容不承担责任。"
-
-msgid "Proceed"
-msgstr "继续"
-
-msgid "Copied to clipboard"
-msgstr "已复制到剪贴板"
-
-msgid "just now"
-msgstr "刚刚"
-
-msgid "min ago"
-msgstr "分钟前"
-
-msgid "h ago"
-msgstr "小时前"
-
-msgid "d ago"
-msgstr "天前"
-
-msgid "w ago"
-msgstr "周前"
 
 msgid "How to disable content blocking"
 msgstr "如何关闭内容过滤/拦截"
@@ -2875,12 +2875,6 @@ msgstr "极度火爆 (>500 次下载)"
 msgid "Toggle BETA personalization"
 msgstr "切换 BETA 个性化设置"
 
-msgid "Listen to and discover new music on UwUpad. Thousands of tracks from independent artists."
-msgstr "在 UwUpad 上收听并发现新音乐。来自独立艺术家的数千首曲目。"
-
-msgid "Listen to and discover new music on UwUpad."
-msgstr "在 UwUpad 上收听并发现新音乐。"
-
 msgid "My Library"
 msgstr "我的媒体库"
 
@@ -3067,7 +3061,7 @@ msgstr "或点击进行选择"
 msgid "Recommended: 500x500px, max. 5 MB"
 msgstr "推荐：500x500px，最多 5 MB"
 
-msgid "Optional — embedded MP3/FLAC cover art is extracted automatically"
+msgid "Optional вЂ” embedded MP3/FLAC cover art is extracted automatically"
 msgstr ""
 
 msgid "Title of your track"
@@ -3106,7 +3100,7 @@ msgstr ""
 msgid "Too short for Music"
 msgstr ""
 
-msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX — please upload it via standard Sounds uploader."
+msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX вЂ” please upload it via standard Sounds uploader."
 msgstr ""
 
 msgid "Go to Sounds Upload"

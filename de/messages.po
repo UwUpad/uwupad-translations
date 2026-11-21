@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-20 23:00+0000\n"
+"POT-Creation-Date: 2026-11-21 00:00+0000\n"
 "PO-Revision-Date: 2026-01-23 00:00+0000\n"
 "Last-Translator: AI Translator\n"
 "Language-Team: de <LL@li.org>\n"
@@ -235,162 +235,533 @@ msgstr "Finde diesen einen Meme-Sound von TikTok oder einen Schrei aus deinem Li
 msgid "Welcome back,"
 msgstr "Willkommen zurück,"
 
-msgid "Available for VIP users only"
-msgstr "Nur für VIP-Nutzer verfügbar"
-
-msgid "Bulk Download is a VIP Feature"
-msgstr "Massen-Download ist ein VIP-Feature"
-
-msgid "Upgrade to VIP to download entire playlists as a .zip file!"
-msgstr "Hol dir VIP, um ganze Playlists als ZIP-Datei herunterzuladen!"
-
-msgid "Pause"
-msgstr "Pause"
-
-msgid "This playlist is empty."
-msgstr "Diese Playlist ist leer."
-
-msgid "Remove from download"
-msgstr "Aus Download entfernen"
-
-msgid "Could not load playlist."
-msgstr "Playlist konnte nicht geladen werden."
-
-msgid "Download cancelled."
-msgstr "Download abgebrochen."
-
-msgid "Downloading"
-msgstr "Wird heruntergeladen"
-
-msgid "Creating ZIP file... Please wait."
-msgstr "ZIP-Datei wird erstellt... Bitte warten."
-
-msgid "Compressing..."
-msgstr "Komprimierung..."
-
-msgid "Resume"
-msgstr "Fortsetzen"
-
-msgid "Paused..."
-msgstr "Pausiert..."
-
-msgid "Resuming..."
-msgstr "Fortsetzung..."
-
-msgid "Import cancelled."
-msgstr "Import abgebrochen."
-
-msgid "Importing"
-msgstr "Wird importiert"
-
-msgid "Import complete!"
-msgstr "Import abgeschlossen!"
-
-msgid "Sound data not loaded yet."
-msgstr "Sound-Daten noch nicht geladen. Bitte warten."
-
-msgid "Error: Sound data not found."
-msgstr "Fehler: Sound-Daten nicht gefunden."
-
-msgid "Choose Boost Option"
-msgstr "Boost-Option wählen"
-
-msgid "Promote your sound to reach a wider audience."
-msgstr "Bewerbe deinen Sound, um mehr Leute zu erreichen."
-
-msgid "VIP BENEFIT"
-msgstr "VIP-VORTEIL"
-
-msgid "Free Boost"
-msgstr "Gratis Boost"
-
 #, python-format
-msgid "1 free boost every %(hours)s hours."
-msgstr "1 Gratis-Boost alle %(hours)s Stunden."
-
-msgid "Use Free Boost"
-msgstr "Gratis Boost nutzen"
-
-msgid "PAY-TO-BOOST"
-msgstr "BEZAHLTER BOOST"
-
-msgid "Pay with PAW"
-msgstr "Mit PAW bezahlen"
-
-#, python-format
-msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
-msgstr "Kosten: %(cost)s PAW. Dein Guthaben: %(balance)s PAW."
-
-#, python-format
-msgid "Pay %(cost)s PAW"
-msgstr "%(cost)s PAW bezahlen"
-
-msgid "Confirm Sound Boost"
-msgstr "Sound-Boost bestätigen"
-
-#, python-format
-msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
-msgstr "Diesen Sound zu boosten kostet <strong>%(cost)s PAW</strong>."
-
-msgid "This will place your sound at the top of the 'For You' page for a limited time."
-msgstr "Dies platziert deinen Sound für begrenzte Zeit ganz oben in den 'Empfehlungen'."
-
-msgid "Get free boosts and more with VIP!"
-msgstr "Hol dir Gratis-Boosts und mehr mit VIP!"
-
-msgid "Learn More"
-msgstr "Mehr erfahren"
-
-msgid "Confirm & Boost"
-msgstr "Bestätigen & Boosten"
-
-msgid "Cancel"
-msgstr "Abbrechen"
-
-msgid "An error occurred"
-msgstr "Ein Fehler ist aufgetreten"
-
-msgid "All caught up!"
-msgstr "Alles auf dem neuesten Stand!"
-
-msgid "You have no new notifications."
-msgstr "Du hast keine neuen Benachrichtigungen."
-
-msgid "Oops!"
-msgstr "Hoppla!"
-
-msgid "Could not load notifications. Please try again later."
-msgstr "Meldungen konnten nicht geladen werden. Später erneut versuchen."
-
-msgid "Just now"
-msgstr "Gerade eben"
-
-#, python-format
-msgid "%(minutes)s m ago"
-msgstr "vor %(minutes)s Min."
+msgid "%(days)s d ago"
+msgstr "vor %(days)s Tg."
 
 #, python-format
 msgid "%(hours)s h ago"
 msgstr "vor %(hours)s Std."
 
 #, python-format
-msgid "%(days)s d ago"
-msgstr "vor %(days)s Tg."
+msgid "%(minutes)s m ago"
+msgstr "vor %(minutes)s Min."
+
+#, python-format
+msgid "1 free boost every %(hours)s hours."
+msgstr "1 Gratis-Boost alle %(hours)s Stunden."
+
+msgid "Access Restricted"
+msgstr "Zugriff eingeschränkt"
 
 msgid "AdBlock detected"
 msgstr "AdBlock erkannt"
 
-msgid "We rely on ads to keep our servers running. Please consider supporting us by disabling AdBlock or"
-msgstr "Wir finanzieren unsere Server durch Werbung. Bitte unterstütze uns, indem du den AdBlocker deaktivierst oder"
+msgid "Add to Existing"
+msgstr "Bestehender hinzufügen"
 
-msgid "getting VIP"
-msgstr "VIP wirst"
+msgid "Add to Playlist"
+msgstr "Zur Playlist hinzufügen"
+
+msgid "Add to Soundpad"
+msgstr "Zu Soundpad hinzufügen"
+
+msgid "Add to playlist"
+msgstr "Zu Playlist hinzufügen"
+
+msgid "Adding to Soundpad:"
+msgstr "Hinzufügen zu Soundpad:"
+
+msgid "Additional Tags"
+msgstr "Zusätzliche Tags"
+
+msgid "All caught up!"
+msgstr "Alles auf dem neuesten Stand!"
+
+msgid "An error occurred"
+msgstr "Ein Fehler ist aufgetreten"
+
+msgid "An error occurred during payment."
+msgstr "Ein Zahlungsfehler ist aufgetreten."
+
+msgid "An unexpected error occurred."
+msgstr "Ein unerwarteter Fehler ist aufgetreten."
+
+msgid "Are you sure you want to delete preset"
+msgstr "Bist du sicher, dass du das Preset löschen willst"
+
+msgid "Are you sure?"
+msgstr "Bist du sicher?"
+
+msgid "Available for VIP users only"
+msgstr "Nur für VIP-Nutzer verfügbar"
+
+msgid "Boost Sound"
+msgstr "Sound boosten"
+
+#, python-format
+msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
+msgstr "Diesen Sound zu boosten kostet <strong>%(cost)s PAW</strong>."
+
+msgid "Bulk Download is a VIP Feature"
+msgstr "Massen-Download ist ein VIP-Feature"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Choose Boost Option"
+msgstr "Boost-Option wählen"
+
+#, python-format
+msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
+msgstr "Playlist für \"%(sound_name)s\" wählen oder neue erstellen."
+
+#, python-format
+msgid "Choose a playlist for %(count)s sounds or create a new one."
+msgstr "Playlist für %(count)s Sounds wählen oder neue erstellen."
+
+msgid "Choose cover…"
+msgstr "Cover wählen…"
+
+msgid "Comment, questions, reason for post."
+msgstr "Kommentar, Fragen, Grund der Meldung."
+
+msgid "Comments"
+msgstr "Kommentare"
+
+msgid "Complete!"
+msgstr "Fertig!"
+
+msgid "Compressing..."
+msgstr "Komprimierung..."
+
+msgid "Confirm & Boost"
+msgstr "Bestätigen & Boosten"
+
+msgid "Confirm & Download"
+msgstr "Bestätigen & Herunterladen"
+
+msgid "Confirm Export"
+msgstr "Export bestätigen"
+
+msgid "Confirm Sound Boost"
+msgstr "Sound-Boost bestätigen"
+
+msgid "Continue"
+msgstr "Weiter"
+
+msgid "Copied to clipboard"
+msgstr "In die Zwischenablage kopiert"
+
+#, python-format
+msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
+msgstr "Kosten: %(cost)s PAW. Dein Guthaben: %(balance)s PAW."
+
+msgid "Could not load notifications. Please try again later."
+msgstr "Meldungen konnten nicht geladen werden. Später erneut versuchen."
+
+msgid "Could not load playlist."
+msgstr "Playlist konnte nicht geladen werden."
+
+msgid "Could not load your playlists."
+msgstr "Playlists konnten nicht geladen werden."
+
+msgid "Create New"
+msgstr "Neu erstellen"
+
+msgid "Creating ZIP file... Please wait."
+msgstr "ZIP-Datei wird erstellt... Bitte warten."
+
+msgid "DELETED"
+msgstr "GELÖSCHT"
+
+msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
+msgstr "Nicht deabonnieren! Wenn du gehst, musst du dich erneut verifizieren."
+
+msgid "Don't show this message again"
+msgstr "Nicht mehr anzeigen"
+
+msgid "Download cancelled."
+msgstr "Download abgebrochen."
+
+msgid "Download failed"
+msgstr "Download fehlgeschlagen"
+
+msgid "Downloading"
+msgstr "Wird heruntergeladen"
+
+msgid "Downloading..."
+msgstr "Wird geladen..."
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "EXPLICIT"
+msgstr "EXPLICIT"
+
+msgid "Edit tags"
+msgstr "Tags bearbeiten"
+
+msgid "Enter custom preset name:"
+msgstr "Eigenen Preset-Namen eingeben:"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Error parsing audio data."
+msgstr "Fehler beim Parsen der Audiodaten."
+
+msgid "Error: Sound data not found."
+msgstr "Fehler: Sound-Daten nicht gefunden."
+
+#, python-format
+msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
+msgstr "Das Exportieren dieses modifizierten Sounds kostet <strong>%(cost)s PAW</strong>."
+
+msgid "External Link Warning"
+msgstr "Warnung: Externer Link"
+
+msgid "Failed to connect to server."
+msgstr "Verbindung zum Server fehlgeschlagen."
+
+msgid "Failed to update like. Please try again."
+msgstr "Like-Update fehlgeschlagen. Erneut versuchen."
+
+msgid "Free Boost"
+msgstr "Gratis Boost"
+
+msgid "Get free boosts and more with VIP!"
+msgstr "Hol dir Gratis-Boosts und mehr mit VIP!"
+
+msgid "Go to original sound"
+msgstr "Zum Original-Sound"
+
+msgid "Hey, check out this playlist on Uwupad!"
+msgstr "Hey, schau dir diese Playlist auf Uwupad an!"
 
 msgid "How to disable?"
 msgstr "Wie deaktivieren?"
 
+msgid "Image upload failed."
+msgstr "Bildupload fehlgeschlagen."
+
+msgid "Image uploaded."
+msgstr "Bild hochgeladen."
+
+msgid "Import cancelled."
+msgstr "Import abgebrochen."
+
+msgid "Import complete!"
+msgstr "Import abgeschlossen!"
+
+msgid "Important:"
+msgstr "Wichtig:"
+
+msgid "Importing"
+msgstr "Wird importiert"
+
+msgid "Insufficient Funds"
+msgstr "Nicht genügend Guthaben"
+
+msgid "Is explicit"
+msgstr "Ist anstößig"
+
+msgid "Is loud"
+msgstr "Ist laut"
+
+msgid "Just now"
+msgstr "Gerade eben"
+
+msgid "Keep your collections to yourself by upgrading to VIP."
+msgstr "Mache deine Sammlungen privat mit einem VIP-Upgrade."
+
+msgid "LOUD"
+msgstr "LAUT"
+
+msgid "Learn More"
+msgstr "Mehr erfahren"
+
+msgid "Like"
+msgstr "Like"
+
+msgid "Listen"
+msgstr "Hören"
+
+msgid "Loading..."
+msgstr "Wird geladen..."
+
+msgid "Log In or Create Account"
+msgstr "Einloggen oder Konto erstellen"
+
+msgid "Make playlist public"
+msgstr "Playlist öffentlich machen"
+
+msgid "Modify & Download"
+msgstr "Modifizieren & Herunterladen"
+
+msgid "My Awesome Mix"
+msgstr "Mein cooler Mix"
+
+msgid "New Playlist Name"
+msgstr "Name der neuen Playlist"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "No file selected"
+msgstr "Keine Datei ausgewählt"
+
+msgid "No sounds found"
+msgstr "Keine Sounds gefunden"
+
+msgid "No sounds to add."
+msgstr "Keine Sounds zum Hinzufügen."
+
+msgid "Not interested"
+msgstr "Kein Bock."
+
+msgid "Oops!"
+msgstr "Hoppla!"
+
 msgid "Open"
 msgstr "Öffnen"
+
+msgid "Original Sound"
+msgstr "Original-Sound"
+
+msgid "PAY-TO-BOOST"
+msgstr "BEZAHLTER BOOST"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Paused..."
+msgstr "Pausiert..."
+
+#, python-format
+msgid "Pay %(cost)s PAW"
+msgstr "%(cost)s PAW bezahlen"
+
+msgid "Pay with PAW"
+msgstr "Mit PAW bezahlen"
+
+msgid "Playlist Limit Reached"
+msgstr "Playlist-Limit erreicht"
+
+msgid "Playlist is Full"
+msgstr "Playlist ist voll"
+
+msgid "Please enter a name for the new playlist."
+msgstr "Bitte gib einen Namen ein."
+
+msgid "Please enter a valid email."
+msgstr "Bitte gib eine gültige E-Mail an."
+
+msgid "Please enter a valid reason."
+msgstr "Bitte gib einen gültigen Grund an."
+
+msgid "Please select a playlist."
+msgstr "Bitte wähle eine Playlist."
+
+msgid "Please state your request in English or Russian only. We cannot process requests in other languages."
+msgstr "Bitte stelle deine Anfrage nur auf Englisch oder Russisch."
+
+msgid "Please wait 10 minutes before sending feedback again."
+msgstr ""
+
+msgid "Preparing download for"
+msgstr "Download wird vorbereitet für"
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Private Playlists are a VIP Feature"
+msgstr "Private Playlists sind ein VIP-Feature"
+
+msgid "Proceed"
+msgstr "Weiter"
+
+msgid "Processing..."
+msgstr "Verarbeitung..."
+
+msgid "Promote your sound to reach a wider audience."
+msgstr "Bewerbe deinen Sound, um mehr Leute zu erreichen."
+
+msgid "Quick Download"
+msgstr "Schneller Download"
+
+msgid "Remove from download"
+msgstr "Aus Download entfernen"
+
+msgid "Report"
+msgstr "Melden"
+
+msgid "Report a sound"
+msgstr "Sound melden"
+
+msgid "Resume"
+msgstr "Fortsetzen"
+
+msgid "Resuming..."
+msgstr "Fortsetzung..."
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Search failed."
+msgstr "Suche fehlgeschlagen."
+
+msgid "Search your playlists..."
+msgstr "Deine Playlists suchen..."
+
+msgid "Searching..."
+msgstr "Suche..."
+
+msgid "Sent!"
+msgstr "Gesendet!"
+
+msgid "Share"
+msgstr "Teilen"
+
+msgid "Show more"
+msgstr "Mehr anzeigen"
+
+msgid "Sound"
+msgstr "Sound"
+
+msgid "Sound data not loaded yet."
+msgstr "Sound-Daten noch nicht geladen. Bitte warten."
+
+msgid "Sound is already in the queue"
+msgstr "Sound ist bereits in der Warteschlange"
+
+msgid "Standard users can add up to 20 sounds per playlist. Get VIP to create massive collections!"
+msgstr "Kostenlose Nutzer können 20 Sounds hinzufügen. Mit VIP gibt es kein Limit!"
+
+msgid "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited playlists!"
+msgstr "Kostenlose Nutzer können 2 Playlists erstellen. Werde VIP für unbegrenzte Playlists!"
+
+msgid "Stop"
+msgstr "Stopp"
+
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+msgid "Subscribe to unlock"
+msgstr "Abonnieren zum Freischalten"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "The best sound sharing service for Soundpad"
+msgstr "Der beste Sound-Sharing-Dienst für Soundpad"
+
+msgid "This playlist is empty."
+msgstr "Diese Playlist ist leer."
+
+msgid "This sound includes sensitive content and it may be inappropriate to listen to. Are you sure you want to play it back?"
+msgstr "Dieser Sound enthält sensible Inhalte. Trotzdem abspielen?"
+
+msgid "This sound is boosted!"
+msgstr "Dieser Sound ist geboostet!"
+
+msgid "This sound is too loud. Are you sure you want to play it back?"
+msgstr "Dieser Sound ist sehr laut. Trotzdem abspielen?"
+
+msgid "This track is already downloading."
+msgstr "Dieser Track wird bereits geladen."
+
+msgid "This will place your sound at the top of the 'For You' page for a limited time."
+msgstr "Dies platziert deinen Sound für begrenzte Zeit ganz oben in den 'Empfehlungen'."
+
+msgid "To continue listening, please subscribe to our Telegram channel."
+msgstr "Um weiterzuhören, abonniere bitte unseren Telegram-Kanal."
+
+msgid "Top Up Balance"
+msgstr "Guthaben aufladen"
+
+msgid "Unlock This Feature"
+msgstr "Feature freischalten"
+
+msgid "Unlock VIP"
+msgstr "VIP freischalten"
+
+msgid "Upgrade to VIP to download entire playlists as a .zip file!"
+msgstr "Hol dir VIP, um ganze Playlists als ZIP-Datei herunterzuladen!"
+
+msgid "Use Free Boost"
+msgstr "Gratis Boost nutzen"
+
+msgid "VIP BENEFIT"
+msgstr "VIP-VORTEIL"
+
+msgid "Verifying subscription..."
+msgstr "Abo wird geprüft..."
+
+msgid "Views"
+msgstr "Aufrufe"
+
+msgid "We are strictly against any violations of our terms of use. Users have the ability to complain about content that is considered “spam,” “illegal activity,” or contains “copyrighted material without authorization.” If violations are found, the content will be removed immediately and this removal will be permanent."
+msgstr "Wir sind streng gegen Verstöße. Nutzer können Spam, illegale Inhalte oder Urheberrechtsverletzungen melden. Verstöße führen zur dauerhaften Löschung."
+
+msgid "We rely on ads to keep our servers running. Please consider supporting us by disabling AdBlock or"
+msgstr "Wir finanzieren unsere Server durch Werbung. Bitte unterstütze uns, indem du den AdBlocker deaktivierst oder"
+
+msgid "We will show fewer sounds like this"
+msgstr "Wir zeigen weniger Sounds dieser Art."
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You are about to leave uwupad.me. We do not take responsibility for the content on external sites."
+msgstr "Du verlässt uwupad.me. Wir haften nicht für externe Inhalte."
+
+msgid "You don't have any playlists yet."
+msgstr "Du hast noch keine Playlists."
+
+msgid "You have already sent a report."
+msgstr "Du hast bereits eine Meldung gesendet."
+
+msgid "You have no new notifications."
+msgstr "Du hast keine neuen Benachrichtigungen."
+
+msgid "You must be logged in to download modified sounds."
+msgstr "Du musst eingeloggt sein, um modifizierte Sounds herunterzuladen."
+
+msgid "You must be logged in to like sounds."
+msgstr "Du musst eingeloggt sein, um Sounds zu liken."
+
+#, python-format
+msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
+msgstr "Du brauchst <strong>%(cost)s PAW</strong> zum Exportieren, hast aber nur <strong>%(balance)s PAW</strong>."
+
+#, python-format
+msgid "Your balance after download: %(balance)s PAW"
+msgstr "Dein Kontostand nach dem Download: %(balance)s PAW"
+
+msgid "Your e-mail address"
+msgstr "Deine E-Mail-Adresse"
+
+msgid "added to queue"
+msgstr "zur Warteschlange hinzugefügt"
+
+msgid "d ago"
+msgstr "Tg. her"
+
+msgid "getting VIP"
+msgstr "VIP wirst"
+
+msgid "h ago"
+msgstr "Std. her"
+
+msgid "just now"
+msgstr "gerade eben"
+
+msgid "min ago"
+msgstr "Min. her"
+
+msgid "w ago"
+msgstr "Woche(n) her"
 
 msgid "Change Password"
 msgstr "Passwort ändern"
@@ -656,9 +1027,6 @@ msgstr "Authentifizierung erforderlich"
 msgid "Log in or register to get a personalized For You feed based on your taste."
 msgstr "Melde dich an oder registriere dich, um einen personalisierten Feed 'Für dich' zu bekommen, der auf deinem Geschmack basiert."
 
-msgid "Log In or Create Account"
-msgstr "Einloggen oder Konto erstellen"
-
 msgid "Trending"
 msgstr "Im Trend"
 
@@ -706,12 +1074,6 @@ msgstr "Einfluss"
 
 msgid "Uploads"
 msgstr "Uploads"
-
-msgid "Downloads"
-msgstr "Downloads"
-
-msgid "Comments"
-msgstr "Kommentare"
 
 msgid "Comment Likes"
 msgstr "Kommentar-Likes"
@@ -864,9 +1226,6 @@ msgstr "Vorschaubild"
 
 msgid "Choose a file…"
 msgstr "Datei wählen…"
-
-msgid "No file selected"
-msgstr "Keine Datei ausgewählt"
 
 msgid "Recommended 16:9. GIF only for VIP users."
 msgstr "Empfohlen 16:9. GIF nur für VIP-Nutzer."
@@ -1148,18 +1507,12 @@ msgstr "Bestätigen & Zahlen"
 msgid "Get unlimited style changes and more with VIP!"
 msgstr "Hol dir unbegrenzte Stiländerungen und mehr mit VIP!"
 
-msgid "Insufficient Funds"
-msgstr "Nicht genügend Guthaben"
-
 #, python-format
 msgid "You need <strong>%(cost)s PAW</strong> to change your style, but you only have <strong>%(balance)s PAW</strong>."
 msgstr "Du brauchst <strong>%(cost)s PAW</strong>, hast aber nur <strong>%(balance)s PAW</strong>."
 
 msgid "OPTION 1"
 msgstr "OPTION 1"
-
-msgid "Top Up Balance"
-msgstr "Guthaben aufladen"
 
 msgid "Go to Deposit"
 msgstr "Zum Aufladen"
@@ -1172,9 +1525,6 @@ msgstr "BESTES ANGEBOT"
 
 msgid "Upgrade to VIP"
 msgstr "Auf VIP upgraden"
-
-msgid "Unlock VIP"
-msgstr "VIP freischalten"
 
 msgid "Get <strong>unlimited</strong> style changes & more!"
 msgstr "Hol dir <strong>unbegrenzte</strong> Stiländerungen & mehr!"
@@ -1239,23 +1589,8 @@ msgstr "Sound nicht gefunden"
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "Sound mit dieser ID nicht gefunden. Bitte Daten prüfen."
 
-msgid "Add to Soundpad"
-msgstr "Zu Soundpad hinzufügen"
-
 msgid "Download"
 msgstr "Download"
-
-msgid "Like"
-msgstr "Like"
-
-msgid "Share"
-msgstr "Teilen"
-
-msgid "LOUD"
-msgstr "LAUT"
-
-msgid "EXPLICIT"
-msgstr "EXPLICIT"
 
 msgid "Edit sound"
 msgstr "Sound bearbeiten"
@@ -1299,128 +1634,110 @@ msgstr "Nach rechts drehen"
 msgid "Lightbox Image"
 msgstr "Lightbox-Bild"
 
-msgid "Failed to load audio file. Please try again later."
-msgstr ""
-
-msgid "You must be logged in to like sounds."
-msgstr "Du musst eingeloggt sein, um Sounds zu liken."
-
-msgid "Failed to update like. Please try again."
-msgstr "Like-Update fehlgeschlagen. Erneut versuchen."
-
-msgid "The best sound sharing service for Soundpad"
-msgstr "Der beste Sound-Sharing-Dienst für Soundpad"
-
-msgid "Sound"
-msgstr "Sound"
-
-msgid "Listen"
-msgstr "Hören"
-
-msgid "Edit Sound"
-msgstr "Sound bearbeiten"
-
-msgid "Sound ID"
-msgstr "Sound-ID"
-
-msgid "Unique Identifier"
-msgstr "Eindeutige Kennung"
-
-msgid "Language"
-msgstr "Sprache"
-
-msgid "Enter sound title..."
-msgstr "Soundtitel eingeben..."
-
-msgid "Description"
-msgstr "Beschreibung"
-
 msgid "Add a brief description..."
 msgstr "Kurze Beschreibung hinzufügen..."
-
-msgid "Tags (comma separated)"
-msgstr "Tags (mit Komma getrennt)"
-
-msgid "Cover Image (Optional)"
-msgstr "Cover-Bild (Optional)"
-
-msgid "Max 2MB. Leaves current cover intact if empty."
-msgstr "Max. 2 MB. Das aktuelle Cover bleibt erhalten, wenn es leer bleibt."
-
-msgid "LOUD Warning"
-msgstr "LAUTE WARNUNG"
-
-msgid "Mark if audio is extremely loud or screechy"
-msgstr "Markiere, wenn der Ton extrem laut oder schrill ist."
-
-msgid "EXPLICIT Content"
-msgstr "Expliziter Inhalt"
-
-msgid "Mark if audio contains profanity or 18+ themes"
-msgstr "Markiere, wenn der Ton Schimpfwörter oder 18+ Themen enthält."
-
-msgid "Mark as Music (Admin)"
-msgstr "Als Musik markieren (Admin)"
-
-msgid "Moves this sound to the /music section"
-msgstr "Diesen Sound in den /music-Bereich verschieben"
-
-msgid "Title cannot be empty"
-msgstr "Der Titel darf nicht leer sein."
-
-msgid "Sound updated successfully!"
-msgstr "Sound erfolgreich aktualisiert!"
-
-msgid "Write a reply..."
-msgstr "Antworten..."
-
-msgid "Reply"
-msgstr "Antworten"
-
-msgid "Loading..."
-msgstr "Wird geladen..."
-
-#, python-format
-msgid "View %(count)s more replies"
-msgstr "%(count)s weitere Antworten ansehen"
-
-msgid "Hide"
-msgstr "Verbergen"
-
-msgid "Error loading replies."
-msgstr "Fehler beim Laden der Antworten."
 
 msgid "Comment attachment"
 msgstr "Kommentar-Anhang"
 
-#, python-format
-msgid "View %(count)s replies"
-msgstr "%(count)s Antworten ansehen"
-
-msgid "No comments yet."
-msgstr "Noch keine Kommentare."
+msgid "Comment deleted."
+msgstr "Kommentar gelöscht."
 
 msgid "Comment or attachment cannot be empty."
 msgstr "Kommentar oder Anhang darf nicht leer sein."
 
+msgid "Cover Image (Optional)"
+msgstr "Cover-Bild (Optional)"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "EXPLICIT Content"
+msgstr "Expliziter Inhalt"
+
+msgid "Edit Sound"
+msgstr "Sound bearbeiten"
+
+msgid "Enter sound title..."
+msgstr "Soundtitel eingeben..."
+
+msgid "Error loading replies."
+msgstr "Fehler beim Laden der Antworten."
+
+msgid "Failed to delete comment."
+msgstr "Kommentar konnte nicht gelöscht werden."
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
+
 msgid "Failed to post comment."
 msgstr "Kommentar konnte nicht gepostet werden."
 
-msgid "Hide reply"
-msgstr "Antwort verbergen"
+msgid "Hide"
+msgstr "Verbergen"
 
 #, python-format
 msgid "Hide %(count)s replies"
 msgstr "%(count)s Antworten verbergen"
 
+msgid "Hide reply"
+msgstr "Antwort verbergen"
+
+msgid "LOUD Warning"
+msgstr "LAUTE WARNUNG"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Mark as Music (Admin)"
+msgstr "Als Musik markieren (Admin)"
+
+msgid "Mark if audio contains profanity or 18+ themes"
+msgstr "Markiere, wenn der Ton Schimpfwörter oder 18+ Themen enthält."
+
+msgid "Mark if audio is extremely loud or screechy"
+msgstr "Markiere, wenn der Ton extrem laut oder schrill ist."
+
+msgid "Max 2MB. Leaves current cover intact if empty."
+msgstr "Max. 2 MB. Das aktuelle Cover bleibt erhalten, wenn es leer bleibt."
+
+msgid "Moves this sound to the /music section"
+msgstr "Diesen Sound in den /music-Bereich verschieben"
+
+msgid "No comments yet."
+msgstr "Noch keine Kommentare."
+
+msgid "Reply"
+msgstr "Antworten"
+
+msgid "Sound ID"
+msgstr "Sound-ID"
+
+msgid "Sound updated successfully!"
+msgstr "Sound erfolgreich aktualisiert!"
+
+msgid "Tags (comma separated)"
+msgstr "Tags (mit Komma getrennt)"
+
+msgid "Title cannot be empty"
+msgstr "Der Titel darf nicht leer sein."
+
+msgid "Unique Identifier"
+msgstr "Eindeutige Kennung"
+
+#, python-format
+msgid "View %(count)s more replies"
+msgstr "%(count)s weitere Antworten ansehen"
+
+#, python-format
+msgid "View %(count)s replies"
+msgstr "%(count)s Antworten ansehen"
+
+msgid "Write a reply..."
+msgstr "Antworten..."
+
 msgid "You must be logged in to like comments."
 msgstr "Du musst eingeloggt sein, um Kommentare zu liken."
-
-msgid "Comment deleted."
-msgstr "Kommentar gelöscht."
-
-msgid "Failed to delete comment."
-msgstr "Kommentar konnte nicht gelöscht werden."
 
 #, python-format
 msgid "Sounds tagged with #%(tag_name)s"
@@ -1520,9 +1837,6 @@ msgstr ""
 msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
 msgstr ""
 
-msgid "Tags"
-msgstr "Tags"
-
 msgid "rust, loud, funny"
 msgstr "rust, laut, lustig"
 
@@ -1549,9 +1863,6 @@ msgstr "Musik / SFX (Keine Sprache)"
 
 msgid "Other"
 msgstr "Andere"
-
-msgid "Important:"
-msgstr "Wichtig:"
 
 msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr "Wähle die im Audio gesprochene Sprache. Wenn es sich um ein Lied oder einen Soundeffekt ohne klare Sprache handelt, wähle 'Music / SFX'. Falsche Sprachen schaden deinen Empfehlungen und können zu einer Moderation führen."
@@ -2084,12 +2395,6 @@ msgstr "Später"
 msgid "Send"
 msgstr "Senden"
 
-msgid "Sent!"
-msgstr "Gesendet!"
-
-msgid "Please wait 10 minutes before sending feedback again."
-msgstr ""
-
 msgid "You can remove sounds you don't want from the list below."
 msgstr "Du kannst Sounds unten aus der Liste entfernen."
 
@@ -2165,53 +2470,8 @@ msgstr "Alle Parameter auf Standard zurücksetzen"
 msgid "Reset"
 msgstr "Reset"
 
-msgid "Preview"
-msgstr "Vorschau"
-
 msgid "Download WAV"
 msgstr "WAV herunterladen"
-
-msgid "Enter custom preset name:"
-msgstr "Eigenen Preset-Namen eingeben:"
-
-msgid "Are you sure you want to delete preset"
-msgstr "Bist du sicher, dass du das Preset löschen willst"
-
-msgid "Error parsing audio data."
-msgstr "Fehler beim Parsen der Audiodaten."
-
-msgid "Stop"
-msgstr "Stopp"
-
-msgid "Processing..."
-msgstr "Verarbeitung..."
-
-msgid "You must be logged in to download modified sounds."
-msgstr "Du musst eingeloggt sein, um modifizierte Sounds herunterzuladen."
-
-#, python-format
-msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
-msgstr "Du brauchst <strong>%(cost)s PAW</strong> zum Exportieren, hast aber nur <strong>%(balance)s PAW</strong>."
-
-#, python-format
-msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
-msgstr "Das Exportieren dieses modifizierten Sounds kostet <strong>%(cost)s PAW</strong>."
-
-#, python-format
-msgid "Your balance after download: %(balance)s PAW"
-msgstr "Dein Kontostand nach dem Download: %(balance)s PAW"
-
-msgid "Confirm Export"
-msgstr "Export bestätigen"
-
-msgid "Confirm & Download"
-msgstr "Bestätigen & Herunterladen"
-
-msgid "An error occurred during payment."
-msgstr "Ein Zahlungsfehler ist aufgetreten."
-
-msgid "Failed to connect to server."
-msgstr "Verbindung zum Server fehlgeschlagen."
 
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "Dienst zum Suchen und Laden von Sounds für Soundboards wie Soundpad."
@@ -2356,266 +2616,6 @@ msgstr ""
 
 msgid "Mute / Unmute (M)"
 msgstr ""
-
-msgid "Downloading..."
-msgstr "Wird geladen..."
-
-msgid "Complete!"
-msgstr "Fertig!"
-
-msgid "Error"
-msgstr "Fehler"
-
-msgid "Download failed"
-msgstr "Download fehlgeschlagen"
-
-msgid "Access Restricted"
-msgstr "Zugriff eingeschränkt"
-
-msgid "To continue listening, please subscribe to our Telegram channel."
-msgstr "Um weiterzuhören, abonniere bitte unseren Telegram-Kanal."
-
-msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
-msgstr "Nicht deabonnieren! Wenn du gehst, musst du dich erneut verifizieren."
-
-msgid "Subscribe"
-msgstr "Abonnieren"
-
-msgid "Subscribe to unlock"
-msgstr "Abonnieren zum Freischalten"
-
-msgid "Verifying subscription..."
-msgstr "Abo wird geprüft..."
-
-msgid "Continue"
-msgstr "Weiter"
-
-msgid "This track is already downloading."
-msgstr "Dieser Track wird bereits geladen."
-
-msgid "Preparing download for"
-msgstr "Download wird vorbereitet für"
-
-msgid "Adding to Soundpad:"
-msgstr "Hinzufügen zu Soundpad:"
-
-msgid "DELETED"
-msgstr "GELÖSCHT"
-
-msgid "Unlock This Feature"
-msgstr "Feature freischalten"
-
-msgid "This sound is boosted!"
-msgstr "Dieser Sound ist geboostet!"
-
-msgid "Boost Sound"
-msgstr "Sound boosten"
-
-msgid "Views"
-msgstr "Aufrufe"
-
-msgid "Add to playlist"
-msgstr "Zu Playlist hinzufügen"
-
-msgid "Quick Download"
-msgstr "Schneller Download"
-
-msgid "Modify & Download"
-msgstr "Modifizieren & Herunterladen"
-
-msgid "Not interested"
-msgstr "Kein Bock."
-
-msgid "Report"
-msgstr "Melden"
-
-msgid "Original Sound"
-msgstr "Original-Sound"
-
-msgid "Go to original sound"
-msgstr "Zum Original-Sound"
-
-msgid "Additional Tags"
-msgstr "Zusätzliche Tags"
-
-msgid "This sound is too loud. Are you sure you want to play it back?"
-msgstr "Dieser Sound ist sehr laut. Trotzdem abspielen?"
-
-msgid "Don't show this message again"
-msgstr "Nicht mehr anzeigen"
-
-msgid "Yes"
-msgstr "Ja"
-
-msgid "No"
-msgstr "Nein"
-
-msgid "This sound includes sensitive content and it may be inappropriate to listen to. Are you sure you want to play it back?"
-msgstr "Dieser Sound enthält sensible Inhalte. Trotzdem abspielen?"
-
-msgid "Show more"
-msgstr "Mehr anzeigen"
-
-msgid "No sounds to add."
-msgstr "Keine Sounds zum Hinzufügen."
-
-msgid "Add to Playlist"
-msgstr "Zur Playlist hinzufügen"
-
-#, python-format
-msgid "Choose a playlist for %(count)s sounds or create a new one."
-msgstr "Playlist für %(count)s Sounds wählen oder neue erstellen."
-
-#, python-format
-msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
-msgstr "Playlist für \"%(sound_name)s\" wählen oder neue erstellen."
-
-msgid "Create New"
-msgstr "Neu erstellen"
-
-msgid "Add to Existing"
-msgstr "Bestehender hinzufügen"
-
-msgid "New Playlist Name"
-msgstr "Name der neuen Playlist"
-
-msgid "My Awesome Mix"
-msgstr "Mein cooler Mix"
-
-msgid "Choose cover…"
-msgstr "Cover wählen…"
-
-msgid "Make playlist public"
-msgstr "Playlist öffentlich machen"
-
-msgid "Search your playlists..."
-msgstr "Deine Playlists suchen..."
-
-msgid "Save"
-msgstr "Speichern"
-
-msgid "You don't have any playlists yet."
-msgstr "Du hast noch keine Playlists."
-
-msgid "Could not load your playlists."
-msgstr "Playlists konnten nicht geladen werden."
-
-msgid "Searching..."
-msgstr "Suche..."
-
-msgid "Search failed."
-msgstr "Suche fehlgeschlagen."
-
-msgid "Please select a playlist."
-msgstr "Bitte wähle eine Playlist."
-
-msgid "Please enter a name for the new playlist."
-msgstr "Bitte gib einen Namen ein."
-
-msgid "Image uploaded."
-msgstr "Bild hochgeladen."
-
-msgid "Image upload failed."
-msgstr "Bildupload fehlgeschlagen."
-
-msgid "Playlist Limit Reached"
-msgstr "Playlist-Limit erreicht"
-
-msgid "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited playlists!"
-msgstr "Kostenlose Nutzer können 2 Playlists erstellen. Werde VIP für unbegrenzte Playlists!"
-
-msgid "Playlist is Full"
-msgstr "Playlist ist voll"
-
-msgid "Standard users can add up to 20 sounds per playlist. Get VIP to create massive collections!"
-msgstr "Kostenlose Nutzer können 20 Sounds hinzufügen. Mit VIP gibt es kein Limit!"
-
-msgid "Private Playlists are a VIP Feature"
-msgstr "Private Playlists sind ein VIP-Feature"
-
-msgid "Keep your collections to yourself by upgrading to VIP."
-msgstr "Mache deine Sammlungen privat mit einem VIP-Upgrade."
-
-msgid "An unexpected error occurred."
-msgstr "Ein unerwarteter Fehler ist aufgetreten."
-
-msgid "Hey, check out this playlist on Uwupad!"
-msgstr "Hey, schau dir diese Playlist auf Uwupad an!"
-
-msgid "No sounds found"
-msgstr "Keine Sounds gefunden"
-
-msgid "We will show fewer sounds like this"
-msgstr "Wir zeigen weniger Sounds dieser Art."
-
-msgid "Sound is already in the queue"
-msgstr "Sound ist bereits in der Warteschlange"
-
-msgid "added to queue"
-msgstr "zur Warteschlange hinzugefügt"
-
-msgid "Edit tags"
-msgstr "Tags bearbeiten"
-
-msgid "Is loud"
-msgstr "Ist laut"
-
-msgid "Is explicit"
-msgstr "Ist anstößig"
-
-msgid "Report a sound"
-msgstr "Sound melden"
-
-msgid "We are strictly against any violations of our terms of use. Users have the ability to complain about content that is considered “spam,” “illegal activity,” or contains “copyrighted material without authorization.” If violations are found, the content will be removed immediately and this removal will be permanent."
-msgstr "Wir sind streng gegen Verstöße. Nutzer können Spam, illegale Inhalte oder Urheberrechtsverletzungen melden. Verstöße führen zur dauerhaften Löschung."
-
-msgid "Please state your request in English or Russian only. We cannot process requests in other languages."
-msgstr "Bitte stelle deine Anfrage nur auf Englisch oder Russisch."
-
-msgid "Comment, questions, reason for post."
-msgstr "Kommentar, Fragen, Grund der Meldung."
-
-msgid "Your e-mail address"
-msgstr "Deine E-Mail-Adresse"
-
-msgid "You have already sent a report."
-msgstr "Du hast bereits eine Meldung gesendet."
-
-msgid "Please enter a valid reason."
-msgstr "Bitte gib einen gültigen Grund an."
-
-msgid "Please enter a valid email."
-msgstr "Bitte gib eine gültige E-Mail an."
-
-msgid "Are you sure?"
-msgstr "Bist du sicher?"
-
-msgid "External Link Warning"
-msgstr "Warnung: Externer Link"
-
-msgid "You are about to leave uwupad.me. We do not take responsibility for the content on external sites."
-msgstr "Du verlässt uwupad.me. Wir haften nicht für externe Inhalte."
-
-msgid "Proceed"
-msgstr "Weiter"
-
-msgid "Copied to clipboard"
-msgstr "In die Zwischenablage kopiert"
-
-msgid "just now"
-msgstr "gerade eben"
-
-msgid "min ago"
-msgstr "Min. her"
-
-msgid "h ago"
-msgstr "Std. her"
-
-msgid "d ago"
-msgstr "Tg. her"
-
-msgid "w ago"
-msgstr "Woche(n) her"
 
 msgid "How to disable content blocking"
 msgstr "Wie man Inhaltsblocker deaktiviert"
@@ -2875,12 +2875,6 @@ msgstr "Extrem beliebt (>500 Downloads)"
 msgid "Toggle BETA personalization"
 msgstr "BETA-Personalisierung umschalten"
 
-msgid "Listen to and discover new music on UwUpad. Thousands of tracks from independent artists."
-msgstr "Hör neue Musik auf UwUpad. Tausende Tracks von Indie-Künstlern."
-
-msgid "Listen to and discover new music on UwUpad."
-msgstr "Hör neue Musik auf UwUpad."
-
 msgid "My Library"
 msgstr "Meine Bibliothek"
 
@@ -3067,7 +3061,7 @@ msgstr "oder zum Wählen klicken"
 msgid "Recommended: 500x500px, max. 5 MB"
 msgstr "Empfohlen: 500x500px, max. 5 MB"
 
-msgid "Optional — embedded MP3/FLAC cover art is extracted automatically"
+msgid "Optional вЂ” embedded MP3/FLAC cover art is extracted automatically"
 msgstr ""
 
 msgid "Title of your track"
@@ -3106,7 +3100,7 @@ msgstr ""
 msgid "Too short for Music"
 msgstr ""
 
-msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX — please upload it via standard Sounds uploader."
+msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX вЂ” please upload it via standard Sounds uploader."
 msgstr ""
 
 msgid "Go to Sounds Upload"

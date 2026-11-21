@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Content Blocker Instructions\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-11-20 23:00+0000\n"
+"POT-Creation-Date: 2026-11-21 00:00+0000\n"
 "PO-Revision-Date: 2024-04-20 00:00+0000\n"
 "Last-Translator: Artem <artem.a.pukhov@gmail.com>\n"
 "Language-Team: uk <LL@li.org>\n"
@@ -235,162 +235,533 @@ msgstr "Знайдіть той самий мемний звук з TikTok аб�
 msgid "Welcome back,"
 msgstr "З поверненням,"
 
-msgid "Available for VIP users only"
-msgstr "Доступно тільки для VIP-користувачів"
-
-msgid "Bulk Download is a VIP Feature"
-msgstr "Масове завантаження — це функція VIP"
-
-msgid "Upgrade to VIP to download entire playlists as a .zip file!"
-msgstr "Отримайте VIP, щоб завантажувати цілі плейлисти ZIP-архівом!"
-
-msgid "Pause"
-msgstr "Пауза"
-
-msgid "This playlist is empty."
-msgstr "Цей плейлист порожній."
-
-msgid "Remove from download"
-msgstr "Видалити із завантаження"
-
-msgid "Could not load playlist."
-msgstr "Не вдалося завантажити плейлист."
-
-msgid "Download cancelled."
-msgstr "Завантаження скасовано."
-
-msgid "Downloading"
-msgstr "Завантаження"
-
-msgid "Creating ZIP file... Please wait."
-msgstr "Створення ZIP-файлу... Зачекайте."
-
-msgid "Compressing..."
-msgstr "Стиснення..."
-
-msgid "Resume"
-msgstr "Продовжити"
-
-msgid "Paused..."
-msgstr "Пауза..."
-
-msgid "Resuming..."
-msgstr "Відновлення..."
-
-msgid "Import cancelled."
-msgstr "Імпорт скасовано."
-
-msgid "Importing"
-msgstr "Імпортування"
-
-msgid "Import complete!"
-msgstr "Імпорт завершено!"
-
-msgid "Sound data not loaded yet."
-msgstr "Дані звуку ще не завантажені."
-
-msgid "Error: Sound data not found."
-msgstr "Помилка: дані звуку не знайдені."
-
-msgid "Choose Boost Option"
-msgstr "Виберіть варіант просування"
-
-msgid "Promote your sound to reach a wider audience."
-msgstr "Просувайте свій звук, щоб охопити ширшу аудиторію."
-
-msgid "VIP BENEFIT"
-msgstr "ПЕРЕВАГА VIP"
-
-msgid "Free Boost"
-msgstr "Безкоштовний буст"
-
 #, python-format
-msgid "1 free boost every %(hours)s hours."
-msgstr "1 безкоштовне просування кожні %(hours)s годин."
-
-msgid "Use Free Boost"
-msgstr "Використати безкоштовний буст"
-
-msgid "PAY-TO-BOOST"
-msgstr "ПЛАТНЕ ПРОСУВАННЯ"
-
-msgid "Pay with PAW"
-msgstr "Оплатити за допомогою PAW"
-
-#, python-format
-msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
-msgstr "Вартість: %(cost)s PAW. Ваш баланс: %(balance)s PAW."
-
-#, python-format
-msgid "Pay %(cost)s PAW"
-msgstr "Оплатити %(cost)s PAW"
-
-msgid "Confirm Sound Boost"
-msgstr "Підтвердити просування звуку"
-
-#, python-format
-msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
-msgstr "Просування цього звуку коштуватиме <strong>%(cost)s PAW</strong>."
-
-msgid "This will place your sound at the top of the 'For You' page for a limited time."
-msgstr "Це розмістить ваш звук нагорі сторінки 'Для вас' на обмежений час."
-
-msgid "Get free boosts and more with VIP!"
-msgstr "Отримуйте безкоштовні бусти та інше з VIP!"
-
-msgid "Learn More"
-msgstr "Дізнатися більше"
-
-msgid "Confirm & Boost"
-msgstr "Підтвердити та просунути"
-
-msgid "Cancel"
-msgstr "Скасувати"
-
-msgid "An error occurred"
-msgstr "Сталася помилка"
-
-msgid "All caught up!"
-msgstr "Все переглянуто!"
-
-msgid "You have no new notifications."
-msgstr "У вас немає нових сповіщень."
-
-msgid "Oops!"
-msgstr "Ой!"
-
-msgid "Could not load notifications. Please try again later."
-msgstr "Не вдалося завантажити сповіщення. Спробуйте пізніше."
-
-msgid "Just now"
-msgstr "Щойно"
-
-#, python-format
-msgid "%(minutes)s m ago"
-msgstr "%(minutes)s хв тому"
+msgid "%(days)s d ago"
+msgstr "%(days)s дн тому"
 
 #, python-format
 msgid "%(hours)s h ago"
 msgstr "%(hours)s год тому"
 
 #, python-format
-msgid "%(days)s d ago"
-msgstr "%(days)s дн тому"
+msgid "%(minutes)s m ago"
+msgstr "%(minutes)s хв тому"
+
+#, python-format
+msgid "1 free boost every %(hours)s hours."
+msgstr "1 безкоштовне просування кожні %(hours)s годин."
+
+msgid "Access Restricted"
+msgstr "Доступ обмежено"
 
 msgid "AdBlock detected"
 msgstr "Виявлено AdBlock"
 
-msgid "We rely on ads to keep our servers running. Please consider supporting us by disabling AdBlock or"
-msgstr "Реклама допомагає нам підтримувати сервери. Будь ласка, підтримайте нас, вимкнувши AdBlock або"
+msgid "Add to Existing"
+msgstr "Додати до існуючого"
 
-msgid "getting VIP"
-msgstr "купивши VIP"
+msgid "Add to Playlist"
+msgstr "Додати в плейлист"
+
+msgid "Add to Soundpad"
+msgstr "Додати в Soundpad"
+
+msgid "Add to playlist"
+msgstr "Додати в плейлист"
+
+msgid "Adding to Soundpad:"
+msgstr "Додавання в Soundpad:"
+
+msgid "Additional Tags"
+msgstr "Додаткові теги"
+
+msgid "All caught up!"
+msgstr "Все переглянуто!"
+
+msgid "An error occurred"
+msgstr "Сталася помилка"
+
+msgid "An error occurred during payment."
+msgstr "Сталася помилка під час оплати."
+
+msgid "An unexpected error occurred."
+msgstr "Сталася неочікувана помилка."
+
+msgid "Are you sure you want to delete preset"
+msgstr "Впевнений, що хочеш видалити пресет"
+
+msgid "Are you sure?"
+msgstr "Ви впевнені?"
+
+msgid "Available for VIP users only"
+msgstr "Доступно тільки для VIP-користувачів"
+
+msgid "Boost Sound"
+msgstr "Просунути звук"
+
+#, python-format
+msgid "Boosting this sound will cost <strong>%(cost)s PAW</strong>."
+msgstr "Просування цього звуку коштуватиме <strong>%(cost)s PAW</strong>."
+
+msgid "Bulk Download is a VIP Feature"
+msgstr "Масове завантаження — це функція VIP"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Choose Boost Option"
+msgstr "Виберіть варіант просування"
+
+#, python-format
+msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
+msgstr "Виберіть плейлист для «%(sound_name)s» або створіть новий."
+
+#, python-format
+msgid "Choose a playlist for %(count)s sounds or create a new one."
+msgstr "Виберіть плейлист для %(count)s звуків або створіть новий."
+
+msgid "Choose cover…"
+msgstr "Вибрати обкладинку…"
+
+msgid "Comment, questions, reason for post."
+msgstr "Коментар, питання, причина скарги."
+
+msgid "Comments"
+msgstr "Коментарі"
+
+msgid "Complete!"
+msgstr "Завершено!"
+
+msgid "Compressing..."
+msgstr "Стиснення..."
+
+msgid "Confirm & Boost"
+msgstr "Підтвердити та просунути"
+
+msgid "Confirm & Download"
+msgstr "Підтвердити та скачати"
+
+msgid "Confirm Export"
+msgstr "Підтвердити експорт"
+
+msgid "Confirm Sound Boost"
+msgstr "Підтвердити просування звуку"
+
+msgid "Continue"
+msgstr "Продовжити"
+
+msgid "Copied to clipboard"
+msgstr "Скопійовано в буфер обміну"
+
+#, python-format
+msgid "Cost: %(cost)s PAW. Your balance: %(balance)s PAW."
+msgstr "Вартість: %(cost)s PAW. Ваш баланс: %(balance)s PAW."
+
+msgid "Could not load notifications. Please try again later."
+msgstr "Не вдалося завантажити сповіщення. Спробуйте пізніше."
+
+msgid "Could not load playlist."
+msgstr "Не вдалося завантажити плейлист."
+
+msgid "Could not load your playlists."
+msgstr "Не вдалося завантажити ваші плейлисти."
+
+msgid "Create New"
+msgstr "Створити новий"
+
+msgid "Creating ZIP file... Please wait."
+msgstr "Створення ZIP-файлу... Зачекайте."
+
+msgid "DELETED"
+msgstr "ВИДАЛЕНО"
+
+msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
+msgstr "Не відписуйся! Якщо залишиш канал, доведеться пройти перевірку знову."
+
+msgid "Don't show this message again"
+msgstr "Не показувати це повідомлення знову"
+
+msgid "Download cancelled."
+msgstr "Завантаження скасовано."
+
+msgid "Download failed"
+msgstr "Завантаження не вдалося"
+
+msgid "Downloading"
+msgstr "Завантаження"
+
+msgid "Downloading..."
+msgstr "Завантаження..."
+
+msgid "Downloads"
+msgstr "Скачування"
+
+msgid "EXPLICIT"
+msgstr "НЕЦЕНЗУРНО"
+
+msgid "Edit tags"
+msgstr "Редагувати теги"
+
+msgid "Enter custom preset name:"
+msgstr "Введи назву кастомного пресету:"
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "Error parsing audio data."
+msgstr "Помилка парсингу аудіоданих."
+
+msgid "Error: Sound data not found."
+msgstr "Помилка: дані звуку не знайдені."
+
+#, python-format
+msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
+msgstr "Експорт цього зміненого звуку коштуватиме <strong>%(cost)s PAW</strong>."
+
+msgid "External Link Warning"
+msgstr "Попередження про зовнішнє посилання"
+
+msgid "Failed to connect to server."
+msgstr "Не вдалося підключитися до сервера."
+
+msgid "Failed to update like. Please try again."
+msgstr "Не вдалося оновити лайк. Спробуйте ще раз."
+
+msgid "Free Boost"
+msgstr "Безкоштовний буст"
+
+msgid "Get free boosts and more with VIP!"
+msgstr "Отримуйте безкоштовні бусти та інше з VIP!"
+
+msgid "Go to original sound"
+msgstr "Перейти до оригінального звуку"
+
+msgid "Hey, check out this playlist on Uwupad!"
+msgstr "Гей, заціни цей плейлист на Uwupad!"
 
 msgid "How to disable?"
 msgstr "Як вимкнути?"
 
+msgid "Image upload failed."
+msgstr "Не вдалося завантажити зображення."
+
+msgid "Image uploaded."
+msgstr "Зображення завантажено."
+
+msgid "Import cancelled."
+msgstr "Імпорт скасовано."
+
+msgid "Import complete!"
+msgstr "Імпорт завершено!"
+
+msgid "Important:"
+msgstr "Важливо:"
+
+msgid "Importing"
+msgstr "Імпортування"
+
+msgid "Insufficient Funds"
+msgstr "Недостатньо коштів"
+
+msgid "Is explicit"
+msgstr "Нецензурний"
+
+msgid "Is loud"
+msgstr "Гучний"
+
+msgid "Just now"
+msgstr "Щойно"
+
+msgid "Keep your collections to yourself by upgrading to VIP."
+msgstr "Приховайте свої колекції від інших, оновившись до VIP."
+
+msgid "LOUD"
+msgstr "ГУЧНО"
+
+msgid "Learn More"
+msgstr "Дізнатися більше"
+
+msgid "Like"
+msgstr "Лайк"
+
+msgid "Listen"
+msgstr "Слухати"
+
+msgid "Loading..."
+msgstr "Завантаження..."
+
+msgid "Log In or Create Account"
+msgstr "Увійти або створити акаунт"
+
+msgid "Make playlist public"
+msgstr "Зробити плейлист публічним"
+
+msgid "Modify & Download"
+msgstr "Змінити та завантажити"
+
+msgid "My Awesome Mix"
+msgstr "Мій крутий мікс"
+
+msgid "New Playlist Name"
+msgstr "Назва нового плейлиста"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "No file selected"
+msgstr "Файл не вибрано"
+
+msgid "No sounds found"
+msgstr "Звуків не знайдено"
+
+msgid "No sounds to add."
+msgstr "Немає звуків для додавання."
+
+msgid "Not interested"
+msgstr "Не цікаво"
+
+msgid "Oops!"
+msgstr "Ой!"
+
 msgid "Open"
 msgstr "Відкрити"
+
+msgid "Original Sound"
+msgstr "Оригінальний звук"
+
+msgid "PAY-TO-BOOST"
+msgstr "ПЛАТНЕ ПРОСУВАННЯ"
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Paused..."
+msgstr "Пауза..."
+
+#, python-format
+msgid "Pay %(cost)s PAW"
+msgstr "Оплатити %(cost)s PAW"
+
+msgid "Pay with PAW"
+msgstr "Оплатити за допомогою PAW"
+
+msgid "Playlist Limit Reached"
+msgstr "Досягнуто ліміт плейлистів"
+
+msgid "Playlist is Full"
+msgstr "Плейлист заповнений"
+
+msgid "Please enter a name for the new playlist."
+msgstr "Будь ласка, введіть назву для нового плейлиста."
+
+msgid "Please enter a valid email."
+msgstr "Будь ласка, введіть коректний email."
+
+msgid "Please enter a valid reason."
+msgstr "Будь ласка, введіть коректну причину."
+
+msgid "Please select a playlist."
+msgstr "Будь ласка, виберіть плейлист."
+
+msgid "Please state your request in English or Russian only. We cannot process requests in other languages."
+msgstr "Будь ласка, пишіть запит англійською, українською або російською мовами. Ми не можемо обробляти запити іншими мовами."
+
+msgid "Please wait 10 minutes before sending feedback again."
+msgstr "Будь ласка, зачекайте 10 хвилин, перш ніж надсилати відгук знову."
+
+msgid "Preparing download for"
+msgstr "Підготовка завантаження для"
+
+msgid "Preview"
+msgstr "Прев'ю"
+
+msgid "Private Playlists are a VIP Feature"
+msgstr "Приватні плейлисти — це функція VIP"
+
+msgid "Proceed"
+msgstr "Продовжити"
+
+msgid "Processing..."
+msgstr "Обробка..."
+
+msgid "Promote your sound to reach a wider audience."
+msgstr "Просувайте свій звук, щоб охопити ширшу аудиторію."
+
+msgid "Quick Download"
+msgstr "Швидке завантаження"
+
+msgid "Remove from download"
+msgstr "Видалити із завантаження"
+
+msgid "Report"
+msgstr "Поскаржитися"
+
+msgid "Report a sound"
+msgstr "Поскаржитися на звук"
+
+msgid "Resume"
+msgstr "Продовжити"
+
+msgid "Resuming..."
+msgstr "Відновлення..."
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Search failed."
+msgstr "Пошук не вдався."
+
+msgid "Search your playlists..."
+msgstr "Пошук ваших плейлистів..."
+
+msgid "Searching..."
+msgstr "Пошук..."
+
+msgid "Sent!"
+msgstr "Надіслано!"
+
+msgid "Share"
+msgstr "Поділитися"
+
+msgid "Show more"
+msgstr "Показати більше"
+
+msgid "Sound"
+msgstr "Звук"
+
+msgid "Sound data not loaded yet."
+msgstr "Дані звуку ще не завантажені."
+
+msgid "Sound is already in the queue"
+msgstr "Звук уже в черзі"
+
+msgid "Standard users can add up to 20 sounds per playlist. Get VIP to create massive collections!"
+msgstr "Звичайні користувачі можуть додавати до 20 звуків у плейлист. Отримайте VIP, щоб створювати величезні колекції!"
+
+msgid "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited playlists!"
+msgstr "Звичайні користувачі можуть створювати до 2 плейлистів. Отримайте VIP для необмеженої кількості плейлистів!"
+
+msgid "Stop"
+msgstr "Стоп"
+
+msgid "Subscribe"
+msgstr "Підписатися"
+
+msgid "Subscribe to unlock"
+msgstr "Підпишись, щоб розблокувати"
+
+msgid "Tags"
+msgstr "Теги"
+
+msgid "The best sound sharing service for Soundpad"
+msgstr "Найкращий сервіс для обміну звуками для Soundpad"
+
+msgid "This playlist is empty."
+msgstr "Цей плейлист порожній."
+
+msgid "This sound includes sensitive content and it may be inappropriate to listen to. Are you sure you want to play it back?"
+msgstr "Цей звук містить делікатний контент, який може бути неприйнятним. Ви впевнені, що хочете його відтворити?"
+
+msgid "This sound is boosted!"
+msgstr "Цей звук просунуто!"
+
+msgid "This sound is too loud. Are you sure you want to play it back?"
+msgstr "Цей звук занадто гучний. Ви впевнені, що хочете його відтворити?"
+
+msgid "This track is already downloading."
+msgstr "Цей трек вже завантажується."
+
+msgid "This will place your sound at the top of the 'For You' page for a limited time."
+msgstr "Це розмістить ваш звук нагорі сторінки 'Для вас' на обмежений час."
+
+msgid "To continue listening, please subscribe to our Telegram channel."
+msgstr "Щоб продовжити прослуховування, будь ласка підпишіться на наш Telegram канал."
+
+msgid "Top Up Balance"
+msgstr "Поповнити баланс"
+
+msgid "Unlock This Feature"
+msgstr "Розблокувати цю функцію"
+
+msgid "Unlock VIP"
+msgstr "Розблокувати VIP"
+
+msgid "Upgrade to VIP to download entire playlists as a .zip file!"
+msgstr "Отримайте VIP, щоб завантажувати цілі плейлисти ZIP-архівом!"
+
+msgid "Use Free Boost"
+msgstr "Використати безкоштовний буст"
+
+msgid "VIP BENEFIT"
+msgstr "ПЕРЕВАГА VIP"
+
+msgid "Verifying subscription..."
+msgstr "Перевіряємо підписку..."
+
+msgid "Views"
+msgstr "Перегляди"
+
+msgid "We are strictly against any violations of our terms of use. Users have the ability to complain about content that is considered “spam,” “illegal activity,” or contains “copyrighted material without authorization.” If violations are found, the content will be removed immediately and this removal will be permanent."
+msgstr "Ми суворо проти будь-яких порушень наших умов використання. Користувачі мають можливість скаржитися на контент, який вважається «спамом», «незаконною діяльністю» або містить «матеріали, захищені авторським правом без дозволу». У разі виявлення порушень контент буде негайно видалено назавжди."
+
+msgid "We rely on ads to keep our servers running. Please consider supporting us by disabling AdBlock or"
+msgstr "Реклама допомагає нам підтримувати сервери. Будь ласка, підтримайте нас, вимкнувши AdBlock або"
+
+msgid "We will show fewer sounds like this"
+msgstr "Ми покажемо менше звуків, подібних до цього."
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "You are about to leave uwupad.me. We do not take responsibility for the content on external sites."
+msgstr "Ви збираєтеся залишити uwupad.me. Ми не несемо відповідальності за вміст зовнішніх сайтів."
+
+msgid "You don't have any playlists yet."
+msgstr "У вас ще немає жодного плейлиста."
+
+msgid "You have already sent a report."
+msgstr "Ви вже надіслали скаргу."
+
+msgid "You have no new notifications."
+msgstr "У вас немає нових сповіщень."
+
+msgid "You must be logged in to download modified sounds."
+msgstr "Потрібно авторизуватися, щоб завантажувати змінені звуки."
+
+msgid "You must be logged in to like sounds."
+msgstr "Ви повинні увійти, щоб лайкати звуки."
+
+#, python-format
+msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
+msgstr "Тобі потрібно <strong>%(cost)s PAW</strong> для експорту, але у тебе всього <strong>%(balance)s PAW</strong>."
+
+#, python-format
+msgid "Your balance after download: %(balance)s PAW"
+msgstr "Твій баланс після завантаження: %(balance)s PAW"
+
+msgid "Your e-mail address"
+msgstr "Ваша адреса електронної пошти"
+
+msgid "added to queue"
+msgstr "додано в чергу"
+
+msgid "d ago"
+msgstr "дн. тому"
+
+msgid "getting VIP"
+msgstr "купивши VIP"
+
+msgid "h ago"
+msgstr "год. тому"
+
+msgid "just now"
+msgstr "щойно"
+
+msgid "min ago"
+msgstr "хв. тому"
+
+msgid "w ago"
+msgstr "тиж. тому"
 
 msgid "Change Password"
 msgstr "Змінити пароль"
@@ -656,9 +1027,6 @@ msgstr "Потрібна авторизація"
 msgid "Log in or register to get a personalized For You feed based on your taste."
 msgstr "Увійди або зареєструйся, щоб отримати персоналізований фід For You за твоїми смаками."
 
-msgid "Log In or Create Account"
-msgstr "Увійти або створити акаунт"
-
 msgid "Trending"
 msgstr "Тренди"
 
@@ -706,12 +1074,6 @@ msgstr "Вплив"
 
 msgid "Uploads"
 msgstr "Завантаження"
-
-msgid "Downloads"
-msgstr "Скачування"
-
-msgid "Comments"
-msgstr "Коментарі"
 
 msgid "Comment Likes"
 msgstr "Лайки коментарів"
@@ -864,9 +1226,6 @@ msgstr "Прев'ю зображення"
 
 msgid "Choose a file…"
 msgstr "Виберіть файл…"
-
-msgid "No file selected"
-msgstr "Файл не вибрано"
 
 msgid "Recommended 16:9. GIF only for VIP users."
 msgstr "Рекомендовано 16:9. GIF лише для VIP-користувачів."
@@ -1148,18 +1507,12 @@ msgstr "Підтвердити та оплатити"
 msgid "Get unlimited style changes and more with VIP!"
 msgstr "Отримуйте безкоштовні зміни стилів та інше з VIP!"
 
-msgid "Insufficient Funds"
-msgstr "Недостатньо коштів"
-
 #, python-format
 msgid "You need <strong>%(cost)s PAW</strong> to change your style, but you only have <strong>%(balance)s PAW</strong>."
 msgstr "Вам потрібно <strong>%(cost)s PAW</strong>, але у вас лише <strong>%(balance)s PAW</strong>."
 
 msgid "OPTION 1"
 msgstr "ВАРІАНТ 1"
-
-msgid "Top Up Balance"
-msgstr "Поповнити баланс"
 
 msgid "Go to Deposit"
 msgstr "На сторінку оплати"
@@ -1172,9 +1525,6 @@ msgstr "НАЙКРАЩИЙ ВИБІР"
 
 msgid "Upgrade to VIP"
 msgstr "Оновити до VIP"
-
-msgid "Unlock VIP"
-msgstr "Розблокувати VIP"
 
 msgid "Get <strong>unlimited</strong> style changes & more!"
 msgstr "Отримайте <strong>безлімітні</strong> зміни стилів та інше!"
@@ -1239,23 +1589,8 @@ msgstr "Звук не знайдено"
 msgid "Sound with this ID not found. Please check the entered data."
 msgstr "Звук з таким ID не знайдено. Перевірте введені дані."
 
-msgid "Add to Soundpad"
-msgstr "Додати в Soundpad"
-
 msgid "Download"
 msgstr "Завантажити"
-
-msgid "Like"
-msgstr "Лайк"
-
-msgid "Share"
-msgstr "Поділитися"
-
-msgid "LOUD"
-msgstr "ГУЧНО"
-
-msgid "EXPLICIT"
-msgstr "НЕЦЕНЗУРНО"
 
 msgid "Edit sound"
 msgstr "Редагувати звук"
@@ -1299,128 +1634,110 @@ msgstr "Повернути праворуч"
 msgid "Lightbox Image"
 msgstr "Зображення"
 
-msgid "Failed to load audio file. Please try again later."
-msgstr ""
-
-msgid "You must be logged in to like sounds."
-msgstr "Ви повинні увійти, щоб лайкати звуки."
-
-msgid "Failed to update like. Please try again."
-msgstr "Не вдалося оновити лайк. Спробуйте ще раз."
-
-msgid "The best sound sharing service for Soundpad"
-msgstr "Найкращий сервіс для обміну звуками для Soundpad"
-
-msgid "Sound"
-msgstr "Звук"
-
-msgid "Listen"
-msgstr "Слухати"
-
-msgid "Edit Sound"
-msgstr "Редагувати звук"
-
-msgid "Sound ID"
-msgstr "ID звуку"
-
-msgid "Unique Identifier"
-msgstr "Унікальний ідентифікатор"
-
-msgid "Language"
-msgstr "Мова"
-
-msgid "Enter sound title..."
-msgstr "Введіть назву звуку..."
-
-msgid "Description"
-msgstr "Опис"
-
 msgid "Add a brief description..."
 msgstr "Додайте короткий опис..."
-
-msgid "Tags (comma separated)"
-msgstr "Теги (через кому)"
-
-msgid "Cover Image (Optional)"
-msgstr "Обкладинка (опціонально)"
-
-msgid "Max 2MB. Leaves current cover intact if empty."
-msgstr "Макс 2 МБ. Залишає поточну обкладинку без змін, якщо поле порожнє."
-
-msgid "LOUD Warning"
-msgstr "Гучне попередження"
-
-msgid "Mark if audio is extremely loud or screechy"
-msgstr "Позначте, якщо аудіо надто гучне або скрипуче"
-
-msgid "EXPLICIT Content"
-msgstr "Нецензурований контент"
-
-msgid "Mark if audio contains profanity or 18+ themes"
-msgstr "Позначте, якщо аудіо містить нецензурну лексику або теми 18+"
-
-msgid "Mark as Music (Admin)"
-msgstr "Позначити як музику (Адмін)"
-
-msgid "Moves this sound to the /music section"
-msgstr "Перемістити цей звук у розділ /music"
-
-msgid "Title cannot be empty"
-msgstr "Назва не може бути порожньою"
-
-msgid "Sound updated successfully!"
-msgstr "Звук успішно оновлено!"
-
-msgid "Write a reply..."
-msgstr "Написати відповідь..."
-
-msgid "Reply"
-msgstr "Відповісти"
-
-msgid "Loading..."
-msgstr "Завантаження..."
-
-#, python-format
-msgid "View %(count)s more replies"
-msgstr "Переглянути ще %(count)s відповідей"
-
-msgid "Hide"
-msgstr "Сховати"
-
-msgid "Error loading replies."
-msgstr "Помилка завантаження відповідей."
 
 msgid "Comment attachment"
 msgstr "Вкладення коментаря"
 
-#, python-format
-msgid "View %(count)s replies"
-msgstr "Переглянути %(count)s відповіді"
-
-msgid "No comments yet."
-msgstr "Коментарів ще немає."
+msgid "Comment deleted."
+msgstr "Коментар видалено."
 
 msgid "Comment or attachment cannot be empty."
 msgstr "Коментар або вкладення не можуть бути порожніми."
 
+msgid "Cover Image (Optional)"
+msgstr "Обкладинка (опціонально)"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "EXPLICIT Content"
+msgstr "Нецензурований контент"
+
+msgid "Edit Sound"
+msgstr "Редагувати звук"
+
+msgid "Enter sound title..."
+msgstr "Введіть назву звуку..."
+
+msgid "Error loading replies."
+msgstr "Помилка завантаження відповідей."
+
+msgid "Failed to delete comment."
+msgstr "Не вдалося видалити коментар."
+
+msgid "Failed to load audio file. Please try again later."
+msgstr ""
+
 msgid "Failed to post comment."
 msgstr "Не вдалося опублікувати коментар."
 
-msgid "Hide reply"
-msgstr "Сховати відповідь"
+msgid "Hide"
+msgstr "Сховати"
 
 #, python-format
 msgid "Hide %(count)s replies"
 msgstr "Сховати %(count)s відповідей"
 
+msgid "Hide reply"
+msgstr "Сховати відповідь"
+
+msgid "LOUD Warning"
+msgstr "Гучне попередження"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Mark as Music (Admin)"
+msgstr "Позначити як музику (Адмін)"
+
+msgid "Mark if audio contains profanity or 18+ themes"
+msgstr "Позначте, якщо аудіо містить нецензурну лексику або теми 18+"
+
+msgid "Mark if audio is extremely loud or screechy"
+msgstr "Позначте, якщо аудіо надто гучне або скрипуче"
+
+msgid "Max 2MB. Leaves current cover intact if empty."
+msgstr "Макс 2 МБ. Залишає поточну обкладинку без змін, якщо поле порожнє."
+
+msgid "Moves this sound to the /music section"
+msgstr "Перемістити цей звук у розділ /music"
+
+msgid "No comments yet."
+msgstr "Коментарів ще немає."
+
+msgid "Reply"
+msgstr "Відповісти"
+
+msgid "Sound ID"
+msgstr "ID звуку"
+
+msgid "Sound updated successfully!"
+msgstr "Звук успішно оновлено!"
+
+msgid "Tags (comma separated)"
+msgstr "Теги (через кому)"
+
+msgid "Title cannot be empty"
+msgstr "Назва не може бути порожньою"
+
+msgid "Unique Identifier"
+msgstr "Унікальний ідентифікатор"
+
+#, python-format
+msgid "View %(count)s more replies"
+msgstr "Переглянути ще %(count)s відповідей"
+
+#, python-format
+msgid "View %(count)s replies"
+msgstr "Переглянути %(count)s відповіді"
+
+msgid "Write a reply..."
+msgstr "Написати відповідь..."
+
 msgid "You must be logged in to like comments."
 msgstr "Ви повинні увійти, щоб лайкати коментарі."
-
-msgid "Comment deleted."
-msgstr "Коментар видалено."
-
-msgid "Failed to delete comment."
-msgstr "Не вдалося видалити коментар."
 
 #, python-format
 msgid "Sounds tagged with #%(tag_name)s"
@@ -1520,9 +1837,6 @@ msgstr "Тиша на початку:"
 msgid "Example: \"Come on, Misha, let's do it again\" (Avoid \"meme_funny_123\")"
 msgstr ""
 
-msgid "Tags"
-msgstr "Теги"
-
 msgid "rust, loud, funny"
 msgstr "раст, гучно, смішно"
 
@@ -1549,9 +1863,6 @@ msgstr "Музика / Ефекти (без мови)"
 
 msgid "Other"
 msgstr "Інше"
-
-msgid "Important:"
-msgstr "Важливо:"
 
 msgid "Select the language spoken IN the audio. If it's a song or a sound effect without clear speech, select 'Music / SFX'. Incorrect languages hurt your recommendations and may lead to moderation."
 msgstr "Виберіть мову, на якій говорить аудіо. Якщо це пісня або звуковий ефект без чіткої мови, оберіть 'Music / SFX'. Неправильна мова вплине на ваші рекомендації та може призвести до модерації."
@@ -2084,12 +2395,6 @@ msgstr "Пізніше"
 msgid "Send"
 msgstr "Надіслати"
 
-msgid "Sent!"
-msgstr "Надіслано!"
-
-msgid "Please wait 10 minutes before sending feedback again."
-msgstr "Будь ласка, зачекайте 10 хвилин, перш ніж надсилати відгук знову."
-
 msgid "You can remove sounds you don't want from the list below."
 msgstr "Ви можете видалити непотрібні звуки зі списку нижче."
 
@@ -2165,53 +2470,8 @@ msgstr "Скинути всі параметри"
 msgid "Reset"
 msgstr "Скидання"
 
-msgid "Preview"
-msgstr "Прев'ю"
-
 msgid "Download WAV"
 msgstr "Скачати WAV"
-
-msgid "Enter custom preset name:"
-msgstr "Введи назву кастомного пресету:"
-
-msgid "Are you sure you want to delete preset"
-msgstr "Впевнений, що хочеш видалити пресет"
-
-msgid "Error parsing audio data."
-msgstr "Помилка парсингу аудіоданих."
-
-msgid "Stop"
-msgstr "Стоп"
-
-msgid "Processing..."
-msgstr "Обробка..."
-
-msgid "You must be logged in to download modified sounds."
-msgstr "Потрібно авторизуватися, щоб завантажувати змінені звуки."
-
-#, python-format
-msgid "You need <strong>%(cost)s PAW</strong> to export, but you only have <strong>%(balance)s PAW</strong>."
-msgstr "Тобі потрібно <strong>%(cost)s PAW</strong> для експорту, але у тебе всього <strong>%(balance)s PAW</strong>."
-
-#, python-format
-msgid "Exporting this modified sound will cost <strong>%(cost)s PAW</strong>."
-msgstr "Експорт цього зміненого звуку коштуватиме <strong>%(cost)s PAW</strong>."
-
-#, python-format
-msgid "Your balance after download: %(balance)s PAW"
-msgstr "Твій баланс після завантаження: %(balance)s PAW"
-
-msgid "Confirm Export"
-msgstr "Підтвердити експорт"
-
-msgid "Confirm & Download"
-msgstr "Підтвердити та скачати"
-
-msgid "An error occurred during payment."
-msgstr "Сталася помилка під час оплати."
-
-msgid "Failed to connect to server."
-msgstr "Не вдалося підключитися до сервера."
 
 msgid "service for searching and downloading sounds for soundboards such as Soundpad or mobile devices."
 msgstr "сервіс для пошуку та завантаження звуків для звукових панелей, таких як Soundpad або мобільних пристроїв."
@@ -2356,266 +2616,6 @@ msgstr ""
 
 msgid "Mute / Unmute (M)"
 msgstr ""
-
-msgid "Downloading..."
-msgstr "Завантаження..."
-
-msgid "Complete!"
-msgstr "Завершено!"
-
-msgid "Error"
-msgstr "Помилка"
-
-msgid "Download failed"
-msgstr "Завантаження не вдалося"
-
-msgid "Access Restricted"
-msgstr "Доступ обмежено"
-
-msgid "To continue listening, please subscribe to our Telegram channel."
-msgstr "Щоб продовжити прослуховування, будь ласка підпишіться на наш Telegram канал."
-
-msgid "Do not unsubscribe! If you leave the channel, you will need to verify again."
-msgstr "Не відписуйся! Якщо залишиш канал, доведеться пройти перевірку знову."
-
-msgid "Subscribe"
-msgstr "Підписатися"
-
-msgid "Subscribe to unlock"
-msgstr "Підпишись, щоб розблокувати"
-
-msgid "Verifying subscription..."
-msgstr "Перевіряємо підписку..."
-
-msgid "Continue"
-msgstr "Продовжити"
-
-msgid "This track is already downloading."
-msgstr "Цей трек вже завантажується."
-
-msgid "Preparing download for"
-msgstr "Підготовка завантаження для"
-
-msgid "Adding to Soundpad:"
-msgstr "Додавання в Soundpad:"
-
-msgid "DELETED"
-msgstr "ВИДАЛЕНО"
-
-msgid "Unlock This Feature"
-msgstr "Розблокувати цю функцію"
-
-msgid "This sound is boosted!"
-msgstr "Цей звук просунуто!"
-
-msgid "Boost Sound"
-msgstr "Просунути звук"
-
-msgid "Views"
-msgstr "Перегляди"
-
-msgid "Add to playlist"
-msgstr "Додати в плейлист"
-
-msgid "Quick Download"
-msgstr "Швидке завантаження"
-
-msgid "Modify & Download"
-msgstr "Змінити та завантажити"
-
-msgid "Not interested"
-msgstr "Не цікаво"
-
-msgid "Report"
-msgstr "Поскаржитися"
-
-msgid "Original Sound"
-msgstr "Оригінальний звук"
-
-msgid "Go to original sound"
-msgstr "Перейти до оригінального звуку"
-
-msgid "Additional Tags"
-msgstr "Додаткові теги"
-
-msgid "This sound is too loud. Are you sure you want to play it back?"
-msgstr "Цей звук занадто гучний. Ви впевнені, що хочете його відтворити?"
-
-msgid "Don't show this message again"
-msgstr "Не показувати це повідомлення знову"
-
-msgid "Yes"
-msgstr "Так"
-
-msgid "No"
-msgstr "Ні"
-
-msgid "This sound includes sensitive content and it may be inappropriate to listen to. Are you sure you want to play it back?"
-msgstr "Цей звук містить делікатний контент, який може бути неприйнятним. Ви впевнені, що хочете його відтворити?"
-
-msgid "Show more"
-msgstr "Показати більше"
-
-msgid "No sounds to add."
-msgstr "Немає звуків для додавання."
-
-msgid "Add to Playlist"
-msgstr "Додати в плейлист"
-
-#, python-format
-msgid "Choose a playlist for %(count)s sounds or create a new one."
-msgstr "Виберіть плейлист для %(count)s звуків або створіть новий."
-
-#, python-format
-msgid "Choose a playlist for \"%(sound_name)s\" or create a new one."
-msgstr "Виберіть плейлист для «%(sound_name)s» або створіть новий."
-
-msgid "Create New"
-msgstr "Створити новий"
-
-msgid "Add to Existing"
-msgstr "Додати до існуючого"
-
-msgid "New Playlist Name"
-msgstr "Назва нового плейлиста"
-
-msgid "My Awesome Mix"
-msgstr "Мій крутий мікс"
-
-msgid "Choose cover…"
-msgstr "Вибрати обкладинку…"
-
-msgid "Make playlist public"
-msgstr "Зробити плейлист публічним"
-
-msgid "Search your playlists..."
-msgstr "Пошук ваших плейлистів..."
-
-msgid "Save"
-msgstr "Зберегти"
-
-msgid "You don't have any playlists yet."
-msgstr "У вас ще немає жодного плейлиста."
-
-msgid "Could not load your playlists."
-msgstr "Не вдалося завантажити ваші плейлисти."
-
-msgid "Searching..."
-msgstr "Пошук..."
-
-msgid "Search failed."
-msgstr "Пошук не вдався."
-
-msgid "Please select a playlist."
-msgstr "Будь ласка, виберіть плейлист."
-
-msgid "Please enter a name for the new playlist."
-msgstr "Будь ласка, введіть назву для нового плейлиста."
-
-msgid "Image uploaded."
-msgstr "Зображення завантажено."
-
-msgid "Image upload failed."
-msgstr "Не вдалося завантажити зображення."
-
-msgid "Playlist Limit Reached"
-msgstr "Досягнуто ліміт плейлистів"
-
-msgid "Standard users can create up to 2 playlists. Upgrade to VIP for unlimited playlists!"
-msgstr "Звичайні користувачі можуть створювати до 2 плейлистів. Отримайте VIP для необмеженої кількості плейлистів!"
-
-msgid "Playlist is Full"
-msgstr "Плейлист заповнений"
-
-msgid "Standard users can add up to 20 sounds per playlist. Get VIP to create massive collections!"
-msgstr "Звичайні користувачі можуть додавати до 20 звуків у плейлист. Отримайте VIP, щоб створювати величезні колекції!"
-
-msgid "Private Playlists are a VIP Feature"
-msgstr "Приватні плейлисти — це функція VIP"
-
-msgid "Keep your collections to yourself by upgrading to VIP."
-msgstr "Приховайте свої колекції від інших, оновившись до VIP."
-
-msgid "An unexpected error occurred."
-msgstr "Сталася неочікувана помилка."
-
-msgid "Hey, check out this playlist on Uwupad!"
-msgstr "Гей, заціни цей плейлист на Uwupad!"
-
-msgid "No sounds found"
-msgstr "Звуків не знайдено"
-
-msgid "We will show fewer sounds like this"
-msgstr "Ми покажемо менше звуків, подібних до цього."
-
-msgid "Sound is already in the queue"
-msgstr "Звук уже в черзі"
-
-msgid "added to queue"
-msgstr "додано в чергу"
-
-msgid "Edit tags"
-msgstr "Редагувати теги"
-
-msgid "Is loud"
-msgstr "Гучний"
-
-msgid "Is explicit"
-msgstr "Нецензурний"
-
-msgid "Report a sound"
-msgstr "Поскаржитися на звук"
-
-msgid "We are strictly against any violations of our terms of use. Users have the ability to complain about content that is considered “spam,” “illegal activity,” or contains “copyrighted material without authorization.” If violations are found, the content will be removed immediately and this removal will be permanent."
-msgstr "Ми суворо проти будь-яких порушень наших умов використання. Користувачі мають можливість скаржитися на контент, який вважається «спамом», «незаконною діяльністю» або містить «матеріали, захищені авторським правом без дозволу». У разі виявлення порушень контент буде негайно видалено назавжди."
-
-msgid "Please state your request in English or Russian only. We cannot process requests in other languages."
-msgstr "Будь ласка, пишіть запит англійською, українською або російською мовами. Ми не можемо обробляти запити іншими мовами."
-
-msgid "Comment, questions, reason for post."
-msgstr "Коментар, питання, причина скарги."
-
-msgid "Your e-mail address"
-msgstr "Ваша адреса електронної пошти"
-
-msgid "You have already sent a report."
-msgstr "Ви вже надіслали скаргу."
-
-msgid "Please enter a valid reason."
-msgstr "Будь ласка, введіть коректну причину."
-
-msgid "Please enter a valid email."
-msgstr "Будь ласка, введіть коректний email."
-
-msgid "Are you sure?"
-msgstr "Ви впевнені?"
-
-msgid "External Link Warning"
-msgstr "Попередження про зовнішнє посилання"
-
-msgid "You are about to leave uwupad.me. We do not take responsibility for the content on external sites."
-msgstr "Ви збираєтеся залишити uwupad.me. Ми не несемо відповідальності за вміст зовнішніх сайтів."
-
-msgid "Proceed"
-msgstr "Продовжити"
-
-msgid "Copied to clipboard"
-msgstr "Скопійовано в буфер обміну"
-
-msgid "just now"
-msgstr "щойно"
-
-msgid "min ago"
-msgstr "хв. тому"
-
-msgid "h ago"
-msgstr "год. тому"
-
-msgid "d ago"
-msgstr "дн. тому"
-
-msgid "w ago"
-msgstr "тиж. тому"
 
 msgid "How to disable content blocking"
 msgstr "Як вимкнути блокування контенту"
@@ -2875,12 +2875,6 @@ msgstr "Надзвичайно популярний (>500 завантажень
 msgid "Toggle BETA personalization"
 msgstr "Ввімкнути BETA персоналізацію"
 
-msgid "Listen to and discover new music on UwUpad. Thousands of tracks from independent artists."
-msgstr "Слухайте та відкривайте нову музику на UwUpad. Тисячі треків."
-
-msgid "Listen to and discover new music on UwUpad."
-msgstr "Слухайте та відкривайте нову музику на UwUpad."
-
 msgid "My Library"
 msgstr "Моя бібліотека"
 
@@ -3067,7 +3061,7 @@ msgstr "або натисніть для вибору"
 msgid "Recommended: 500x500px, max. 5 MB"
 msgstr "Recommended: 500 × 500 px, max. 5 MB"
 
-msgid "Optional — embedded MP3/FLAC cover art is extracted automatically"
+msgid "Optional вЂ” embedded MP3/FLAC cover art is extracted automatically"
 msgstr ""
 
 msgid "Title of your track"
@@ -3106,7 +3100,7 @@ msgstr ""
 msgid "Too short for Music"
 msgstr ""
 
-msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX — please upload it via standard Sounds uploader."
+msgid "Audio tracks in Music must be at least 30 seconds long. If this is a meme, clip, or SFX вЂ” please upload it via standard Sounds uploader."
 msgstr ""
 
 msgid "Go to Sounds Upload"
